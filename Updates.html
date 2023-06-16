@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SWA</title>
+<style>
+body { 
+  background-image: url('backdrop.gif');
+  background-size: cover;
+  background-repeat: repeat;
+  overflow-x: hidden;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #9a9a9a;
+    font-size: 9pt;
+    background-color: #FAFAFA;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: rgb(28, 28, 28);
+  width: 100%;
+  height: 64px;
+  padding: 15px 15px 15px 15px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  margin-bottom: 6%;
+}
+
+.button {
+  background-color: rgb(28, 28, 28);
+  color: white;
+  float: left;
+  height: 100%;
+  border: 2px black;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+  margin-left: 10px;
+}
+.button:hover {
+  background-color: #9d9d9d;
+  color: white;
+}
+.wall {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.footer {
+  background-color: rgba(20, 20, 20, 0);
+  width: 100%;
+  position: fixed;
+  bottom: 5%;
+  text-align: center;
+  border-radius: 8px;
+  padding: .5%;
+}
+
+@media only screen and (max-width: 620px) {
+  .wall {
+    width: 100%;
+    ;
+  }
+  .navbar {
+    width: 500%
+  }
+}
+
+</style>
+</head>
+<body>
+  <div class="navbar">
+    <div><a href="index.html"><img src="logo11.png" style="width: 44px; height: 32px; margin-right: 8px;"></a></div>
+    <div></div>
+    <button onclick="window.location.href = 'MIDI.html';" class="button">MIDI</button>
+    <button class="button">BeatStars</button>
+    <div><a href="mailto: svvamedia@gmail.com?subject=MIDI&body=Hello!"><button class="button">Contact</button></a></div>
+    <button onclick="window.location.href = 'Updates.html';" class="button">Updates</button>
+  </div>
+<div class="wall">
+    <h1>Updates</h1>
+    <h2>6/15/2023</h2>
+    <h3>Made this website</h3>
+    <h2>6/03/2023</h2>
+    <h3>Started making music again</h3>
+    
+</div>
+<div class="footer">
+      <a href="https://www.youtube.com/@swagoogs"><img src="youtube.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+      <a href="https://www.twitter.com/swagoogs"><img src="twitter.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+      <a href="https://www.instagram.com/swagoogs"><img src="instagram.png" style="width: 30px; height: 34px; margin-left: 10px; margin-right: 10px;"/></a>
+      <a href="https://www.tiktok.com/@swagoogs"><img src="tiktok.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+    </div>
+</body>
+</html>
