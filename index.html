@@ -27,10 +27,10 @@ body {
 .navbar {
   background-color: rgb(28, 28, 28);
   width: 100%;
-  height: 64px;
+  height: 10%;
   padding: 15px 15px 15px 15px;
   text-align: left;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   margin-bottom: 6%;
 }
@@ -87,8 +87,11 @@ body {
 
 @media only screen and (max-width: 620px) {
   html, body {
-    overflow-x: hidden;
+    scrollbar-color: transparent;
   } 
+  .navbar {
+    width: 100%;
+  }
   .item3 {
     padding-top: 5%;
   }
@@ -96,10 +99,6 @@ body {
     width: 100%;
     grid-template-areas: 'circle1' 'circle2' 'circle3';
     gap: 0px;
-  }
-  .navbar {
-    width: 100%;
-    height: fit-content;
   }
 }
 
