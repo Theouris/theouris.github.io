@@ -11,9 +11,14 @@
     <title>SWA</title>
 <style>
 body { 
-  background-image: url('backdrop.gif');
+	background: radial-gradient(at 18% 99%, rgb(0, 0, 0) 0px, transparent 50%) repeat scroll 0% 0%, 
+                radial-gradient(at 97% 8%, rgb(100, 100, 100) 0px, transparent 50%) repeat scroll 0% 0%, 
+                radial-gradient(at 79% 82%, rgb(127, 127, 127) 0px, transparent 50%) repeat scroll 0% 0%,
+                radial-gradient(at 96% 10%, rgb(103, 103, 103) 0px, transparent 50%) repeat scroll 0% 0%,    
+                radial-gradient(at 42% 20%, rgb(113, 113, 113) 0px, transparent 50%) repeat scroll 0% 0%,
+                radial-gradient(at 4% 49%, rgb(66, 66, 66) 0px, transparent 50%) repeat scroll 0% 0%, rgba(0, 0, 0, 0) radial-gradient(at 57% 33%, rgb(0, 0, 0) 0px, #000000 50%) repeat scroll 0% 0%;
   background-size: cover;
-  background-repeat: repeat;
+  height: 100vh;
   font-family: 'Helvetica', 'Arial', sans-serif;
     color: #9a9a9a;
     font-size: 9pt;
@@ -33,6 +38,7 @@ body {
   display: inline-flex;
   align-items: center;
   margin-bottom: 6%;
+  border-radius: 64px;
 }
 
 .button {
@@ -77,11 +83,12 @@ body {
 
 .footer {
   background-color: rgba(20, 20, 20, 0);
+  margin: auto;
   width: 100%;
   position: fixed;
   bottom: 5%;
   text-align: center;
-  border-radius: 8px;
+  border-radius: 32px;
   padding: .5%;
 }
 
@@ -90,7 +97,13 @@ body {
     scrollbar-color: transparent;
   } 
   .navbar {
-    width: 170%;
+    width: fit-content;
+    display: inline-flex;
+  }
+  .button {
+    font-size: 15px;
+    margin-left: 1px;
+    float: right;
   }
   .item3 {
     padding-top: 5%;
@@ -99,6 +112,10 @@ body {
     width: 100%;
     grid-template-areas: 'circle1' 'circle2' 'circle3';
     gap: 0px;
+    padding: 0%;
+  }
+  .footer {
+    background-color: rgba(20, 20, 20, 0.4);
   }
 }
 
@@ -110,7 +127,7 @@ body {
       <div></div>
       <button onclick="window.location.href = 'MIDI.html';" class="button">MIDI</button>
       <button class="button">BeatStars</button>
-      <div><a href="mailto: svvamedia@gmail.com?subject=MIDI&body=Hello!"><button class="button">Contact</button></a></div>
+      <a href="mailto: svvamedia@gmail.com?subject=MIDI&body=Hello!"><button class="button">Contact</button></a>
       <button onclick="window.location.href = 'Updates.html';" class="button">Updates</button>
     </div>
 
@@ -121,12 +138,12 @@ body {
     </div>
 
 <div class="footer">
-      <a href="https://www.youtube.com/@swagoogs"><img src="youtube.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
-      <a href="https://www.twitter.com/swagoogs"><img src="twitter.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
-      <a href="https://www.instagram.com/swagoogs"><img src="instagram.png" style="width: 30px; height: 34px; margin-left: 10px; margin-right: 10px;"/></a>
-      <a href="https://www.tiktok.com/@swagoogs"><img src="tiktok.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
-      <a href="https://www.tiktok.com/@swagoogs"><img src="discord.png" style="width: 38px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
-      <a href="https://www.tiktok.com/@swagoogs"><img src="twitch.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
-    </div>
+  <a target="_blank" href="https://www.youtube.com/@swagoogs"><img src="youtube.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+  <a target="_blank" href="https://www.twitter.com/swagoogs"><img src="twitter.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+  <a target="_blank" href="https://www.instagram.com/swagoogs"><img src="instagram.png" style="width: 30px; height: 34px; margin-left: 10px; margin-right: 10px;"/></a>
+  <a target="_blank" href="https://www.tiktok.com/@swagoogs"><img src="tiktok.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+  <a target="_blank" href="https://www.discord.com/swagoogs"><img src="discord.png" style="width: 38px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+  <a target="_blank" href="https://www.twitch.com/swagoogs"><img src="twitch.png" style="width: 32px; height: 32px; margin-left: 10px; margin-right: 10px;"/></a>
+</div>
 </body>
 </html>
