@@ -12,6 +12,7 @@ body {
   background-size: cover;
   background-repeat: repeat;
   overflow-x: hidden;
+  position: relative;
 }
 
 * {
@@ -80,6 +81,9 @@ body {
 }
 
 @media only screen and (max-width: 620px) {
+  html, body {
+    width: auto!important; overflow-x: hidden!important
+  } 
   .grid-container {
     width: 100%;
     grid-template-areas: 'circle1' 'circle2' 'circle3';

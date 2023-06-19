@@ -12,6 +12,7 @@ body {
   background-size: cover;
   background-repeat: repeat;
   overflow-x: hidden;
+  position: relative;
   font-family: 'Helvetica', 'Arial', sans-serif;
     color: #9a9a9a;
     font-size: 9pt;
@@ -66,6 +67,9 @@ body {
 }
 
 @media only screen and (max-width: 620px) {
+  html, body {
+    width: auto!important; overflow-x: hidden!important
+  } 
   .wall {
     width: 100%;
     ;
