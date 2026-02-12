@@ -1,0 +1,54 @@
+<!-- Shared menu partial: includes the sidebar and overlay. Loaded dynamically by pages. -->
+<div class="menu-partial">
+  <aside class="sidebar" aria-label="Sidebar navigation">
+    <div class="sidebar-header">
+      <div>
+        <div class="sidebar-title">Menu</div>
+        <div class="sidebar-subtitle">Click an item to expand</div>
+      </div>
+    </div>
+
+    <nav class="nav" aria-label="Primary">
+      <div class="nav-item">
+        <button class="nav-main" type="button" aria-expanded="false">
+          <span>Step 1</span><span class="chev" aria-hidden="true"></span>
+        </button>
+        <div class="submenu" role="menu">
+          <a href="stepone.html#card" role="menuitem">Cardiovascular</a>
+          <a href="stepone.html#resp" role="menuitem">Respiratory</a>
+          <a href="stepone.html#renal" role="menuitem">Renal</a>
+          <a href="stepone.html#GI" role="menuitem">GI</a>
+        </div>
+      </div>
+
+      <div class="nav-item">
+        <button class="nav-main" type="button" aria-expanded="false">
+          <span>Step 2</span><span class="chev" aria-hidden="true"></span>
+        </button>
+        <div class="submenu" role="menu">
+          <a href="#t2a" role="menuitem">Test 2 — Option A</a>
+          <a href="#t2b" role="menuitem">Test 2 — Option B</a>
+          <a href="#t2c" role="menuitem">Test 2 — Option C</a>
+        </div>
+      </div>
+
+      <div class="nav-item">
+        <button class="nav-main" type="button" aria-expanded="false">
+          <span>About Me</span><span class="chev" aria-hidden="true"></span>
+        </button>
+        <div class="submenu" role="menu">
+          <a href="#t3a" role="menuitem">Test 3 — Option A</a>
+          <a href="#t3b" role="menuitem">Test 3 — Option B</a>
+          <a href="#t3c" role="menuitem">Test 3 — Option C</a>
+        </div>
+      </div>
+    </nav>
+
+    <div style="margin-top:auto; padding: 10px 6px 6px; color: rgba(238,245,255,.55); font-size: 12.5px;">
+      Tip: press <span class="kbd">Esc</span> to close.
+    </div>
+  </aside>
+
+  <!-- overlay -->
+  <div class="overlay" id="overlay" aria-hidden="true"></div>
+</div>
