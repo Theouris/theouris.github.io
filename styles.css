@@ -41,6 +41,9 @@ article.post h2{ color: var(--text); margin-top: 0; scroll-margin-top: var(--top
 main.home-main{ margin-top: var(--topbar-offset); padding: 8px 32px 80px; margin-left: auto; margin-right: auto; }
 article.post figure{ max-width: 720px; display: inline-flex; flex-direction: column; margin: 0 10px 20px 0; vertical-align: top; }
 article.post figure img{ width: 100%; height: auto; display: block; }
+article.post figure figcaption{ padding-bottom: 18px; }
+article.post .figure-row{ display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 0 0 20px; }
+article.post .figure-row figure{ flex: 1 1 360px; margin: 0; }
 
 /* small utilities used by pages */
 .center{ text-align:center }
