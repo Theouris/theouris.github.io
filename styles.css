@@ -39,11 +39,66 @@ article.post{ max-width: none; width: 100%; margin: 0; padding: 12px 18px 0; col
 article.post h2{ color: var(--text); margin-top: 0; scroll-margin-top: var(--topbar-offset); }
 
 main.home-main{ margin-top: var(--topbar-offset); padding: 8px 32px 80px; margin-left: auto; margin-right: auto; }
-article.post figure{ max-width: 720px; display: inline-flex; flex-direction: column; margin: 0 10px 20px 0; vertical-align: top; }
+article.post figure{ max-width: 720px; display: flex; flex-direction: column; margin: 0 auto 20px; }
 article.post figure img{ width: 100%; height: auto; display: block; }
 article.post figure figcaption{ padding-bottom: 18px; }
 article.post .figure-row{ display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 0 0 20px; }
-article.post .figure-row figure{ flex: 1 1 360px; margin: 0; }
+article.post .figure-row figure{ flex: 1 1 360px; margin: 0 auto; }
+
+@media (min-width: 720px){
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))){
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+    align-items: start;
+    width: min(100%, 1100px);
+    max-width: 1100px;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > img{
+    width: 100%;
+    margin: 0;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > img:nth-of-type(1){
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > img:nth-of-type(2){
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > figcaption{
+    margin: 0;
+    padding-bottom: 0;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > figcaption:nth-of-type(1){
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > figcaption:nth-of-type(2){
+    grid-column: 2;
+    grid-row: 2;
+  }
+
+  article.post figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))) > figcaption:only-of-type{
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+}
+
+@media (min-width: 1920px){
+  article.post{ padding-left: 512px; padding-right: 512px; }
+  article.post .figure-row figure{ flex: 0 1 calc(50% - 10px); max-width: 620px; }
+  article.post .figure-row figure:has(> img:nth-of-type(2)):not(:has(> img:nth-of-type(3))){
+    flex: 0 1 100%;
+    max-width: 1100px;
+  }
+}
 
 /* small utilities used by pages */
 .center{ text-align:center }
