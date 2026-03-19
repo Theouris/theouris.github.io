@@ -5,6 +5,11 @@
   ready(() => {
     const menuBtn = document.getElementById('menuBtn');
     const overlay = document.getElementById('overlay');
+    const siteRoot = window.siteRoot || './';
+
+    document.querySelectorAll('[data-page-path]').forEach(link => {
+      link.setAttribute('href', `${siteRoot}${link.getAttribute('data-page-path')}`);
+    });
 
     if (!menuBtn) return; // pages without a menu button won't activate
 
