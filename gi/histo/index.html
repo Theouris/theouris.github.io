@@ -6,6 +6,60 @@
   <title>Step 1 - GI Histology</title>
   <link rel="stylesheet" href="../../styles.css">
   <style>
+    :root{
+      --bg: #ffffff;
+      --panel: #ffffff;
+      --panel-2: #f5f5f5;
+      --text: #000000;
+      --muted: rgba(0,0,0,.8);
+      --accent: #000000;
+      --shadow: 0 18px 60px rgba(0,0,0,.08);
+    }
+
+    body{
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .topbar{
+      background: rgba(255,255,255,.95);
+      border-bottom: 1px solid rgba(0,0,0,.12);
+    }
+
+    .section-nav{
+      scrollbar-color: rgba(0,0,0,.35) rgba(0,0,0,.08);
+    }
+
+    .section-nav::-webkit-scrollbar-track{
+      background: rgba(0,0,0,.08);
+    }
+
+    .section-nav::-webkit-scrollbar-thumb{
+      background: rgba(0,0,0,.35);
+    }
+
+    .section-btn{
+      border: 1px solid rgba(0,0,0,.14);
+      background: #ffffff;
+      color: var(--text);
+    }
+
+    .section-btn:hover{
+      background: #f2f2f2;
+      border-color: rgba(0,0,0,.22);
+    }
+
+    .post,
+    .post h1,
+    .post h2,
+    .post h3,
+    .post p,
+    .post li,
+    .post figcaption,
+    .post a{
+      color: #000000;
+    }
+
     .key-points{
       padding-left: 20px;
     }
@@ -17,9 +71,9 @@
     .quiz-card{
       margin: 24px 0;
       padding: 20px;
-      border: 1px solid rgba(238,245,255,.1);
+      border: 1px solid rgba(0,0,0,.12);
       border-radius: var(--radius);
-      background: rgba(11,34,56,.45);
+      background: #ffffff;
     }
 
     .quiz-card h3{
@@ -42,16 +96,16 @@
       text-align: left;
       padding: 12px 14px;
       border-radius: 10px;
-      border: 1px solid rgba(238,245,255,.12);
-      background: rgba(8,26,43,.8);
+      border: 1px solid rgba(0,0,0,.14);
+      background: #ffffff;
       color: var(--text);
       cursor: pointer;
       font: inherit;
     }
 
     .quiz-option:hover{
-      border-color: rgba(238,245,255,.24);
-      background: rgba(14,43,70,.9);
+      border-color: rgba(0,0,0,.22);
+      background: #f2f2f2;
     }
 
     .quiz-feedback{
@@ -75,6 +129,7 @@
 
 
     <nav class="section-nav">
+      <a href="#title" class="section-btn">Title</a>
       <a href="#overview" class="section-btn">Overview</a>
       <a href="#esophagus" class="section-btn">Esophagus</a>
       <a href="#stomach" class="section-btn">Stomach</a>
@@ -88,7 +143,11 @@
   <main class="post-area">
     <article class="post">
       <h1>GI Histology</h1>
-
+      <h2 id="title">Title</h2>
+      <p>What does the GI track look like histologically?</p>
+      <p>Theo Couris</p>
+      <p>CPR Week 1 Dr. Shaw</p>
+      <p>04/02/2026</p>
       
       <h2>Learning Objectives</h2>
       <ul class="key-points">
