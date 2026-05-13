@@ -32,7 +32,7 @@ body.sidebar-open .sidebar{ transform: translateX(0); }
 .chev{ width: 10px; height: 10px; border-right: 2px solid rgba(238,245,255,.85); border-bottom: 2px solid rgba(238,245,255,.85); transform: rotate(-45deg); opacity: .9; margin-right: 4px; }
 .nav-item.open .chev{ transform: rotate(45deg); }
 .submenu{ max-height: 0; opacity: 0; transition: max-height var(--anim), opacity var(--anim); background: rgba(8,26,43,.35); border-top: 1px solid rgba(238,245,255,.08); }
-.nav-item.open .submenu{ max-height: 220px; opacity: 1; }
+.nav-item.open .submenu{ max-height: min(70vh, 420px); opacity: 1; overflow-y: hidden; }
 .submenu a{ display: block; padding: 12px 14px; color: var(--muted); text-decoration: none; border-top: 1px solid rgba(238,245,255,.06); font-size: 14px; }
 main.post-area{ margin-top: var(--topbar-offset); padding: 0 0 80px; }
 article.post{ width: 1100px; max-width: 1100px; margin: 0 auto; padding: 12px 18px 0; color: var(--muted); line-height: 1.8; font-size: 16px; }
