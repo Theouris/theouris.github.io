@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Step 1 — Template</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body class="has-section-nav">
+  <header class="topbar">
+    <button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-expanded="false">
+      <div class="bars" aria-hidden="true"><span></span><span></span><span></span></div>
+    </button>
+
+    <a class="brand" href="../index.html" style="text-decoration:none; color:inherit;">
+      <div class="dot"></div>
+      <div>Theouris</div>
+    </a>
+    <nav class="section-nav">
+      <a href="#sample" class="section-btn">Sample</a>
+    </nav>
+  </header>
+
+  <main class="post-area">
+    <article class="post">
+      <h1>Step 1 - Template</h1>
+      <h2 id="sample">Sample Section</h2>
+    </article>
+  </main>
+
+  <script>
+    window.siteRoot = '../';
+
+    (async function(){
+      try{
+        const r = await fetch('../menu.html');
+        if(r.ok){
+          const html = await r.text();
+          document.body.insertAdjacentHTML('afterbegin', html);
+          const s = document.createElement('script'); s.src = '../menu.js'; document.body.appendChild(s);
+        }
+      }catch(e){ console.error('Failed to load menu partial', e); }
+    })();
+  </script>
+</body>
+</html>
