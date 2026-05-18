@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reproductive Pharmacology Quiz</title>
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    body.quiz-page{
+      min-height: 100vh;
+      height: auto;
+      background: var(--bg);
+    }
+
+    .quiz-main{
+      margin-top: var(--topbar-offset);
+      padding: 18px 18px 72px;
+    }
+
+    .quiz-shell{
+      width: min(860px, 100%);
+      margin: 0 auto;
+      color: var(--text);
+    }
+
+    .quiz-header{
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .quiz-header h1{
+      margin: 0;
+      font-size: clamp(2rem, 7vw, 3.25rem);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .quiz-card{
+      border: 1px solid rgba(238,245,255,.14);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(14,43,70,.96), rgba(11,34,56,.94));
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .quiz-card-inner{
+      display: grid;
+      gap: 16px;
+      padding: 22px;
+    }
+
+    .quiz-meta{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      justify-content: space-between;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .question-text{
+      margin: 0;
+      padding: 16px;
+      border: 1px solid rgba(238,245,255,.12);
+      border-radius: 10px;
+      background: rgba(8,26,43,.46);
+      color: rgba(238,245,255,.94);
+      line-height: 1.55;
+    }
+
+    .option-grid{
+      display: grid;
+      gap: 10px;
+    }
+
+    .option-btn,
+    .quiz-action{
+      min-height: 46px;
+      border: 1px solid rgba(238,245,255,.16);
+      border-radius: 10px;
+      color: var(--text);
+      font-weight: 850;
+      cursor: pointer;
+      transition: transform var(--anim), background var(--anim), border-color var(--anim);
+    }
+
+    .option-btn{
+      width: 100%;
+      padding: 12px 14px;
+      background: rgba(8,26,43,.5);
+      text-align: left;
+      font-size: 15px;
+    }
+
+    .option-btn:hover:not(:disabled),
+    .quiz-action:hover{
+      transform: translateY(-1px);
+      border-color: rgba(106,166,255,.5);
+      background: rgba(106,166,255,.22);
+    }
+
+    .option-btn.correct{
+      border-color: rgba(79,209,139,.72);
+      background: rgba(79,209,139,.18);
+    }
+
+    .option-btn.incorrect{
+      border-color: rgba(255,107,107,.75);
+      background: rgba(255,107,107,.16);
+    }
+
+    .option-btn:disabled{
+      cursor: default;
+    }
+
+    .feedback{
+      min-height: 28px;
+      margin: 0;
+      color: var(--muted);
+      font-weight: 750;
+    }
+
+    .quiz-footer{
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .quiz-action{
+      padding: 0 16px;
+      background: rgba(106,166,255,.28);
+    }
+
+    .quiz-action:disabled{
+      opacity: .5;
+      cursor: default;
+      transform: none;
+    }
+
+    .error-text{
+      color: #ffb4b4;
+    }
+
+    @media (max-width: 640px){
+      .quiz-header{
+        align-items: start;
+        flex-direction: column;
+      }
+
+      .quiz-card-inner{
+        padding: 16px;
+      }
+    }
+  </style>
+</head>
+<body class="quiz-page">
+  <header class="topbar">
+    <button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-expanded="false">
+      <div class="bars" aria-hidden="true"><span></span><span></span><span></span></div>
+    </button>
+
+    <a class="brand" href="../index.html" style="text-decoration:none; color:inherit;">
+      <div class="dot"></div>
+      <div>Theouris</div>
+    </a>
+    <nav class="section-nav">
+      <a href="/repro/" class="section-btn">Back to Repro</a>
+    </nav>
+  </header>
+
+  <main class="quiz-main">
+    <section class="quiz-shell">
+      <div class="quiz-header">
+        <h1>Reproductive Pharm Quiz</h1>
+      </div>
+
+      <div class="quiz-card">
+        <div class="quiz-card-inner">
+          <div class="quiz-meta">
+            <span id="progressText">Loading questions...</span>
+            <span id="scoreText">Score: 0</span>
+          </div>
+          <p class="question-text" id="questionText">Parsing the pharmacology CSV.</p>
+          <div class="option-grid" id="optionGrid"></div>
+          <p class="feedback" id="feedbackText"></p>
+          <div class="quiz-footer">
+            <button class="quiz-action" id="nextBtn" type="button" disabled>Next</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    window.siteRoot = '../';
+
+    const csvPath = '../dailypharm/pharmcsv_drugs_with_subclasses_and_hints - pharmcsv_drugs_with_subclasses.csv';
+    const reproClasses = new Set([
+      '5α-Reductase Inhibitors',
+      'Combined Oral Contraceptives',
+      'Estrogens',
+      'Oxytocics',
+      'PDE5 Inhibitors',
+      'Progestin-Only Contraceptives',
+      'Progestins'
+    ]);
+    const reproDrugs = new Set([
+      'Bromocriptine',
+      'Cabergoline',
+      'Doxazosin',
+      'Labetalol',
+      'Magnesium Sulfate',
+      'Methyldopa',
+      'Misoprostol',
+      'Prazosin',
+      'Raloxifene',
+      'Tamsulosin',
+      'Terazosin',
+      'Terbutaline'
+    ]);
+
+    const state = {
+      questions: [],
+      allDrugNames: [],
+      index: 0,
+      score: 0,
+      answered: false
+    };
+
+    const progressText = document.getElementById('progressText');
+    const scoreText = document.getElementById('scoreText');
+    const questionText = document.getElementById('questionText');
+    const optionGrid = document.getElementById('optionGrid');
+    const feedbackText = document.getElementById('feedbackText');
+    const nextBtn = document.getElementById('nextBtn');
+
+    function parseCsv(text){
+      const rows = [];
+      let row = [];
+      let field = '';
+      let inQuotes = false;
+
+      for(let i = 0; i < text.length; i++){
+        const char = text[i];
+        const next = text[i + 1];
+
+        if(char === '"'){
+          if(inQuotes && next === '"'){
+            field += '"';
+            i++;
+          }else{
+            inQuotes = !inQuotes;
+          }
+        }else if(char === ',' && !inQuotes){
+          row.push(field);
+          field = '';
+        }else if((char === '\n' || char === '\r') && !inQuotes){
+          if(char === '\r' && next === '\n'){
+            i++;
+          }
+          row.push(field);
+          if(row.some(value => value.trim() !== '')){
+            rows.push(row);
+          }
+          row = [];
+          field = '';
+        }else{
+          field += char;
+        }
+      }
+
+      row.push(field);
+      if(row.some(value => value.trim() !== '')){
+        rows.push(row);
+      }
+
+      const headers = rows.shift().map(header => header.trim());
+      return rows.map(values => Object.fromEntries(headers.map((header, index) => [header, values[index] || ''])));
+    }
+
+    function shuffle(items){
+      const copy = [...items];
+      for(let i = copy.length - 1; i > 0; i--){
+        const j = Math.floor(Math.random() * (i + 1));
+        [copy[i], copy[j]] = [copy[j], copy[i]];
+      }
+      return copy;
+    }
+
+    function buildQuestion(row, hintKeys){
+      const clues = hintKeys
+        .map(key => row[key])
+        .filter(Boolean)
+        .map(clue => clue.trim().replace(/\s+/g, ' '));
+
+      return {
+        answer: row['Drug Name'],
+        drugClass: row['Drug Class'],
+        prompt: `${clues.join(' ')} What drug is this?`
+      };
+    }
+
+    function optionsFor(answer){
+      const distractors = shuffle(state.allDrugNames.filter(name => name !== answer)).slice(0, 4);
+      return shuffle([answer, ...distractors]);
+    }
+
+    function renderQuestion(){
+      const current = state.questions[state.index];
+      state.answered = false;
+      nextBtn.disabled = true;
+      feedbackText.textContent = '';
+      progressText.textContent = `Question ${state.index + 1} of ${state.questions.length}`;
+      scoreText.textContent = `Score: ${state.score}`;
+      questionText.textContent = current.prompt;
+      optionGrid.innerHTML = '';
+
+      optionsFor(current.answer).forEach(option => {
+        const button = document.createElement('button');
+        button.className = 'option-btn';
+        button.type = 'button';
+        button.textContent = option;
+        button.addEventListener('click', () => chooseAnswer(button, option));
+        optionGrid.appendChild(button);
+      });
+    }
+
+    function chooseAnswer(button, selected){
+      if(state.answered){
+        return;
+      }
+
+      const current = state.questions[state.index];
+      state.answered = true;
+      nextBtn.disabled = false;
+
+      [...optionGrid.children].forEach(optionButton => {
+        optionButton.disabled = true;
+        if(optionButton.textContent === current.answer){
+          optionButton.classList.add('correct');
+        }
+      });
+
+      if(selected === current.answer){
+        state.score++;
+        button.classList.add('correct');
+        feedbackText.textContent = `Correct. ${current.answer}`;
+      }else{
+        button.classList.add('incorrect');
+        feedbackText.textContent = `Not quite. The answer is ${current.answer}.`;
+      }
+
+      scoreText.textContent = `Score: ${state.score}`;
+      nextBtn.textContent = state.index === state.questions.length - 1 ? 'Finish' : 'Next';
+    }
+
+    function finishQuiz(){
+      progressText.textContent = 'Complete';
+      scoreText.textContent = `Score: ${state.score} / ${state.questions.length}`;
+      questionText.textContent = `You scored ${state.score} out of ${state.questions.length}.`;
+      optionGrid.innerHTML = '';
+      feedbackText.textContent = '';
+      nextBtn.textContent = 'Restart';
+      nextBtn.disabled = false;
+    }
+
+    nextBtn.addEventListener('click', () => {
+      if(state.index === state.questions.length - 1 && state.answered){
+        finishQuiz();
+        state.index++;
+        return;
+      }
+
+      if(state.index >= state.questions.length){
+        state.index = 0;
+        state.score = 0;
+        state.questions = shuffle(state.questions);
+      }else{
+        state.index++;
+      }
+
+      renderQuestion();
+    });
+
+    async function init(){
+      try{
+        const response = await fetch(encodeURI(csvPath));
+        if(!response.ok){
+          throw new Error(`CSV request failed with ${response.status}`);
+        }
+
+        const rows = parseCsv(await response.text());
+        const hintKeys = Object.keys(rows[0])
+          .filter(key => /^Hint [1-6]/.test(key))
+          .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]));
+
+        state.allDrugNames = rows.map(row => row['Drug Name']).filter(Boolean);
+        state.questions = shuffle(rows
+          .filter(row => reproClasses.has(row['Drug Class']) || reproDrugs.has(row['Drug Name']))
+          .map(row => buildQuestion(row, hintKeys)));
+
+        if(!state.questions.length){
+          throw new Error('No reproductive pharmacology drugs matched the quiz filter.');
+        }
+
+        renderQuestion();
+      }catch(error){
+        progressText.textContent = 'Unable to load quiz';
+        questionText.innerHTML = '<span class="error-text">The pharmacology CSV could not be loaded. Try opening this page through the local site/server rather than directly from the filesystem.</span>';
+        feedbackText.textContent = error.message;
+      }
+    }
+
+    init();
+
+    (async function(){
+      try{
+        const r = await fetch('../menu.html');
+        if(r.ok){
+          const html = await r.text();
+          document.body.insertAdjacentHTML('afterbegin', html);
+          const s = document.createElement('script'); s.src = '../menu.js'; document.body.appendChild(s);
+        }
+      }catch(e){ console.error('Failed to load menu partial', e); }
+    })();
+  </script>
+</body>
+</html>
