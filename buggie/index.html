@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Buggie Game!</title>
+  <link rel="icon" type="image/svg+xml" href="microbe.svg">
+  <link rel="stylesheet" href="../styles.css">
+  <style>
+    :root{
+      --pharm-good: #4fd18b;
+      --pharm-warn: #ffd166;
+      --pharm-bad: #ff6b6b;
+      --pharm-edge: rgba(238,245,255,.14);
+      --pharm-soft: rgba(238,245,255,.08);
+    }
+
+    body.daily-pharm-page{
+      min-height: 100vh;
+      height: auto;
+      background: var(--bg);
+    }
+
+    .pharm-main{
+      margin-top: var(--topbar-offset);
+      padding: 16px 18px 82px;
+    }
+
+    .pharm-shell{
+      width: min(760px, 100%);
+      margin: 0 auto;
+    }
+
+    .pharm-header{
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: end;
+      margin-bottom: 16px;
+    }
+
+    .pharm-title{
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0;
+      color: var(--text);
+      line-height: 1.05;
+      font-size: clamp(2rem, 7vw, 3.25rem);
+      letter-spacing: 0;
+    }
+
+    .pharm-title img{
+      width: .9em;
+      height: .9em;
+      object-fit: contain;
+      filter: drop-shadow(0 10px 24px rgba(0,0,0,.32));
+    }
+
+    .date-picker-wrap{
+      display: grid;
+      gap: 6px;
+      justify-items: end;
+    }
+
+    .date-picker-wrap label{
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+
+    .date-picker,
+    .guess-input{
+      width: 100%;
+      border: 1px solid var(--pharm-edge);
+      border-radius: 10px;
+      background: rgba(11,34,56,.82);
+      color: var(--text);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.04);
+      outline: none;
+      transition: border-color var(--anim), box-shadow var(--anim), background var(--anim);
+    }
+
+    .date-picker{
+      min-width: 210px;
+      padding: 10px 12px;
+      font-weight: 700;
+    }
+
+    .date-picker:focus,
+    .guess-input:focus{
+      border-color: rgba(106,166,255,.55);
+      box-shadow: 0 0 0 4px rgba(106,166,255,.12);
+      background: rgba(14,43,70,.92);
+    }
+
+    .streak-pill{
+      position: fixed;
+      top: 18px;
+      right: 18px;
+      z-index: 35;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 44px;
+      padding: 9px 13px;
+      border: 1px solid rgba(255,209,102,.28);
+      border-radius: 999px;
+      background: rgba(11,34,56,.88);
+      color: var(--text);
+      font-weight: 850;
+      box-shadow: 0 14px 38px rgba(0,0,0,.28);
+      backdrop-filter: blur(10px);
+    }
+
+    .fire{
+      display: inline-block;
+      transform-origin: 50% 80%;
+      animation: fire-flicker 900ms ease-in-out infinite alternate;
+    }
+
+    @keyframes fire-flicker{
+      from{ transform: translateY(1px) rotate(-4deg) scale(.96); filter: saturate(1); }
+      to{ transform: translateY(-1px) rotate(5deg) scale(1.08); filter: saturate(1.35); }
+    }
+
+    .game-card{
+      border: 1px solid var(--pharm-edge);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(14,43,70,.96), rgba(11,34,56,.94));
+      box-shadow: var(--shadow);
+      overflow: visible;
+    }
+
+    .game-card-inner{
+      padding: 22px;
+    }
+
+    .card-title{
+      margin: 0 0 16px;
+      text-align: center;
+      color: var(--text);
+      font-size: clamp(1rem, 3vw, 1.5rem);
+      letter-spacing: 0;
+    }
+
+    .clue-grid{
+      display: grid;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .clue-box{
+      min-height: 72px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 12px;
+      align-items: start;
+      padding: 14px;
+      border: 1px solid var(--pharm-edge);
+      border-radius: 10px;
+      background: rgba(8,26,43,.46);
+      color: rgba(238,245,255,.92);
+      line-height: 1.45;
+    }
+
+    .clue-box.locked{
+      color: rgba(238,245,255,.43);
+      background: rgba(8,26,43,.22);
+    }
+
+    .clue-number{
+      display: grid;
+      place-items: center;
+      width: 30px;
+      height: 30px;
+      border-radius: 8px;
+      background: rgba(106,166,255,.18);
+      color: var(--text);
+      font-weight: 850;
+      line-height: 1;
+    }
+
+    .clue-box.locked .clue-number{
+      background: rgba(238,245,255,.08);
+      color: rgba(238,245,255,.55);
+    }
+
+    .guess-section{
+      position: relative;
+      display: grid;
+      grid-template-columns: 1fr auto auto;
+      gap: 10px;
+      align-items: start;
+      margin-top: 8px;
+    }
+
+    .guess-input{
+      min-height: 46px;
+      padding: 0 14px;
+      font-size: 16px;
+    }
+
+    .pharm-btn{
+      min-height: 46px;
+      border: 1px solid rgba(238,245,255,.16);
+      border-radius: 10px;
+      padding: 0 16px;
+      color: var(--text);
+      background: rgba(106,166,255,.28);
+      font-weight: 850;
+      cursor: pointer;
+      transition: transform var(--anim), background var(--anim), border-color var(--anim);
+    }
+
+    .pharm-btn:hover{
+      transform: translateY(-1px);
+      background: rgba(106,166,255,.38);
+      border-color: rgba(238,245,255,.28);
+    }
+
+    .pharm-btn.secondary{
+      background: rgba(238,245,255,.08);
+    }
+
+    .pharm-btn:disabled,
+    .guess-input:disabled{
+      cursor: not-allowed;
+      opacity: .6;
+      transform: none;
+    }
+
+    .suggestions{
+      position: absolute;
+      z-index: 15;
+      top: 52px;
+      left: 0;
+      right: 0;
+      max-height: 286px;
+      overflow-y: auto;
+      border: 1px solid rgba(238,245,255,.18);
+      border-radius: 10px;
+      background: rgba(8,26,43,.98);
+      box-shadow: 0 20px 50px rgba(0,0,0,.35);
+      display: none;
+    }
+
+    .suggestions.active{
+      display: block;
+    }
+
+    .suggestion{
+      width: 100%;
+      border: 0;
+      border-bottom: 1px solid rgba(238,245,255,.07);
+      display: grid;
+      gap: 3px;
+      padding: 11px 13px;
+      text-align: left;
+      color: var(--text);
+      background: transparent;
+      cursor: pointer;
+    }
+
+    .suggestion:hover,
+    .suggestion.active{
+      background: rgba(106,166,255,.18);
+    }
+
+    .suggestion small{
+      color: var(--muted);
+      font-weight: 600;
+    }
+
+    .result-line{
+      min-height: 28px;
+      margin: 12px 0 0;
+      text-align: center;
+      color: var(--muted);
+      font-weight: 800;
+    }
+
+    .guess-history{
+      display: grid;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
+    .guess-row{
+      display: grid;
+      grid-template-columns: 34px 1fr;
+      gap: 10px;
+      align-items: center;
+      padding: 10px;
+      border-radius: 10px;
+      border: 1px solid var(--pharm-edge);
+      background: rgba(8,26,43,.35);
+    }
+
+    .guess-row.correct{
+      border-color: rgba(79,209,139,.42);
+      background: rgba(79,209,139,.13);
+    }
+
+    .guess-row.blank{
+      color: rgba(238,245,255,.58);
+      font-style: italic;
+    }
+
+    .status-dot{
+      width: 28px;
+      height: 28px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: rgba(238,245,255,.1);
+      font-weight: 900;
+    }
+
+    .guess-row.correct .status-dot{
+      background: rgba(79,209,139,.25);
+    }
+
+    .disclaimer{
+      margin: 16px 0 0;
+      color: rgba(238,245,255,.52);
+      text-align: center;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .modal-hidden{
+      display: none;
+    }
+
+    .modal-visible{
+      position: fixed;
+      inset: 0;
+      z-index: 60;
+      display: grid;
+      place-items: center;
+      padding: 18px;
+      background: rgba(0,0,0,.5);
+      backdrop-filter: blur(5px);
+    }
+
+    .modal-content{
+      width: min(430px, 100%);
+      position: relative;
+      padding: 28px 24px 24px;
+      border: 1px solid rgba(238,245,255,.18);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(14,43,70,.98), rgba(8,26,43,.98));
+      box-shadow: var(--shadow);
+      color: var(--text);
+      text-align: center;
+    }
+
+    .close-btn{
+      position: absolute;
+      top: 8px;
+      right: 10px;
+      width: 36px;
+      height: 36px;
+      border: 0;
+      border-radius: 999px;
+      background: transparent;
+      color: var(--text);
+      font-size: 28px;
+      cursor: pointer;
+    }
+
+    .modal-kicker{
+      margin: 0 0 8px;
+      color: var(--pharm-good);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .modal-answer{
+      margin: 0;
+      font-size: clamp(1.45rem, 6vw, 2rem);
+      font-weight: 900;
+      line-height: 1.2;
+      color: var(--text);
+    }
+
+    .modal-sub{
+      margin: 12px 0 0;
+      color: var(--muted);
+    }
+
+    .confetti-piece{
+      position: fixed;
+      top: -12px;
+      z-index: 70;
+      width: 8px;
+      height: 14px;
+      border-radius: 2px;
+      pointer-events: none;
+      animation: confetti-fall 1200ms ease-in forwards;
+    }
+
+    @keyframes confetti-fall{
+      to{
+        transform: translate3d(var(--drift), 105vh, 0) rotate(720deg);
+        opacity: 0;
+      }
+    }
+
+    @media (max-width: 720px){
+      .pharm-main{
+        padding: 10px 12px 62px;
+      }
+
+      .pharm-header{
+        grid-template-columns: 1fr;
+        align-items: stretch;
+      }
+
+      .date-picker-wrap{
+        justify-items: stretch;
+      }
+
+      .date-picker{
+        min-width: 0;
+      }
+
+      .streak-pill{
+        top: 16px;
+        right: 12px;
+        padding: 8px 11px;
+        min-height: 40px;
+      }
+
+      .game-card-inner{
+        padding: 16px;
+      }
+
+      .guess-section{
+        grid-template-columns: 1fr;
+      }
+
+      .suggestions{
+        top: 52px;
+      }
+
+      .clue-box{
+        min-height: 88px;
+        padding: 12px;
+      }
+    }
+  </style>
+</head>
+<body class="has-section-nav daily-pharm-page">
+  <header class="topbar">
+    <button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-expanded="false">
+      <div class="bars" aria-hidden="true"><span></span><span></span><span></span></div>
+    </button>
+
+    <a class="brand" href="../index.html">
+      <div class="dot"></div>
+      <div>Theouris</div>
+    </a>
+  </header>
+
+  <div class="streak-pill" aria-label="Daily streak">
+    <span class="fire" aria-hidden="true">🔥</span>
+    <span id="streak-count">0</span>
+  </div>
+
+  <main class="pharm-main" id="daily-pharm-game">
+    <div class="pharm-shell">
+      <div class="pharm-header">
+        <h1 class="pharm-title">
+          Daily Buggie
+          <img src="microbe.svg" alt="" aria-hidden="true">
+        </h1>
+
+        <div class="date-picker-wrap">
+          <label for="date-select">Puzzle Date</label>
+          <select id="date-select" class="date-picker" aria-label="Select puzzle date"></select>
+        </div>
+      </div>
+
+      <section class="game-card" aria-live="polite">
+        <div class="game-card-inner">
+        <h6 class="card-title">What's the bug?</h6>
+
+          <div id="clue-grid" class="clue-grid"></div>
+
+          <div class="guess-section">
+            <input id="guess-input" class="guess-input" type="text" autocomplete="off" placeholder="Bug name..." aria-label="Bug guess">
+            <button id="submit-btn" class="pharm-btn" type="button">Submit</button>
+            <button id="skip-btn" class="pharm-btn secondary" type="button">Blank</button>
+            <div id="suggestions" class="suggestions" role="listbox"></div>
+          </div>
+
+          <p id="result-line" class="result-line">&nbsp;</p>
+          <div id="guess-history" class="guess-history"></div>
+          <p class="disclaimer">*Daily Buggie is for entertainment and studying only. It does not constitute medical advice.</p>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <div id="result-modal" class="modal-hidden" role="dialog" aria-modal="true" aria-labelledby="modal-answer">
+    <div class="modal-content">
+      <button id="modal-close-btn" class="close-btn" aria-label="Close">&times;</button>
+      <p id="modal-kicker" class="modal-kicker"></p>
+      <p id="modal-answer" class="modal-answer"></p>
+      <p id="modal-sub" class="modal-sub"></p>
+    </div>
+  </div>
+
+  <script>
+    window.siteRoot = '../';
+
+    (async function(){
+      try{
+        const r = await fetch('../menu.html');
+        if(r.ok){
+          const html = await r.text();
+          document.body.insertAdjacentHTML('afterbegin', html);
+          const s = document.createElement('script');
+          s.src = '../menu.js';
+          document.body.appendChild(s);
+        }
+      }catch(e){
+        console.error('Failed to load menu partial', e);
+      }
+    })();
+  </script>
+
+  <script>
+    const CSV_PATH = 'usmle_microorganisms_classified_multisystem_6_hints.xlsm - USMLE Microorganisms.csv';
+    const START_DATE = '2026-05-16';
+    const MAX_GUESSES = 6;
+    const CLASS_COOLDOWN_DAYS = 30;
+    const STORAGE_KEY = 'dailyBuggieGame.v1';
+    const HINT_LABELS = [
+      'Physical exam',
+      'Congenital impact or presentation',
+      'Lab findings',
+      'Treatment',
+      'Disease associations',
+      'Morphology'
+    ];
+
+    const els = {
+      dateSelect: document.getElementById('date-select'),
+      clueGrid: document.getElementById('clue-grid'),
+      guessInput: document.getElementById('guess-input'),
+      submitBtn: document.getElementById('submit-btn'),
+      skipBtn: document.getElementById('skip-btn'),
+      suggestions: document.getElementById('suggestions'),
+      resultLine: document.getElementById('result-line'),
+      history: document.getElementById('guess-history'),
+      streak: document.getElementById('streak-count'),
+      modal: document.getElementById('result-modal'),
+      modalClose: document.getElementById('modal-close-btn'),
+      modalKicker: document.getElementById('modal-kicker'),
+      modalAnswer: document.getElementById('modal-answer'),
+      modalSub: document.getElementById('modal-sub')
+    };
+
+    let bugs = [];
+    let selectedDate = '';
+    let selectedDrug = null;
+    let state = loadState();
+    let activeSuggestion = -1;
+
+    init();
+
+    async function init(){
+      try{
+        const csv = await fetch(CSV_PATH).then(r => {
+          if(!r.ok) throw new Error('Could not load CSV');
+          return r.text();
+        });
+        bugs = parseCsv(csv).map(row => {
+          const bugClass = String(row['Class'] || '').trim();
+          const subclass = String(row['Subclass'] || '').trim();
+          const systems = String(row['System(s)'] || '').trim();
+          return {
+            name: String(row['Name'] || '').trim(),
+            className: [bugClass, subclass].filter(Boolean).join(' - '),
+            groupName: subclass || bugClass,
+            systems,
+            hints: [
+              getColumn(row, 'Hint 1:'),
+              getColumn(row, 'Hint 2:'),
+              getColumn(row, 'Hint 3:'),
+              getColumn(row, 'Hint 4:'),
+              getColumn(row, 'Hint 5:'),
+              getColumn(row, 'Hint 6:')
+            ].map(value => String(value || '').trim())
+          };
+        }).filter(bug => bug.name && bug.className && bug.hints.length === MAX_GUESSES);
+
+        selectedDate = todayKey();
+        buildDateOptions();
+        bindEvents();
+        loadPuzzle(selectedDate);
+      }catch(error){
+        els.clueGrid.innerHTML = '<div class="clue-box"><span class="clue-number">!</span><span>Daily Buggie could not load the microorganism CSV.</span></div>';
+        els.resultLine.textContent = error.message;
+      }
+    }
+
+    function bindEvents(){
+      els.dateSelect.addEventListener('change', () => loadPuzzle(els.dateSelect.value));
+      els.submitBtn.addEventListener('click', () => submitGuess(false));
+      els.skipBtn.addEventListener('click', () => submitGuess(true));
+      els.modalClose.addEventListener('click', closeModal);
+      els.modal.addEventListener('click', event => {
+        if(event.target === els.modal) closeModal();
+      });
+
+      els.guessInput.addEventListener('input', () => {
+        activeSuggestion = -1;
+        renderSuggestions(els.guessInput.value);
+      });
+
+      els.guessInput.addEventListener('keydown', event => {
+        const buttons = [...els.suggestions.querySelectorAll('.suggestion')];
+        if(event.key === 'Enter'){
+          event.preventDefault();
+          if(activeSuggestion >= 0 && buttons[activeSuggestion]){
+            chooseSuggestion(buttons[activeSuggestion].dataset.name);
+          }else{
+            submitGuess(false);
+          }
+        }
+        if(event.key === 'ArrowDown' && buttons.length){
+          event.preventDefault();
+          activeSuggestion = Math.min(activeSuggestion + 1, buttons.length - 1);
+          markActiveSuggestion(buttons);
+        }
+        if(event.key === 'ArrowUp' && buttons.length){
+          event.preventDefault();
+          activeSuggestion = Math.max(activeSuggestion - 1, 0);
+          markActiveSuggestion(buttons);
+        }
+        if(event.key === 'Escape'){
+          hideSuggestions();
+        }
+      });
+
+      document.addEventListener('click', event => {
+        if(!event.target.closest('.guess-section')) hideSuggestions();
+      });
+    }
+
+    function buildDateOptions(){
+      const today = todayKey();
+      const days = Math.max(0, daysBetween(START_DATE, today));
+      els.dateSelect.innerHTML = '';
+
+      for(let offset = days; offset >= 0; offset--){
+        const date = addDays(START_DATE, offset);
+        const option = document.createElement('option');
+        option.value = date;
+        option.textContent = date === today ? `TODAY (${formatDate(date)})` : formatDate(date);
+        els.dateSelect.appendChild(option);
+      }
+      els.dateSelect.value = today;
+    }
+
+    function loadPuzzle(dateKey){
+      selectedDate = dateKey;
+      selectedDrug = drugForDate(dateKey);
+      if(!state.games[dateKey]){
+        state.games[dateKey] = {
+          guesses: [],
+          complete: false,
+          won: false,
+          answer: selectedDrug.name,
+          guessesToWin: null
+        };
+        saveState();
+      }
+      render();
+    }
+
+    function drugForDate(dateKey){
+      const days = Math.max(0, daysBetween(START_DATE, dateKey));
+      const chosen = [];
+      for(let offset = 0; offset <= days; offset++){
+        const date = addDays(START_DATE, offset);
+        const recentWindow = CLASS_COOLDOWN_DAYS - 1;
+        const recentClasses = new Set(chosen.slice(Math.max(0, chosen.length - recentWindow)).map(bug => bug.groupName));
+        const candidates = seededOrder(bugs.length, `daily-buggie:${date}`);
+        const index = candidates.find(candidate => !recentClasses.has(bugs[candidate].groupName)) ?? candidates[0];
+        chosen.push(bugs[index]);
+      }
+      return chosen[chosen.length - 1];
+    }
+
+    function seededOrder(length, seedText){
+      const seed = hashString(seedText);
+      const values = Array.from({length}, (_, index) => ({
+        index,
+        rank: hashString(`${seed}:${index}:${bugs[index].name}`)
+      }));
+      values.sort((a, b) => a.rank - b.rank || a.index - b.index);
+      return values.map(item => item.index);
+    }
+
+    function submitGuess(blank){
+      const game = state.games[selectedDate];
+      if(!game || game.complete) return;
+
+      const typed = els.guessInput.value.trim();
+      if(!blank && !typed){
+        submitGuess(true);
+        return;
+      }
+
+      let guessName = '';
+      if(!blank){
+        const exact = findDrugByName(typed);
+        if(!exact){
+          els.resultLine.textContent = 'Choose a bug from the dropdown, or leave it blank.';
+          renderSuggestions(typed, true);
+          return;
+        }
+        guessName = exact.name;
+      }
+
+      const correct = normalize(guessName) === normalize(selectedDrug.name);
+      game.guesses.push({
+        name: guessName,
+        blank: !guessName,
+        correct
+      });
+
+      els.guessInput.value = '';
+      hideSuggestions();
+
+      if(correct){
+        game.complete = true;
+        game.won = true;
+        game.guessesToWin = game.guesses.length;
+        game.answer = selectedDrug.name;
+        updatePlayedDays(selectedDate);
+        saveState();
+        render();
+        launchConfetti();
+        showModal('Correct', selectedDrug.name, `Solved in ${game.guesses.length} ${game.guesses.length === 1 ? 'guess' : 'guesses'}.`);
+        return;
+      }
+
+      if(game.guesses.length >= MAX_GUESSES){
+        game.complete = true;
+        game.won = false;
+        game.answer = selectedDrug.name;
+        game.guessesToWin = null;
+        updatePlayedDays(selectedDate);
+        saveState();
+        render();
+        showModal('Answer', selectedDrug.name, 'Better luck on the next culture.');
+        return;
+      }
+
+      saveState();
+      render();
+    }
+
+    function render(){
+      const game = state.games[selectedDate];
+      const visibleCount = game.complete ? MAX_GUESSES : Math.min(MAX_GUESSES, game.guesses.length + 1);
+
+      els.clueGrid.innerHTML = selectedDrug.hints.map((hint, index) => {
+        const visible = index < visibleCount;
+        return `
+          <div class="clue-box ${visible ? '' : 'locked'}">
+            <span class="clue-number">${index + 1}</span>
+            <span>${visible ? escapeHtml(hint) : HINT_LABELS[index]}</span>
+          </div>
+        `;
+      }).join('');
+
+      els.history.innerHTML = game.guesses.map((guess, index) => `
+        <div class="guess-row ${guess.correct ? 'correct' : ''} ${guess.blank ? 'blank' : ''}">
+          <span class="status-dot">${guess.correct ? '✓' : index + 1}</span>
+          <span>${guess.blank ? 'No guess' : escapeHtml(guess.name)}</span>
+        </div>
+      `).join('');
+
+      if(game.complete){
+        els.resultLine.textContent = game.won
+          ? `Correct in ${game.guessesToWin} ${game.guessesToWin === 1 ? 'guess' : 'guesses'}: ${selectedDrug.name}`
+          : `Answer: ${selectedDrug.name}`;
+      }else{
+        els.resultLine.textContent = `${MAX_GUESSES - game.guesses.length} ${MAX_GUESSES - game.guesses.length === 1 ? 'try' : 'tries'} remaining`;
+      }
+
+      els.guessInput.disabled = game.complete;
+      els.submitBtn.disabled = game.complete;
+      els.skipBtn.disabled = game.complete;
+      updateStreakDisplay();
+    }
+
+    function renderSuggestions(query, forceOpen = false){
+      const term = normalize(query);
+      if(!term && !forceOpen){
+        hideSuggestions();
+        return;
+      }
+
+      const matches = bugs.filter(bug => {
+        const name = normalize(bug.name);
+        return name.includes(term);
+      }).slice(0, 60);
+
+      if(!matches.length){
+        els.suggestions.innerHTML = '<div class="suggestion"><strong>No matching bugs</strong><small>Try a microbe name.</small></div>';
+        els.suggestions.classList.add('active');
+        return;
+      }
+
+      els.suggestions.innerHTML = matches.map(bug => `
+        <button class="suggestion" type="button" role="option" data-name="${escapeAttr(bug.name)}">
+          <strong>${highlight(bug.name, term)}</strong>
+        </button>
+      `).join('');
+
+      els.suggestions.querySelectorAll('.suggestion').forEach(button => {
+        button.addEventListener('click', () => chooseSuggestion(button.dataset.name));
+      });
+      els.suggestions.classList.add('active');
+    }
+
+    function chooseSuggestion(name){
+      els.guessInput.value = name;
+      hideSuggestions();
+      els.guessInput.focus();
+    }
+
+    function markActiveSuggestion(buttons){
+      buttons.forEach((button, index) => button.classList.toggle('active', index === activeSuggestion));
+      buttons[activeSuggestion]?.scrollIntoView({block: 'nearest'});
+    }
+
+    function hideSuggestions(){
+      els.suggestions.classList.remove('active');
+      activeSuggestion = -1;
+    }
+
+    function findDrugByName(name){
+      const exact = normalize(name);
+      return bugs.find(bug => normalize(bug.name) === exact);
+    }
+
+    function showModal(kicker, answer, sub){
+      els.modalKicker.textContent = kicker;
+      els.modalAnswer.textContent = kicker === 'Answer' ? `Answer: ${answer}` : answer;
+      els.modalSub.textContent = sub;
+      els.modal.className = 'modal-visible';
+    }
+
+    function closeModal(){
+      els.modal.className = 'modal-hidden';
+    }
+
+    function launchConfetti(){
+      const colors = ['#4fd18b', '#ffd166', '#6aa6ff', '#ff6b6b', '#eef5ff'];
+      for(let i = 0; i < 72; i++){
+        const piece = document.createElement('span');
+        piece.className = 'confetti-piece';
+        piece.style.left = `${Math.random() * 100}vw`;
+        piece.style.background = colors[i % colors.length];
+        piece.style.setProperty('--drift', `${(Math.random() - .5) * 220}px`);
+        piece.style.animationDelay = `${Math.random() * 180}ms`;
+        piece.style.animationDuration = `${900 + Math.random() * 900}ms`;
+        document.body.appendChild(piece);
+        setTimeout(() => piece.remove(), 2200);
+      }
+    }
+
+    function updatePlayedDays(dateKey){
+      if(!state.playedDays.includes(dateKey)){
+        state.playedDays.push(dateKey);
+        state.playedDays.sort();
+      }
+    }
+
+    function updateStreakDisplay(){
+      const today = todayKey();
+      const played = new Set(state.playedDays);
+      let cursor = today;
+      let streak = 0;
+      while(played.has(cursor)){
+        streak++;
+        cursor = addDays(cursor, -1);
+      }
+      els.streak.textContent = streak;
+    }
+
+    function loadState(){
+      try{
+        const parsed = JSON.parse(localStorage.getItem(STORAGE_KEY));
+        return {
+          games: parsed?.games || {},
+          playedDays: parsed?.playedDays || []
+        };
+      }catch(_){
+        return { games: {}, playedDays: [] };
+      }
+    }
+
+    function saveState(){
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    }
+
+    function parseCsv(text){
+      const rows = [];
+      let row = [];
+      let field = '';
+      let inQuotes = false;
+
+      for(let i = 0; i < text.length; i++){
+        const char = text[i];
+        const next = text[i + 1];
+
+        if(char === '"'){
+          if(inQuotes && next === '"'){
+            field += '"';
+            i++;
+          }else{
+            inQuotes = !inQuotes;
+          }
+        }else if(char === ',' && !inQuotes){
+          row.push(field);
+          field = '';
+        }else if((char === '\n' || char === '\r') && !inQuotes){
+          if(char === '\r' && next === '\n') i++;
+          row.push(field);
+          if(row.some(value => value.trim() !== '')) rows.push(row);
+          row = [];
+          field = '';
+        }else{
+          field += char;
+        }
+      }
+
+      if(field || row.length){
+        row.push(field);
+        rows.push(row);
+      }
+
+      const headers = rows.shift().map(header => header.trim());
+      return rows.map(values => Object.fromEntries(headers.map((header, index) => [header, values[index] || ''])));
+    }
+
+    function getColumn(row, prefix){
+      const key = Object.keys(row).find(header => header.startsWith(prefix));
+      return key ? row[key] : '';
+    }
+
+    function todayKey(){
+      const date = new Date();
+      return [
+        date.getFullYear(),
+        String(date.getMonth() + 1).padStart(2, '0'),
+        String(date.getDate()).padStart(2, '0')
+      ].join('-');
+    }
+
+    function addDays(dateKey, amount){
+      const [year, month, day] = dateKey.split('-').map(Number);
+      const date = new Date(year, month - 1, day);
+      date.setDate(date.getDate() + amount);
+      return [
+        date.getFullYear(),
+        String(date.getMonth() + 1).padStart(2, '0'),
+        String(date.getDate()).padStart(2, '0')
+      ].join('-');
+    }
+
+    function daysBetween(start, end){
+      const [startYear, startMonth, startDay] = start.split('-').map(Number);
+      const [endYear, endMonth, endDay] = end.split('-').map(Number);
+      const startUtc = Date.UTC(startYear, startMonth - 1, startDay);
+      const endUtc = Date.UTC(endYear, endMonth - 1, endDay);
+      return Math.floor((endUtc - startUtc) / 86400000);
+    }
+
+    function formatDate(dateKey){
+      const [year, month, day] = dateKey.split('-');
+      return `${month}/${day}/${year}`;
+    }
+
+    function normalize(value){
+      return String(value || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
+    }
+
+    function hashString(value){
+      let hash = 2166136261;
+      for(let i = 0; i < value.length; i++){
+        hash ^= value.charCodeAt(i);
+        hash = Math.imul(hash, 16777619);
+      }
+      return hash >>> 0;
+    }
+
+    function escapeHtml(value){
+      return String(value).replace(/[&<>"']/g, char => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;'
+      }[char]));
+    }
+
+    function escapeAttr(value){
+      return escapeHtml(value).replace(/`/g, '&#96;');
+    }
+
+    function highlight(value, term){
+      const escaped = escapeHtml(value);
+      if(!term) return escaped;
+      const normalizedValue = normalize(value);
+      const index = normalizedValue.indexOf(term);
+      if(index < 0) return escaped;
+      const original = String(value);
+      return `${escapeHtml(original.slice(0, index))}<mark>${escapeHtml(original.slice(index, index + term.length))}</mark>${escapeHtml(original.slice(index + term.length))}`;
+    }
+  </script>
+</body>
+</html>
