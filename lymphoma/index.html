@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071b34">
+  <meta name="description" content="A short interactive presentation comparing Hodgkin and non-Hodgkin lymphomas.">
+  <title>Lymphoma, decoded · Theouris</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="deck-header">
+    <a class="wordmark" href="../index.html" aria-label="Back to Theouris home"><span></span>Theouris</a>
+    <div class="header-meta">
+      <span class="time-read">5–7 min</span>
+      <span id="counter" aria-live="polite">01 / 08</span>
+      <button class="icon-button" id="openSources" aria-haspopup="dialog">Sources</button>
+    </div>
+  </header>
+
+  <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+
+  <main class="deck" id="deck">
+    <section class="slide hero is-active" data-title="Start" aria-labelledby="hero-title">
+      <img class="hero-art" src="assets/lymphoma-hero.png" alt="Illustrated lymphatic network with a large binucleate cell among lymphocytes">
+      <div class="hero-shade"></div>
+      <div class="slide-inner hero-copy">
+        <h1 id="hero-title">Hodgkin's and NHL</h1>
+        <p class="lede">Theo Couris | HMS | Dr. Sun | W3</p>
+        <button class="primary" data-next>Begin the case <span>→</span></button>
+      </div>
+    </section>
+
+    <section class="slide" data-title="The case" aria-labelledby="case-title">
+      <div class="slide-inner split-grid">
+        <div>
+          <h2 id="case-title">CASE RELEVANCE</h2>
+          <p class="body-copy">A patient has drenching night sweats, fever, weight loss, and lower-back pain. A marrow report mentions <strong>Auer rods</strong>.</p>
+          <div class="decision-card">
+            <p>What tells us it likely isn't lymphoma?</p>
+            <div class="choice-row" role="group" aria-label="Case clue question">
+              <button class="choice" data-answer="wrong">B symptoms</button>
+              <button class="choice" data-answer="right">Auer rods</button>
+              <button class="choice" data-answer="wrong">Back pain</button>
+            </div>
+            <p class="feedback" aria-live="polite"></p>
+          </div>
+
+    </section>
+
+    <section class="slide" data-title="Pattern" aria-labelledby="pattern-title">
+      <div class="slide-inner">
+        <div class="title-row">
+          <h2 id="pattern-title">Hodgkin has a rhythm.</h2>
+          <p>Often a single painless node group, then orderly <strong>contiguous</strong> spread. Mediastinal disease is a classic clue.</p>
+        </div>
+        <div class="pattern-grid">
+          <article class="age-card">
+            <span class="card-label">Quick check · peak incidence</span>
+            <div class="age-curve" aria-hidden="true"><span class="peak one"></span><span class="peak two"></span><span class="axis"></span><small class="young">Young adult</small><small class="older">Older adult</small></div>
+            <p>Which distribution best fits?</p>
+            <div class="stacked-choices">
+              <button class="choice" data-answer="wrong">Only after age 65</button>
+              <button class="choice" data-answer="right">Bimodal: young + older adults</button>
+              <button class="choice" data-answer="wrong">Only in childhood</button>
+            </div>
+            <p class="feedback" aria-live="polite"></p>
+          </article>
+          <article class="b-card">
+            <span class="card-label">The “B” in staging</span>
+            <div class="b-mark">B</div>
+            <ul>
+              <li><strong>Fever</strong><span>&gt;38°C, unexplained</span></li>
+              <li><strong>Night sweats</strong><span>drenching</span></li>
+              <li><strong>Weight loss</strong><span>&gt;10% in 6 months</span></li>
+            </ul>
+            <p class="why">Why “B”? Ann Arbor staging appends <strong>B</strong> when any are present; <strong>A</strong> means absent.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Diagnosis" aria-labelledby="diagnosis-title">
+      <div class="slide-inner diagnosis-grid">
+        <figure class="micrograph">
+          <img src="assets/reed-sternberg.jpg" alt="Micrograph showing a large Reed–Sternberg cell among smaller lymphocytes">
+          <figcaption><span>Spot the “owl eyes”</span>Large binucleate Reed–Sternberg cell among smaller lymphocytes. <a href="https://commons.wikimedia.org/wiki/File:Reed-sternberg_cell.jpg" target="_blank" rel="noreferrer">NCI, public domain ↗</a></figcaption>
+        </figure>
+        <div>
+          <ol class="diagnostic-steps">
+            <li><span>01</span><div><b>Excisional biopsy</b><small>Architecture matters; sample a whole node when feasible.</small></div></li>
+            <li><span>02</span><div><b>Morphology</b><small>Classic Reed–Sternberg cells in a reactive background.</small></div></li>
+            <li><span>03</span><div><b>Immunophenotype</b><small>Classic HL is typically <strong>CD15+ · CD30+</strong>, with weak/absent B-cell markers.</small></div></li>
+            <li><span>04</span><div><b>Stage with PET/CT</b><small>CBC and chemistry add context; treatment is stage- and risk-adapted.</small></div></li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide table-slide" data-title="Hodgkin table" aria-labelledby="hl-table-title">
+      <div class="slide-inner wide">
+        <div class="table-heading">
+          <div class="table-actions"><span id="hlScore">0 / 8 filled</span><button class="secondary" id="revealHl">Reveal all</button></div>
+        </div>
+        <div class="table-wrap">
+          <table class="challenge-table" id="hlTable">
+            <thead><tr><th>Subtype</th><th>Frequency</th><th>RS variant</th><th>Typical presentation</th><th>EBV</th><th>Prognosis</th></tr></thead>
+            <tbody>
+              <tr><th>Nodular sclerosis</th><td><select data-correct="~70%"><option value="">Choose…</option><option>~70%</option><option>&lt;5%</option><option>~20–25%</option></select></td><td>Lacunar</td><td>Young adults; mediastinal mass</td><td>Rare</td><td><select data-correct="Excellent"><option value="">Choose…</option><option>Poor</option><option>Excellent</option><option>Good</option></select></td></tr>
+              <tr><th>Mixed cellularity</th><td>~20–25%</td><td><select data-correct="Classic RS"><option value="">Choose…</option><option>Popcorn</option><option>Classic RS</option><option>Lacunar</option></select></td><td>Older adults; HIV; advanced</td><td><select data-correct="Common"><option value="">Choose…</option><option>Common</option><option>Rare</option><option>No</option></select></td><td>Good</td></tr>
+              <tr><th>Lymphocyte-rich</th><td>~5%</td><td>Few classic RS</td><td><select data-correct="Older men; localized nodes"><option value="">Choose…</option><option>Young women; mediastinum</option><option>Older men; localized nodes</option><option>Elderly; advanced</option></select></td><td>Sometimes</td><td><select data-correct="Very good"><option value="">Choose…</option><option>Very good</option><option>Poor</option><option>Variable</option></select></td></tr>
+              <tr><th>Lymphocyte-depleted</th><td>&lt;5%</td><td>Numerous pleomorphic RS</td><td>Elderly; HIV; advanced</td><td><select data-correct="Common"><option value="">Choose…</option><option>No</option><option>Rare</option><option>Common</option></select></td><td><select data-correct="Poor"><option value="">Choose…</option><option>Excellent</option><option>Poor</option><option>Very good</option></select></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="marker-note">Classic HL: CD15+ / CD30+. Contrast: nodular lymphocyte-predominant B-cell lymphoma is usually CD20+ / CD45+ and has “popcorn” cells.</p>
+      </div>
+    </section>
+
+    <section class="slide table-slide" data-title="NHL table" aria-labelledby="nhl-table-title">
+      <div class="slide-inner wide">
+        <div class="table-heading">
+                  <div><h2>NHLs</h2></div>
+          <div class="table-actions"><span id="nhlScore">0 / 6 filled</span><button class="secondary" id="revealNhl">Reveal all</button></div>
+        </div>
+        <div class="table-wrap">
+          <table class="challenge-table nhl-table">
+            <thead><tr><th>Type</th><th>Tempo</th><th>Signature</th><th>High-yield presentation</th><th>Management idea</th></tr></thead>
+            <tbody>
+              <tr><th>Burkitt</th><td>Very aggressive</td><td><select data-correct="t(8;14) → MYC"><option value="">Match…</option><option>t(8;14) → MYC</option><option>t(14;18) → BCL2</option><option>BRAF V600E</option></select></td><td>Jaw (endemic) or abdomen (sporadic); “starry sky”</td><td>Intensive combination chemotherapy</td></tr>
+              <tr><th>Follicular</th><td>Indolent</td><td><select data-correct="t(14;18) → BCL2"><option value="">Match…</option><option>t(11;14) → cyclin D1</option><option>t(14;18) → BCL2</option><option>t(8;14) → MYC</option></select></td><td>Waxing / waning painless nodes</td><td>Observe if asymptomatic or anti-CD20–based therapy</td></tr>
+              <tr><th>Hairy cell</th><td>Indolent</td><td><select data-correct="BRAF V600E"><option value="">Match…</option><option>BRAF V600E</option><option>t(11;18)</option><option>BCL6 ± BCL2/MYC</option></select></td><td>Splenomegaly; dry tap; cytopenias</td><td>Purine analog when symptomatic</td></tr>
+              <tr><th>Marginal zone (MALT)</th><td>Indolent</td><td><select data-correct="t(11;18)"><option value="">Match…</option><option>t(8;14) → MYC</option><option>t(11;18)</option><option>t(11;14) → cyclin D1</option></select></td><td>Chronic inflammation; gastric H. pylori association</td><td>Treat underlying cause first when applicable</td></tr>
+              <tr><th>Mantle cell</th><td>Aggressive</td><td><select data-correct="t(11;14) → cyclin D1"><option value="">Match…</option><option>t(14;18) → BCL2</option><option>BRAF V600E</option><option>t(11;14) → cyclin D1</option></select></td><td>Older men; generalized nodes; GI involvement</td><td>Immunochemotherapy ± transplant strategy</td></tr>
+              <tr><th>DLBCL</th><td>Aggressive</td><td><select data-correct="BCL6 ± BCL2/MYC"><option value="">Match…</option><option>BCL6 ± BCL2/MYC</option><option>t(11;18)</option><option>HTLV-1</option></select></td><td>Rapidly enlarging mass ± B symptoms</td><td>Curative-intent anti-CD20 immunochemotherapy</td></tr>
+              <tr class="group-start"><th>Anaplastic large cell</th><td>Aggressive</td><td>CD30+; ALK ±</td><td>Nodes or extranodal sites</td><td>Systemic therapy; ALK status informs prognosis</td></tr>
+              <tr><th>Peripheral T-cell, NOS</th><td>Aggressive</td><td>Variable mature T-cell phenotype</td><td>Often advanced disease</td><td>Systemic combination therapy</td></tr>
+              <tr><th>Adult T-cell leukemia/lymphoma</th><td>Aggressive</td><td>HTLV-1</td><td>Hypercalcemia; skin + lytic bone lesions</td><td>Subtype- and setting-specific systemic therapy</td></tr>
+              <tr class="group-start"><th>Mycosis fungoides</th><td>Indolent early</td><td>CD4+ cutaneous T cells</td><td>Skin patches → plaques → tumors</td><td>Skin-directed therapy when limited</td></tr>
+              <tr><th>Sézary syndrome</th><td>Aggressive</td><td>CD4+ cells in blood; loss of CD7/CD26</td><td>Erythroderma; nodes; palm/sole involvement</td><td>Systemic therapy</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-title="T-cell NHL" aria-labelledby="tcell-title">
+      <div class="slide-inner">
+        <div class="title-row compact"><h2 id="tcell-title">T Cell Lymphomas</h2></div>
+        <div class="image-triptych">
+          <article class="image-card">
+            <img src="assets/mycosis-fungoides.jpg" alt="Patches and plaques of mycosis fungoides on a patient's knee">
+            <div><span>01 · Skin</span><h3>Mycosis fungoides</h3><p>Pruritic patches → plaques → tumors. Epidermotropic CD4+ T cells.</p><a href="https://commons.wikimedia.org/wiki/File:Mycosis_fungoides_knee.JPG" target="_blank" rel="noreferrer">Bobjgalindo, CC BY-SA 4.0 ↗</a></div>
+          </article>
+          <article class="image-card">
+            <img src="assets/sezary-cells.jpg" alt="Peripheral smear with atypical Sézary cells with convoluted nuclei">
+            <div><span>02 · Blood</span><h3>Sézary syndrome</h3><p>Erythroderma + lymphadenopathy + malignant T cells with cerebriform nuclei in blood.</p><a href="https://commons.wikimedia.org/wiki/File:Sezary_Cell_smear_2009-12-21.JPG" target="_blank" rel="noreferrer">Paulo Mourao, CC BY-SA 3.0 ↗</a></div>
+          </article>
+          <article class="image-card atll-card">
+            <div class="map-art" aria-hidden="true"><span>Japan</span><span>Caribbean</span><span>West Africa</span></div>
+            <div><span>03 · Virus</span><h3>Adult T-cell leukemia/lymphoma</h3><p><strong>HTLV-1</strong> · skin lesions · lytic bone lesions · hepatosplenomegaly · ↑LDH · hypercalcemia.</p><small>The calcium + bone-lesion pairing can resemble myeloma; the viral and T-cell context separates it.</small></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide finale" data-title="Takeaways" aria-labelledby="final-title">
+      <div class="slide-inner">
+        <h2 id="final-title">Takeaway<br></h2>
+        <div class="takeaway-grid">
+          <article><span>01</span><h3>Pattern</h3><p><b>Hodgkin:</b> contiguous, mediastinal, bimodal. <b>NHL:</b> diverse, often noncontiguous or extranodal.</p></article>
+          <article><span>02</span><h3>Tissue</h3><p>Biopsy first. Classic Hodgkin: Reed–Sternberg morphology with CD15+ / CD30+. NHL identity follows transposon.</p></article>
+          <article><span>03</span><h3>Plan</h3><p>Stage, subtype, tempo, symptoms, and patient factors drive treatment.</p></article>
+        </div>
+        <div class="final-actions"><button class="primary" id="restart">Run it again <span>↺</span></button><button class="secondary light" id="openSourcesFinal">Review sources</button></div>
+      </div>
+    </section>
+  </main>
+
+  <nav class="deck-nav" aria-label="Presentation controls">
+    <button id="prev" aria-label="Previous slide">←</button>
+    <div id="dots" class="dots" aria-label="Slides"></div>
+    <button id="next" aria-label="Next slide">→</button>
+  </nav>
+
+  <dialog id="sourcesDialog">
+    <button class="dialog-close" id="closeSources" aria-label="Close sources">×</button>
+    <p class="eyebrow coral">References & image credits</p>
+    <h2>Source notes</h2>
+    <div class="source-list">
+      <a href="https://www.cancer.gov/types/lymphoma/patient/adult-hodgkin-treatment-pdq" target="_blank" rel="noreferrer"><span>Clinical overview</span><b>NCI · Adult Hodgkin Lymphoma Treatment (PDQ®)</b><i>↗</i></a>
+      <a href="https://www.cancer.gov/types/lymphoma/patient/adult-nhl-treatment-pdq" target="_blank" rel="noreferrer"><span>Clinical overview</span><b>NCI · Adult Non-Hodgkin Lymphoma Treatment (PDQ®)</b><i>↗</i></a>
+      <a href="https://staging.seer.cancer.gov/eod_public/input/3.2/lymphoma_cll_sll/b_symptoms/" target="_blank" rel="noreferrer"><span>Definitions</span><b>SEER · B symptoms</b><i>↗</i></a>
+      <a href="https://training.seer.cancer.gov/hematopoietic1/intro-to-lymphoma.html" target="_blank" rel="noreferrer"><span>Disease pattern</span><b>SEER Training · Introduction to lymphoma</b><i>↗</i></a>
+      <a href="https://commons.wikimedia.org/wiki/File:Reed-sternberg_cell.jpg" target="_blank" rel="noreferrer"><span>Image · public domain</span><b>NCI · Reed–Sternberg cell</b><i>↗</i></a>
+      <a href="https://commons.wikimedia.org/wiki/File:Mycosis_fungoides_knee.JPG" target="_blank" rel="noreferrer"><span>Image · CC BY-SA 4.0</span><b>Bobjgalindo · Mycosis fungoides</b><i>↗</i></a>
+      <a href="https://commons.wikimedia.org/wiki/File:Sezary_Cell_smear_2009-12-21.JPG" target="_blank" rel="noreferrer"><span>Image · CC BY-SA 3.0</span><b>Paulo Henrique Orlandi Mourao · Sézary cells</b><i>↗</i></a>
+    </div>
+    <p class="source-foot">The two comparison tables were rebuilt from the supplied AnKing screenshots as interactive study aids; the screenshots themselves are not redistributed.</p>
+  </dialog>
+
+  <script src="script.js"></script>
+</body>
+</html>
