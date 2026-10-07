@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Neurovasculature Lab | Theouris</title>
+  <link rel="stylesheet" href="game.css">
+  <script src="game.js" defer></script>
+</head>
+<body>
+  <header><a class="brand" href="../">Theouris <span>/ study lab</span></a><span class="badge">NEUROANATOMY</span></header>
+  <main>
+    <div class="intro"><p class="eyebrow">FOLLOW THE FLOW</p><h1>Neurovasculature lab</h1><p>Find the artery. Connect the territory. Recognize the deficit.</p></div>
+    <nav class="modes" aria-label="Choose a game">
+      <button data-mode="willis" aria-pressed="true">01 <span>Circle of Willis</span></button>
+      <button data-mode="cerebellar" aria-pressed="false">02 <span>Cerebellar arteries</span></button>
+      <button data-mode="territories" aria-pressed="false">03 <span>Territory matching</span></button>
+    </nav>
+    <section class="game" aria-labelledby="game-title">
+      <div class="game-heading"><div><p class="eyebrow" id="game-type">DIAGRAM CHALLENGE</p><h2 id="game-title"></h2></div><div class="stats"><div><small>MATCHED</small><strong id="progress">0 / 13</strong></div><div><small>ACCURACY</small><strong id="accuracy">—</strong></div><div><small>TIME</small><strong id="time">00:00</strong></div></div></div>
+      <p id="instructions"></p>
+      <div class="toolbar"><button id="restart" class="primary">Start / restart</button><button id="reveal">Study answers</button><button id="retry" hidden>Retry missed</button><span id="best"></span></div>
+      <div id="feedback" role="status" aria-live="polite">Ready when you are. The timer starts with your first match.</div>
+      <div id="play-area"></div>
+      <div id="summary" hidden></div>
+    </section>
+    <details class="reference"><summary>Study notes &amp; references</summary><p>Contralateral means the opposite side of the lesion; ipsilateral means the same side. These are classic localization patterns. Actual deficits depend on the branches involved, anatomical variation, and collateral flow. Dominant hemisphere is usually the left.</p><p>The complete Circle of Willis includes the anterior communicating artery, the proximal anterior and posterior cerebral arteries, the posterior communicating arteries, and terminal internal carotid segments. MCA, basilar, and cerebellar arteries are shown nearby but are not part of the ring.</p><p>Clinical associations checked against <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7577107/" target="_blank" rel="noopener">Hurford et al., Diagnosis and management of acute ischaemic stroke</a>, <a href="https://www.merckmanuals.com/professional/neurologic-disorders/stroke/overview-of-stroke" target="_blank" rel="noopener">Merck Manual: selected stroke syndromes</a>, and <a href="https://www.ncbi.nlm.nih.gov/books/NBK556084/" target="_blank" rel="noopener">StatPearls: vertebrobasilar stroke</a>. Diagrams supplied by the user.</p></details>
+    <footer>Built for active recall · Drag, tap, or use Tab + Enter to match.</footer>
+  </main>
+</body>
+</html>
