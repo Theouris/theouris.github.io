@@ -1,0 +1,569 @@
+[
+  {
+    "id": "emb",
+    "title": "Embryology",
+    "source": "NNN 5.1 – Embryology.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Developmental Neuroanatomy\n& Congenital Disorders\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nKirk Kerkorian School of Medicine\nUniversity of Nevada Las Vegas",
+        "image": "slides/emb-001.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives\n1. Describe the embryologic development of the central nervous system, including\nneurulation, neural tube formation, and differentiation of the brain and spinal cord,\nand relate these processes to mature neuroanatomy. (CLO 1)\n2. Describe the embryologic development of the pharyngeal apparatus and relate its\nderivatives to clinically relevant head and neck structures. (CLO 1)\n3. Correlate abnormalities in neural and craniofacial development with common\ncongenital disorders involving the central nervous system and head and neck.\n(CLO 3)\nPre-Session Assignment\n• Preview the PowerPoint slides. You are not expected to memorize details before class.\n• Watch: B&B: Neuroembryology (29 min)",
+        "image": "slides/emb-002.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 3,
+        "text": "Development of the Neural Tube\n• Begins in week 3 → neural plate & groove\n• Notochord induces ectoderm → neural plate\n• Signals: TGF-β, Wnts, SHH, BMPs\n• Neural folds fuse → neural tube (CNS)\n• Neural crest → PNS & ANS structures\nSequence (see image)\n• Neural plate\n• Neural groove + folds\n• Fusion → neural tube + neural crest\nNeural plate and folding leading to neural tube formation. (A) Neural plate (day\n17). (B) Early neural groove and folds. (C) Fusion begins (day 22), still open at\nboth ends. (D–F) Transverse sections show closure, tube separation from\nectoderm, and neural crest formation. Fig 16.1 BWAB, 11e.",
+        "image": "slides/emb-003.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 4,
+        "text": "Neurulation (Week 4)\nNeural tube first closes in the future cervical region. Fig. 16.2 (A) Day 23: neural folds fuse to form the neural tube. (B) Day 24:\nThe neural folds close in zipper-like fashion in both directions. forebrain prominence and rostral neuropore closing. BWAB, 11e.\n• Neural folds fuse → neural tube • Rostral neuropore closes ~day 25\n• Neural canal is open at both ends • Caudal neuropore closes ~day 27\nNeural tube → Brain and Spinal Cord\nNeural Canal → Ventricular System",
+        "image": "slides/emb-004.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 5,
+        "text": "Neural Tube\nPrimary vesicle Secondary vesicle Neural derivatives Cavity\nTelencephalon Cerebral hemispheres Lateral ventricles\nProsencephalon (forebrain)\nThalamus, hypothalamus,\nDiencephalon Third ventricle\nepithalamus, subthalamus, retina\nMesencephalon (midbrain) Mesencephalon Midbrain Cerebral aqueduct\nMetencephalon Pons, cerebellum Part of fourth ventricle\nRhombencephalon (hindbrain)\nPart of fourth ventricle,\nMyelencephalon Medulla\npart of central canal\nBy OpenStax - https://cnx.org/contents/FPtK1zmh@8.25:fEI3C8Ot@10/Preface,\nCC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=30147939",
+        "image": "slides/emb-005.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 6,
+        "text": "Neural Crest\n• Defined at the neural plate border\nduring neurulation\n• After tube closure, cells undergo EMT\n→ migrate widely\nEMT = epithelial-to-mesenchymal transition",
+        "image": "slides/emb-006.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 7,
+        "text": "Failure of Neural Tube Closure\nAnencephaly Neural Tube Defect\nFailure of closure of anterior neuropore Failure of closure of posterior neuropore\nImages: Carlson Fig 8-4, Larsen Fig 4-11",
+        "image": "slides/emb-007.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 8,
+        "text": "Spina Bifida\nSpina Bifida Occulta\n• Failure of fusion of posterior vertebral arches\n• Spinal cord and meninges remain intact\n• Usually asymptomatic; may have overlying tuft of hair\n• Typically lumbosacral; often discovered incidentally\nMeningocele\n• Herniation of meninges and CSF through vertebral defect\n• No spinal cord tissue in the sac\n• Neurological deficits usually absent\nMyelomeningocele\n• Herniation of meninges and spinal cord through vertebral defect\n• Most commonly lumbosacral\n• Lower limb motor/sensory deficits and bowel/bladder dysfunction\n• Risk of infection if neural tissue is exposed\nOcculta: Bony defect only | Meningocele: Meninges + CSF | Myelomeningocele: Meninges + spinal cord\nAmerican Association of Neurological Surgeons",
+        "image": "slides/emb-008.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 9,
+        "text": "Cervical Meningocele Myelomeningocele\nInternet Scientific Publication\nMoore. Before We Are Born",
+        "image": "slides/emb-009.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 10,
+        "text": "Neural Tube Defects (NTDs): Risk Factors & Prevention\nNeural Tube Closure: Normally completed by day 28 of embryonic development\nFolate deficiency: Major risk factor during early pregnancy\nFolic acid supplementation: Before conception and during early pregnancy reduces NTD risk\nAntiseizure medications: Valproic acid and carbamazepine increase NTD risk\nGenetic susceptibility: increased concordance in monozygotic twins",
+        "image": "slides/emb-010.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 11,
+        "text": "Anencephaly & Holoprosencephaly\nAnencephaly\n• Failure of anterior (rostral) neuropore closure during week 4\n• Absence of most of the cerebral hemispheres and calvarium\n• Severe, typically lethal neural tube defect\n• Associated with folate deficiency\nHoloprosencephaly\n• Failure of the prosencephalon to divide into cerebral hemispheres\n• Severe forms associated with midline facial defects (e.g., cyclopia)\n• Associated with SHH signaling abnormalities and trisomy 13\nAnencephaly = failure of neural tube closure | Holoprosencephaly = failure of forebrain division\nPregmed.org",
+        "image": "slides/emb-011.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 12,
+        "text": "Other Disorders of Brain Development\nLissencephaly\n• Abnormal neuronal migration → reduced or absent cerebral gyri (smooth brain)\n• Associated with developmental delay, seizures, and intellectual disability\n• Classic genetic associations: LIS1 (PAFAH1B1) and DCX\nMicrocephaly\n• Abnormally small head circumference due to impaired brain growth\nRobbins and Cotran Pathology\n• Associated with genetic abnormalities and congenital infections (e.g., Zika virus)\n• May cause developmental delay and intellectual disability\nLissencephaly = abnormal neuronal migration\nMicrocephaly = impaired brain growth\nAdam",
+        "image": "slides/emb-012.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 13,
+        "text": "Pharyngeal Apparatus",
+        "image": "slides/emb-013.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 14,
+        "text": "Neural Crest → Pharyngeal Arches\nFig. 17.2 Migrations pathways on neural crest cells\ninto the pharyngeal arches and face.\nLangman’s Medical Embryology,13e.\n• Neural crest cells migrate from neural tube\n• Populate pharyngeal arches, which form head & neck structures\n• Give rise to skeletal, vascular, and connective tissue elements",
+        "image": "slides/emb-014.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 15,
+        "text": "Pharyngeal Apparatus Overview\n• Components = arches + pouches + clefts\n• Timing: forms during weeks 4–7\n• Function: gives rise to most head & neck structures\n• Clinical note: errors → congenital anomalies\nFig. 17.3 Development of the Pharyngeal arches. A. 25 days. B. 28 Days. C. 5 weeks\nLangman’s Medical Embryology,13e.",
+        "image": "slides/emb-015.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 16,
+        "text": "Arch 1 (Mandibular Arch)\n• Skeletal Derivatives: mandible, malleus, incus\n• Muscles: mastication, mylohyoid, anterior\ndigastric, tensors (tensor tympani, tensor veli\npalatini)\n• Nerve: CN V (mandibular nerve)\n3\n• Clinical: Treacher Collins (first arch defect;\nmandibular hypoplasia, hearing loss)\nFig. 17.9 Definitive structures formed by the cartilaginous components of\nthe various pharyngeal arches. Langman’s Medical Embryology,13e.",
+        "image": "slides/emb-016.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 17,
+        "text": "Arch 2 (Hyoid Arch)\n• Skeletal Derivatives: stapes, styloid, lesser hyoid horn\n• Muscles: Facial expression, stapedius, posterior\ndigastric, stylohyoid\n• Nerve: CN VII\n• Pathology: Conductive hearing loss (stapes fixation)\nFig. 17.9 Definitive structures formed by the cartilaginous components of\nthe various pharyngeal arches. Langman’s Medical Embryology,13e.",
+        "image": "slides/emb-017.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 18,
+        "text": "Arch 3 (Glossopharyngeal Arch)\n• Skeletal Derivative: Greater hyoid horn\n• Muscle: Stylopharyngeus\n• Nerve: CN IX\n• Pathology: Loss of gag reflex (afferent)\nFig. 17.9 Definitive structures formed by the cartilaginous components of\nthe various pharyngeal arches. Langman’s Medical Embryology,13e.",
+        "image": "slides/emb-018.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 19,
+        "text": "Arches 4 & 6 (Laryngeal Arches)\n• Skeletal Derivatives: Laryngeal framework\n• Muscles: muscles of larynx, most muscles of\npharynx and soft palate\n• Nerve: CN X\n• Pathology: dysphagia, pharyngeal weakness,\nhoarseness\nFig. 17.9 Definitive structures formed by the cartilaginous components of\nthe various pharyngeal arches. Langman’s Medical Embryology,13e.",
+        "image": "slides/emb-019.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 20,
+        "text": "Skeletal Structures of the Head and Face\nBlue structures\nfrom neural crest\nRed structures\nfrom occipital somites\nFig. 17.1 Skeletal structures of the head and face.\nLangman’s Medical Embryology,13e.",
+        "image": "slides/emb-020.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 21,
+        "text": "Agnathia\n• Cause: failure of neural crest cells to populate 1st arch\n• Severe 1st arch malformation (extreme hypoplasia)\n• Mandible fails to form (absent lower jaw)\n• Rare, often incompatible with life",
+        "image": "slides/emb-021.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 22,
+        "text": "Treacher Collins Syndrome – Clinical Features\n(Mandibulofacial Dysostosis; 1st Arch Syndrome)\n• Cause: Abnormal development and survival of neural crest cells contributing to the first pharyngeal arch\n• Genetics: Most commonly TCOF1 mutation; usually autosomal dominant\nCraniofacial Abnormalities\n• Mandibular and zygomatic hypoplasia\n• Downward-slanting palpebral fissures\n• External ear and ossicular malformations\n• Clinical: Conductive hearing loss; variable severity\nFailure of first arch neural crest migration\n→ craniofacial malformations + conductive hearing loss",
+        "image": "slides/emb-022.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 23,
+        "text": "Pierre Robin Sequence\nSequence\n• Initial abnormality: Mandibular hypoplasia (micrognathia)\n• Glossoptosis: Posterior displacement of the tongue\n• Cleft palate: Tongue interferes with normal palatal shelf elevation and fusion\n• Clinical: Upper airway obstruction and feeding difficulties\nMicrognathia → Glossoptosis → Cleft Palate",
+        "image": "slides/emb-023.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 24,
+        "text": "Pharyngeal Apparatus: Arches, Pouches & Clefts\nPharyngeal Arches\n• External ectoderm, internal endoderm, and mesenchymal core\n• Each arch contains cartilage, muscle, nerve, and artery components\nPharyngeal Pouches\n• Endoderm-lined internal out-pocketings\n• Form structures including the thymus, parathyroids,\nand middle ear cavity\nPharyngeal Clefts\n• Ectoderm-lined external grooves\n• First cleft → external acoustic meatus\n• Remaining clefts normally disappear\nFig. 17.6 Pharyngeal arches sectioned\nLangman’s Medical Embryology,13e.\n(Modified with Photoshop to show correct first arch germ layer.)",
+        "image": "slides/emb-024.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 25,
+        "text": "Pouches\n• 1st Pouch: Middle ear, Eustachian tube\n• 2nd Pouch: Palatine tonsils\n• 3rd Pouch: Thymus, inferior parathyroids\n• 4th Pouch: Superior parathyroids, C cells\n(via ultimobranchial body)\nClinical\n• DiGeorge (3rd/4th pouch) → T-cell deficiency, hypocalcemia\nFig. 17.11 Migration of the thymus, parathyroid glands and the\nultimobranchial body. Langman’s Medical Embryology,13e.",
+        "image": "slides/emb-025.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 26,
+        "text": "Branchial (Pharyngeal) Clefts\n• 1st cleft → external auditory canal\n• 2nd–4th clefts → normally obliterate\n• Clinical: persistence → branchial cleft cysts / fistula\nFig. 17.6 Pharyngeal arches sectioned\nLangman’s Medical Embryology,13e.\n(Modified to show correct first arch germ layer.) Fig. 17.11 Migration of the thymus, parathyroid glands and the ultimobranchial body\nLangman’s Medical Embryology,13e.",
+        "image": "slides/emb-026.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 27,
+        "text": "Branchial Cleft Cyst (Lateral Cervical Cyst)\n• Persistent 2nd cleft\n• Branchial cleft cyst, sinus, or fistula\n• Lateral neck mass, anterior to SCM\nCervical sinus\nCyst = closed cavity\nSinus = one opening (external or internal)\nFistula – two openings (skin pharynx)\nFig. 17.10 Langman’s Medical Embryology,13e.",
+        "image": "slides/emb-027.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 28,
+        "text": "Thyroid Development\n• Origin: Endodermal evagination (week 4)\nat foramen cecum (tongue base)\n• Migration: Descends via thyroglossal duct\n• Final Position: Duct degenerates →\nthyroid isolated in neck\n• Not derived from pharyngeal arches\nFig. 17.11 Migration of the thymus, parathyroid glands and the ultimobranchial body\nLangman’s Medical Embryology,13e.",
+        "image": "slides/emb-028.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 29,
+        "text": "Clinical: Thyroid Development\nThyroglossal Duct Cyst\n• Failure of thyroglossal duct regression\n• Midline mass, moves with\nswallowing/tongue protrusion\nEctopic/Lingual Thyroid\n• Thyroid tissue at tongue base\nFig. 17.11 Migration of the thymus, parathyroid glands and the ultimobranchial body\nLangman’s Medical Embryology,13e.",
+        "image": "slides/emb-029.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 30,
+        "text": "Thyroglossal Duct Cyst vs. Branchial Cleft Cyst\n• Thyroglossal duct cyst: Midline, moves with swallowing\n• Branchial Cyst: Lateral neck, does not move with swallowing",
+        "image": "slides/emb-030.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 31,
+        "text": "Development of the Face",
+        "image": "slides/emb-031.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 32,
+        "text": "Facial Prominences\n}\n1st arch\nFrontal views of embryo at the end of the 24 Day (A) and 30 days (B)\nFailure of Fusion\n• Face forms from 5 prominences\n→ cleft lip, cleft palate, facial clefts\n• Frontonasal → forehead, nose, philtrum\n• Maxillary (2) → cheeks, lateral portions of upper lip\n• Mandibular (2) → lower lip, mandible\n• Medial nasal prominences → merge to form the intermaxillary segment, including the philtrum",
+        "image": "slides/emb-032.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 33,
+        "text": "Development of the Face\nIntermaxillary\nsegment\nFace Development: 5th and 6th week Face Development: 7th and 10th week\n• Nasal placodes develop into medial and lateral nasal prominences\n• Medial nasal prominences merge → intermaxillary segment (philtrum)\n• Maxillary + medial nasal prominences → formation of upper lip\n• Lateral nasal prominences → sides (alae) of nose\n• Failure of maxillary–medial nasal fusion → cleft lip\nMedial nasal + maxillary prominences → upper lip | Failure of fusion → cleft lip\nFig. 17.22, 17.23. LME",
+        "image": "slides/emb-033.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 34,
+        "text": "Palate Formation\nPrimary Palate\n• Develops from the intermaxillary segment (merged medial\nnasal prominences)\n• Forms the small anterior portion of the hard palate, anterior\nPrimary and Secondary Palate\nto the incisive foramen\nSecondary Palate\n• Develops from palatal shelves of the maxillary prominences\n• Shelves elevate and fuse at the midline\n• Forms the remaining hard palate and soft palate\nFinal Fusion\n• Secondary palate joins the primary palate and nasal septum\nFusion of Nasal Septum with Palate\nPrimary palate = medial nasal prominences | Secondary palate = maxillary prominences",
+        "image": "slides/emb-034.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 35,
+        "text": "Palate Formation: Stepwise Sequence\nStep 1 — Initial Position\n• Palatal shelves grow vertically alongside the tongue\nStep 2 — Elevation\n• Tongue descends; palatal shelves elevate into a\nhorizontal position\nStep 3 — Fusion\n• Shelves fuse at the midline and with the primary palate\nand nasal septum\n• Separates the developing oral and nasal cavities",
+        "image": "slides/emb-035.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 36,
+        "text": "Normal and Abnormal Development of the Lip and Palate\n• Cleft Lip: failure of fusion\nbetween maxillary and medial\nnasal prominences\n• Cleft Palate: failure of palatal\nshelf fusion or fusion with the\nUnilateral CL extending Unilateral CL involving the lip and jaw and\nprimary palate/nasal septum Normal Lip and Palate in the nose extending to the incisive foramen\n• Clinical Consequences:\nfeeding difficulties, nasal\nregurgitation, and speech\nabnormalities\nCP combined with\nBilateral CL involving the Isolated CP\nunilateral CL\nlip and jaw\nCleft lip = facial prominence fusion defect\nCleft palate = palatal fusion defect\nLME, Fig. 17.28",
+        "image": "slides/emb-036.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 37,
+        "text": "Cleft Lip and Palate (Facial Clefts)\nCleft Lip\nmedial nasal +\nmaxillary fusion failure\nUnilateral CL that is\ncontinuous with a cleft\nUnilateral cleft lip Bilateral CL\npalate.\nCleft Palate\nPalatine shelves\nfail to fuse\nMidline cleft, which is\nCleft palate Oblique facial cleft called a hare lip",
+        "image": "slides/emb-037.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 38,
+        "text": "Developmental\nNeuroanatomy\n& Congenital\nDisorders\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nCourse Director Anatomy and Neuroscience\nTel: (702) 545-2050 | aftab.merchant@unlv.edu\nSchedule an Appointment",
+        "image": "slides/emb-038.png",
+        "width": 1867,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "id": "path",
+    "title": "Visual Pathway",
+    "source": "NNN 5.2A – Visual Pathway.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Visual System\nStructure, Visual Pathways, and Reflexes\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nKirk Kerkorian School of Medicine\nUniversity of Nevada Las Vegas",
+        "image": "slides/path-001.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives (2026)\n1. Describe the structure and optical properties of the eye and relate them to image formation.\n(CLO 1, CLO 2)\n2. Explain the organization of the retina and visual pathway from photoreceptors to the visual\ncortex, and correlate lesions along the pathway with characteristic visual field deficits. (CLO\n1, CLO 2, CLO 3)\n3. Correlate the neural pathways underlying visual reflexes with normal ocular function and\ncommon neurological disorders. (CLO 2, CLO 3)\nPre-Session Assignment\n• Preview the PowerPoint slides. You are not expected to memorize details before class.\n• Boards & Beyond B&B: Eye Anatomy (26 min)\n• B&B: Retina (14 min)\n• B&B: Visual Field Defects (13 min)",
+        "image": "slides/path-002.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 3,
+        "text": "Eye Structure & Image Formation",
+        "image": "slides/path-003.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 4,
+        "text": "Layers of the Eyeball\nFibrous (Outer) Layer\n• Sclera: protection and extraocular muscle attachment\n• Cornea: transparent, major refractive surface\nVascular (Middle) Layer — Uvea\n• Choroid: vascular supply to outer retina\n• Ciliary body: aqueous humor production and\naccommodation\n• Iris: regulates pupil size\nNeural (Inner) Layer\n• Retina: detects light and initiates visual signaling\nFig. 8.105 Gray’s Anatomy for Students, 3e.\nFibrous = protection/refraction | Vascular = nutrition/control | Neural = vision",
+        "image": "slides/path-004.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 5,
+        "text": "Cornea, Lens, Image Formation\n• Cornea: provides approximately two-thirds of the eye's refractive power\n• Lens: adjusts refractive power for near and distant vision\n• Light rays converge on the retina, forming an inverted and reversed image\n• Fovea centralis: region of highest visual acuity\nCornea = major refraction | Lens = adjustable focus | Retina = image detection\nconceptviz.app",
+        "image": "slides/path-005.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 6,
+        "text": "Ciliary Body & Accommodation\nDistant Vision\n• Ciliary muscle relaxes → zonular fibers tighten\n• Lens flattens → lower refractive power\nNear Vision\n• Ciliary muscle contracts → zonular fibers loosen\n• Lens becomes rounder → higher refractive power\nInnervation\n• Parasympathetic: CN III → ciliary ganglion → short ciliary nerves\nNear vision: ciliary muscle contracts → zonules relax → lens rounds",
+        "image": "slides/path-006.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 7,
+        "text": "Iris & Pupillary Control\nIris: pigmented diaphragm controlling pupil size\nSphincter Pupillae\n• Parasympathetic: CN III → ciliary ganglion\n→ short ciliary nerves\n• Contraction → miosis (pupil constriction)\nDilator Pupillae\n• Sympathetic: superior cervical ganglion\n→ long ciliary nerves (principal route)\n• Contraction → mydriasis (pupil dilation)\nFig. 8.103 Gray’s Anatomy for Students, 3e. .\nChampney. ECNA, 2016.",
+        "image": "slides/path-007.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 8,
+        "text": "Retina, Macula, Fovea & Optic Disc\nRetina\n• Neural layer responsible for light detection\n• Ganglion-cell axons form the optic nerve (CN II)\nMacula Lutea\n• Central retinal region responsible for detailed vision\n• Fovea centralis: highest cone density and visual acuity\nOptic Disc\n• Exit of optic nerve and central retinal vessels\n• No photoreceptors → physiological blind spot\nFovea = highest visual acuity | Optic disc = blind spot",
+        "image": "slides/path-008.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 9,
+        "text": "Fundus",
+        "image": "slides/path-009.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 10,
+        "text": "Papilledema\nNormal Papilledema",
+        "image": "slides/path-010.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 11,
+        "text": "Visual Fields & Visual Pathways\nEach cerebral hemisphere processes information from the opposite visual hemifield.",
+        "image": "slides/path-011.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 12,
+        "text": "Visual Fields vs Retinal Fields\nVisual Field\n• Area of space visible while looking straight ahead\n• Divided into right/left and superior/inferior visual fields\nRetinal Field\n• Image projected onto the retina is inverted and reversed\n• Left visual field → right half of each retina\n• Right visual field → left half of each retina\n• Superior visual field → inferior retina\nVisual field and retinal location are opposite\nSiegel, Essential Neuroscience",
+        "image": "slides/path-012.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 13,
+        "text": "Nasal vs Temporal Hemiretina\n• Each retina is divided into nasal and temporal hemiretinae\n• Temporal visual field → nasal retina\n• Nasal visual field → temporal retina\n• Each eye receives information from both visual hemifields\n• Binocular visual fields overlap centrally\nTemporal visual field → nasal retina\nNasal visual field → temporal retina\nSiegel, Essential Neuroscience",
+        "image": "slides/path-013.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 14,
+        "text": "Visual Pathway: Retina to Cortex\n• Retinal ganglion-cell axons form the optic nerve (CN II)\n• Optic nerves converge at the optic chiasm\n• Fibers continue as optic tracts\n• Most fibers synapse in the lateral geniculate nucleus (LGN) of the thalamus\n• Optic radiations project to the primary visual cortex (V1)\nRetina → CN II → Chiasm → Optic tract → LGN → Optic radiations → V1\nThe Visual Pathway\nBerger. CCNA",
+        "image": "slides/path-014.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 15,
+        "text": "Optic Chiasm: Which Fibers Cross?\n• Nasal retinal fibers cross at the optic chiasm\n• Temporal retinal fibers remain ipsilateral\n• Each optic tract carries information from the contralateral visual hemifield\n• Right optic tract → left visual field\n• Left optic tract → right visual field\nNasal fibers CROSS | Temporal fibers STAY\nWhich visual hemifield is carried by the right optic tract?\nThe Visual Pathway\nBerger. CCNA",
+        "image": "slides/path-015.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 16,
+        "text": "Lateral Geniculate Nucleus & Optic Radiations\nLateral Geniculate Nucleus (LGN)\n• Visual relay nucleus of the thalamus\n• Receives input from the contralateral visual hemifield\n• Projects to the primary visual cortex via optic radiations\nOptic Radiations\n• Temporal lobe (Meyer's loop): inferior retinal fibers → superior visual field\n• Parietal lobe: superior retinal fibers → inferior visual field\nMeyer's loop → superior visual field\nParietal radiations → inferior visual field\nSiegel, Essential Neuroscience",
+        "image": "slides/path-016.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 17,
+        "text": "Primary Visual Cortex (V1)\n• Located along the calcarine sulcus of the occipital lobe\n• Cuneus (superior bank): inferior visual field\n• Lingual gyrus (inferior bank): superior visual field\n• Occipital pole: central (macular) vision\n• More anterior visual cortex represents\nperipheral vision\nCuneus = inferior visual field\nLingual gyrus = superior visual field\nSiegel, Essential Neuroscience",
+        "image": "slides/path-017.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 18,
+        "text": "Visual Pathway: Three Rules for Localization\nRule 1 — Retinal Projection\n• Visual fields project to the opposite retinal halves\nRule 2 — Optic Chiasm\n• Nasal retinal fibers cross; temporal retinal fibers remain ipsilateral\nRule 3 — Cerebral Representation\n• Each hemisphere processes the contralateral visual hemifield\n• Temporal radiations carry superior-field information\n• Parietal radiations carry inferior-field information\nVisual field → Retina → CN II → Chiasm →\nOptic tract → LGN → Optic radiations → Cortex\nThe Visual Pathway\nBerger. CCNA",
+        "image": "slides/path-018.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 19,
+        "text": "Visual Field Defects & Lesion Localization",
+        "image": "slides/path-019.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 20,
+        "text": "Visual Field Defects: Localization Principles\n• Lesions along the visual pathway produce characteristic visual-field deficits\n• Prechiasmal lesions: monocular visual loss\n• Chiasmal lesions: heteronymous visual-field defects\n• Postchiasmal lesions: contralateral homonymous visual-field defects\n• Lesion location determines the pattern of visual loss\nBefore chiasm → monocular\nChiasm → heteronymous\nAfter chiasm → homonymous\nVisual Field Defects\nBerger. CCNA",
+        "image": "slides/path-020.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 21,
+        "text": "Optic Nerve & Optic Chiasm Lesions\nOptic Nerve Lesion\n• Ipsilateral monocular visual loss\n• Loss of visual input from the affected eye\nOptic Chiasm Lesion\n• Damage to crossing nasal retinal fibers\n• Bitemporal hemianopia\n• Classically associated with pituitary mass compression\nOptic nerve → monocular loss | Optic chiasm → bitemporal hemianopia\nVisual Field Defects\nBerger. CCNA",
+        "image": "slides/path-021.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 22,
+        "text": "Optic Tract Lesion\n• Each optic tract carries information from the contralateral visual hemifield\n• Lesion produces contralateral homonymous hemianopia\n• Both eyes lose the same half of their visual fields\nExample\n• Right optic tract lesion → left homonymous hemianopia\nRight optic tract lesion → left homonymous hemianopia\nVisual Field Defects\nBerger. CCNA",
+        "image": "slides/path-022.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 23,
+        "text": "Optic Radiations: Temporal vs Parietal Lesions\nTemporal Lobe — Meyer's Loop\n• Carries information from the contralateral superior visual field\n• Lesion → contralateral superior quadrantanopia\n• Pie in the sky\nParietal Lobe — Superior Optic Radiations\n• Carries information from the contralateral inferior visual field\n• Lesion → contralateral inferior quadrantanopia\n• Pie on the floor\nTemporal → superior field loss | Parietal → inferior field loss\nVisual Field Defects\nSiegel, Berger",
+        "image": "slides/path-023.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 24,
+        "text": "Primary Visual Cortex Lesions\n• Primary visual cortex (V1) lies along the calcarine sulcus\n• Unilateral lesion → contralateral homonymous hemianopia\n• Occipital pole: represents central (macular) vision\n• Some occipital lesions produce macular sparing\n• Common vascular association: posterior cerebral artery (PCA)\nSiegel, Essential Neuroscience",
+        "image": "slides/path-024.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 25,
+        "text": "Visual Field Defects: Summary\nLesion Site Visual Field Deficit\nOptic nerve Ipsilateral monocular visual loss\nOptic chiasm Bitemporal hemianopia\nOptic tract Contralateral homonymous hemianopia\nTemporal optic radiations Contralateral superior quadrantanopia\nParietal optic radiations Contralateral inferior quadrantanopia\nContralateral homonymous hemianopia ±\nPrimary visual cortex\nmacular sparing\nVisual Field Defects\nBerger. CCNA",
+        "image": "slides/path-025.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 26,
+        "text": "Visual System:\nStructure, Visual\nPathways, and Reflexes\nAftab Merchant, MBBS, FCPS, MHPE\nAssistant Dean of Anatomical Education\nProfessor of Medical Education\nCourse Director Anatomy and Neuroscience\nTel: (702) 545-2050 | aftab.merchant@unlv.edu\nSchedule an Appointment",
+        "image": "slides/path-026.png",
+        "width": 1867,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "id": "reflex",
+    "title": "Visual and Ocular Reflexes",
+    "source": "NNN 5.2B – Visual and Ocular Reflexes.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Visual and Ocular Reflexes",
+        "image": "slides/reflex-001.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 2,
+        "text": "Pupillary Light Reflex: Neural Pathway\n• Function: Regulates light entering the eye through pupillary\nconstriction (miosis)\n• Stimulus: Light entering the retina\n• Afferent limb (CN II): Retina → optic nerve → pretectal nuclei\n(midbrain)\n• Central connection: Pretectal nuclei → bilateral Edinger–\nWestphal nuclei\n• Efferent limb (CN III): Edinger–Westphal nucleus → CN III →\nciliary ganglion → short ciliary nerves → sphincter pupillae\n• Response: Direct and consensual pupillary constriction\nSingh. TCNA, 4e.",
+        "image": "slides/reflex-002.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 3,
+        "text": "Pupillary Light Reflex: CN II vs CN III Lesions\nLight in Light in\nLesion\nAffected Eye Unaffected Eye\nCN II\nNeither pupil constricts Both pupils constrict\n(afferent)\nCN III\nOnly unaffected pupil constricts Only unaffected pupil constricts\n(efferent)\nCN II lesion → defective sensory input\nCN III lesion → defective pupillary constriction\nSingh. TCNA, 4e.",
+        "image": "slides/reflex-003.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 4,
+        "text": "Relative Afferent Pupillary Defect (Marcus Gunn Pupil)\n• Cause: Reduced sensory input from one eye, commonly due to optic nerve disease\n• Test: Swinging flashlight test\n• Light in healthy eye → both pupils constrict\n• Light moved to affected eye → both pupils dilate relatively (reduced constriction)\n• Efferent CN III pathways remain intact\nRAPD → Afferent defect (CN II), not an efferent CN III lesion",
+        "image": "slides/reflex-004.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 5,
+        "text": "Near Response (Accommodation–Convergence)\nThe near response consists of three coordinated changes when shifting focus from a distant to\na near object.\n1. Accommodation: Ciliary muscle contracts → zonular fibers relax → lens becomes rounder\n2. Convergence: Medial rectus muscles contract (CN III) → eyes turn inward\n3. Pupillary Constriction (Miosis): Sphincter pupillae contracts → reduces pupil diameter\nNear response = Accommodation + Convergence + Miosis",
+        "image": "slides/reflex-005.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 6,
+        "text": "Neural Pathways of the Near Response\nAfferent Pathway\n• Retina → CN II → visual cortex → supranuclear near-response pathways\nEfferent Pathways\nParasympathetic (GVE)\n• Edinger–Westphal nucleus → CN III → ciliary ganglion\n• Ciliary muscle → accommodation\n• Sphincter pupillae → miosis\nSomatic Motor (GSE)\n• Oculomotor nucleus → CN III → medial rectus muscles\n• Bilateral eye convergence\nCN III coordinates all three components of the near response",
+        "image": "slides/reflex-006.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 7,
+        "text": "Light-Near Dissociation\n• Pupillary response to light is impaired\n• Pupillary constriction during near fixation is preserved or relatively better\nClinical Associations\n• Argyll Robertson pupil: small, irregular pupils; classically associated with neurosyphilis\n• Adie's tonic pupil: dilated pupil with slow, sustained near constriction\n• Parinaud syndrome: dorsal midbrain lesion disrupting pupillary light-reflex pathways\nLight response impaired | Near constriction relatively preserved",
+        "image": "slides/reflex-007.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 8,
+        "text": "Corneal (Blink) Reflex\n• Function: Protective reflex producing bilateral eyelid closure\n• Stimulus: Light touch of the cornea\n• Afferent limb (GSA): CN V1 (nasociliary nerve) → spinal trigeminal nucleus\n• Central connections: Trigeminal sensory pathways → bilateral facial motor nuclei\n• Efferent limb (SVE): CN VII → orbicularis oculi\n• Response: Bilateral blinking (direct + consensual)\nCorneal reflex: V1 in → VII out → bilateral blinking",
+        "image": "slides/reflex-008.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 9,
+        "text": "Corneal Reflex: Lesion Localization\nLesion Touch affected cornea Touch unaffected cornea\nCN V1 (afferent) Neither eye blinks Both eyes blink\nCN VII (efferent) Only unaffected eye blinks Only unaffected eye blinks\nClinical Correlation\n• CN V1 lesion: loss of sensory input from affected cornea\n• CN VII lesion: impaired ipsilateral eyelid closure (e.g., Bell palsy)",
+        "image": "slides/reflex-009.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 10,
+        "text": "Vestibulo-Ocular Reflex (VOR)\n• Function: Stabilizes gaze during head movement\n• Stimulus: Head rotation detected by semicircular canals\n• Afferent limb: Vestibular division of CN VIII\n• Central pathway: Vestibular nuclei → CN VI nucleus → MLF → CN III nucleus\n• Efferent limb: CN VI (lateral rectus) + CN III (medial rectus)\n• Response: Eyes move opposite to head rotation\n• Head turns one way → eyes move the opposite way\n• VOR stabilizes the retinal image during head movement\nwithout requiring conscious visual processing.\nVestibular Health Website",
+        "image": "slides/reflex-010.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 11,
+        "text": "Oculocephalic Reflex (Doll's Eye Maneuver)\n• Assesses vestibular–brainstem–ocular motor pathways in unconscious patients\n• Intact VOR: Eyes move opposite to head rotation, maintaining gaze direction in space\n• Absent VOR: Eyes remain stationary within the orbits and move with the head\n• Abnormal response may indicate brainstem dysfunction\nClinical Precaution\n• Do not perform if cervical spine instability is suspected\nEyes move left Eyes stay centered\nSchematic: in both examples the head turns right;\nthe eye positions within the orbits differ.\nOculocephalic reflex = clinical assessment of VOR integrity",
+        "image": "slides/reflex-011.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 12,
+        "text": "Medial Longitudinal Fasciculus (MLF)\n• Location: Paired white matter tract near the midline of the brainstem\n• Connects vestibular nuclei and ocular motor nuclei (CN III, IV, VI)\n• Coordinates conjugate eye movements\n• Essential for the vestibulo-ocular reflex\n• Lesion disrupts coordinated horizontal gaze\nMLF → coordinates eye movements\nbetween CN III, IV, VI and vestibular nuclei\nMLF spans from the upper medulla → pons →\nmidbrain, running close to the midline in the\ntegmentum of each section. Siegel, EN, 4e.",
+        "image": "slides/reflex-012.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 13,
+        "text": "Internuclear Ophthalmoplegia (INO)\n• Cause: Lesion of the medial longitudinal fasciculus (MLF)\n• Ipsilateral eye: Impaired adduction during horizontal gaze\n• Contralateral eye: Abducting nystagmus\n• Convergence: Usually preserved\n• Clinical associations: Multiple sclerosis (younger patients), brainstem stroke (older patients)\n• Example: Left MLF lesion → left eye fails to adduct on rightward gaze\nMLF lesion → ipsilateral adduction deficit + contralateral abducting nystagmus",
+        "image": "slides/reflex-013.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 14,
+        "text": "Summary\n• Cornea and lens: Refract light and focus images on the retina\n• Retina: Detects light; fovea provides highest visual acuity\n• Visual pathway: Retina → CN II → chiasm → optic tract → LGN → radiations → V1\n• Optic chiasm: Nasal fibers cross; each hemisphere processes the opposite visual field\n• Visual field defects: Optic nerve → monocular; chiasm → bitemporal; postchiasmal → homonymous loss\n• Pupillary light reflex: CN II → pretectal nuclei → Edinger–Westphal nuclei → CN III\n• Near reflex: Accommodation + convergence + miosis\n• Corneal reflex = V1 in → VII out\n• VOR and MLF: Coordinate eye movements; MLF lesions cause internuclear ophthalmoplegia (INO)",
+        "image": "slides/reflex-014.png",
+        "width": 1867,
+        "height": 1050
+      }
+    ]
+  }
+]

@@ -1,0 +1,1678 @@
+[
+  {
+    "key": "emb-1",
+    "deck": "emb",
+    "page": 1,
+    "title": "Developmental Neuroanatomy",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "emb-2",
+    "deck": "emb",
+    "page": 2,
+    "title": "Learning Objectives",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "emb-3",
+    "deck": "emb",
+    "page": 3,
+    "title": "Development of the Neural Tube",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q001",
+        "text": "The axial mesodermal notochord provides inductive signals to overlying ectoderm, initiating neural plate development."
+      },
+      {
+        "id": "Q002",
+        "text": "Plate bending creates a groove bounded by folds; fusion produces the tube and separates it from the future epidermis."
+      },
+      {
+        "id": "Q003",
+        "text": "SHH from notochord and floor plate patterns ventral neural tissue; the deck also names BMP/TGF-beta and Wnt pathways as participants in neurulation."
+      },
+      {
+        "id": "Q004",
+        "text": "Roof-plate/overlying ectoderm BMP signaling favors dorsal identities, whereas notochord/floor-plate SHH favors ventral identities. Wnt pathways also participate in plate shaping and regional patterning."
+      },
+      {
+        "id": "Q005",
+        "text": "Ventral basal plate develops motor regions, while dorsal alar plate contributes sensory processing regions; this is a high-yield extension of SHH/BMP patterning."
+      }
+    ],
+    "qualifications": [
+      "SHH is the classic ventral patterning signal; dorsal BMP/TGF-beta and Wnt pathways also participate. Neural induction is not identical to subsequent dorsal–ventral patterning."
+    ]
+  },
+  {
+    "key": "emb-4",
+    "deck": "emb",
+    "page": 4,
+    "title": "Neurulation (Week 4)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q006",
+        "text": "Closure begins near the future cervical region and progresses toward the cranial and caudal ends."
+      },
+      {
+        "id": "Q007",
+        "text": "These are the deck's approximate embryonic ages; closure is normally completed by the end of week 4."
+      },
+      {
+        "id": "Q008",
+        "text": "The neural canal persists as the CSF-containing ventricular system and central canal; the tube wall becomes CNS tissue."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-5",
+    "deck": "emb",
+    "page": 5,
+    "title": "Neural Tube",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q009",
+        "text": "The telencephalon is a secondary forebrain vesicle and produces the hemispheres surrounding the lateral ventricles."
+      },
+      {
+        "id": "Q010",
+        "text": "The diencephalon surrounds the third ventricle and gives rise to these forebrain structures, including the neural retina."
+      },
+      {
+        "id": "Q011",
+        "text": "The mesencephalon remains the midbrain, and its narrow cavity becomes the cerebral aqueduct."
+      },
+      {
+        "id": "Q012",
+        "text": "The rostral secondary hindbrain vesicle forms pons and cerebellum and contributes to the fourth ventricular cavity."
+      },
+      {
+        "id": "Q013",
+        "text": "Myelencephalon is the caudal secondary hindbrain vesicle; its cavity contributes to the fourth ventricle and transition to the central canal."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-6",
+    "deck": "emb",
+    "page": 6,
+    "title": "Neural Crest",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q014",
+        "text": "EMT permits crest cells to delaminate and migrate into peripheral and craniofacial sites. Timing varies by region; cranial migration can begin before complete tube closure."
+      },
+      {
+        "id": "Q015",
+        "text": "Sensory ganglia, peripheral glia, and chromaffin cells are classic neural crest derivatives shown in the source diagram."
+      },
+      {
+        "id": "Q016",
+        "text": "Crest cells normally form enteric ganglia; failure to populate distal bowel causes Hirschsprung disease, a related application of the diagram's enteric nervous system derivative."
+      },
+      {
+        "id": "Q017",
+        "text": "Pigment cells and dentin-producing odontoblasts are crest derivatives; enamel-producing ameloblasts instead arise from oral ectoderm."
+      },
+      {
+        "id": "Q018",
+        "text": "These structures develop from neural tube neuroectoderm, with retina and posterior pituitary associated with forebrain outgrowths."
+      },
+      {
+        "id": "Q019",
+        "text": "Lens/corneal epithelium and epidermal appendages derive from surface ectoderm; oral and otic ectoderm produce adenohypophysis/enamel and inner ear, respectively."
+      },
+      {
+        "id": "Q020",
+        "text": "The source chart lists these endodermal epithelia, together with middle-ear/auditory-tube/tonsillar epithelia and much of bladder/urachal lining. Surrounding connective tissues can have other origins."
+      },
+      {
+        "id": "Q021",
+        "text": "Intermediate mesoderm supplies urogenital organs, ducts, and associated structures."
+      },
+      {
+        "id": "Q022",
+        "text": "These are the diagram's broad derivative groups. Blood/lymph lineages, spleen, and adrenal cortex are mesodermal; cranial connective tissue also has substantial neural crest contributions."
+      },
+      {
+        "id": "Q023",
+        "text": "Cranial ectomesenchyme is crest-derived, so the diagram's broad 'head mesoderm/dentin' grouping should not override the specific odontoblast lineage."
+      }
+    ],
+    "qualifications": [
+      "The original diagram is retained unchanged. Its dentin/head-mesoderm grouping is simplified: odontoblasts are cranial neural crest-derived. Cranial crest migration can start before full tube closure, so the timing bullet is not universal. Cranial sensory ganglia may have both placodal and crest contributions."
+    ]
+  },
+  {
+    "key": "emb-7",
+    "deck": "emb",
+    "page": 7,
+    "title": "Failure of Neural Tube Closure",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q024",
+        "text": "Anencephaly follows failure of cranial neural tube closure and involves severe loss of cerebral hemispheres and calvarium."
+      },
+      {
+        "id": "Q025",
+        "text": "Failure of posterior closure is associated with open spinal dysraphism. A simple closed vertebral arch defect is distinguished from exposed neural tissue."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-8",
+    "deck": "emb",
+    "page": 8,
+    "title": "Spina Bifida",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q026",
+        "text": "A bony posterior arch defect without meningeal/neural herniation is the defining finding; some cutaneous markers warrant evaluation for occult dysraphism."
+      },
+      {
+        "id": "Q027",
+        "text": "The sac contains meninges and CSF without spinal cord; neurologic deficits are often absent but depend on associated abnormalities."
+      },
+      {
+        "id": "Q028",
+        "text": "Myelomeningocele contains neural tissue and may cause motor, sensory, and bowel/bladder deficits; exposed tissue increases infection risk."
+      },
+      {
+        "id": "Q029",
+        "text": "Myelomeningocele is strongly associated with Chiari II and hydrocephalus; this is a related NBME association beyond sac-content classification."
+      }
+    ],
+    "qualifications": [
+      "Occulta is a closed vertebral arch defect; open neural lesions differ in sac contents and neurologic risk. Cutaneous markers can accompany more complex occult dysraphism."
+    ]
+  },
+  {
+    "key": "emb-9",
+    "deck": "emb",
+    "page": 9,
+    "title": "Cervical meningocele and myelomeningocele photographs",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q030",
+        "text": "A meningocele contains meninges/CSF, whereas a myelomeningocele contains neural tissue; location or external appearance alone cannot reliably establish contents."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-10",
+    "deck": "emb",
+    "page": 10,
+    "title": "Neural Tube Defects (NTDs): Risk Factors & Prevention",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q031",
+        "text": "Closure occurs during the first month after fertilization, often before pregnancy recognition, so adequate folate must be present early."
+      },
+      {
+        "id": "Q032",
+        "text": "The deck specifically identifies valproate and carbamazepine as associated with increased NTD risk; medication planning requires individualized clinical review."
+      },
+      {
+        "id": "Q033",
+        "text": "NTDs are multifactorial: folate, medications such as carbamazepine/valproate, and genetic susceptibility all matter."
+      },
+      {
+        "id": "Q034",
+        "text": "Open neural tissue can produce elevated amniotic AFP and acetylcholinesterase; AFP is a screening clue rather than a standalone diagnosis."
+      },
+      {
+        "id": "Q035",
+        "text": "CDC recommends 400 micrograms daily; previous NTD pregnancy requires clinician-directed higher-dose planning rather than automatically using the average-risk amount."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-11",
+    "deck": "emb",
+    "page": 11,
+    "title": "Anencephaly & Holoprosencephaly",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q036",
+        "text": "Holoprosencephaly is defective forebrain cleavage, with severe forms producing cyclopia and other midline facial defects."
+      },
+      {
+        "id": "Q037",
+        "text": "SHH is important in midline patterning, and trisomy 13 is a classic chromosomal association of holoprosencephaly."
+      },
+      {
+        "id": "Q038",
+        "text": "Holoprosencephaly instead reflects failure of forebrain division; both can be severe, but the developmental mechanisms differ."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-12",
+    "deck": "emb",
+    "page": 12,
+    "title": "Other Disorders of Brain Development",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q039",
+        "text": "Lissencephaly is a cortical migration disorder; LIS1/PAFAH1B1 and DCX are classic associated genes."
+      },
+      {
+        "id": "Q040",
+        "text": "Both participate in neuronal migration; variants can produce abnormal cortical gyration and neurodevelopmental impairment."
+      },
+      {
+        "id": "Q041",
+        "text": "Microcephaly is an abnormally small head associated with impaired brain growth; genetic disorders and congenital infections are relevant causes."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-13",
+    "deck": "emb",
+    "page": 13,
+    "title": "Pharyngeal Apparatus",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "emb-14",
+    "deck": "emb",
+    "page": 14,
+    "title": "Neural Crest → Pharyngeal Arches",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q042",
+        "text": "Crest contributes extensively to arch cartilage, bone, connective tissue, and vascular smooth muscle; arch skeletal muscle is principally mesodermal."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-15",
+    "deck": "emb",
+    "page": 15,
+    "title": "Pharyngeal Apparatus Overview",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q043",
+        "text": "The pharyngeal apparatus becomes apparent early in week 4 and develops through this interval."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-16",
+    "deck": "emb",
+    "page": 16,
+    "title": "Arch 1 (Mandibular Arch)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q044",
+        "text": "The mandibular arch contributes these structures. Much of the mandible ossifies in crest-derived mesenchyme adjacent to Meckel cartilage rather than simply replacing that cartilage."
+      },
+      {
+        "id": "Q045",
+        "text": "V3 provides branchial motor supply to first-arch muscles, including these muscles and the tensor muscles."
+      },
+      {
+        "id": "Q046",
+        "text": "Both are first-arch muscles; tensor veli palatini is the important exception to most palate muscles being supplied by vagus."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-17",
+    "deck": "emb",
+    "page": 17,
+    "title": "Arch 2 (Hyoid Arch)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q047",
+        "text": "Reichert cartilage of the second arch contributes this group; stapes fixation can impair sound transmission."
+      },
+      {
+        "id": "Q048",
+        "text": "These are all supplied by CN VII, the second-arch nerve."
+      },
+      {
+        "id": "Q049",
+        "text": "CN VII innervates facial expression, orbicularis oculi, and stapedius; these are second-arch muscles."
+      },
+      {
+        "id": "Q050",
+        "text": "Reichert cartilage derivatives include stapes, styloid process, stylohyoid ligament, and upper/lesser-horn hyoid components."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-18",
+    "deck": "emb",
+    "page": 18,
+    "title": "Arch 3 (Glossopharyngeal Arch)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q051",
+        "text": "The third arch forms this skeletal/muscle group; glossopharyngeal nerve also supplies gag afference."
+      },
+      {
+        "id": "Q052",
+        "text": "Glossopharyngeal provides the classic gag afferent limb; its arch muscle is stylopharyngeus. This sensory role is distinct from vagal gag motor output."
+      },
+      {
+        "id": "Q053",
+        "text": "Second contributes lesser horn/upper body, while third contributes greater horn/lower body."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-19",
+    "deck": "emb",
+    "page": 19,
+    "title": "Arches 4 & 6 (Laryngeal Arches)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q054",
+        "text": "Cricothyroid is a fourth-arch muscle innervated by this vagal branch; most other intrinsic laryngeal muscles use recurrent laryngeal nerve."
+      },
+      {
+        "id": "Q055",
+        "text": "Sixth-arch muscles receive recurrent laryngeal innervation; cricothyroid is the fourth-arch exception."
+      },
+      {
+        "id": "Q056",
+        "text": "These exceptions are common exam discriminators when interpreting broad vagal pharyngeal/palatal associations."
+      },
+      {
+        "id": "Q057",
+        "text": "These arches contribute laryngeal skeletal elements; cartilage contributions can be complex, so the grouped framework is the useful relationship."
+      }
+    ],
+    "qualifications": [
+      "Separate fourth-arch superior laryngeal/cricothyroid relationships from sixth-arch recurrent laryngeal/other intrinsic laryngeal muscles. Stylopharyngeus and tensor veli palatini are important IX and V3 exceptions."
+    ]
+  },
+  {
+    "key": "emb-20",
+    "deck": "emb",
+    "page": 20,
+    "title": "Skeletal Structures of the Head and Face",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q058",
+        "text": "The diagram contrasts broad anterior crest and posterior mesodermal territories. Its label 'occipital somites' for all red areas is simplified; parietal bone is broadly paraxial mesodermal rather than entirely occipital-somite derived."
+      },
+      {
+        "id": "Q059",
+        "text": "These facial bones are in the illustrated crest-derived region, along with much of the anterior skull and hyoid-related skeleton."
+      }
+    ],
+    "qualifications": [
+      "The source color map is a broad crest-versus-mesoderm teaching schematic. Not all mesodermal skull territory is derived specifically from occipital somites."
+    ]
+  },
+  {
+    "key": "emb-21",
+    "deck": "emb",
+    "page": 21,
+    "title": "Agnathia",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q060",
+        "text": "Agnathia denotes absent mandible/extreme first-arch hypoplasia and can be incompatible with life; deficient crest contribution is the mechanism emphasized by the deck."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-22",
+    "deck": "emb",
+    "page": 22,
+    "title": "Treacher Collins Syndrome – Clinical Features",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q061",
+        "text": "This constellation is mandibulofacial dysostosis, commonly involving TCOF1 and abnormal cranial crest development/survival."
+      },
+      {
+        "id": "Q062",
+        "text": "TCOF1 is the most common association, and severity can vary; other genes/inheritance patterns exist, so this is the typical rather than exclusive pattern."
+      },
+      {
+        "id": "Q063",
+        "text": "Malformed external/middle-ear structures impair sound transmission; a first-arch malformation need not damage cochlear hair cells to cause hearing loss."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-23",
+    "deck": "emb",
+    "page": 23,
+    "title": "Pierre Robin Sequence",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q064",
+        "text": "Pierre Robin sequence begins with mandibular hypoplasia; secondary tongue-position effects disrupt palatal development and can impair feeding/breathing."
+      },
+      {
+        "id": "Q065",
+        "text": "The tongue falls posteriorly in the setting of micrognathia, contributing to airway obstruction and interference with palate formation."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-24",
+    "deck": "emb",
+    "page": 24,
+    "title": "Pharyngeal Apparatus: Arches, Pouches & Clefts",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q066",
+        "text": "Each arch contains skeletal, muscle, arterial, and nerve components in this layered organization."
+      },
+      {
+        "id": "Q067",
+        "text": "This distinction predicts derivatives such as middle ear from first pouch and external meatus from first cleft."
+      },
+      {
+        "id": "Q068",
+        "text": "The left distal sixth arch forms ductus arteriosus; proximal sixth arches contribute pulmonary arteries. This extends the deck's artery-per-arch concept."
+      },
+      {
+        "id": "Q069",
+        "text": "The third arch is carotid-associated; fourth forms left aortic arch/right proximal subclavian, while sixth is pulmonary/ductus-associated."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-25",
+    "deck": "emb",
+    "page": 25,
+    "title": "Pouches",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q070",
+        "text": "The first pouch tubotympanic recess forms these endodermal epithelial spaces; the external canal instead comes from first cleft."
+      },
+      {
+        "id": "Q071",
+        "text": "Second pouch contributes tonsillar epithelium and crypts; lymphocytes subsequently populate the tissue from hematopoietic lineages."
+      },
+      {
+        "id": "Q072",
+        "text": "Inferior parathyroids descend with thymic tissue from third pouch, traveling farther than fourth-pouch superior glands and allowing ectopic locations."
+      },
+      {
+        "id": "Q073",
+        "text": "The deck groups this with fourth pouch (sometimes termed fourth/fifth complex). Modern mammalian lineage evidence supports an endodermal C-cell origin; older charts often label them neural crest-derived."
+      },
+      {
+        "id": "Q074",
+        "text": "The DiGeorge phenotype links thymic/parathyroid hypoplasia to T-cell deficiency and hypocalcemia, often in 22q11.2 deletion with conotruncal abnormalities."
+      },
+      {
+        "id": "Q075",
+        "text": "Thymic epithelial development is necessary for normal T-cell maturation; third-pouch dysfunction can therefore impair cellular immunity."
+      },
+      {
+        "id": "Q076",
+        "text": "The eardrum illustrates first membrane formation at the interface of external canal and middle-ear cavity."
+      }
+    ],
+    "qualifications": [
+      "Pouch contributions refer principally to epithelial primordia, not every cell in the mature organ. C-cell contribution is through ultimobranchial bodies; modern mammalian lineage studies support endoderm rather than the older universal neural-crest assignment."
+    ]
+  },
+  {
+    "key": "emb-26",
+    "deck": "emb",
+    "page": 26,
+    "title": "Branchial (Pharyngeal) Clefts",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q077",
+        "text": "The first ectodermal cleft forms the external acoustic meatus; clefts 2–4 are normally overgrown and obliterated."
+      },
+      {
+        "id": "Q078",
+        "text": "Persistence of second-cleft/cervical sinus tissue produces a lateral neck cyst, sinus, or fistula."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-27",
+    "deck": "emb",
+    "page": 27,
+    "title": "Branchial Cleft Cyst (Lateral Cervical Cyst)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q079",
+        "text": "The location and behavior are characteristic of a branchial cleft cyst."
+      },
+      {
+        "id": "Q080",
+        "text": "A fistula has two openings; a sinus has one opening, and a cyst is a closed cavity."
+      },
+      {
+        "id": "Q081",
+        "text": "A single opening with a blind end is a sinus."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-28",
+    "deck": "emb",
+    "page": 28,
+    "title": "Thyroid Development",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q082",
+        "text": "The thyroid primordium appears near this midline site in week 4 and descends into the neck through the thyroglossal tract."
+      },
+      {
+        "id": "Q083",
+        "text": "Regression leaves the thyroid separated from the original tongue-base site; persistent tissue can form a cyst or ectopic gland."
+      },
+      {
+        "id": "Q084",
+        "text": "The figure's pyramidal lobe is a thyroid-descent remnant; a cyst and lingual thyroid are other abnormalities related to this pathway."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-29",
+    "deck": "emb",
+    "page": 29,
+    "title": "Clinical: Thyroid Development",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q085",
+        "text": "Attachment along the thyroid's migration path accounts for characteristic midline position and movement."
+      },
+      {
+        "id": "Q086",
+        "text": "Thyroid tissue can remain at the original tongue-base region; ectopic tissue may be the patient's only functioning thyroid."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-30",
+    "deck": "emb",
+    "page": 30,
+    "title": "Thyroglossal Duct Cyst vs. Branchial Cleft Cyst",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q087",
+        "text": "These classic patterns distinguish thyroid-tract remnants from second-cleft/cervical sinus remnants, although real masses still require evaluation."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-31",
+    "deck": "emb",
+    "page": 31,
+    "title": "Development of the Face",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "emb-32",
+    "deck": "emb",
+    "page": 32,
+    "title": "Facial Prominences",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q088",
+        "text": "This is the five-prominence organization; maxillary and mandibular prominences are first-arch components."
+      },
+      {
+        "id": "Q089",
+        "text": "The paired first-arch mandibular prominences contribute the lower face and jaw."
+      },
+      {
+        "id": "Q090",
+        "text": "Maxillary prominences form these upper facial regions and also give rise to secondary palatal shelves."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-33",
+    "deck": "emb",
+    "page": 33,
+    "title": "Development of the Face",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q091",
+        "text": "Their merger produces the intermaxillary segment, including central upper lip/philtrum and primary palate."
+      },
+      {
+        "id": "Q092",
+        "text": "Failure of this union produces the classic cleft lip."
+      },
+      {
+        "id": "Q093",
+        "text": "The lateral nasal prominences contribute the nasal alae; medial prominences contribute the intermaxillary segment."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-34",
+    "deck": "emb",
+    "page": 34,
+    "title": "Palate Formation",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q094",
+        "text": "This is the primary palate; the incisive foramen is a key boundary with secondary palate."
+      },
+      {
+        "id": "Q095",
+        "text": "The shelves elevate and fuse, forming the remaining hard palate and the soft palate."
+      },
+      {
+        "id": "Q096",
+        "text": "These fusions establish the roof of the mouth and separation of oral/nasal spaces."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-35",
+    "deck": "emb",
+    "page": 35,
+    "title": "Palate Formation: Stepwise Sequence",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q097",
+        "text": "The shelves initially lie vertically; clearance by the descending tongue permits horizontal elevation and subsequent fusion."
+      },
+      {
+        "id": "Q098",
+        "text": "Reduced mandibular space and glossoptosis interfere mechanically with normal shelf repositioning, as in Pierre Robin sequence."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-36",
+    "deck": "emb",
+    "page": 36,
+    "title": "Normal and Abnormal Development of the Lip and Palate",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q099",
+        "text": "An isolated cleft palate can occur with a normal lip and causes feeding, regurgitation, and speech problems."
+      },
+      {
+        "id": "Q100",
+        "text": "Primary palate is anterior to this landmark; secondary palate is posterior. Clefts can extend across this boundary."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-37",
+    "deck": "emb",
+    "page": 37,
+    "title": "Cleft Lip and Palate (Facial Clefts)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q101",
+        "text": "This related image-based application distinguishes an oblique facial cleft from the more common maxillary–medial nasal cleft lip."
+      },
+      {
+        "id": "Q102",
+        "text": "Their merger forms the central intermaxillary segment; failure can produce a median upper-lip cleft."
+      },
+      {
+        "id": "Q103",
+        "text": "Lip defects concern facial prominence union; palatal defects concern shelves and their connections. Either may occur alone or together."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "emb-38",
+    "deck": "emb",
+    "page": 38,
+    "title": "Developmental",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "path-1",
+    "deck": "path",
+    "page": 1,
+    "title": "Visual System",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "path-2",
+    "deck": "path",
+    "page": 2,
+    "title": "Learning Objectives (2026)",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "path-3",
+    "deck": "path",
+    "page": 3,
+    "title": "Eye Structure & Image Formation",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "path-4",
+    "deck": "path",
+    "page": 4,
+    "title": "Layers of the Eyeball",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q104",
+        "text": "Sclera provides protection and extraocular muscle attachment; transparent cornea is the major refractive surface."
+      },
+      {
+        "id": "Q105",
+        "text": "These form the middle vascular layer, supporting nutrition, accommodation/aqueous production, and pupil control."
+      },
+      {
+        "id": "Q106",
+        "text": "The choroid/choriocapillaris supplies the outer retina; the central retinal artery primarily supplies the inner retina."
+      },
+      {
+        "id": "Q107",
+        "text": "Ciliary processes produce aqueous, and ciliary muscle changes zonular tension to alter lens shape."
+      },
+      {
+        "id": "Q108",
+        "text": "This related anatomy explains why impaired anterior chamber angle drainage can increase intraocular pressure; aqueous originates in ciliary processes."
+      },
+      {
+        "id": "Q109",
+        "text": "The small aqueous posterior chamber is not the large postremal/vitreous compartment; anterior chamber lies between cornea and iris."
+      },
+      {
+        "id": "Q110",
+        "text": "The serrated retinal margin marks transition toward nonphotosensitive ciliary epithelium; vitreous occupies the large compartment behind the lens."
+      },
+      {
+        "id": "Q111",
+        "text": "Rhegmatogenous detachment separates neurosensory retina from RPE, threatening photoreceptor support; this applies the illustrated retinal/choroidal layering."
+      },
+      {
+        "id": "Q112",
+        "text": "Impaired aqueous outflow rapidly raises pressure, linking chamber/iris anatomy to a high-yield ocular emergency."
+      }
+    ],
+    "qualifications": [
+      "Posterior aqueous chamber is distinct from the large vitreous/postremal chamber. Conventional aqueous outflow uses the trabecular meshwork and scleral venous sinus."
+    ]
+  },
+  {
+    "key": "path-5",
+    "deck": "path",
+    "page": 5,
+    "title": "Cornea, Lens, Image Formation",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q113",
+        "text": "The air-cornea interface supplies most fixed refractive power; the lens provides adjustable focusing."
+      },
+      {
+        "id": "Q114",
+        "text": "The ocular optical system reverses image orientation, so superior field projects inferiorly and right field onto left retinal halves."
+      },
+      {
+        "id": "Q115",
+        "text": "A negative lens reduces effective convergence, moving the focus posteriorly onto the retina."
+      },
+      {
+        "id": "Q116",
+        "text": "A less deformable lens cannot round adequately for near focus despite ciliary activation; this extends the slide's adjustable-focus concept."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-6",
+    "deck": "path",
+    "page": 6,
+    "title": "Ciliary Body & Accommodation",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q117",
+        "text": "Parasympathetic ciliary contraction reduces suspensory tension, increasing lens curvature and refractive power."
+      },
+      {
+        "id": "Q118",
+        "text": "Preganglionic oculomotor fibers synapse in ciliary ganglion; postganglionic short ciliary fibers activate ciliary muscle."
+      },
+      {
+        "id": "Q119",
+        "text": "Relaxation increases zonular traction and reduces lens curvature/power."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-7",
+    "deck": "path",
+    "page": 7,
+    "title": "Iris & Pupillary Control",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q120",
+        "text": "Circular sphincter contraction produces miosis; its efferent route differs from sympathetic dilation."
+      },
+      {
+        "id": "Q121",
+        "text": "These fibers travel along the carotid/orbital pathway and chiefly through long ciliary nerves to produce mydriasis."
+      },
+      {
+        "id": "Q122",
+        "text": "Loss of sympathetic dilation causes miosis in Horner syndrome; the deck's sympathetic iris pathway explains the pupil finding."
+      },
+      {
+        "id": "Q123",
+        "text": "Muscarinic blockade prevents parasympathetic miosis and accommodation, causing mydriasis and cycloplegia."
+      },
+      {
+        "id": "Q124",
+        "text": "Sympathetic postganglionic and sensory fibers pass through without using this ganglion as their autonomic synapse."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-8",
+    "deck": "path",
+    "page": 8,
+    "title": "Retina, Macula, Fovea & Optic Disc",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q125",
+        "text": "Retinal ganglion-cell axons converge at the optic disc to form CN II."
+      },
+      {
+        "id": "Q126",
+        "text": "The fovea specializes in detailed central vision, whereas peripheral retina is more rod-rich."
+      },
+      {
+        "id": "Q127",
+        "text": "The disc is an exit/entry site, so incident light at that retinal location cannot be directly detected."
+      },
+      {
+        "id": "Q128",
+        "text": "Rods are highly sensitive for scotopic vision; cones support color and high spatial acuity, especially in fovea."
+      },
+      {
+        "id": "Q129",
+        "text": "Phototransduction activates transducin/phosphodiesterase, lowering cGMP and decreasing glutamate release; darkness keeps cGMP-gated channels open."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-9",
+    "deck": "path",
+    "page": 9,
+    "title": "Normal fundus landmarks",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q130",
+        "text": "The source fundus images show the disc/vessels nasally and the macula temporally; the macular center is fovea."
+      },
+      {
+        "id": "Q131",
+        "text": "Damage to central high-acuity retina impairs reading and detailed fixation while peripheral retina can remain functional."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-10",
+    "deck": "path",
+    "page": 10,
+    "title": "Normal disc versus papilledema",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q132",
+        "text": "Papilledema is a pressure-related diagnosis, typically bilateral; other causes of disc edema must be distinguished."
+      },
+      {
+        "id": "Q133",
+        "text": "The optic nerve is a CNS extension with meningeal coverings; raised pressure can impair axoplasmic transport at the disc."
+      },
+      {
+        "id": "Q134",
+        "text": "Disc swelling can enlarge the blind spot; central acuity may be relatively preserved early, so a normal reading test does not exclude it."
+      }
+    ],
+    "qualifications": [
+      "Papilledema means optic disc edema specifically due to raised intracranial pressure; the term does not cover every cause of a swollen disc."
+    ]
+  },
+  {
+    "key": "path-11",
+    "deck": "path",
+    "page": 11,
+    "title": "Visual Fields & Visual Pathways",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "path-12",
+    "deck": "path",
+    "page": 12,
+    "title": "Visual Fields vs Retinal Fields",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q135",
+        "text": "Left space maps to the right half of each retina: nasal half in the left eye and temporal half in the right eye."
+      },
+      {
+        "id": "Q136",
+        "text": "Vertical inversion places superior visual space on inferior retinal tissue, whose temporal radiation pathway includes Meyer's loop."
+      },
+      {
+        "id": "Q137",
+        "text": "Right field maps to left retinal halves, and inferior field maps superiorly. Nasal right-eye fibers cross to join left temporal-eye fibers in the left pathway."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-13",
+    "deck": "path",
+    "page": 13,
+    "title": "Nasal vs Temporal Hemiretina",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q138",
+        "text": "Horizontal image reversal maps temporal visual space onto nasal retina."
+      },
+      {
+        "id": "Q139",
+        "text": "Nasal and temporal retinal halves in each eye receive opposite visual-space halves; the central region is binocular."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-14",
+    "deck": "path",
+    "page": 14,
+    "title": "Visual Pathway: Retina to Cortex",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q140",
+        "text": "This is the deck's principal retinogeniculocalcarine pathway; not all retinal fibers terminate in LGN."
+      },
+      {
+        "id": "Q141",
+        "text": "Most optic tract fibers relay in LGN before reaching cortex through optic radiations."
+      },
+      {
+        "id": "Q142",
+        "text": "The light reflex does not require intact conscious visual cortex, unlike cortical perception of the image."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-15",
+    "deck": "path",
+    "page": 15,
+    "title": "Optic Chiasm: Which Fibers Cross?",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q143",
+        "text": "Crossing nasal fibers join uncrossed temporal retinal fibers from the opposite eye to encode a shared contralateral hemifield."
+      },
+      {
+        "id": "Q144",
+        "text": "It contains crossed left nasal retinal fibers and uncrossed right temporal retinal fibers."
+      },
+      {
+        "id": "Q145",
+        "text": "Both encode right visual space, with the nasal right-eye population crossing at chiasm."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-16",
+    "deck": "path",
+    "page": 16,
+    "title": "Lateral Geniculate Nucleus & Optic Radiations",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q146",
+        "text": "Inferior retinal fibers loop through temporal lobe to inferior calcarine cortex; injury causes superior quadrantanopia."
+      },
+      {
+        "id": "Q147",
+        "text": "The superior optic radiations travel parietally; their lesions cause inferior quadrantanopia."
+      },
+      {
+        "id": "Q148",
+        "text": "Each LGN receives combined input from both eyes after chiasmal sorting and sends optic radiations to cortex on its own side."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-17",
+    "deck": "path",
+    "page": 17,
+    "title": "Primary Visual Cortex (V1)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q149",
+        "text": "V1/area 17 lies on the medial occipital surface around calcarine sulcus."
+      },
+      {
+        "id": "Q150",
+        "text": "Superior bank/cuneus represents contralateral inferior visual field."
+      },
+      {
+        "id": "Q151",
+        "text": "Inferior calcarine bank/lingual gyrus represents contralateral superior field."
+      },
+      {
+        "id": "Q152",
+        "text": "Central vision is represented posteriorly with extensive cortical allocation; more anterior calcarine regions represent peripheral vision."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-18",
+    "deck": "path",
+    "page": 18,
+    "title": "Visual Pathway: Three Rules for Localization",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q153",
+        "text": "Inferior retina represents upper space, and left postchiasmal pathways carry right space; temporal fibers are Meyer's loop."
+      },
+      {
+        "id": "Q154",
+        "text": "This avoids mistaking temporal visual field for temporal retina and keeps eye side distinct from hemifield side."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-19",
+    "deck": "path",
+    "page": 19,
+    "title": "Visual Field Defects & Lesion Localization",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "path-20",
+    "deck": "path",
+    "page": 20,
+    "title": "Visual Field Defects: Localization Principles",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q155",
+        "text": "Prechiasmal lesions affect one eye; exact pattern depends on lesion extent and site."
+      },
+      {
+        "id": "Q156",
+        "text": "This is a postchiasmal pattern; the affected hemifield is opposite the cerebral lesion."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-21",
+    "deck": "path",
+    "page": 21,
+    "title": "Optic Nerve & Optic Chiasm Lesions",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q157",
+        "text": "The right optic nerve contains all afferent visual information from the right eye before chiasmal sorting."
+      },
+      {
+        "id": "Q158",
+        "text": "Each nasal hemiretina detects its temporal field, so midline chiasmal compression by a pituitary mass causes bitemporal hemianopia."
+      },
+      {
+        "id": "Q159",
+        "text": "Retinal location and visual-field location are opposite; this is the key step in the chiasm question."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-22",
+    "deck": "path",
+    "page": 22,
+    "title": "Optic Tract Lesion",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q160",
+        "text": "The left tract carries right visual-space information from both eyes."
+      },
+      {
+        "id": "Q161",
+        "text": "These encode the left hemifield and join within the right tract after nasal crossing."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-23",
+    "deck": "path",
+    "page": 23,
+    "title": "Optic Radiations: Temporal vs Parietal Lesions",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q162",
+        "text": "Left temporal inferior retinal fibers carry right superior visual-space information, producing 'pie in the sky' loss."
+      },
+      {
+        "id": "Q163",
+        "text": "Right parietal superior retinal fibers encode left inferior space: 'pie on the floor.'"
+      },
+      {
+        "id": "Q164",
+        "text": "These patterns follow retinal inversion and ipsilateral radiation projections from LGN to V1."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-24",
+    "deck": "path",
+    "page": 24,
+    "title": "Primary Visual Cortex Lesions",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q165",
+        "text": "PCA supplies much medial occipital visual cortex; sparing of macular cortex can preserve central vision, and the light reflex can remain intact because it uses pretectal pathways."
+      },
+      {
+        "id": "Q166",
+        "text": "This often supports occipital involvement with spared macular cortex, sometimes due to collateral supply, but is not obligatory or absolutely site-specific."
+      },
+      {
+        "id": "Q167",
+        "text": "Posterior occipital cortex represents the macular field; more anterior regions represent peripheral visual space."
+      }
+    ],
+    "qualifications": [
+      "Macular sparing is common in some occipital lesions, but is neither required nor perfectly specific. Sparing reflects preserved central-field representation, sometimes with collateral supply."
+    ]
+  },
+  {
+    "key": "path-25",
+    "deck": "path",
+    "page": 25,
+    "title": "Visual Field Defects: Summary",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q168",
+        "text": "Parietal radiations carry contralateral inferior field information."
+      },
+      {
+        "id": "Q169",
+        "text": "This affects input from only the right eye. Left tract, LGN, radiations, or V1 can produce right homonymous loss."
+      },
+      {
+        "id": "Q170",
+        "text": "Testing each eye demonstrates a binocular hemifield deficit, supporting left postchiasmal localization."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "path-26",
+    "deck": "path",
+    "page": 26,
+    "title": "Visual System:",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-1",
+    "deck": "reflex",
+    "page": 1,
+    "title": "Visual and Ocular Reflexes",
+    "instructional": false,
+    "items": [],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-2",
+    "deck": "reflex",
+    "page": 2,
+    "title": "Pupillary Light Reflex: Neural Pathway",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q171",
+        "text": "Retinal ganglion axons carry the light signal through optic nerve pathways toward pretectal nuclei."
+      },
+      {
+        "id": "Q172",
+        "text": "Bilateral central connections distribute one eye's light signal to both parasympathetic outputs, producing direct and consensual responses."
+      },
+      {
+        "id": "Q173",
+        "text": "Its axons run with III and synapse in ciliary ganglion before reaching sphincter pupillae."
+      },
+      {
+        "id": "Q174",
+        "text": "This orbital parasympathetic ganglion relays output to sphincter pupillae and ciliary muscle."
+      },
+      {
+        "id": "Q175",
+        "text": "The contralateral pupil constricts through bilateral pretectal–Edinger–Westphal connections."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-3",
+    "deck": "reflex",
+    "page": 3,
+    "title": "Pupillary Light Reflex: CN II vs CN III Lesions",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q176",
+        "text": "Left afferent input is absent, but both efferent pathways work when the right retina is stimulated."
+      },
+      {
+        "id": "Q177",
+        "text": "An efferent defect prevents the affected pupil from responding to either eye's afferent stimulus; isolated parasympathetic injury may spare other III functions."
+      },
+      {
+        "id": "Q178",
+        "text": "Normal left afference activates bilateral outputs, including a consensual response in the blind right eye."
+      },
+      {
+        "id": "Q179",
+        "text": "Right retinal afference still reaches bilateral central nuclei, but only the intact left output can constrict its pupil."
+      },
+      {
+        "id": "Q180",
+        "text": "Loss of III motor supply produces ptosis/down-and-out position, while efferent parasympathetic failure prevents left miosis with either afferent stimulus."
+      },
+      {
+        "id": "Q181",
+        "text": "A compressive aneurysm can affect superficial III parasympathetic fibers; pupil findings are useful but do not by themselves exclude serious causes in pupil-sparing presentations."
+      }
+    ],
+    "qualifications": [
+      "The source table models complete isolated afferent lesions and complete parasympathetic efferent failure. Partial lesions and pupil-sparing III palsies do not necessarily follow the complete-lesion table."
+    ]
+  },
+  {
+    "key": "reflex-4",
+    "deck": "reflex",
+    "page": 4,
+    "title": "Relative Afferent Pupillary Defect (Marcus Gunn Pupil)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q182",
+        "text": "The left eye supplies less afferent light input; both intact efferent outputs relax relative to the response driven by the healthier eye."
+      },
+      {
+        "id": "Q183",
+        "text": "Optic neuritis is a classic cause of reduced afferent input; normal resting pupil size and intact III function are compatible with RAPD."
+      },
+      {
+        "id": "Q184",
+        "text": "The deck's complete CN II table is an idealized extreme; partial optic nerve disease can still drive weaker bilateral constriction."
+      }
+    ],
+    "qualifications": [
+      "RAPD describes asymmetric afferent drive, often with equal resting pupil sizes and intact efferent pathways. Severe asymmetric retinal disease can also cause it."
+    ]
+  },
+  {
+    "key": "reflex-5",
+    "deck": "reflex",
+    "page": 5,
+    "title": "Near Response (Accommodation–Convergence)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q185",
+        "text": "The lens rounds, medial recti turn both eyes inward, and sphincter pupillae constricts the pupils."
+      },
+      {
+        "id": "Q186",
+        "text": "Bilateral III somatic motor output adducts both eyes toward a near target."
+      },
+      {
+        "id": "Q187",
+        "text": "Miosis complements increased lens power and convergence; it is not the mechanism that changes lens curvature."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-6",
+    "deck": "reflex",
+    "page": 6,
+    "title": "Neural Pathways of the Near Response",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q188",
+        "text": "Both ultimately use III parasympathetic output for miosis, but their upstream circuitry differs."
+      },
+      {
+        "id": "Q189",
+        "text": "Parasympathetic visceral motor output produces accommodation/miosis; somatic motor output produces convergence."
+      },
+      {
+        "id": "Q190",
+        "text": "Its medial rectus neurons drive convergence; Edinger–Westphal supplies preganglionic parasympathetic pupil/lens output."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-7",
+    "deck": "reflex",
+    "page": 7,
+    "title": "Light-Near Dissociation",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q191",
+        "text": "The near response is preserved or relatively better despite impaired light-mediated constriction."
+      },
+      {
+        "id": "Q192",
+        "text": "Small irregular pupils with light-near dissociation are the classic association emphasized by the slides."
+      },
+      {
+        "id": "Q193",
+        "text": "Ciliary ganglion/short ciliary injury and aberrant reinnervation can produce tonic near responses; early near function may also be impaired."
+      },
+      {
+        "id": "Q194",
+        "text": "Parinaud syndrome involves dorsal midbrain structures, including pupillary light pathways, and is classically associated with pineal-region compression."
+      },
+      {
+        "id": "Q195",
+        "text": "Damage can preferentially affect light-reflex relays while relatively sparing supranuclear near pathways."
+      }
+    ],
+    "qualifications": [
+      "Adie near constriction may be impaired early and becomes tonic with reinnervation. Light-near dissociation denotes a relative advantage of near over light constriction."
+    ]
+  },
+  {
+    "key": "reflex-8",
+    "deck": "reflex",
+    "page": 8,
+    "title": "Corneal (Blink) Reflex",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q196",
+        "text": "Corneal somatic sensory input activates bilateral facial motor output."
+      },
+      {
+        "id": "Q197",
+        "text": "Bilateral facial motor nuclei activate eyelid closure; the branchial motor category is SVE."
+      },
+      {
+        "id": "Q198",
+        "text": "One afferent corneal signal drives direct and consensual blink responses through bilateral motor connections."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-9",
+    "deck": "reflex",
+    "page": 9,
+    "title": "Corneal Reflex: Lesion Localization",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q199",
+        "text": "Left sensory input is absent, but both VII outputs are demonstrably intact when right corneal input is provided."
+      },
+      {
+        "id": "Q200",
+        "text": "The right efferent limb is defective, while sensory input from both corneas reaches the intact left motor output."
+      },
+      {
+        "id": "Q201",
+        "text": "The sensory signal reaches both motor nuclei, but left facial output cannot activate orbicularis."
+      },
+      {
+        "id": "Q202",
+        "text": "Peripheral VII dysfunction impairs ipsilateral blink output; preserved sensation distinguishes it from isolated V1 loss."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-10",
+    "deck": "reflex",
+    "page": 10,
+    "title": "Vestibulo-Ocular Reflex (VOR)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q203",
+        "text": "Angular head rotation changes vestibular afferent activity, initiating compensatory eye movements."
+      },
+      {
+        "id": "Q204",
+        "text": "Eyes move opposite the head: left eye abducts via VI, and right eye adducts via III through internuclear connections."
+      },
+      {
+        "id": "Q205",
+        "text": "The VI motor component drives ipsilateral lateral rectus while crossed internuclear input drives the other eye's medial rectus."
+      },
+      {
+        "id": "Q206",
+        "text": "Compensatory eye movement limits retinal image slip and can operate without conscious visual processing, including in darkness."
+      },
+      {
+        "id": "Q207",
+        "text": "The nucleus contains left lateral rectus motor neurons and internuclear neurons for right medial rectus via the MLF; a nerve lesion alone mainly impairs left abduction."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-11",
+    "deck": "reflex",
+    "page": 11,
+    "title": "Oculocephalic Reflex (Doll's Eye Maneuver)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q208",
+        "text": "Compensatory movement opposite head rotation is the expected doll's-eye response in this context."
+      },
+      {
+        "id": "Q209",
+        "text": "This can reflect dysfunction along vestibular/brainstem/ocular motor pathways; drugs and other confounders matter, so the maneuver alone does not establish brain death."
+      },
+      {
+        "id": "Q210",
+        "text": "The source specifically cautions against oculocephalic testing when cervical instability is suspected."
+      }
+    ],
+    "qualifications": [
+      "Absent doll’s-eye responses require context, including medication and peripheral pathway confounders; this single maneuver does not establish brain death. Avoid head rotation with suspected cervical instability."
+    ]
+  },
+  {
+    "key": "reflex-12",
+    "deck": "reflex",
+    "page": 12,
+    "title": "Medial Longitudinal Fasciculus (MLF)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q211",
+        "text": "The paired tract links vestibular and ocular motor nuclei and coordinates conjugate movement."
+      },
+      {
+        "id": "Q212",
+        "text": "These connections support conjugate movements and vestibulo-ocular responses; the horizontal exam most often highlights VI-to-III communication."
+      }
+    ],
+    "qualifications": []
+  },
+  {
+    "key": "reflex-13",
+    "deck": "reflex",
+    "page": 13,
+    "title": "Internuclear Ophthalmoplegia (INO)",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q213",
+        "text": "INO is named for the side of the impaired adducting eye; intact convergence helps show that medial rectus can still function through near pathways."
+      },
+      {
+        "id": "Q214",
+        "text": "The contralateral eye abducts with nystagmus while the ipsilateral eye has impaired adduction."
+      },
+      {
+        "id": "Q215",
+        "text": "The impaired adducting eye identifies the side of INO. Multiple sclerosis is a classic association in younger patients, and convergence can be preserved."
+      },
+      {
+        "id": "Q216",
+        "text": "Stroke is a classic INO cause in older adults; multiple sclerosis is a common association in younger patients, especially with bilateral involvement."
+      },
+      {
+        "id": "Q217",
+        "text": "An internuclear connection can be impaired while the final motor apparatus remains functional; convergence preservation is common but not universal in INO."
+      },
+      {
+        "id": "Q218",
+        "text": "Ipsilateral gaze palsy plus ipsilateral INO leaves only contralateral abduction as the remaining horizontal movement."
+      }
+    ],
+    "qualifications": [
+      "Convergence is often preserved in INO but is not guaranteed. Name the lesion for the side of the impaired adducting eye."
+    ]
+  },
+  {
+    "key": "reflex-14",
+    "deck": "reflex",
+    "page": 14,
+    "title": "Summary",
+    "instructional": true,
+    "items": [
+      {
+        "id": "Q219",
+        "text": "Light uses optic afference, corneal touch uses ophthalmic trigeminal afference, and rotation uses vestibular afference."
+      },
+      {
+        "id": "Q220",
+        "text": "MLF coordinates ocular motor nuclei; it can produce INO without directly damaging retinal visual, V1 sensory, or pupil light-reflex pathways."
+      }
+    ],
+    "qualifications": []
+  }
+]

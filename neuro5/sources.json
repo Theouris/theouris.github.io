@@ -1,0 +1,20 @@
+[
+  {"title":"NCBI Bookshelf: Embryology, Neural Tube","url":"https://www.ncbi.nlm.nih.gov/books/NBK542285/","supports":"Neurulation and prenatal open-defect screening."},
+  {"title":"Developmental Biology: Differentiation of the Neural Tube","url":"https://www.ncbi.nlm.nih.gov/books/NBK10034/","supports":"SHH ventral and BMP/TGF-beta dorsal patterning."},
+  {"title":"Developmental Biology: The Neural Crest","url":"https://www.ncbi.nlm.nih.gov/books/NBK10065/","supports":"Crest migration, peripheral derivatives, and regional timing."},
+  {"title":"Pharyngeal Arches, Chapter 1: Normal Development and Derivatives","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC10521768/","supports":"Arch layers, nerves, muscle and skeletal derivatives."},
+  {"title":"NCBI Bookshelf: Embryology, Pharyngeal Pouch","url":"https://www.ncbi.nlm.nih.gov/books/NBK557724/","supports":"Pouch epithelial derivatives and DiGeorge relationships."},
+  {"title":"NCBI Bookshelf: Embryology, Thyroid","url":"https://www.ncbi.nlm.nih.gov/books/NBK551611/","supports":"Thyroid descent, ectopia, and duct remnants."},
+  {"title":"Revising the embryonic origin of thyroid C cells in mice and humans","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC4631767/","supports":"Primary lineage evidence revising the older neural crest assignment."},
+  {"title":"The Osteogenic Potential of the Neural Crest Lineage May Contribute to Craniosynostosis","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC6422151/","supports":"Primary lineage evidence for frontal crest versus parietal mesoderm contributions."},
+  {"title":"CDC: About Folic Acid","url":"https://www.cdc.gov/folic-acid/about/","supports":"Preconception prevention and general 400-microgram daily recommendation."},
+  {"title":"NCBI Bookshelf: Neuroanatomy, Visual Pathway","url":"https://www.ncbi.nlm.nih.gov/books/NBK553189/","supports":"Visual-field localization, retinotopy, and limits of macular sparing."},
+  {"title":"NCBI Bookshelf: Pupillary Light Reflexes and Pathway","url":"https://www.ncbi.nlm.nih.gov/books/NBK553169/","supports":"Ocular optics, light-reflex pathways, and afferent/efferent lesions."},
+  {"title":"NCBI Bookshelf: Neuroanatomy, Trigeminal Reflexes","url":"https://www.ncbi.nlm.nih.gov/books/NBK551641/","supports":"Corneal sensory afference and bilateral blink output."},
+  {"title":"Neuroscience: Central Vestibular Pathways","url":"https://www.ncbi.nlm.nih.gov/books/NBK10987/","supports":"Vestibular gaze stabilization and internuclear ocular connections."},
+  {"title":"NCBI Bookshelf: Internuclear Ophthalmoplegia","url":"https://www.ncbi.nlm.nih.gov/books/NBK441970/","supports":"INO laterality, convergence qualification, and one-and-a-half extension."},
+  {"title":"Neuroscience: Phototransduction","url":"https://www.ncbi.nlm.nih.gov/books/NBK10806/","supports":"Light-induced cGMP decrease, hyperpolarization, and reduced transmitter release."},
+  {"title":"NCBI Bookshelf: Papilledema","url":"https://www.ncbi.nlm.nih.gov/books/NBK538295/","supports":"Pressure-related optic disc edema and distinction from other causes."},
+  {"title":"National Eye Institute: Retinal Detachment","url":"https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment","supports":"Retinal detachment symptoms and neural retinal separation."},
+  {"title":"National Eye Institute: Facts About Glaucoma","url":"https://www.nei.nih.gov/about/education-and-outreach/outreach-materials/facts-about-glaucoma","supports":"Aqueous outflow and glaucoma background."}
+]
