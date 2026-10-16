@@ -1,0 +1,361 @@
+{
+  "sig-5": [
+    "Nerve fibers are neuronal axons; afferents carry receptor information toward the CNS and efferents carry commands from the CNS to effectors.",
+    "Somatic motor effectors are skeletal muscle; autonomic effectors include smooth muscle, cardiac muscle, and glands. Both sensory and motor axons vary in diameter and conduction speed.",
+    "Conduction properties describe how rapidly information travels, whereas afferent/efferent describes its direction. A mixed peripheral nerve contains multiple fiber types."
+  ],
+  "sig-6": [
+    "The Erlanger-Gasser scheme includes myelinated A fibers (alpha, beta, gamma, delta), small myelinated B fibers, and small unmyelinated C fibers.",
+    "A fibers include somatic motor and sensory axons; B fibers are classically preganglionic autonomic axons; C fibers include slow-pain afferents and postganglionic autonomic axons.",
+    "Do not equate a letter category with one exclusive function. The sensory-only numerical scheme I-IV overlaps with the A/C scheme but does not classify motor B fibers."
+  ],
+  "sig-7": [
+    "A-alpha: largest and fastest myelinated fibers; alpha motor neurons to extrafusal skeletal muscle and group I proprioceptive afferents. The slide gives approximately 80-120 m/s.",
+    "A-beta: large myelinated sensory fibers carrying discriminative touch, pressure, vibration, and group II proprioceptive input.",
+    "A-gamma: myelinated motor fibers to intrafusal muscle spindle fibers, adjusting spindle sensitivity during muscle contraction.",
+    "A-delta: smaller myelinated sensory fibers, especially fast sharp pain and cold; the slide also lists touch and pressure. Approximate velocity is 5-30 m/s.",
+    "Fiber diameters and speeds overlap and vary with temperature and measurement conditions. Recognize relative order and function rather than treating ranges as diagnostic cutoffs."
+  ],
+  "sig-8": [
+    "B fibers are small myelinated axons, classically autonomic preganglionic fibers from CNS to an autonomic ganglion.",
+    "The slide gives roughly 3-15 m/s: slower than the largest A fibers but faster than typical C fibers.",
+    "They participate in visceral motor pathways regulating cardiac muscle, smooth muscle, and glands; the organ is generally reached through a postganglionic neuron rather than directly by the B axon."
+  ],
+  "sig-9": [
+    "C fibers are small unmyelinated axons with continuous, slow conduction, approximately 0.5-2 m/s in the slide.",
+    "Somatic/visceral C afferents convey slow burning or aching pain, warmth, and other visceral signals; many postganglionic autonomic axons are also C fibers.",
+    "Clarification: C fibers are not exclusively autonomic, and the broad claim that they are 'mainly autonomic' should not obscure their major sensory role. Unmyelinated axons can still be supported by nonmyelinating Schwann cells."
+  ],
+  "sig-10": [
+    "Myelin increases effective membrane resistance and reduces capacitance across internodes, limiting current leak and reducing the charge required to change membrane voltage.",
+    "Local current spreads rapidly beneath myelin; action potentials regenerate at nodes of Ranvier. This is saltatory conduction, not literal movement of a single spike through empty space.",
+    "Unmyelinated axons regenerate action potentials along successive membrane segments, producing slower continuous conduction."
+  ],
+  "sig-11": [
+    "Nodes of Ranvier are short gaps between myelin internodes and have a high density of voltage-gated sodium channels; the figure labels dendrites, soma/nucleus, axon hillock, axon, myelin, nodes, and axon terminals.",
+    "The slide illustrates internodal distances around 1-2 mm and nodal lengths around 2-3 micrometers; actual dimensions vary with axon and species.",
+    "Internodal membrane has far fewer exposed sodium channels than nodes. 'Virtually no channels' is a simplified teaching comparison, not absence of all membrane proteins.",
+    "Saltatory regeneration preserves a full-sized propagated action potential; the graded local current between nodes is passive."
+  ],
+  "sig-12": [
+    "Read the figure as a comparison of diameter and myelin effects: larger axons have less axial resistance; myelinated axons conduct faster than comparable unmyelinated axons.",
+    "The diagrams contrast sequential regeneration along unmyelinated membrane with nodal regeneration across myelinated internodes.",
+    "A node is an interruption of the sheath with exposed excitable membrane; demyelination increases leak and capacitance and can slow conduction or cause block.",
+    "Figure examples: a roughly 1-micrometer slow pain axon conducts near 1 m/s; a roughly 3-micrometer myelinated skin-touch axon near 30 m/s; a roughly 17-micrometer alpha motor axon near 100 m/s. These examples change both diameter and myelin, so they illustrate the combined effects rather than a controlled test of diameter alone."
+  ],
+  "sig-13": [
+    "The title emphasizes diameter, while the original bullets repeat the myelin explanation. Both independently affect conduction.",
+    "Increasing axon diameter decreases internal/axial resistance, letting local current spread farther and faster.",
+    "Myelin increases internodal membrane resistance and decreases capacitance; combining large diameter with myelin produces the fastest fibers. Small C fibers are slow because they lack both advantages."
+  ],
+  "sig-14": [
+    "Sensory/motor table: A-alpha includes alpha motor neurons; A-beta carries touch/pressure; A-gamma supplies intrafusal spindle fibers; A-delta carries fast pain, temperature, and some mechanical sensation; B is preganglionic autonomic; C includes slow pain and postganglionic autonomic fibers.",
+    "Sensory-only group Ia = primary muscle spindle afferent; Ib = Golgi tendon organ afferent. Both are large, fast, myelinated group I fibers corresponding broadly to A-alpha.",
+    "Group II = secondary muscle spindle and many touch/pressure afferents, broadly A-beta; group III = small myelinated A-delta-like afferents; group IV = unmyelinated C-like afferents.",
+    "The table lists olfaction among unmyelinated fibers. These schemes are most useful for peripheral axonal physiology; olfactory signaling is anatomically distinct from a spinal pain pathway.",
+    "The slide's beta/gamma/delta glyphs can be distorted in text extraction. Use the original table image and the standard Greek names given here."
+  ],
+  "sig-15": [
+    "Peripheral neuropathy can impair sensory, motor, and autonomic function depending on which peripheral axons are injured; demyelinating and axonal mechanisms differ.",
+    "Important correction: multiple sclerosis is a CNS demyelinating disease affecting oligodendrocyte myelin. It should not be described as a peripheral A/B-fiber disorder merely because those categories are myelinated.",
+    "Diabetic neuropathy can involve small A-delta/C fibers, large myelinated sensory fibers, motor fibers, and autonomic fibers. Burning pain can indicate small-fiber disease; impaired vibration and proprioception indicate large-fiber involvement.",
+    "Loss of protective sensation and autonomic/vascular factors contribute to diabetic foot injury; this is broader than abnormal sensory adaptation alone."
+  ],
+  "sig-16": [
+    "Large myelinated A-alpha fibers conduct fastest; small unmyelinated C fibers conduct slowest. Diameter, myelin, temperature, and injury all influence speed.",
+    "Fiber class supports a functional inference but is not an absolute one-to-one code: a peripheral nerve contains mixtures of sensory, motor, and autonomic axons.",
+    "Recall the high-yield pairs: Ia spindle, Ib tendon organ, II secondary spindle/touch, III fast pain, IV slow pain."
+  ],
+  "sig-18": [
+    "Sensory receptors convert an adequate stimulus into an electrical response; modality refers to the stimulus type the receptor is best suited to detect.",
+    "Mechanoreceptors detect deformation: touch, pressure, vibration, stretch, hearing, and balance. Examples include Pacinian/Meissner corpuscles and cochlear hair cells.",
+    "Thermoreceptors detect temperature; nociceptors detect potentially damaging mechanical, thermal, or chemical stimuli; photoreceptors detect light.",
+    "Chemoreceptors include taste, smell, and carotid body cells. Proprioceptors detect body position, muscle length, and tension and are functionally specialized mechanoreceptors.",
+    "The 'electromagnetic' category overlaps with photoreceptors; these categories are not all mutually exclusive."
+  ],
+  "sig-19": [
+    "Mechanical deformation gates channels and generates a graded receptor potential. If the receptor is the afferent neuron's ending, sufficient depolarization triggers action potentials at its excitable trigger region.",
+    "Pacinian corpuscles lie deep in dermis/subcutaneous tissue and detect high-frequency vibration and changes in deep pressure; Meissner corpuscles in glabrous skin detect light touch/flutter and slip.",
+    "Carotid sinus baroreceptors sense stretch associated with blood pressure. Hair cells in organ of Corti detect sound, and vestibular hair cells detect head movement/orientation.",
+    "Clarification: not every mechanoreceptor itself fires action potentials. Hair cells use graded potentials to regulate transmitter release onto afferent neurons."
+  ],
+  "sig-20": [
+    "Cutaneous warm/cold receptors change firing with local temperature; temperature-sensitive TRP cation channels participate in transduction.",
+    "TRPV1 is activated by noxious heat and capsaicin; TRPM8 by cooling and menthol. These channels generate a graded depolarization before afferent spikes.",
+    "Extreme temperatures recruit nociceptive pathways, so temperature sensation and thermal pain overlap without being identical modalities."
+  ],
+  "sig-21": [
+    "Nociceptors are high-threshold sensory endings activated by potentially damaging pressure, temperature, or chemicals. Their afferent action potentials enter spinal/brainstem pain-processing circuits.",
+    "Fast sharp first pain is associated with A-delta axons; slower burning/aching second pain with C axons.",
+    "Nociception is neural detection/processing of noxious input; pain is a perceptual experience. Persistent pain can involve peripheral sensitization, central sensitization, or nerve injury, not only continued activation of intact nociceptors."
+  ],
+  "sig-22": [
+    "Rods and cones reside in retina: rods are highly sensitive in dim light, while cones support color and high-acuity vision in brighter light.",
+    "Photons alter visual pigment and initiate a cascade that closes cGMP-gated cation channels, hyperpolarizing the photoreceptor.",
+    "Photoreceptors alter glutamate release through graded potentials; retinal ganglion cells generate the action potentials carried by the optic nerve. The slide's reference to action potentials is a downstream result, not spikes in rods/cones."
+  ],
+  "sig-23": [
+    "Gustatory cells respond to dissolved tastants; olfactory receptor neurons detect odorants in olfactory mucosa. Chemical detection can use ion channels or GPCR second-messenger cascades.",
+    "Salt/sour involve ion-dependent mechanisms; sweet/bitter/umami chiefly use GPCR pathways. Olfactory receptors chiefly use a cAMP-mediated depolarizing cascade.",
+    "A taste receptor cell usually communicates with a distinct afferent neuron; an olfactory receptor cell is itself a primary sensory neuron."
+  ],
+  "sig-24": [
+    "Table mapping: skin Pacinian corpuscle → touch/pressure/vibration; cochlear organ of Corti hair cell → hearing; macular and semicircular canal hair cells → vestibular sensation.",
+    "Retinal rods/cones → vision; olfactory mucosa neurons → smell; tongue taste buds → taste.",
+    "Carotid/aortic body chemoreceptors detect arterial oxygen and also respond to CO2/pH; central chemosensitive regions near ventrolateral medulla chiefly respond to CSF H+ changes related to CO2.",
+    "Warm/cold cutaneous receptors detect temperature; thermal/polymodal nociceptors detect noxious stimuli. Pain is the resulting experience rather than an external physical energy category."
+  ],
+  "sig-25": [
+    "Visceral sensory signals support homeostatic reflexes and convey organ distension, chemistry, and pain. Their dysfunction can contribute to visceral pain syndromes.",
+    "IBS can involve visceral hypersensitivity and altered gut-brain processing; it is multifactorial rather than simply destruction of visceral sensory neurons.",
+    "Autonomic dysreflexia usually occurs after a high spinal cord lesion, especially at/above T6: a noxious visceral stimulus below the lesion can provoke excessive sympathetic output and dangerous hypertension.",
+    "A full bladder or blocked urinary catheter is a classic trigger. Reflex bradycardia and sweating/flushing above the lesion can accompany vasoconstriction below it."
+  ],
+  "sig-27": [
+    "Transduction is conversion of mechanical, thermal, chemical, or light energy into a change in membrane electrical activity.",
+    "The stimulus can gate a channel directly or change channel activity through a biochemical cascade. Altered Na+, K+, Ca2+, or Cl- conductance changes membrane potential.",
+    "The voltage response depends on channel selectivity and electrochemical gradients; opening a channel does not universally mean depolarization."
+  ],
+  "sig-28": [
+    "A receptor potential is a local graded voltage change caused by sensory transduction; stronger stimuli generally produce larger changes within the operating range.",
+    "It can depolarize a mechanosensory ending or hyperpolarize a photoreceptor. Its amplitude is not all-or-none.",
+    "In a primary afferent ending it modulates spike initiation; in a separate receptor cell it modulates transmitter release and the afferent's subsequent firing.",
+    "The receptor potential itself is not a long-distance action potential."
+  ],
+  "sig-29": [
+    "Graph A: a subthreshold graded depolarization fails to reach spike threshold and produces no action potential.",
+    "Graph B: a larger depolarization reaches threshold, allowing a regenerative action potential. The threshold line separates graded input from spike generation.",
+    "Increasing stimulus intensity generally increases receptor potential amplitude and spike frequency, not the amplitude of each propagated spike.",
+    "The diagram uses an excitable sensory ending example; rods and cones instead regulate release without producing ordinary action potentials."
+  ],
+  "sig-30": [
+    "Receptor/generator potentials are graded, local, and decremental: passive voltage spread diminishes with distance.",
+    "They can summate in time and space. Closely spaced inputs can bring the trigger zone to threshold even when one input cannot.",
+    "Action potentials are regenerative, all-or-none events with refractory periods and do not summate by increasing individual spike amplitude.",
+    "A threshold must be reached at the appropriate excitable region to initiate an afferent spike."
+  ],
+  "sig-31": [
+    "Transduction describes the process; receptor potential describes its electrical product.",
+    "Example: pressure gating a mechanosensitive channel is transduction; the resulting graded depolarization is the receptor potential.",
+    "Example: rhodopsin/transducin/PDE signaling is transduction; the resulting rod hyperpolarization is the receptor potential."
+  ],
+  "sig-32": [
+    "Pacinian route: deformation → mechanosensitive cation conductance increases → inward current → depolarizing generator potential → threshold at first node → afferent action potentials.",
+    "Rod route: photon → activated rhodopsin → transducin → PDE → decreased cGMP → cGMP-gated Na+/Ca2+ channels close → hyperpolarization → reduced glutamate release.",
+    "This contrast tests both the sign of the receptor response and whether the receptor itself is the spiking afferent ending."
+  ],
+  "sig-33": [
+    "Pacinian corpuscle has concentric onion-like connective-tissue lamellae surrounding a central sensory ending.",
+    "Vibration or changing pressure deforms the ending; the lamellar capsule mechanically filters the applied force and contributes to rapid adaptation.",
+    "The figure separates the local receptor potential in the unmyelinated terminal region from action potentials regenerated at nearby nodes of the myelinated afferent."
+  ],
+  "sig-34": [
+    "Deformation opens mechanically gated cation channels, allowing a net depolarizing current; the slide emphasizes Na+ entry.",
+    "The graded generator potential spreads to the first node of Ranvier, where voltage-gated Na+ channels initiate action potentials when threshold is reached.",
+    "Mechanical-gated channels transduce the stimulus; voltage-gated Na+ channels regenerate spikes. They are different channel functions in different parts of the pathway.",
+    "Pacinian receptors are rapidly adapting/phasic: onset, offset, and vibration are emphasized; steady maintained pressure produces little ongoing discharge after adaptation."
+  ],
+  "sig-35": [
+    "Rhodopsin is the light-sensitive pigment in rod outer-segment membranes; its retinal chromophore changes configuration after absorbing a photon.",
+    "The outer segment contains the phototransduction machinery; the synaptic end changes glutamate release in response to the resulting graded voltage.",
+    "The figure labels rhodopsin, G protein/transducin, PDE, cGMP, GMP, and cGMP-gated channels, allowing the cascade to be followed in order."
+  ],
+  "sig-36": [
+    "Light converts 11-cis retinal toward the all-trans configuration and activates rhodopsin; activated transducin stimulates phosphodiesterase.",
+    "PDE hydrolyzes cGMP, reducing the open probability of cGMP-gated Na+/Ca2+ channels in the outer segment.",
+    "Reduced inward dark current with continued outward K+ current hyperpolarizes the photoreceptor, reducing Ca2+-dependent glutamate release.",
+    "Bipolar circuits respond according to their receptor type; ganglion cells produce optic nerve spikes. Rods/cones themselves use graded potentials.",
+    "In darkness, cGMP is higher, cation channels are more open, and photoreceptors are relatively depolarized with greater tonic glutamate release."
+  ],
+  "sig-37": [
+    "Compare adequate stimuli: Pacinian = changing mechanical deformation; rod = photons.",
+    "Compare channels and voltage: mechanically gated cation opening/depolarization versus cGMP-gated cation closure/hyperpolarization.",
+    "Compare output: spikes in the same Pacinian primary afferent versus altered transmitter release from the rod to a downstream retinal circuit.",
+    "Compare time course: Pacinian rapidly adapts; rods can sustain a light response but also undergo light adaptation. Calling rods 'tonic' does not mean they never adapt."
+  ],
+  "sig-39": [
+    "Mechanical modalities include touch, vibration, pressure, proprioception, hearing, and balance; deformation gates mechanosensitive cation conductances.",
+    "Pacinian afferent endings depolarize with net cation entry; cochlear/vestibular stereocilia bend to change tip-link-associated transduction-channel opening.",
+    "Hair-cell depolarization is unusual because K+ enters from potassium-rich endolymph, then basolateral Ca2+ entry promotes transmitter release.",
+    "Hair cells are graded receptor cells, while their postsynaptic afferent neurons fire action potentials."
+  ],
+  "sig-40": [
+    "TRP channels are temperature-sensitive cation channels; changing temperature alters their open probability and creates a receptor potential.",
+    "TRPV1 responds to noxious heat, around >43°C in the slide, and capsaicin; TRPM8 responds to cooling and menthol.",
+    "Na+/Ca2+ entry depolarizes the ending, increasing afferent firing when threshold is reached. Activation ranges depend on experimental and biological context."
+  ],
+  "sig-41": [
+    "Noxious mechanical, thermal, and chemical stimuli activate high-threshold nociceptors through TRP, acid-sensing, and ATP-responsive channels, among other mechanisms.",
+    "Acid-sensing channels respond to extracellular acidity; ATP-responsive P2X channels can respond to ATP released from stressed/injured tissue.",
+    "A-delta axons carry relatively fast sharp pain; C axons carry slower burning/aching pain. Receptor activation and perceived pain intensity are also modulated by spinal and central processing."
+  ],
+  "sig-42": [
+    "Rhodopsin in rods and photopsins in cones initiate analogous transducin/PDE cascades that lower cGMP and close cation channels.",
+    "Photoreceptors hyperpolarize to light and reduce glutamate release, in contrast to the depolarizing response of many other receptors.",
+    "A mutation or toxin that prevents PDE activation would oppose the normal fall in cGMP and impair light-induced closure of channels."
+  ],
+  "sig-43": [
+    "Olfactory cascade: odorant binds GPCR → Golf activates adenylyl cyclase → cAMP rises → cyclic-nucleotide-gated cation channels open → depolarization and action potentials in the receptor neuron.",
+    "Salt: the slide emphasizes direct Na+ entry through ENaC; ENaC-mediated low-salt sensing is a useful teaching model, with species and pathway complexity in human salt taste.",
+    "Sour: the slide describes H+-dependent K+ channel inhibition. Update: OTOP1 proton channels are central to sour transduction; proton entry and intracellular acidification depolarize sour-sensing cells, including effects on K+ conductance.",
+    "Sweet, bitter, and umami: GPCR pathways activate intracellular signaling, including PLC/IP3/Ca2+ signaling in type II cells, leading to depolarization and transmitter signaling.",
+    "Do not confuse olfactory cAMP-gated channel opening/depolarization with retinal cGMP-gated channel closure/hyperpolarization."
+  ],
+  "sig-44": [
+    "Carotid body glomus cells detect low arterial PO2 and also respond to increased CO2 and decreased pH.",
+    "Hypoxia inhibits selected K+ conductances, causing depolarization, Ca2+ entry, and transmitter release onto carotid sinus nerve afferents traveling with CN IX.",
+    "This is a chemoreflex for ventilation; carotid sinus stretch receptors are different mechanoreceptors associated with blood-pressure reflexes.",
+    "Aortic body afferents travel with CN X. Central chemoreceptors primarily respond to CO2-driven CSF H+ rather than directly sensing low arterial O2."
+  ],
+  "sig-45": [
+    "Muscle spindle is arranged in parallel with extrafusal muscle and senses muscle length and rate of stretch: primary Ia endings are especially dynamic; group II endings convey more sustained length information.",
+    "Golgi tendon organ is arranged in series with tendon and senses tension/force through Ib afferents.",
+    "Stretch/tension gates mechanosensitive channels → graded depolarization → spikes in the afferent.",
+    "Alpha motor neurons drive extrafusal force; gamma motor neurons contract intrafusal poles to maintain spindle sensitivity. Proprioceptive feedback supports posture, reflexes, and coordinated movement."
+  ],
+  "sig-46": [
+    "Within its working range, stimulus strength changes receptor potential amplitude; a stronger suprathreshold generator potential increases spike frequency rather than spike size.",
+    "Recruiting additional receptors/afferents also helps encode intensity. Modality is carried by the identity of the activated labeled pathway.",
+    "Phasic receptors emphasize change; tonic receptors retain a sustained response and encode duration as well as intensity."
+  ],
+  "sig-47": [
+    "Mechanoreceptors, thermoreceptors, and nociceptors use channel modulation to convert mechanical/thermal/chemical signals into receptor potentials.",
+    "Photoreceptors use a GPCR cascade to close cGMP-gated channels and hyperpolarize; olfactory receptors use a GPCR cascade to open cAMP-gated channels and depolarize.",
+    "Taste uses a mixture of direct ion-dependent and GPCR mechanisms; proprioceptors use mechanical transduction in spindle and tendon organ endings.",
+    "The output is either afferent spike generation or changed transmitter release to another neuron, depending on receptor organization."
+  ],
+  "sig-49": [
+    "Sensory adaptation is a decline in receptor/afferent response during a sustained unchanging stimulus, even though the stimulus remains present.",
+    "A shrinking generator potential can reduce afferent firing; adaptation can also occur through cellular and synaptic mechanisms.",
+    "The benefit is improved detection of new changes against background input. Adaptation is not the same as destruction of the receptor or intentional suppression of a response."
+  ],
+  "sig-50": [
+    "Rapidly adapting/phasic receptors respond most to stimulus onset/offset and changes: Pacinian and Meissner corpuscles are key examples.",
+    "Slowly adapting/tonic receptors maintain discharge during stimulation and signal sustained intensity/duration: Merkel endings and muscle spindles are key examples; Ruffini endings are another board-review example.",
+    "Nociceptors generally adapt little or slowly, preserving protective signaling; inflammation can instead sensitize them.",
+    "Onset/offset responses do not imply that every phasic receptor always has exactly two spikes; vibration can drive repeated firing."
+  ],
+  "sig-51": [
+    "Adaptation has multiple levels: receptor-channel gating/inactivation, mechanical properties of the end organ, synaptic changes, and central processing.",
+    "In a Pacinian corpuscle, viscoelastic redistribution of lamellae reduces maintained deformation of the nerve ending. Removing the capsule diminishes this mechanical component of adaptation.",
+    "Olfactory adaptation includes receptor-neuron second-messenger feedback and central mechanisms, not merely depletion of one neurotransmitter.",
+    "Central habituation to a repeated stimulus overlaps functionally with adaptation but describes a broader neural/behavioral response rather than exclusively peripheral receptor behavior."
+  ],
+  "sig-52": [
+    "Adaptation reduces redundant background signaling and emphasizes stimulus change, helping perception operate across changing environments.",
+    "Vision adjusts sensitivity with ambient illumination; olfaction becomes less salient during continuous odor exposure; tactile awareness of clothing decreases with continued contact.",
+    "Clothing perception involves multiple receptors and central processing; Pacinian adaptation is an example of filtering changing pressure, not the sole explanation for all sustained-touch perception.",
+    "Filtering can conserve processing resources while tonic receptors retain information needed for posture and protection."
+  ],
+  "sig-53": [
+    "Diabetic sensory loss can impair detection of vibration, pressure, pain, and temperature and increase injury risk. Neuropathy and ulcer formation involve more than impaired adaptation.",
+    "Hyperalgesia = increased pain from a normally painful stimulus; allodynia = pain from a normally nonpainful stimulus. Both can involve peripheral/central sensitization or disinhibition.",
+    "Persistent neuropathic pain is not adequately explained by 'failure of nociceptor adaptation' alone; spontaneous activity and altered central processing are important.",
+    "Tinnitus is sound perception without an external source and can involve peripheral injury and central plasticity; the slide's adaptation framing is one concept, not a complete or universal mechanism."
+  ],
+  "sig-54": [
+    "Anosmia is absent smell; hyposmia is reduced smell. These can affect appetite and hazard detection, including smoke or gas perception.",
+    "Loss of smell is not synonymous with normal olfactory adaptation, and impaired adaptation alone does not establish the cause of anosmia.",
+    "Autism can involve sensory hyperreactivity, hyporeactivity, or unusual sensory interests; altered adaptation may contribute in some settings but is neither universal nor a standalone diagnostic test."
+  ],
+  "sig-55": [
+    "Adaptation decreases response to sustained input. Phasic receptors emphasize change; tonic receptors retain duration/intensity information.",
+    "Useful comparisons: Pacinian/Meissner rapid versus Merkel/Ruffini slow; a graded generator potential versus an all-or-none spike; receptor adaptation versus central habituation.",
+    "Clinical examples illustrate altered sensory processing, but neuropathy, tinnitus, chronic pain, and autism should not each be reduced to a single failure-of-adaptation mechanism."
+  ],
+  "cord-3": [
+    "Brown-Séquard is the pattern from hemicord injury, classically penetrating trauma; determine side, segmental level, and modalities rather than relying only on the syndrome name.",
+    "At the injured segment, anterior horn/root injury causes ipsilateral LMN signs and sensory entry-zone damage can cause ipsilateral segmental sensory loss. Exact findings depend on lesion extent.",
+    "Below the lesion: ipsilateral corticospinal UMN weakness and ipsilateral dorsal-column loss of vibration, position, and discriminative touch because these pathways have not crossed within that cord segment.",
+    "Contralateral pain/temperature loss arises from spinothalamic interruption, typically beginning about 1-2 segments below the lesion because afferents can ascend/descend before crossing.",
+    "The original tract diagram also labels spinocerebellar and descending accessory pathways; use the retained image to identify their cross-sectional positions.",
+    "Cross-section labels: posterior median sulcus/septum identifies the dorsal midline; anterior median fissure identifies the ventral midline. Posterior, lateral, and anterior white columns surround gray horns; posterior roots carry afferents, anterior roots carry efferents. The repeated plate also shows Rexed laminae I-X and a denticulate ligament; see the cross-section supplement for interpretation."
+  ],
+  "cord-4": [
+    "ASA syndrome classically injures anterior two-thirds of cord, including anterior horns, corticospinal, and anterolateral pain-temperature pathways; it can follow aortic disease/surgery or arterial compromise.",
+    "At the lesion: LMN weakness from anterior horn injury. Below: bilateral motor weakness and pain-temperature loss, with later UMN signs after spinal shock resolves.",
+    "Dorsal columns are relatively spared, preserving vibration and position sense; the classic pattern is dissociated sensory loss rather than absence of all sensation.",
+    "Autonomic involvement can cause bladder, bowel, and sexual dysfunction. Acute high-cord injuries may also cause hypotension; hypotension is not required for every lower ASA infarct."
+  ],
+  "cord-5": [
+    "The artery of Adamkiewicz is a large anterior segmental medullary/radiculomedullary artery reinforcing the ASA supply to lower thoracic/lumbosacral cord.",
+    "The slide gives a usual lower thoracic/upper lumbar origin around T9-L2; side and level vary, with a left-sided origin common.",
+    "Aortic surgery or disruption of its segmental arterial source can cause ischemic paraplegia with an ASA-syndrome pattern.",
+    "The arterial diagram distinguishes longitudinal anterior/posterior spinal arteries from segmental feeders; not every radicular artery reaches and reinforces the cord."
+  ],
+  "cord-6": [
+    "A syrinx is a fluid-filled cavity within cord, often cervical and associated with Chiari I or other disturbances of CSF dynamics.",
+    "Early central expansion damages crossing pain-temperature fibers in anterior white commissure, producing bilateral suspended/cape-like sensory loss at involved segments, with dorsal-column modalities relatively spared.",
+    "Expansion into anterior horn causes segmental LMN hand weakness/atrophy; involvement of descending sympathetic pathways or appropriate lateral horn regions can cause ipsilateral Horner syndrome.",
+    "Lateral corticospinal extension causes UMN findings below the cavity. The exact distribution changes with syrinx length and size; cape loss is the classic cervical example."
+  ],
+  "cord-7": [
+    "Subacute combined degeneration classically results from B12 deficiency, damaging dorsal columns and lateral corticospinal tracts, often with additional peripheral neuropathy.",
+    "Dorsal-column loss → impaired vibration/position sense, sensory ataxia, positive Romberg. Corticospinal loss → spastic weakness, brisk reflexes, and Babinski signs.",
+    "Peripheral neuropathy can complicate the reflex pattern; not every patient has uniform hyperreflexia. Neurologic B12 disease can occur without obvious anemia.",
+    "B12-related metabolic markers include elevated methylmalonic acid and homocysteine; nitrous oxide can cause functional B12 inactivation. Copper deficiency is an important mimicking myelopathy."
+  ],
+  "cord-8": [
+    "Ataxia means impaired coordination and is not synonymous with reduced muscle strength.",
+    "Sensory ataxia results from inadequate proprioceptive input: vision compensates, so balance deteriorates on eye closure; a positive Romberg requires the patient to stand relatively better with eyes open.",
+    "Cerebellar ataxia features wide-based gait, dysmetria, intention tremor, and poor coordination even with visual guidance.",
+    "Vestibular dysfunction can cause vertigo, nystagmus, and imbalance. Romberg is not uniquely specific to dorsal-column disease because vestibular input also contributes."
+  ],
+  "cord-9": [
+    "Tabes dorsalis is late neurosyphilis with degeneration of dorsal roots and dorsal columns.",
+    "Loss of vibration/position sense causes sensory ataxia and a positive Romberg; dorsal-root/reflex-arc involvement causes areflexia and lightning pains.",
+    "Bladder sensory dysfunction can impair awareness of fullness and contribute to urinary problems. Argyll Robertson pupils accommodate during near response but respond poorly to light.",
+    "Compare tabes = dorsal roots + columns, versus B12 SCD = columns + corticospinal pathways. The latter more readily produces UMN signs."
+  ],
+  "cord-10": [
+    "Friedreich ataxia is usually autosomal recessive from GAA repeat expansion in FXN, encoding frataxin, with impaired mitochondrial function.",
+    "Dorsal-column/large sensory involvement reduces vibration/position and causes sensory ataxia; spinocerebellar degeneration impairs coordination; corticospinal degeneration can produce Babinski and other UMN findings.",
+    "Absent deep tendon reflexes reflect impaired sensory afferents despite possible concurrent corticospinal signs. Areflexia plus an extensor plantar response is therefore possible.",
+    "Childhood/adolescent onset, progressive gait/limb ataxia, hypertrophic cardiomyopathy, and diabetes are classic associations.",
+    "Comparison: tabes affects roots/columns; SCD affects columns/corticospinal; Friedreich includes columns, spinocerebellar, and corticospinal systems."
+  ],
+  "cord-11": [
+    "Poliovirus injury targets anterior horn motor neurons, producing a lower motor neuron pattern: flaccid weakness, hypotonia, reduced reflexes, and later denervation atrophy.",
+    "Weakness can be asymmetric, while sensation remains relatively preserved because sensory pathways are not the primary target.",
+    "This contrasts with a sensory neuropathy or combined tract lesion; bulbar/respiratory motor involvement can make motor neuron disease life-threatening."
+  ],
+  "cord-12": [
+    "SMN1-related spinal muscular atrophy is classically autosomal recessive and causes degeneration of anterior horn motor neurons.",
+    "Expected LMN findings are proximal weakness, low tone, reduced reflexes, atrophy, and possible fasciculations; sensation is relatively preserved.",
+    "Type I/Werdnig-Hoffmann presents in infancy with severe hypotonia ('floppy infant'), symmetric proximal weakness, tongue fasciculations, and possible respiratory weakness.",
+    "Polio is an infectious anterior horn injury; SMA is genetic. Both can produce LMN deficits without sensory loss.",
+    "SMN2 copy number can modify severity, but genotype does not perfectly determine an individual phenotype."
+  ],
+  "cord-13": [
+    "ALS combines degeneration of upper motor pathways (including lateral corticospinal tracts) and lower motor neurons (anterior horn and bulbar motor nuclei).",
+    "UMN signs include spasticity, hyperreflexia, Babinski; LMN signs include atrophy, fasciculations, and denervation weakness. They can coexist in the same patient or region.",
+    "Onset is often asymmetric; dysarthria/dysphagia indicate bulbar involvement, and respiratory muscle weakness is a major complication.",
+    "Sensation is usually preserved and prominent early sensory or sphincter findings should suggest alternatives. Some patients have frontotemporal cognitive/behavioral involvement; ALS is not exclusively motor in every possible manifestation.",
+    "Contrast polio/SMA, which primarily produce LMN findings, with ALS's combined UMN/LMN pattern."
+  ],
+  "cord-14": [
+    "The conus medullaris is terminal spinal cord, usually near L1-L2 vertebral level in adults. A lesion can involve sacral cord segments and neighboring roots.",
+    "Classic clues are relatively symmetric bilateral symptoms, saddle sensory loss, early bladder/bowel or sexual dysfunction, and potentially mixed UMN/LMN findings.",
+    "Radicular pain is often less prominent than in cauda equina disease; these are tendencies rather than absolute diagnostic rules.",
+    "New saddle anesthesia with urinary dysfunction requires urgent evaluation for compression regardless of whether conus or cauda equina is favored."
+  ],
+  "cord-15": [
+    "Cauda equina consists of lumbosacral nerve roots descending below the conus; a compressive lesion is a peripheral/root problem and produces LMN rather than intrinsic cord UMN signs.",
+    "Typical findings include asymmetric leg weakness, reduced reflexes, radicular back/leg pain, saddle anesthesia, and possible urinary/bowel dysfunction.",
+    "Do not wait for incontinence: urinary retention, altered bladder sensation, and evolving saddle symptoms can precede late dysfunction.",
+    "Conus = terminal cord, often symmetric with early sphincter symptoms; cauda = roots, often asymmetric and painful. Clinical overlap is substantial, and urgent MRI is used when compression is suspected."
+  ],
+  "cord-16": [
+    "Complete transection interrupts motor, sensory, and autonomic pathways below the lesion; segmental anterior horn injury can add LMN signs at the lesion.",
+    "Spinal shock is acute depression of reflexes and tone below a severe cord lesion: flaccidity and areflexia initially despite damage to upper motor pathways.",
+    "As spinal shock resolves, chronic below-lesion findings can become spastic with hyperreflexia and Babinski, reflecting loss of descending control.",
+    "Neurogenic shock is a separate hemodynamic syndrome: high cord sympathetic interruption can cause hypotension with bradycardia. It can coexist with spinal shock but the terms are not interchangeable.",
+    "High cervical injury can threaten breathing through involvement of C3-C5 phrenic motor output; lesion level determines which functions remain."
+  ],
+  "cord-17": [
+    "Localize with three questions: which modalities, which side, and which segmental level are affected? Then ask which pathway has already crossed.",
+    "UMN pattern = spasticity, hyperreflexia, Babinski after the acute phase; LMN pattern = hypotonia, reduced reflexes, denervation atrophy/fasciculations.",
+    "An intrinsic cord lesion can combine segmental LMN findings with below-lesion UMN findings. A pure root lesion produces LMN motor deficits and associated sensory findings.",
+    "Acute spinal shock can temporarily mask the later UMN pattern; selective tract diseases produce predictable combinations of motor and sensory loss."
+  ]
+}

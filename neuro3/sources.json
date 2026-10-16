@@ -1,0 +1,82 @@
+{
+  "cn": {
+    "title": "NCBI: Neuroanatomy, Cranial Nerve",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470353/"
+  },
+  "brainstem": {
+    "title": "NCBI: Neuroanatomy, Brainstem",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK544297/"
+  },
+  "exam": {
+    "title": "NCBI: Cranial Nerve Testing",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK585066/"
+  },
+  "ocular": {
+    "title": "Clinical Methods: Cranial Nerves III, IV, and VI",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK406/"
+  },
+  "iii": {
+    "title": "NCBI: Cranial Nerve III Palsy",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK526112/"
+  },
+  "ino": {
+    "title": "NCBI: Internuclear Ophthalmoplegia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK441970/"
+  },
+  "v": {
+    "title": "Clinical Methods: Trigeminal Nerve",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK384/"
+  },
+  "facial": {
+    "title": "NCBI: Facial Nerve Anatomy and Clinical Applications",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK554569/"
+  },
+  "chorda": {
+    "title": "NCBI: Chorda Tympani",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK546586/"
+  },
+  "corneal": {
+    "title": "NCBI: Corneal Reflex",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK534247/"
+  },
+  "viii": {
+    "title": "Clinical Methods: The Ear and Auditory System",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK231/"
+  },
+  "meniere": {
+    "title": "NIDCD: Ménière’s Disease",
+    "url": "https://www.nidcd.nih.gov/health/menieres-disease"
+  },
+  "schwannoma": {
+    "title": "NCBI: Vestibular Schwannoma",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK562312/"
+  },
+  "ixx": {
+    "title": "Clinical Methods: Glossopharyngeal and Vagus Nerves",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK386/"
+  },
+  "vagal": {
+    "title": "NCBI: Vagal Nerve Nuclei",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK545209/"
+  },
+  "larynx": {
+    "title": "NCBI: Larynx Recurrent Laryngeal Nerve",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470179/"
+  },
+  "lateralmed": {
+    "title": "NCBI: Lateral Medullary Syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK551670/"
+  },
+  "medialmed": {
+    "title": "NCBI: Medial Medullary Syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560590/"
+  },
+  "pons": {
+    "title": "NCBI: Brainstem Stroke",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560896/"
+  },
+  "midbrain": {
+    "title": "NCBI: Weber Syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK559158/"
+  }
+}

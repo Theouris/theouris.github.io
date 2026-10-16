@@ -1,0 +1,153 @@
+[
+  {
+    "id": "autonomic",
+    "title": "Autonomic transmitters, receptors, and clinical localization",
+    "refs": [
+      "ans",
+      "splanchnic",
+      "pelvic",
+      "bladder"
+    ],
+    "bullets": [
+      "All autonomic preganglionic neurons release acetylcholine onto nicotinic neuronal (Nn) receptors. Somatic motor neurons release acetylcholine onto nicotinic muscle (Nm) receptors.",
+      "Parasympathetic postganglionic neurons release acetylcholine onto muscarinic receptors. Most sympathetic postganglionic neurons release norepinephrine onto alpha/beta receptors.",
+      "Exception: sympathetic fibers to eccrine sweat glands release acetylcholine onto muscarinic receptors. Adrenal chromaffin cells receive preganglionic acetylcholine/Nn input and secrete catecholamines into blood.",
+      "Alpha-1 activation contracts vascular smooth muscle and iris radial dilator; beta-1 increases cardiac rate/contractility and renin release; beta-2 relaxes bronchial smooth muscle. M2 slows the heart; M3 promotes glandular secretion and contracts detrusor and iris sphincter.",
+      "Horner syndrome is interruption of the sympathetic pathway to the eye: ipsilateral miosis, mild ptosis, and variable anhidrosis. Contrast the dilated pupil of compressive CN III palsy.",
+      "Bladder storage: sympathetic hypogastric input relaxes detrusor through beta-3 and contracts outlet through alpha-1; pudendal somatic S2-S4 input contracts external sphincter. Voiding: pelvic parasympathetic S2-S4 input contracts detrusor, with coordinated outlet relaxation.",
+      "Erection depends strongly on pelvic parasympathetic pathways; emission depends strongly on sympathetic pathways, while expulsion also uses somatic muscles. Pelvic surgery can injure mixed autonomic plexuses.",
+      "Greater thoracic splanchnic nerve is typically T5-T9 to celiac ganglia; lesser T10-T11 and least T12 supply more caudal prevertebral/aorticorenal pathways. These are useful typical ranges, with anatomical variation.",
+      "White rami and roots are different: a white ramus joins a mixed spinal nerve to sympathetic chain; a ventral root leaves the cord. Parasympathetic outflow does not enter the sympathetic chain via white rami."
+    ]
+  },
+  {
+    "id": "localization",
+    "title": "Neurons, myelin, and lesion localization",
+    "refs": [
+      "cns",
+      "glia",
+      "motor"
+    ],
+    "bullets": [
+      "A reflex arc contains receptor → afferent neuron → spinal integration → efferent neuron → effector. Stretch reflexes have a direct sensory-motor synapse, although associated circuitry includes interneurons.",
+      "Upper motor neuron injury typically causes weakness, spasticity, hyperreflexia, and an extensor plantar response after the acute phase. Acute severe CNS injury can initially be flaccid.",
+      "Lower motor neuron injury causes weakness, reduced tone/reflexes, denervation atrophy, and possible fasciculations. Anterior horn, ventral root, and peripheral motor axon lesions can all produce this pattern.",
+      "Corticospinal fibers mostly cross at caudal medullary pyramids: lesions above crossing cause contralateral limb weakness; spinal tract lesions below crossing cause ipsilateral weakness below the lesion.",
+      "Dorsal-column vibration/proprioception fibers cross in medulla; spinothalamic pain/temperature fibers cross near spinal entry. This explains different sensory laterality in cord lesions.",
+      "Myelin raises membrane resistance and lowers capacitance; impulses regenerate at nodes of Ranvier. Oligodendrocyte injury affects CNS pathways; Schwann-cell injury affects peripheral pathways.",
+      "Optic neuritis with painful monocular visual loss suggests CNS demyelination; ascending weakness and areflexia after infection suggests a peripheral polyradiculoneuropathy such as Guillain-Barré syndrome.",
+      "Satellite glia support sensory/autonomic ganglion somata. A ganglion is a location, not a guarantee of a synapse: autonomic ganglia contain synapses, whereas DRG generally do not."
+    ]
+  },
+  {
+    "id": "skull",
+    "title": "Skull-base and dural-sinus landmarks",
+    "refs": [
+      "skull",
+      "meninges"
+    ],
+    "bullets": [
+      "Cribriform plate transmits CN I; optic canal transmits CN II and ophthalmic artery; superior orbital fissure transmits III, IV, V1, VI and ophthalmic veins.",
+      "Foramen rotundum transmits V2; foramen ovale transmits V3; foramen spinosum transmits middle meningeal vessels. The internal carotid travels through carotid canal, not through the cartilage-filled foramen lacerum.",
+      "Internal acoustic meatus transmits VII and VIII; jugular foramen transmits IX, X, XI and venous outflow; hypoglossal canal transmits XII. Foramen magnum transmits the cervicomedullary junction, vertebral arteries, and spinal roots of XI among other structures.",
+      "Superior sagittal sinus → confluence → transverse → sigmoid sinus → internal jugular vein is a useful superficial venous drainage sequence. Inferior sagittal sinus joins great cerebral vein to form straight sinus.",
+      "Cavernous sinus contains internal carotid artery and CN VI centrally; III, IV, V1, and V2 run in its lateral wall. Facial/orbital infection can spread through venous connections and cause fever, proptosis, ophthalmoplegia, and facial sensory loss.",
+      "The facial and emissary venous routes can allow infection to reach intracranial sinuses. Dural sinuses are endothelial-lined venous channels without the muscular walls of ordinary veins.",
+      "Meningiomas arise from arachnoid-associated cells, often form dural-based masses with a dural tail, and can show whorls and psammoma bodies; the tumor is not simply a neoplasm of dense dural connective tissue."
+    ]
+  },
+  {
+    "id": "hemorrhage",
+    "title": "Intracranial bleeding and pressure: testable reasoning",
+    "refs": [
+      "herniation",
+      "sah",
+      "meninges"
+    ],
+    "bullets": [
+      "Aneurysmal SAH can cause rebleeding, delayed cerebral ischemia associated with vasospasm, and communicating hydrocephalus. Nimodipine improves outcomes by reducing delayed ischemic injury; definitive aneurysm treatment uses clipping or endovascular techniques.",
+      "Noncontrast CT is the initial test for suspected acute SAH. If CT is negative but suspicion remains, further assessment such as LP or vascular imaging depends on timing and clinical circumstances; a negative CT does not always end the evaluation.",
+      "Xanthochromia reflects hemoglobin breakdown in CSF and supports preceding hemorrhage; it takes time to develop. RBC clearance across collection tubes alone cannot reliably exclude SAH.",
+      "Monro-Kellie doctrine: within the rigid adult skull, brain, blood, and CSF share a nearly fixed total volume. Initial compensatory displacement has limits; further volume increase can sharply raise ICP.",
+      "Cerebral perfusion pressure is approximately mean arterial pressure minus ICP. Increasing ICP can reduce perfusion even when systemic blood pressure appears adequate.",
+      "Uncal compression can affect CN III, cerebral peduncle, and posterior cerebral artery; the latter can produce contralateral homonymous field loss.",
+      "Papilledema reflects optic disc swelling from raised ICP, often bilateral. A CN VI palsy can be a false-localizing sign of raised pressure because of the nerve's long intracranial course.",
+      "Do not perform an LP in a patient with suspected dangerous intracranial pressure gradients from a mass or obstructive process before appropriate evaluation; removing lumbar CSF can precipitate herniation."
+    ]
+  },
+  {
+    "id": "barriers",
+    "title": "Blood-brain barrier, blood-CSF barrier, and ventricular lining",
+    "refs": [
+      "bbb",
+      "plexus",
+      "glia",
+      "csf",
+      "ependymoma"
+    ],
+    "bullets": [
+      "BBB barrier-forming structure: nonfenestrated capillary endothelial cells joined by tight junctions. Basement membrane, pericytes, and astrocyte endfeet support the neurovascular unit.",
+      "Blood-CSF barrier-forming structure: tight junctions between choroid plexus epithelial cells. The underlying choroidal capillaries are fenestrated.",
+      "Ordinary ventricular ependyma generally permits exchange between CSF and interstitial fluid and is not equivalent to the tight choroid epithelial barrier.",
+      "Choroid plexus actively secretes CSF rather than simply filtering plasma; carbonic anhydrase participates in secretion, explaining acetazolamide's pressure-lowering effect.",
+      "Inflammation can increase barrier permeability and CSF protein. Normal CSF has low protein and very few cells compared with blood.",
+      "Circumventricular structures such as area postrema have specialized permeable capillaries that permit sensing circulating signals; the BBB is not uniformly identical everywhere.",
+      "Ependymoma can obstruct CSF flow, classically in the fourth ventricular region in children; choroid plexus papilloma may cause hydrocephalus through overproduction and/or obstruction.",
+      "Tumor links: astrocytic differentiation often shows GFAP; vestibular schwannoma arises from CN VIII Schwann cells; ependymoma can show perivascular pseudorosettes and less commonly true ependymal rosettes. These are histologic associations, not substitutes for modern molecular classification."
+    ]
+  },
+  {
+    "id": "lp",
+    "title": "Lumbar puncture and spinal meningeal anatomy",
+    "refs": [
+      "lp",
+      "meninges"
+    ],
+    "bullets": [
+      "Adult spinal cord usually ends near L1-L2, while the dural sac/subarachnoid space extends to about S2. LP is commonly performed at L3-L4 or L4-L5 in the lumbar cistern among cauda equina roots.",
+      "A midline needle passes through skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum, epidural space, dura, and arachnoid into subarachnoid CSF.",
+      "An epidural anesthetic is delivered outside dura; spinal/intrathecal anesthetic enters subarachnoid CSF. The spinal epidural space contains fat and veins.",
+      "Measure opening pressure with proper lateral-decubitus positioning and interpret with clinical context; ranges vary with technique and patient factors.",
+      "Assess for mass-related herniation risk, local infection, and significant bleeding risk before LP. Focal deficits, papilledema, or impaired consciousness can prompt brain imaging first.",
+      "Low-pressure post-dural-puncture headache classically worsens upright and improves lying flat; persistent cases may be treated with an epidural blood patch.",
+      "Pia forms denticulate ligaments that help anchor the cord and contributes to filum terminale; arachnoid and dura extend beyond the conus to enclose the lumbar cistern."
+    ]
+  },
+  {
+    "id": "csf-patterns",
+    "title": "CSF patterns and meningeal inflammation",
+    "refs": [
+      "lp",
+      "meningitis"
+    ],
+    "bullets": [
+      "Interpret opening pressure, cell count/differential, protein, glucose relative to serum, microbiology, and timing together. Typical adult CSF has approximately 0-5 WBC/µL, protein about 15-45 mg/dL, and glucose roughly 60% of serum, with laboratory-specific ranges.",
+      "Typical bacterial meningitis: neutrophilic pleocytosis, high protein, low glucose, often high pressure. Early disease, immunosuppression, and partial treatment can alter the pattern.",
+      "Typical viral meningitis: lymphocytic pleocytosis, normal glucose, and mildly elevated protein; early viral infection can have neutrophils.",
+      "TB/fungal meningitis often causes lymphocytic cells, high protein, and low glucose. The pattern overlaps with other diseases and is not organism-specific.",
+      "Guillain-Barré syndrome classically has albuminocytologic dissociation: increased CSF protein with relatively few cells; findings can be normal early. MS may have CSF-restricted oligoclonal IgG bands.",
+      "Fever, headache, and neck stiffness suggest meningeal inflammation; altered mental status or focal deficits raise concern for additional CNS involvement. Suspected bacterial meningitis needs prompt treatment; a necessary imaging delay should not delay empiric therapy.",
+      "Meningitis and SAH can impair CSF resorption and produce communicating hydrocephalus; distinguish this downstream complication from a focal aqueductal blockage."
+    ]
+  },
+  {
+    "id": "pressure",
+    "title": "Ventricular pattern comparison and congenital associations",
+    "refs": [
+      "hydro",
+      "aqueduct",
+      "iih",
+      "dandy"
+    ],
+    "bullets": [
+      "One enlarged lateral ventricle suggests ipsilateral Monro obstruction; both lateral plus third with normal fourth suggests aqueduct obstruction; dilation through fourth suggests fourth-outlet or downstream outflow disease.",
+      "Communicating hydrocephalus: no focal intraventricular block, commonly impaired absorption after blood or inflammation. Noncommunicating: a focal ventricular/outlet obstruction. Overproduction is uncommon.",
+      "IIH: high pressure, usually normal-sized ventricles, normal CSF composition, papilledema/visual symptoms. Exclude mass and venous thrombosis; protect vision.",
+      "NPH: older adult, early gait impairment plus cognitive and urinary symptoms, ventriculomegaly disproportionate to atrophy, potentially normal spot pressure. CSF-drainage response helps select shunt candidates.",
+      "Ex vacuo: ventricles and sulci enlarge with tissue loss; it is compensatory ventriculomegaly rather than pressure-driven hydrocephalus.",
+      "Chiari I: low tonsils, often later headache and possible syrinx. A cervical syrinx can injure crossing spinothalamic fibers, causing bilateral suspended/cape-like pain-temperature loss with relative preservation of vibration.",
+      "Chiari II: crowded posterior fossa, hindbrain descent, myelomeningocele, and frequent hydrocephalus. Dandy-Walker: enlarged posterior fossa, hypoplastic vermis, and cystically expanded fourth ventricle.",
+      "A ventriculoperitoneal shunt diverts ventricular CSF to peritoneum. Endoscopic third ventriculostomy bypasses selected third-to-fourth obstructions but still requires useful downstream subarachnoid absorption."
+    ]
+  }
+]

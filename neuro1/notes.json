@@ -1,0 +1,295 @@
+{
+  "1.1-3": [
+    "The CNS consists of brain and spinal cord; the PNS connects them with receptors and effectors through cranial nerves, spinal nerves, peripheral nerves, and ganglia.",
+    "A ganglion contains peripheral neuron cell bodies; a nerve contains peripheral axons. A CNS nucleus contains cell bodies; a tract contains CNS axons.",
+    "Localize before naming a disease: determine whether findings implicate cortex, brainstem, spinal cord, root, plexus, peripheral nerve, neuromuscular junction, or muscle."
+  ],
+  "1.1-4": [
+    "Afferent means toward the CNS; efferent means away from the CNS. These describe information flow, not whether a structure is physically central or peripheral.",
+    "Somatic afferents convey skin, muscle, and joint sensation. Visceral afferents convey internal-organ information.",
+    "Somatic motor output controls skeletal muscle. Autonomic motor output controls smooth muscle, cardiac muscle, and glands through sympathetic and parasympathetic divisions.",
+    "Voluntary/involuntary is a useful overview, but somatic reflexes can be involuntary; the effector and pathway define the division."
+  ],
+  "1.1-5": [
+    "Ventral/anterior roots carry efferents: somatic motor axons arise from anterior horn cells; autonomic preganglionic axons arise from intermediate gray matter at appropriate levels.",
+    "Dorsal/posterior roots carry afferents. Primary sensory neuron cell bodies reside in the dorsal root ganglion, outside the cord; most are pseudounipolar and do not synapse in that ganglion.",
+    "Roots unite into a short mixed spinal nerve that exits the intervertebral foramen, then divides into mixed dorsal and ventral rami.",
+    "Dorsal rami supply intrinsic back muscles and overlying skin; ventral rami supply the anterolateral trunk and limbs and form major plexuses. A posterior ramus is not a posterior root.",
+    "A dorsal root lesion preferentially impairs sensation; a ventral root lesion preferentially impairs motor output; a mixed nerve or ramus lesion can affect both."
+  ],
+  "1.1-6": [
+    "Both autonomic divisions regulate visceral effectors, often with opposing actions but sometimes with complementary or exclusive innervation.",
+    "Sympathetic outflow is thoracolumbar, T1-L2; parasympathetic outflow is craniosacral, through CN III, VII, IX, X and S2-S4.",
+    "The usual autonomic efferent chain is preganglionic neuron in CNS → autonomic ganglion → postganglionic neuron → effector. Visceral afferents are separate sensory neurons."
+  ],
+  "1.1-7": [
+    "The final somatic efferent pathway uses one lower motor neuron from CNS to skeletal muscle; descending upper motor neurons are upstream and are not counted in this comparison.",
+    "Autonomic ganglia contain the synapse between preganglionic and postganglionic neurons. Sensory ganglia generally do not contain such relay synapses.",
+    "Somatic neuromuscular transmission uses acetylcholine at nicotinic muscle receptors; autonomic ganglia use acetylcholine at nicotinic neuronal receptors.",
+    "The adrenal medulla is a modified sympathetic ganglion: preganglionic fibers directly activate chromaffin cells, which release catecholamines into blood."
+  ],
+  "1.1-8": [
+    "Preganglionic sympathetic cell bodies lie in the intermediolateral column/lateral horn of T1-L2 cord segments.",
+    "Trace the entry route: lateral horn → ventral root → spinal nerve → white ramus communicans → sympathetic trunk.",
+    "Inside the trunk, a fiber may synapse at its entry level, ascend or descend then synapse, or pass through toward an abdominal prevertebral ganglion.",
+    "Ascending fibers allow thoracic outflow to reach cervical sympathetic ganglia and the head; descending fibers allow it to reach lumbar and sacral levels."
+  ],
+  "1.1-9": [
+    "White rami carry myelinated preganglionic sympathetic efferents into the chain and are present at T1-L2 only; they also carry visceral afferents traveling back toward the cord.",
+    "Gray rami carry unmyelinated postganglionic sympathetic efferents from the chain back to spinal nerves at every spinal level.",
+    "Those fibers distribute through dorsal and ventral rami to cutaneous vessels, sweat glands, and arrector pili in the trunk and limbs.",
+    "A cervical spinal nerve has a gray ramus despite lacking a white ramus: its preganglionic input ascended from thoracic levels."
+  ],
+  "1.1-10": [
+    "Thoracic and lumbar abdominopelvic splanchnic nerves primarily carry preganglionic sympathetic fibers through the chain to prevertebral ganglia; accompanying visceral afferents travel in the opposite direction.",
+    "Sacral splanchnic nerves arise from the sacral sympathetic trunk and primarily carry postganglionic sympathetic fibers to the inferior hypogastric plexus.",
+    "Pelvic splanchnic nerves arise from S2-S4 and carry preganglionic parasympathetic fibers; pelvic and sacral splanchnics are different nerves.",
+    "Not every splanchnic nerve is preganglionic sympathetic: cardiopulmonary splanchnics are postganglionic sympathetic, while pelvic splanchnics are parasympathetic."
+  ],
+  "1.1-11": [
+    "Abdominal sympathetic route: cord → ventral root → spinal nerve → white ramus → sympathetic chain without synapse → thoracic/lumbar splanchnic nerve → prevertebral ganglion → periarterial plexus → organ.",
+    "Celiac ganglia/plexus primarily serve foregut; superior mesenteric primarily serves midgut; inferior mesenteric primarily serves hindgut.",
+    "The gut receives postganglionic fibers along arterial branches rather than through gray rami; gray rami primarily return sympathetic fibers to spinal nerves for the body wall and limbs."
+  ],
+  "1.1-12": [
+    "Cranial parasympathetic outflow travels in III, VII, IX, and X; sacral outflow arises from S2-S4. Preganglionic fibers are generally long, with ganglia close to or inside the target and short postganglionic fibers.",
+    "CN III → ciliary ganglion → pupil constriction and accommodation; CN VII → pterygopalatine and submandibular ganglia → lacrimal/nasal and submandibular/sublingual secretion.",
+    "CN IX → otic ganglion → parotid secretion. CN X supplies thoracic viscera and foregut/midgut through terminal ganglia.",
+    "Pelvic splanchnics supply hindgut and pelvic viscera; cranial ganglion outputs often hitchhike on trigeminal branches, which do not themselves originate parasympathetic outflow."
+  ],
+  "1.1-13": [
+    "Vagal parasympathetic supply extends through foregut and midgut, approximately to the proximal two-thirds of the transverse colon.",
+    "Pelvic splanchnics supply hindgut, approximately from distal one-third of transverse colon onward, and pelvic organs.",
+    "Preganglionic fibers synapse in terminal/intramural ganglia; postganglionic fibers activate local gut effectors and enteric networks, generally increasing secretion and motility."
+  ],
+  "1.1-14": [
+    "The abdominal aortic plexus continues into the superior hypogastric plexus, then right and left hypogastric nerves, then paired inferior hypogastric plexuses.",
+    "Inferior hypogastric plexuses receive sympathetic hypogastric and sacral splanchnic fibers plus parasympathetic pelvic splanchnics, with visceral afferents also present.",
+    "These mixed plexuses distribute to pelvic viscera and contribute routes to hindgut. Injury during pelvic surgery can impair bladder, bowel, and sexual function.",
+    "Distinguish the mixed inferior hypogastric plexus from the parasympathetic pelvic splanchnic nerves entering it."
+  ],
+  "1.1-15": [
+    "The enteric nervous system is an intrinsic gut network capable of organizing local reflexes without direct CNS commands, while being modulated by autonomic inputs.",
+    "Myenteric/Auerbach plexus lies between circular and longitudinal muscle of muscularis externa and primarily coordinates motility.",
+    "Submucosal/Meissner plexus lies in the submucosa and primarily regulates secretion, mucosal function, and local blood flow.",
+    "Hirschsprung disease is congenital absence of enteric ganglion cells in distal bowel: failure of relaxation produces functional obstruction, a narrow distal segment, and proximal dilation."
+  ],
+  "1.1-16": [
+    "Sympathetic supply: thoracic splanchnics for foregut/midgut, primarily lumbar splanchnics for hindgut; synapse in prevertebral ganglia, then follow arteries.",
+    "Parasympathetic supply: vagus for foregut/midgut, pelvic splanchnics for hindgut; synapse near/within the organ.",
+    "Sympathetic activity generally reduces gut motility and secretion and promotes sphincter contraction; parasympathetic activity generally promotes digestion through enteric circuits."
+  ],
+  "1.1-17": [
+    "Somatic afferents convey touch, pain, temperature, and proprioception from skin, skeletal muscle, and joints; spinal cell bodies lie in DRG and axons enter posterior roots.",
+    "Visceral afferents convey distension, chemical milieu, and pain from viscera/vessels; cell bodies lie in spinal or cranial sensory ganglia.",
+    "Many visceral pain fibers accompany sympathetic nerves; many physiologic reflex afferents accompany parasympathetic routes, especially vagus. Their direction remains afferent regardless of the motor nerves they accompany.",
+    "Pelvic pain below the pelvic pain line often follows pelvic parasympathetic pathways; the sympathetic association is not universal.",
+    "Referred pain reflects convergence of visceral and somatic afferents onto shared spinal neurons; the brain misattributes visceral activity to a somatic dermatome."
+  ],
+  "1.1-18": [
+    "In spinal cord and most brainstem: dorsal = posterior, ventral = anterior, rostral = toward head, caudal = toward feet.",
+    "In the forebrain, the bent neuraxis changes these relationships: dorsal = superior, ventral = inferior, rostral = anterior, caudal = posterior.",
+    "Sagittal sections separate left/right; coronal sections separate anterior/posterior; axial/horizontal sections separate superior/inferior in the brain.",
+    "Ipsilateral means same side; contralateral means opposite side. Decussation means crossing of fibers, which determines the side of deficits."
+  ],
+  "1.1-19": [
+    "Cerebrum supports perception, voluntary movement, cognition, language, and behavior; deep diencephalic structures include thalamus and hypothalamus.",
+    "Brainstem consists of midbrain, pons, and medulla; contains long tracts, many cranial nerve nuclei, and vital autonomic circuitry.",
+    "Cerebellum coordinates timing, balance, and motor learning. Spinal cord relays ascending and descending pathways and supports segmental reflexes.",
+    "Related developmental framework: telencephalon → cerebral hemispheres; diencephalon → thalamus/hypothalamus; mesencephalon → midbrain; metencephalon → pons/cerebellum; myelencephalon → medulla. In the original diagrams, identify frontal, parietal, and occipital lobes, thalamus, hypothalamus, pituitary, cerebellum, brainstem subdivisions, and spinal cord."
+  ],
+  "1.1-20": [
+    "Gray matter is enriched in neuronal somata, dendrites, synapses, glia, and relatively unmyelinated processes; white matter is enriched in myelinated axons and supporting glia.",
+    "Brain has superficial cortical gray matter over white matter, plus deep gray nuclei: the outside/inside rule is a simplification, not an absolute.",
+    "Spinal cord has central butterfly-shaped gray matter with dorsal sensory and ventral motor horns, surrounded by white-matter columns.",
+    "Gray-matter injury may disrupt local processing; white-matter injury may disconnect pathways. Either can cause weakness or sensory loss; symptoms alone do not uniquely distinguish them."
+  ],
+  "1.1-21": [
+    "Dendrites usually receive input; soma integrates and maintains the cell; axon carries output to terminals, where neurotransmitters are released at synapses.",
+    "Action potentials usually initiate at the axon initial segment near the hillock, a region enriched in voltage-gated sodium channels.",
+    "Tracts/nuclei belong to CNS; nerves/ganglia belong to PNS. Basal ganglia is a traditional naming exception for CNS nuclei.",
+    "Most mature CNS neurons have very limited replacement after injury. Timely restoration of perfusion can preserve viable ischemic tissue; PNS axonal regeneration is more favorable when soma and guidance pathways remain intact.",
+    "Diagram labels: dendrites, soma/nucleus, axon hillock and initial segment, axon, myelin sheath, nodes of Ranvier, and axon terminals. Myelin covers internodes; exposed nodes regenerate action potentials during saltatory conduction."
+  ],
+  "1.1-22": [
+    "CNS glia: astrocytes, oligodendrocytes, microglia, and ependymal cells. PNS glia: Schwann and satellite cells.",
+    "Glia support metabolism and extracellular homeostasis, modulate synapses, myelinate axons, participate in immune surveillance, and line CSF spaces.",
+    "Most CNS neurons and macroglia arise from neural tube neuroectoderm; Schwann and satellite cells arise from neural crest. Microglia instead arise from embryonic yolk-sac macrophage lineage."
+  ],
+  "1.1-23": [
+    "Astrocytes support the neurovascular unit, buffer extracellular potassium, take up neurotransmitters, and form glial scars; GFAP is a useful marker. Endothelial tight junctions physically form the blood-brain barrier; astrocytic endfeet help maintain it.",
+    "One oligodendrocyte myelinates segments of multiple CNS axons; one myelinating Schwann cell makes one internode on one PNS axon. Demyelination slows saltatory conduction.",
+    "Multiple sclerosis affects CNS myelin and can cause optic neuritis; Guillain-Barré syndromes affect peripheral nerves/roots, commonly with demyelination. Schwannomas arise from Schwann cells.",
+    "Microglia are resident CNS immune cells. Ependymal cells line ventricles and central canal and help CSF movement; specialized choroid epithelial cells are chiefly responsible for CSF secretion.",
+    "Satellite cells surround ganglion neuron cell bodies. Clarification of the slide's herpes-zoster association: VZV latency is classically in sensory neurons of ganglia, rather than a defining primary infection of satellite glia.",
+    "The optic nerve is a CNS extension with oligodendrocytes and meningeal coverings, despite its name. Astrocytic tumors include astrocytomas/GBM; ependymal tumors include ependymomas."
+  ],
+  "1.2-4": [
+    "The skull has 22 standard bones: 8 neurocranial and 14 facial; 6 auditory ossicles are counted separately.",
+    "Neurocranial bones: frontal, occipital, sphenoid, ethmoid, paired parietal, and paired temporal. Calvaria is the vault; the cranial base supports the brain.",
+    "Facial bones: paired maxillae, zygomatic, nasal, lacrimal, palatine, inferior nasal conchae, plus unpaired vomer and mandible. The mandible is the major movable skull bone."
+  ],
+  "1.2-5": [
+    "Coronal suture joins frontal to parietal; sagittal joins the two parietals; lambdoid joins parietals to occipital.",
+    "Bregma is the coronal-sagittal junction and location of the anterior fontanelle; lambda is the sagittal-lambdoid junction and location of the posterior fontanelle.",
+    "Pterion joins frontal, parietal, greater wing of sphenoid, and squamous temporal bones; asterion joins parietal, occipital, and mastoid temporal regions.",
+    "Metopic suture separates the two halves of the developing frontal bone and usually fuses in childhood. Fontanelles permit birth molding and growth; early suture fusion can distort skull growth."
+  ],
+  "1.2-6": [
+    "Anterior skull landmarks include frontal forehead, nasal bridge, zygomatic cheeks, maxillary upper jaw, and mandibular lower jaw.",
+    "Posterior view emphasizes parietal and occipital bones with the lambdoid suture; use sutures and foramina as orientation landmarks rather than relying on image position.",
+    "The images also show orbital margins, supraorbital/infraorbital regions, and occipital landmarks; the complete labeled images are retained below for visual identification."
+  ],
+  "1.2-7": [
+    "Lateral skull shows parietal and temporal bones, greater wing of sphenoid, and zygomatic arch; the arch is formed by temporal and zygomatic processes.",
+    "The anterior branch of the middle meningeal artery runs deep to the pterion; lateral trauma can fracture thin bone and tear the artery, producing an epidural hematoma.",
+    "The middle meningeal artery is a branch of the maxillary artery and enters the cranial cavity through foramen spinosum.",
+    "Lateral-image landmarks: squamous, tympanic, and mastoid temporal regions; mastoid and styloid processes; mandibular body, ramus, angle, condylar process, and coronoid process; mental foramen; zygomaticofacial and zygomaticotemporal foramina. The condyle articulates with temporal bone; coronoid process gives temporalis insertion.",
+    "Identify coronal, squamous, sphenoparietal, sphenosquamous, parietomastoid, occipitomastoid, and lambdoid sutures. Other illustrated dural arterial contributions include ethmoidal/anterior meningeal, ascending pharyngeal/posterior meningeal, occipital, and vertebral branches; middle meningeal injury is the classic pterion association."
+  ],
+  "1.2-8": [
+    "Superior external view shows frontal and paired parietal bones with coronal and sagittal sutures, bregma, and posterior lambda.",
+    "The internal calvarial surface shows vascular grooves and the groove for the superior sagittal sinus; arachnoid granulations can leave impressions adjacent to it."
+  ],
+  "1.2-9": [
+    "Anterior cranial fossa supports frontal lobes; middle cranial fossa supports temporal lobes; posterior cranial fossa contains cerebellum and brainstem.",
+    "The sphenoid separates much of the anterior/middle regions; petrous temporal ridges and dorsum sellae help bound the posterior fossa.",
+    "The cribriform plate in the anterior fossa transmits olfactory axons; injury can cause anosmia and CSF rhinorrhea. The foramen magnum connects the posterior fossa with the vertebral canal."
+  ],
+  "1.2-10": [
+    "Basilar skull fractures involve the skull base, frequently temporal bone, and can disrupt vessels, cranial nerves, meninges, and middle/inner ear structures.",
+    "Battle sign is mastoid/postauricular ecchymosis; hemotympanum is blood behind an intact tympanic membrane; raccoon eyes are periorbital ecchymoses.",
+    "CSF rhinorrhea or otorrhea implies a communication through fractured bone and torn meninges. Beta-2 transferrin is a useful confirmatory marker of CSF in leaking fluid.",
+    "A persistent CSF leak creates a route for ascending infection and meningitis."
+  ],
+  "1.2-11": [
+    "Use the clinical photographs and illustration to distinguish bruising behind the ear (Battle sign) from bruising around the eyes (raccoon eyes). Both support basilar skull injury in the appropriate trauma context.",
+    "Raccoon eyes particularly suggest anterior cranial fossa injury; temporal bone injury can produce Battle sign, hemotympanum, hearing changes, and otorrhea."
+  ],
+  "1.2-13": [
+    "Outside to inside: skull → dura → arachnoid → subarachnoid space → pia → brain.",
+    "Dura is pachymeninx; arachnoid and pia together are leptomeninges. Meninges protect the CNS and define routes for vessels and CSF.",
+    "Pia hugs the neural surface, including sulci; arachnoid bridges across sulci, leaving CSF-filled subarachnoid spaces beneath it."
+  ],
+  "1.2-14": [
+    "Cranial dura has outer periosteal/endosteal and inner meningeal layers. The periosteal layer adheres to skull; the meningeal layer forms folds.",
+    "Dural venous sinuses form where dural layers separate, including within dural fold attachments, and return venous blood and absorbed CSF.",
+    "Spinal dura is the continuation of the meningeal layer only. Unlike the cranial epidural potential space, the spinal epidural space normally contains fat and internal vertebral venous plexus."
+  ],
+  "1.2-15": [
+    "Falx cerebri is the vertical partition between cerebral hemispheres. Tentorium cerebelli forms a roof over the cerebellum, separating it from occipital cerebral regions.",
+    "Falx cerebelli partially separates cerebellar hemispheres. Diaphragma sellae roofs the pituitary fossa and has an opening for the infundibulum.",
+    "Supratentorial means above tentorium; infratentorial means below. The tentorial notch surrounds the midbrain and is a potential route for herniation.",
+    "Superior sagittal sinus runs in the attached superior falx; inferior sagittal sinus in its free edge; straight sinus at the falx-tentorium junction."
+  ],
+  "1.2-16": [
+    "Supratentorial dura receives pain sensation mainly through CN V branches, explaining referred pain to forehead and face.",
+    "Posterior fossa dura receives important contributions from upper cervical nerves C1-C3, with additional cranial contributions; irritation can refer pain to occiput and neck.",
+    "Brain parenchyma itself is relatively insensitive to pain; dura and large vessels are important pain-sensitive intracranial structures."
+  ],
+  "1.2-17": [
+    "Arachnoid is an avascular membrane that bridges over gyri and sulci; its trabeculae cross the subarachnoid space to pia.",
+    "The subarachnoid space is a real space containing CSF and major cerebral vessels; enlarged regions are called cisterns.",
+    "Pia is delicate, vascular, adherent to brain/spinal cord, and follows all surface contours.",
+    "Arachnoid villi/granulations project into dural venous sinuses, classically the superior sagittal sinus, allowing CSF drainage down a pressure gradient; lymphatic outflow also contributes."
+  ],
+  "1.2-18": [
+    "Cranial epidural space is a potential space between skull and periosteal dura; arterial bleeding classically creates it in epidural hematoma.",
+    "Subdural is a potential cleavage plane at the dura-arachnoid interface, associated with bridging vein injury.",
+    "Subarachnoid is a real space between arachnoid and pia, normally containing CSF and vessels; aneurysmal blood enters this space in SAH.",
+    "The slide's epidural 'no normal contents' statement applies to the cranial space. The spinal epidural space is normally real and contains fat and veins."
+  ],
+  "1.2-19": [
+    "Epidural hematoma: classically middle meningeal arterial injury after pterion trauma; a possible lucid interval followed by deterioration; CT typically shows biconvex/lentiform blood limited by sutures.",
+    "Subdural hematoma: bridging veins tear as the brain moves relative to dura; risk increases with age-related atrophy and acceleration/deceleration injury, including abusive head trauma in infants.",
+    "Subdural blood is typically crescentic, crosses sutures, and is limited by dural folds; acute blood is usually hyperdense, chronic blood may become hypodense.",
+    "SAH: sudden severe thunderclap headache with meningeal irritation; aneurysmal rupture commonly involves an anterior communicating artery aneurysm, though trauma is another important cause.",
+    "Blood in basal cisterns and sulci suggests SAH. A lucid interval is a classic association, not required for epidural hematoma; the vessel and CT pattern are stronger discriminators."
+  ],
+  "1.2-20": [
+    "Read noncontrast CT by compartment and geometry: lentiform extra-axial collection = epidural; crescentic extra-axial collection = subdural; blood tracking sulci/cisterns = subarachnoid.",
+    "An epidural collection stops at sutural dural attachments; subdural blood can cross sutures but usually cannot pass across falx or tentorium.",
+    "Both can compress brain and produce midline shift, declining consciousness, and herniation. Shape alone should be interpreted alongside trauma timing and clinical findings."
+  ],
+  "1.2-21": [
+    "A mass or swelling raises intracranial pressure and creates gradients that displace tissue through fixed openings or under folds.",
+    "Subfalcine: cingulate gyrus moves under falx; ACA compression can infarct medial motor cortex and cause contralateral leg-predominant weakness.",
+    "Uncal: medial temporal uncus crosses tentorial edge; superficial parasympathetic fibers of ipsilateral CN III are compressed, producing a dilated poorly reactive pupil.",
+    "Uncal peduncle compression usually causes contralateral weakness; compression of the opposite peduncle against tentorium (Kernohan notch) can produce ipsilateral weakness, a false-localizing sign.",
+    "Central downward transtentorial herniation compromises diencephalon/midbrain and consciousness. Tonsillar herniation pushes cerebellar tonsils through foramen magnum and threatens medullary respiratory/cardiovascular centers.",
+    "These patterns can progress to coma, cardiorespiratory failure, and death. Cushing response is hypertension/widened pulse pressure, bradycardia, and irregular respiration."
+  ],
+  "1.2-23": [
+    "Four CSF-filled ventricles: paired lateral ventricles, one third ventricle, and one fourth ventricle; ependymal cells line their surfaces.",
+    "The ventricular lumen is continuous with the embryonic neural tube lumen and caudally with the spinal central canal.",
+    "Most CSF leaves the fourth ventricle through its outlets to the subarachnoid space rather than traveling down the narrow central canal."
+  ],
+  "1.2-24": [
+    "Each lateral ventricle is C-shaped and has a body plus anterior/frontal, posterior/occipital, and inferior/temporal horns, with an atrium at the junction posteriorly.",
+    "Each communicates with the third ventricle through its own interventricular foramen of Monro.",
+    "Obstruction of one foramen can enlarge one lateral ventricle; bilateral obstruction enlarges both lateral ventricles while sparing downstream cavities."
+  ],
+  "1.2-25": [
+    "The third ventricle is a narrow midline cavity of the diencephalon between the thalami, with hypothalamus forming inferior portions of its walls/floor.",
+    "The cerebral aqueduct runs through the midbrain and connects third to fourth ventricle.",
+    "The fourth ventricle lies dorsal to pons/upper medulla and ventral to cerebellum. It opens via two lateral foramina of Luschka and one median foramen of Magendie.",
+    "Magendie communicates with cisterna magna; Luschka opens laterally toward the cerebellopontine angle subarachnoid spaces. The figure also labels suprasellar, interpeduncular, pontine, and quadrigeminal cisterns."
+  ],
+  "1.2-26": [
+    "CSF is clear and colorless, produced mainly by choroid plexus in lateral, third, and fourth ventricles. The cerebral aqueduct has no choroid plexus.",
+    "Choroid plexus consists of vascular connective tissue with fenestrated capillaries covered by specialized epithelial cells derived from ependyma; their tight junctions form the blood-CSF barrier.",
+    "Trace the entire route: lateral ventricles → Monro → third → cerebral aqueduct → fourth → Luschka/Magendie → cisterns/subarachnoid spaces around brain and cord → arachnoid granulations → dural venous sinuses.",
+    "CSF provides buoyancy, cushioning, and chemical homeostasis. Adult CSF volume is roughly 150 mL; production is about 500 mL/day, so it turns over multiple times daily.",
+    "BBB tight junctions lie between CNS capillary endothelial cells; blood-CSF barrier tight junctions lie between choroid plexus epithelial cells. Ordinary ventricular ependyma is not the same tight barrier."
+  ],
+  "1.2-27": [
+    "Hydrocephalus is excess CSF accumulation causing ventricular enlargement, with or without persistently high measured ICP.",
+    "Mechanisms: obstruction within ventricular pathways, impaired outflow/absorption after CSF leaves the ventricles, or rarely overproduction such as choroid plexus papilloma.",
+    "Raised-pressure symptoms include headache, nausea/vomiting, papilledema, and cognitive or neurologic decline. Infants can expand the skull, causing increasing head circumference and a bulging fontanelle.",
+    "Ventriculomegaly is an imaging description; it does not by itself prove active pressure-driven hydrocephalus."
+  ],
+  "1.2-28": [
+    "Communicating hydrocephalus retains communication from ventricles to the subarachnoid compartment; impaired resorption is the classic mechanism.",
+    "SAH and meningitis can scar CSF outflow/arachnoid granulations, causing enlargement of the entire ventricular system.",
+    "An enlarged fourth ventricle does not alone distinguish communicating hydrocephalus from fourth-outlet obstruction; location and patency of CSF pathways matter."
+  ],
+  "1.2-29": [
+    "Noncommunicating hydrocephalus means obstruction along the ventricular outflow pathway; cavities upstream enlarge while downstream cavities are relatively spared.",
+    "Monro obstruction → one or both lateral ventricles; aqueduct obstruction → both lateral plus third, with fourth spared; fourth-outlet obstruction → enlargement extending through fourth.",
+    "Causes include congenital malformations, tumors, cysts, and hemorrhage. Always localize the bottleneck using the pattern rather than labeling every enlarged ventricle the same way."
+  ],
+  "1.2-31": [
+    "Aqueductal stenosis blocks third-to-fourth flow through the midbrain; both lateral ventricles and third enlarge while the fourth is relatively normal.",
+    "It can be congenital or acquired from local disease, including compression by a mass. Infants may show macrocephaly; older patients show pressure symptoms and reduced consciousness.",
+    "A shunt diverts CSF; selected obstructive cases can be treated with endoscopic third ventriculostomy, creating a route from third ventricular floor into basal cisterns."
+  ],
+  "1.2-32": [
+    "Chiari II is a crowded/small posterior fossa with downward displacement of hindbrain structures, commonly accompanied by obstructed CSF flow and hydrocephalus.",
+    "Myelomeningocele is the strong associated spinal defect; feeding difficulty, weak cry, stridor, and other brainstem dysfunction may occur in infancy.",
+    "Chiari I usually involves low cerebellar tonsils and later presentation with occipital/Valsalva headache; it can be associated with syringomyelia. Myelomeningocele is not a typical association.",
+    "The slide's 'tonsillar herniation only' is a study shorthand; Chiari I can have additional CSF-flow and spinal-cord consequences."
+  ],
+  "1.2-33": [
+    "Dandy-Walker malformation combines vermian hypoplasia/agenesis, cystic dilation of the fourth ventricle, and enlargement of posterior fossa with elevated tentorium.",
+    "Disordered posterior fossa development can impair CSF dynamics and produce hydrocephalus; infants may show macrocephaly, motor delay, and ataxia.",
+    "Compare enlarged posterior fossa with absent/hypoplastic vermis in Dandy-Walker against crowded posterior fossa and hindbrain descent in Chiari II."
+  ],
+  "1.2-35": [
+    "IIH causes elevated ICP without mass lesion or hydrocephalus; ventricular size is typically normal and CSF composition is normal.",
+    "Typical vignette: young woman with obesity, headache, transient visual obscurations, papilledema, and pulsatile tinnitus; CN VI palsy can cause horizontal diplopia.",
+    "Diagnosis requires exclusion of other causes, including cerebral venous sinus thrombosis, with brain imaging and usually venous imaging before LP; adult opening pressure is generally at least 25 cm H2O in the appropriate setting.",
+    "Weight reduction and acetazolamide reduce pressure; threatened vision requires urgent specialist-directed intervention. Transverse sinus narrowing is associated with IIH.",
+    "Secondary intracranial hypertension can be associated with tetracyclines or vitamin A derivatives; identify secondary causes before calling disease idiopathic."
+  ],
+  "1.2-36": [
+    "NPH usually affects older adults and causes gait disturbance, cognitive impairment, and urinary urgency/incontinence. Gait dysfunction often appears first and can be magnetic or shuffling.",
+    "Imaging shows ventricular enlargement disproportionate to cortical sulcal enlargement. A single LP opening pressure can be normal despite abnormal CSF dynamics over time.",
+    "Impaired CSF absorption and periventricular circuit dysfunction are classic explanations; compression/stretching near corona radiata helps explain gait and bladder findings.",
+    "Improvement after removal of CSF during a large-volume tap or drainage trial supports likely response to shunting. Selected patients benefit from a ventriculoperitoneal shunt; the triad alone does not establish the diagnosis."
+  ],
+  "1.2-37": [
+    "Ex vacuo enlargement occurs because brain tissue is lost, leaving compensatory expansion of ventricles and cortical sulci.",
+    "Examples include Alzheimer disease, remote infarction, and other causes of atrophy; the process is not primarily blocked CSF flow or failed absorption.",
+    "Pressure is generally normal, and CSF diversion does not address the underlying tissue loss. Compare proportional sulcal enlargement with NPH's disproportionate ventriculomegaly."
+  ]
+}

@@ -1,0 +1,334 @@
+[
+  {
+    "id": "1.1",
+    "title": "Overview of the Nervous System",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Overview of the Nervous System\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nKirk Kerkorian School of Medicine\nUniversity of Nevada Las Vegas",
+        "image": "slides/1.1-01.png"
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives (2026)\n1. Describe the structural and functional organization of the nervous system, including the\nCNS, PNS, sensory pathways, motor pathways, and autonomic divisions. (CLO 1, CLO 2)\n2. Apply standard neuroanatomical terminology to describe orientation, sections, gray matter,\nwhite matter, nuclei, tracts, nerves, and ganglia. (CLO 1, CLO 5)\n3. Relate the structural organization of neurons, glial cells, and major neural pathways to\nnormal nervous system function and the principles of neurological localization. (CLO 1, CLO\n2, CLO 5)\nPre-Session Assignment\n• Preview the PowerPoint slides. You are not expected to memorize details before class.\n• Watch: B&B: Cells of the Nervous System (23 min)",
+        "image": "slides/1.1-02.png"
+      },
+      {
+        "page": 3,
+        "text": "Structural Division – Where Structures Are Located\nCentral Nervous System (CNS)\n• Brain\n• Spinal cord\nPeripheral Nervous System (PNS)\n• Cranial nerves\n• Spinal nerves\n• Peripheral nerves\n• Ganglia\nFig. 1.5 Central and Peripheral Nervous System.\nCrossman, Neuroanatomy, 6e.",
+        "image": "slides/1.1-03.png"
+      },
+      {
+        "page": 4,
+        "text": "Functional Organization of the Nervous System\nNervous System\nSENSORY (Afferent) MOTOR (Efferent)\nPeripheral receptors → CNS CNS → Effectors\nSomatic Motor Autonomic Motor\n(Voluntary; skeletal muscle) (Involuntary; smooth muscle, cardiac muscle, glands)\nSympathetic Parasympathetic\n(Fight or Flight) (Rest and Digest)\nStructural divisions tell us where neural structures are located.\nFunctional divisions describe the direction and function of neural pathways.",
+        "image": "slides/1.1-04.png"
+      },
+      {
+        "page": 5,
+        "text": "Spinal Nerve\nAnterior Root\n• Carries motor (efferent) fibers\n• Somatic motor: cell bodies in anterior horn\n• Autonomic motor: preganglionic neuron cell bodies in\nintermediate gray matter\nPosterior Root\n• Carries sensory (afferent) fibers\n• Sensory neuron cell bodies in the dorsal root ganglion\n• Anterior + posterior roots unite → mixed spinal nerve\n• Spinal nerve exits via intervertebral foramen\n• Divides into mixed anterior and posterior rami\nFig. 2.9 Spinal nerves (transverse section).\nAnatomy for Students, 5e.",
+        "image": "slides/1.1-05.png"
+      },
+      {
+        "page": 6,
+        "text": "Autonomic Nervous System\nAutonomic motor pathways\nregulate:\n• Smooth muscle\n• Cardiac muscle\n• Glands\nMajor divisions:\n• Sympathetic →\nthoracolumbar outflow\n• Parasympathetic →\ncraniosacral outflow\nBoth divisions generally use a two-neuron motor pathway\nfrom the CNS to the target organ\nFig. 1.42, 1.47 GAS, 4e.",
+        "image": "slides/1.1-06.png"
+      },
+      {
+        "page": 7,
+        "text": "Somatic vs\nAutonomic Motor Pathways\nSomatic Motor\n• Single motor neuron\n• CNS → skeletal muscle\nAutonomic Motor\n• Two-neuron pathway\n• Preganglionic neuron: CNS → autonomic ganglion\n• Postganglionic neuron: autonomic ganglion → target organ\n• Targets: smooth muscle, cardiac muscle, glands\nAutonomic motor pathways\nrequire a synapse in an autonomic ganglion\nFig. 1.42 Clinical Oriented Anatomy, 8e.",
+        "image": "slides/1.1-07.png"
+      },
+      {
+        "page": 8,
+        "text": "Sympathetic System: Thoracolumbar Outflow\nPreganglionic neurons\n• Cell bodies in the lateral horn (intermediolateral cell column), T1–L2\n• Axons exit through ventral roots → enter spinal nerves\n• Enter the sympathetic trunk through white rami communicantes\nOnce in the sympathetic trunk, preganglionic fibers may:\n• Synapse at the same level\n• Ascend or descend before synapsing\n• Pass through without synapsing → splanchnic nerves\nThoracic spinal cord. Courtesy of Univ of Michigan Med School, ©2012; Fig 1.44 GAS, 5e.",
+        "image": "slides/1.1-08.png"
+      },
+      {
+        "page": 9,
+        "text": "White and Gray Rami Communicantes\n• White rami: carry preganglionic sympathetic fibers into the sympathetic trunk\n• Gray rami: carry postganglionic sympathetic fibers back to the spinal nerve\n• White rami: T1–L2 only\n• Gray rami: present at all spinal levels\nSympathetic trunk\nGray rami allow sympathetic fibers to reach\nthe body wall and limbs at all spinal levels",
+        "image": "slides/1.1-09.png"
+      },
+      {
+        "page": 10,
+        "text": "Sympathetic Splanchnic Nerves\nThoracic and Lumbar Splanchnic Nerves\n• Carry primarily preganglionic sympathetic fibers\n• Fibers pass through the sympathetic trunk without synapsing\n• Travel to prevertebral ganglia and autonomic plexuses\nSacral Splanchnic Nerves\n• Preganglionic fibers descend in the sympathetic trunk\n• Synapse in sacral sympathetic ganglia\n• Postganglionic fibers leave as sacral splanchnic nerves\n• Contribute to the inferior hypogastric plexus\nDo not confuse:\n• Sacral splanchnic nerves = sympathetic\n• Pelvic splanchnic nerves (S2–S4) = parasympathetic\nFig. 4.136 Splanchnic nerves. GAS, 4e.",
+        "image": "slides/1.1-10.png"
+      },
+      {
+        "page": 11,
+        "text": "Sympathetic Innervation of Abdominal Viscera\nSympathetic Pathway\n• Preganglionic fibers pass through the sympathetic trunk without synapsing\n• Form thoracic and lumbar splanchnic nerves\n• Synapse primarily in prevertebral ganglia\n• Postganglionic fibers follow arteries to abdominal viscera\nMajor Prevertebral Ganglia / Plexuses\n• Celiac → primarily foregut\n• Superior mesenteric → primarily midgut\n• Inferior mesenteric → primarily hindgut\nSpinal cord → ventral root → spinal nerve → white ramus\n→ sympathetic trunk → thoracic/lumbar splanchnic nerve\n→ prevertebral ganglion → periarterial plexus → organ\nFig. 4.136 Splanchnic nerves. GAS, 4e.",
+        "image": "slides/1.1-11.png"
+      },
+      {
+        "page": 12,
+        "text": "Parasympathetic System: Craniosacral Outflow\nPreganglionic neurons originate in:\n• Brainstem → CN III, VII, IX, X\n• Sacral parasympathetic nucleus (S2–S4)\nOrganization\n• Long preganglionic fibers\n• Synapse in ganglia near or within target organs\n• Short postganglionic fibers → targets\nMajor Visceral Pathways\n• CN III, VII, IX → head and neck structures\n• Vagus nerve (CN X) → thoracic viscera, foregut, and midgut\n• Preganglionic fibers from S2–S4 form pelvic splanchnic nerves\n→ hindgut and pelvic viscera\nFig. 1.47 GAS, 4e.",
+        "image": "slides/1.1-12.png"
+      },
+      {
+        "page": 13,
+        "text": "Parasympathetic Innervation of the Abdominal Viscera\nParasympathetic Pathway\n• Vagus nerve (CN X) → foregut and midgut\n• Pelvic splanchnic nerves (S2–S4) → hindgut\n• Preganglionic fibers extend to the target organ\n• Synapse in terminal/intramural ganglia\nFunctional Effects\n• ↑ GI motility\n• ↑ GI secretion\nVagus nerve or pelvic splanchnic (S2–S4) nerves →\nterminal/intramural ganglia → short postganglionic\nfibers → GI effectors\nFig. 1.47 GAS, 4e.",
+        "image": "slides/1.1-13.png"
+      },
+      {
+        "page": 14,
+        "text": "Pelvic Autonomics: Hypogastric Plexuses\nSympathetic\n• Abdominal aortic plexus → superior hypogastric plexus\n• Superior hypogastric plexus → right and left hypogastric nerves\n• Hypogastric nerves → inferior hypogastric plexuses\n• Sacral splanchnic nerves contribute to inferior hypogastric plexus\nParasympathetic\n• Pelvic splanchnic nerves (S2–S4)\n• Contribute to the inferior hypogastric plexus\n• Inferior hypogastric plexus contains both sympathetic and parasympathetic fibers\n• Distributes to pelvic viscera and hindgut\nFig. 4.136 Splanchnic nerves. GAS, 4e.",
+        "image": "slides/1.1-14.png"
+      },
+      {
+        "page": 15,
+        "text": "Enteric Nervous System\nIntrinsic Neural Network of the GI tract\n• Myenteric (Auerbach) plexus → primarily regulates motility\n• Submucosal (Meissner) plexus → secretion and local blood flow\n• Can coordinate GI activity independently\n• Modulated by sympathetic and parasympathetic input\nVisceral\nFig. 4.139 The enteric system. GAS, 4e.",
+        "image": "slides/1.1-15.png"
+      },
+      {
+        "page": 16,
+        "text": "Autonomic Innervation of the GI Tract\nSympathetic\n• Foregut & midgut → thoracic splanchnic nerves\n• Hindgut → primarily lumbar splanchnic nerves\n• Synapse in prevertebral ganglia\n• Postganglionic fibers follow periarterial plexuses\n• Generally, ↓ motility and secretion\nParasympathetic\n• Foregut & midgut → vagus nerve (CN X)\n• Hindgut → pelvic splanchnic nerves (S2–S4)\n• Synapse in terminal/intramural ganglia\n• Generally, ↑ motility and secretion",
+        "image": "slides/1.1-16.png"
+      },
+      {
+        "page": 17,
+        "text": "Somatic vs Visceral Sensory Pathways\nSomatic Sensory (Afferent) Visceral Sensory (Afferent)\n• From skin, skeletal muscle, and joints • From viscera and blood vessels\n• Carries touch, pain, temperature, and proprioception • Carries distension, chemical changes, and visceral pain\n• Cell bodies in dorsal root ganglia (DRG) • Cell bodies in sensory ganglia (DRG, cranial sensory ganglia)\n• Fibers enter the spinal cord through posterior roots • Spinal visceral afferents enter through posterior roots\nSensory → CNS: Somatic afferents | Visceral afferents\nMotor → Effectors: Somatic → skeletal muscle | Autonomic → viscera\nClinical Anatomy Pearl\n• Visceral pain afferents → commonly accompany sympathetic pathways\n• Physiologic/reflex afferents → commonly accompany parasympathetic pathways",
+        "image": "slides/1.1-17.png"
+      },
+      {
+        "page": 18,
+        "text": "Terms of Orientation\nSpinal Cord\n• Anterior = Ventral\n• Posterior = Dorsal\n• Superior = Rostral\n• Inferior = Caudal\nBrain\n• Anterior = Rostral\n• Posterior = Caudal\n• Superior = Dorsal\n• Inferior = Ventral\nOrientation shifts at the cephalic flexure",
+        "image": "slides/1.1-18.png"
+      },
+      {
+        "page": 19,
+        "text": "Central Nervous System Overview\nBrain\n• Cerebrum\n• Brainstem\n• Cerebellum\nSpinal cord\nFig. 3.1, 3.2 Costanzo, 7e.",
+        "image": "slides/1.1-19.png"
+      },
+      {
+        "page": 20,
+        "text": "Gray Matter vs. White Matter\nGray Matter\n• Neuronal cell bodies, dendrites, and\nunmyelinated axons\n• Site of information processing\n• Appears gray in fresh tissue\nWhite Matter\n• Myelinated axons (tracts)\n• Carries information between regions\n• Appears white due to myelin\nOrganization\n• Brain: Gray matter outside, white matter inside\n• Spinal Cord: Gray matter inside, white matter outside\nGray matter lesions: focal deficits (e.g., stroke → weakness, aphasia)\nWhite matter lesions: tract conduction deficits (multiple sclerosis →\nwidespread or dissociated deficits",
+        "image": "slides/1.1-20.png"
+      },
+      {
+        "page": 21,
+        "text": "Neuron\nThree Main Parts\n• Dendrites → receive input\n• Cell body (soma) → integrates signals\n• Axon → transmits output\nSignal Transmission\n• Action potentials begin at the axon hillock\n• Axon terminals release neurotransmitters at synapses\nOrganization\n• Tracts = axon bundles in the CNS\n• Nerves = axon bundles in the PNS\n• Nuclei = neuron cell body clusters in the CNS\n• Ganglia = neuron cell body clusters in the PNS\nNeuronal loss is largely irreversible\nEarly reperfusion preserves brain function",
+        "image": "slides/1.1-21.png"
+      },
+      {
+        "page": 22,
+        "text": "Neuroglia (Glial Cells)\nMajor Functions\n• Support and protect neurons\n• Form myelin\n• Participate in immune defense\nCNS Glia\n• Astrocytes\n• Oligodendrocytes\n• Microglia\n• Ependymal cells\nPNS Glia\n• Schwann cells\n• Satellite cells\nMedical gallery of Blausen Medical 2014. www.Blausen.com",
+        "image": "slides/1.1-22.png"
+      },
+      {
+        "page": 23,
+        "text": "High-Yield Glial Cells\nCell Type Primary Function Clinical Association\nAstrocyte Blood-brain barrier, support Astrocytoma; Glioblastoma (GBM)\nOligodendrocyte CNS myelin Multiple sclerosis\nMicroglia CNS macrophages (immune defense) Neuroinflammation\nEpendymal Cell CSF production / circulation Ependymoma\nSchwann Cell PNS myelin, axonal regeneration Guillain-Barré, Schwannoma\nSatellite Cell Support neurons in ganglia Herpes zoster\nAnatomy Pearls Clinical Pearl\n• Oligodendrocyte = CNS myelin Optic Nerve ≠ Typical Peripheral Nerve\n• Schwann cell = PNS myelin • CNS tract\n• One oligodendrocyte → many axons • Myelinated by oligodendrocytes\n• One Schwann cell → one axon segment • Optic neuritis is common in MS",
+        "image": "slides/1.1-23.png"
+      },
+      {
+        "page": 24,
+        "text": "Summary\n• Nervous system organization includes CNS/PNS and sensory/motor divisions.\n• Anterior roots are motor; posterior roots are sensory; spinal nerves and rami are mixed.\n• Autonomic motor pathways use preganglionic and postganglionic neurons.\n• Sympathetic: thoracolumbar (T1–L2); parasympathetic: craniosacral.\n• Sympathetic fibers travel through sympathetic trunks, splanchnic nerves, and\nautonomic plexuses.\n• Gray matter contains neuronal cell bodies; white matter contains predominantly\nmyelinated axons.\n• Neurons transmit signals; glial cells support, protect, and myelinate neurons.",
+        "image": "slides/1.1-24.png"
+      },
+      {
+        "page": 25,
+        "text": "Overview of the\nNervous System\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nCourse Director Anatomy and Neuroscience\nTel: (702) 545-2050 | aftab.merchant@unlv.edu\nSchedule an Appointment",
+        "image": "slides/1.1-25.png"
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "title": "Meninges and Ventricular System",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Meninges and Ventricular System\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nKirk Kerkorian School of Medicine\nUniversity of Nevada Las Vegas",
+        "image": "slides/1.2-01.png"
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives (2026)\n1. Describe the anatomy and organization of the meninges, ventricular system, and\ncerebrospinal fluid pathways, and relate their structural relationships to normal central\nnervous system protection and function. (CLO 1)\n2. Interpret the meninges, ventricular system, and cerebrospinal fluid spaces using cross-\nsectional anatomy and medical imaging, and correlate normal imaging anatomy with common\nneurological disorders. (CLO 1, CLO 5)\n3. Explain the pathophysiology, clinical features, and diagnostic principles of hydrocephalus and\nother disorders involving cerebrospinal fluid circulation and the meninges. (CLO 3)\nPre-Session Assignment\n• Preview the PowerPoint slides. You are not expected to memorize details before class.\n• Watch:\n• B&B: Ventricles and Sinuses (22 min)\n• B&B: Blood Brain Barrier (12 min)",
+        "image": "slides/1.2-02.png"
+      },
+      {
+        "page": 3,
+        "text": "Skull",
+        "image": "slides/1.2-03.png"
+      },
+      {
+        "page": 4,
+        "text": "Self-Study\nHead Osteology\n• 22 bones skull bones: 8 neurocranial + 14 facial\n• +6 auditory ossicles\n• Neurocranium: calvaria, cranial base\n• Viscerocranium: facial skeleton\nFig.8.1BAdultCranium(lateral).COA,8e.\nFig.8.7A.Skull:Bones.GAS,4e.",
+        "image": "slides/1.2-04.png"
+      },
+      {
+        "page": 5,
+        "text": "Self-Study\nSkull Sutures\n• Immobile joints: coronal, sagittal, lambdoid\n• Junctions: bregma, lambda, pterion, asterion\n• Clinical: fontanelles (newborn), metopic suture\nFig.8.7C.Fontanellesandlambdoidsuture.GAS,4e.\nFig.8.6Craniometricpoints.COA,8e.",
+        "image": "slides/1.2-05.png"
+      },
+      {
+        "page": 6,
+        "text": "Self-Study\nSkull Anterior and Posterior Views\n• Frontal, nasal, zygomatic, maxilla, mandible anteriorly\n• Occipital and parietal bones posteriorly, lambdoid suture\nFig. 8.18 Anteriorview of theskull.\nFig.8.20Posteriorviewoftheskull\nGray’sAnatomyforStudents,4e.",
+        "image": "slides/1.2-06.png"
+      },
+      {
+        "page": 7,
+        "text": "Self-Study\nSkull Lateral View\n• Temporal and parietal bones\n• Greater wing of sphenoid\n• Zygomatic arch\n• Pterion: middle meningeal artery lies deep to it\nFig.8.19Lateralviewoftheskull\nGray’sAnatomyforStudents,4e.",
+        "image": "slides/1.2-07.png"
+      },
+      {
+        "page": 8,
+        "text": "Self-Study\nSkull Superior View\n• Calvaria: Frontal, parietal bones, sagittal suture\nFig.8.21Superiorviewoftheskull.GAS,4e. Fig.8.24Roofofthecranialcavity.GAS,4e.",
+        "image": "slides/1.2-08.png"
+      },
+      {
+        "page": 9,
+        "text": "Self-Study\nCranial Floor (Fossae Overview)\n• Anterior: frontal lobes\n• Middle: temporal lobes\n• Posterior: cerebellum, brainstem\nCredit:KennethSaladin\nFig.7.41Brainanditsrelationshiptothethreecranialfossae\nGrant’sDissector,16e.",
+        "image": "slides/1.2-09.png"
+      },
+      {
+        "page": 10,
+        "text": "Cranial Floor\nBasilar Skull Fracture\n• Fractures involving the skull base\n• Commonly involves the temporal bone\nClinical Signs\n• Battle sign: postauricular/mastoid ecchymosis\n• Hemotympanum: blood behind the tympanic membrane\n• Raccoon eyes: periorbital ecchymosis\n• CSF leakage: CSF rhinorrhea or otorrhea",
+        "image": "slides/1.2-10.png"
+      },
+      {
+        "page": 11,
+        "text": "Battle Sign and Raccoon Eyes\nBattle sign ➔ basilar skull fracture ➔ postauricular/mastoid ecchymosis\nRaccoon sign ➔ anterior cranial fossa fracture ➔ periorbital ecchymosis\nImage:Piedade.FacialTrauma.\nIn:TheSportsMedicinePhysician.Springer2019.",
+        "image": "slides/1.2-11.png"
+      },
+      {
+        "page": 12,
+        "text": "Meninges",
+        "image": "slides/1.2-12.png"
+      },
+      {
+        "page": 13,
+        "text": "Meninges\n• Dura mater – outermost\n• Arachnoid mater – middle\n• Pia mater – innermost\nLeptomeninges = arachnoid + pia\nFig.8.28,ClinicallyOrientedAnatomy9e.",
+        "image": "slides/1.2-13.png"
+      },
+      {
+        "page": 14,
+        "text": "Dura Mater\n• Thick, tough outer meningeal layer\n• Cranial dura: periosteal (outer) + meningeal (inner) layers\n• Spinal dura: meningeal layer only\n• Meningeal layer forms dural partitions\nFig.8.31ADuralpartitions.GAS,5e.",
+        "image": "slides/1.2-14.png"
+      },
+      {
+        "page": 15,
+        "text": "Dural Partitions\n• Dural folds that subdivide the cranial cavity\n• Falx cerebri: separates cerebral hemispheres\n• Tentorium cerebelli: separates cerebrum from cerebellum\n• Falx cerebelli: separates cerebellar hemispheres\n• Diaphragma sellae: covers pituitary gland in sella turcica\nSupratentorial = above the tentorium cerebelli\nInfratentorial = below the tentorium cerebelli\nFig.8.32Duralpartitions.\nGray’sAnatomyforStudents,4e.",
+        "image": "slides/1.2-15.png"
+      },
+      {
+        "page": 16,
+        "text": "Dural Innervation\nSupratentorial Dura\n• Primarily trigeminal nerve (CN V)\n• Irritation ➔ referred pain to trigeminal distribution\n(forehead, face)\nPosterior Fossa Dura\n• Primarily upper cervical nerves (C1–3)\n• Irritation ➔ referred pain to necck/occiput\nFig.8.34Duralinnervation\nGray’sAnatomyforStudents,4e.",
+        "image": "slides/1.2-16.png"
+      },
+      {
+        "page": 17,
+        "text": "Arachnoid and Pia\nArachnoid Mater\n• Middle meningeal layer; avascular\n• Does not follow gyri and sulci\n• Subarachnoid space contains CSF and cerebral vessels\n• Arachnoid granulations → CSF drainage into dural venous sinuses\nPia Mater\n• Innermost, delicate vascular membrane\n• Adheres closely to brain and spinal cord\n• Follows gyri and sulci\nFig.8.35Arrangementofmeningesandspaces.GAS5e.",
+        "image": "slides/1.2-17.png"
+      },
+      {
+        "page": 18,
+        "text": "Meningeal Spaces\nSpace Type Normal Contents Clinical\nExtradural (epidural) Potential None MMA rupture ➔ epidural hematoma\nSubdural Potential None Bridging vein tear ➔ subdural hematoma\nSubarachnoid Real CSF, vessels Berry aneurysm rupture ➔ SAH\nFig.8.35Arrangementofmeningesandspaces.\nGray’sAnatomyforStudents,5e.",
+        "image": "slides/1.2-18.png"
+      },
+      {
+        "page": 19,
+        "text": "Intracranial Hematomas\nExtradural (Epidural) Hematoma\n• Middle meningeal artery rupture (pterion fracture)\n• Lucid interval ➔ rapid deterioration\n• Biconvex lens-shaped hematoma; does not cross sutures\nSubdural Hematoma\n• Bridging vein tear\n• Risk” elderly (brain atrophy) and infants (shaken babies)\n• Crescent-shaped hematoma; crosses sutures\nSubarachnoid Hemorrhage\n• Ruptured berry aneurysm (commonly anterior communicating artery) Fig.8.49Scalpandmeninges\nGray’sAnatomyforStudents,4e.\n• Thunderclap headache (“worst headache of my life”), meningeal signs\n• CT: blood in basal cisterns/sulci",
+        "image": "slides/1.2-19.png"
+      },
+      {
+        "page": 20,
+        "text": "Epidural (Extradural) Hematoma\n• Lens-shaped (biconvex) hematoma\n• Limited by sutures (does not cross)\n• Displaces brain tissue medially\nSubdural Hematoma\n• Crescent-shaped hematoma\n• Crosses sutures, but not midline falx\n• More diffuse, spreads along brain surface\nLens = Epidural\nCrescent = Subdural",
+        "image": "slides/1.2-20.png"
+      },
+      {
+        "page": 21,
+        "text": "Herniation Syndromes\n↑ Intracranial pressure ➔ displacement of brain tissue across dural partitions\nSubfalcine: Cingulate gyrus under falx ➔ACA compression\nCentral (transtentorial)\n• Downward displacement ➔ brainstem compression\nUncal\n• ipsilateral CN III compression ➔ dilated pupil;\n• cerebral peduncle compression ➔ hemiparesis\nTonsillar\n• cerebellar tonsils through foramen magnum ➔ medullary compression\nComplications:\nBrainstem compression ➔ coma, cardiorespiratory failure, death",
+        "image": "slides/1.2-21.png"
+      },
+      {
+        "page": 22,
+        "text": "CSF & Ventricular System",
+        "image": "slides/1.2-22.png"
+      },
+      {
+        "page": 23,
+        "text": "Ventricular System\n• Interconnected CSF-filled cavities\n• Lined by ependymal cells\n• Four ventricles: two lateral, third, fourth\n• Fourth ventricle continues with the central\ncanal of the spinal cord\nFig.11-1.VentricularSystem.Waxman,30e.",
+        "image": "slides/1.2-23.png"
+      },
+      {
+        "page": 24,
+        "text": "Lateral Ventricles\n• C-shaped ventricles in cerebral hemispheres\n• Consist of body + 3 horns (anterior, posterior, inferior)\n• Communicate with the third ventricle via the\ninterventricular foramina (of Monro)",
+        "image": "slides/1.2-24.png"
+      },
+      {
+        "page": 25,
+        "text": "Third and Fourth Ventricles\n• Third ventricle: between the thalami\n• 4th ventricle: between brainstem and cerebellum\n• Connected by the cerebral aqueduct\n• CSF exits the 4th ventricle into the subarachnoid\nspace through:\n• Two lateral foramina (Luschka)\n• One median foramen (Magendie)",
+        "image": "slides/1.2-25.png"
+      },
+      {
+        "page": 26,
+        "text": "Cerebrospinal Fluid (CSF)\n• Clear, colorless fluid produced primarily by choroid plexus\n• Circulates through ventricles ➔ subarachnoid space\n• Reabsorbed through arachnoid granulations ➔ dural venous sinuses\n• drains into superior sagittal sinus via arachnoid villi\n• Functions: buoyancy, protection, and CNS homeostasis\nChoroid Plexus\n• Vascular tissue covered by modified ependymal cells\n• Present in the ventricles\n• Main site of CSF production\nLateral ventricles → interventricular foramina → 3rd ventricle → cerebral\naqueduct → 4th ventricle → Luschka/Magendie → subarachnoid space\n→ arachnoid granulations → dural venous sinuses",
+        "image": "slides/1.2-26.png"
+      },
+      {
+        "page": 27,
+        "text": "Hydrocephalus\nDefinition\n• Abnormal accumulation of CSF ➔ ventricular dilation ± increased ICP\nCauses\n• Obstruction of CSF flow ➔ non-communicating (obstructive)\n• Impaired CSF absorption ➔ communicating\n• CSF overproduction ➔ rare (e.g., choroid plexus papilloma)\nClinical Features\n• Headache, nausea/vomiting, papilledema\n• Cognitive or neurologic deficits\n• Infants: increasing head circumference, bulging fontanelle",
+        "image": "slides/1.2-27.png"
+      },
+      {
+        "page": 28,
+        "text": "Communicating Hydrocephalus\n• No obstruction within the ventricular system\n• ↓ CSF absorption at arachnoid granulations\n• All ventricles enlarge\n• Causes: SAH, meningitis\n• May cause ↑ ICP",
+        "image": "slides/1.2-28.png"
+      },
+      {
+        "page": 29,
+        "text": "Non-Communicating (Obstructive) Hydrocephalus\n• Obstructive within the ventricular system\n• Ventricles proximal to the obstruction enlarge\nCommon Sites of Obstruction\n• Interventricular foramen\n• Cerebral aqueduct (most common)\n• Fourth ventricular outlets\nCauses\n• Congenital malformations, tumors, cysts, hemorrhage",
+        "image": "slides/1.2-29.png"
+      },
+      {
+        "page": 30,
+        "text": "Mechanical Obstruction\nAqueductal Stenosis, Chiari, Dandy-Walker",
+        "image": "slides/1.2-30.png"
+      },
+      {
+        "page": 31,
+        "text": "Aqueductal Stenosis\n• Obstruction of the cerebral aqueduct\n• Blocks CSF flow: 3rd → 4th ventricle\n• Enlarged lateral and 3rd ventricles\n• Normal 4th ventricle\n• Congenital or acquired\n• Infants: ↑ head circumference, signs of ↑ ICP\n• Adults: ↑ ICP, headaches, ↓ consciousness",
+        "image": "slides/1.2-31.png"
+      },
+      {
+        "page": 32,
+        "text": "Chiari II Malformation (Arnold-Chiari Malformation)\n• Small/crowded posterior fossa ➔ hindbrain displaced downward\n• Crowding impairs CSF flow ➔ noncommunicating (obstructive) hydrocephalus\n• Strongly associated with myelomeningocele\n• Infants may have feeding difficulty, weak cry, and signs of ↑ ICP\nChiari I\n• Cerebellar tonsillar herniation\n• Typically presents later\n• No myelomeningocele\nChiari II = small posterior fossa + hindbrain herniation + myelomeningocele + hydrocephalus\nChiari I = tonsillar herniation only, no myelomeningocele",
+        "image": "slides/1.2-32.png"
+      },
+      {
+        "page": 33,
+        "text": "Dandy-Walker Malformation (DWM)\n• Hypoplasia / agenesis of cerebellar vermis\n• ➔ Cystically dilated 4th ventricle; enlarged posterior fossa\n• ➔ impaired CSF flow\n• ➔ Obstructive hydrocephalus\nClinical Features\n• Hydrocephalus (macrocephaly)\n• Delayed motor development and ataxia\nDandy-Walker = enlarged posterior fossa\nChiari II = crowded posterior fossa\nfetalhealthfoundation.org",
+        "image": "slides/1.2-33.png"
+      },
+      {
+        "page": 34,
+        "text": "Pressure Disorders\nIdiopathic Intracranial Hypertension (pseudotumor Cerebri)\nNormal Pressure Hydrocephalus (NPH)\nHydrocephalus Ex vacuo (ventriculomegaly due to brain atrophy; not true hydrocephalus)",
+        "image": "slides/1.2-34.png"
+      },
+      {
+        "page": 35,
+        "text": "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)\n• ↑ ICP with normal ventricular size on imaging\n• No mass lesion or hydrocephalus\n• Classically occurs in young woman with obesity\n• Headache, papilledema, transient visual loss\n• Pulsatile tinnitus (key diagnostic clue)\n• CN VI palsy may cause diplopia\n• LP: ↑ opening pressure with normal CSF composition\n• Tx: weight loss + acetazolamide\n• Often associated with transverse venous narrowing\nSome casesof pseudotumorcerebrimay resultfrom\nnarrowing(red)of cerebraldrainingveins(blue).\nImage: neurosurgery.weillcornell.org",
+        "image": "slides/1.2-35.png"
+      },
+      {
+        "page": 36,
+        "text": "Normal Pressure Hydrocephalus (NPH)\n• Usually occurs in older adults\n• Ventriculomegaly out of proportion to cortical atrophy\nClassic Triad\n• Urinary incontinence; gait disturbance; dementia\n• CSF opening pressure may be normal when measured\n• Tx: ventriculoperitoneal shunt\nTraditional Explanation\n• Thought to involve impaired CSF absorption\n➔ ventricular enlargement compresses corona radiata\nNPH = “wet, wobbly, wacky”\nNon-contrastCTdemonstratesenlargedlateralventricles(whitearrows)\nGait disturbance typically occurs first withoutsignificantcerebralatrophy.(CourtesyofReginaldDusing,MD.)",
+        "image": "slides/1.2-36.png"
+      },
+      {
+        "page": 37,
+        "text": "Hydrocephalus Ex Vacuo\n• Ventricular enlargement due to loss of brain tissue\n• Compensatory enlargement of ventricles and sulci\n• Not due to CSF obstruction or impaired absorption\n• ICP is normal\n• Seen in neurodegeneration (Alzheimer), stroke, or\nother causes of brain atrophy\n• Despite the name, not true hydrocephalus\nNPH: ventriculomegaly + clinical triad\nEx vacuo: ventriculomegaly + brain atrophy\nKim.PsychiatryInvestig.2021",
+        "image": "slides/1.2-37.png"
+      },
+      {
+        "page": 38,
+        "text": "Summary\n• Meninges: dura → arachnoid → pia\n• Spaces: epidural/subdural = potential; subarachnoid = CSF + vessels\n• Hemorrhage: epidural = MMA; subdural = bridging veins; SAH = subarachnoid\n• ↑ ICP → brain herniation across dural partitions\n• CSF: choroid plexus → ventricles → subarachnoid space → venous sinuses\n• Hydrocephalus: communicating = ↓ absorption; obstructive = blocked flow\n• Key disorders have characteristic ventricular and imaging patterns",
+        "image": "slides/1.2-38.png"
+      },
+      {
+        "page": 39,
+        "text": "Meninges and\nVentricular System\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nCourse DirectorAnatomy and Neuroscience\nTel: (702) 545-2050 | aftab.merchant@unlv.edu\nSchedule anAppointment",
+        "image": "slides/1.2-39.png"
+      }
+    ]
+  }
+]

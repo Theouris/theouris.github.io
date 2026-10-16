@@ -1,0 +1,16 @@
+{
+  "slides": 76,
+  "expanded_sections": 62,
+  "board_sections": 9,
+  "questions": 158,
+  "choice_explanations": 790,
+  "stem_words_min": 4,
+  "stem_words_max": 74,
+  "answer_positions": {
+    "0": 34,
+    "1": 26,
+    "2": 27,
+    "3": 41,
+    "4": 30
+  }
+}

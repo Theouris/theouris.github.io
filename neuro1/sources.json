@@ -1,0 +1,90 @@
+{
+  "cns": {
+    "title": "NCBI Bookshelf: Anatomy, Central Nervous System",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542179/"
+  },
+  "glia": {
+    "title": "NCBI Bookshelf: Neuroglial Cells (Neuroscience)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK10869/"
+  },
+  "ans": {
+    "title": "NCBI Bookshelf: Anatomy, Autonomic Nervous System",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539845/"
+  },
+  "splanchnic": {
+    "title": "NCBI Bookshelf: Splanchnic Nerves",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560504/"
+  },
+  "pelvic": {
+    "title": "NCBI Bookshelf: Inferior Hypogastric Plexus",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK567711/"
+  },
+  "motor": {
+    "title": "NCBI Bookshelf: Upper Motor Neuron Lesion",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537305/"
+  },
+  "skull": {
+    "title": "NCBI Bookshelf: Anatomy, Head and Neck, Skull",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK499834/"
+  },
+  "meninges": {
+    "title": "NCBI Bookshelf: Neuroanatomy, Cranial Meninges",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539882/"
+  },
+  "csf": {
+    "title": "NCBI Bookshelf: Neuroanatomy, Cerebrospinal Fluid",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470578/"
+  },
+  "hydro": {
+    "title": "NCBI Bookshelf: Hydrocephalus",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560875/"
+  },
+  "aqueduct": {
+    "title": "NCBI Bookshelf: Cerebral Aqueduct",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK540988/"
+  },
+  "bbb": {
+    "title": "NCBI Bookshelf: Barriers of the CNS",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK53084/"
+  },
+  "plexus": {
+    "title": "NCBI Bookshelf: Choroid Plexus",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+  },
+  "herniation": {
+    "title": "Merck Manual: Brain Herniation",
+    "url": "https://www.merckmanuals.com/professional/neurologic-disorders/coma-and-impaired-consciousness/brain-herniation"
+  },
+  "sah": {
+    "title": "Merck Manual: Subarachnoid Hemorrhage",
+    "url": "https://www.merckmanuals.com/professional/neurologic-disorders/stroke/subarachnoid-hemorrhage"
+  },
+  "iih": {
+    "title": "Merck Manual: Idiopathic Intracranial Hypertension",
+    "url": "https://www.merckmanuals.com/professional/neurologic-disorders/headache/idiopathic-intracranial-hypertension"
+  },
+  "lp": {
+    "title": "Merck Manual: Lumbar Puncture and CSF Patterns",
+    "url": "https://www.merckmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/lumbar-puncture"
+  },
+  "meningitis": {
+    "title": "Merck Manual: Acute Bacterial Meningitis",
+    "url": "https://www.merckmanuals.com/professional/neurologic-disorders/meningitis/acute-bacterial-meningitis"
+  },
+  "ependymoma": {
+    "title": "NCBI Bookshelf: Ependymoma",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538244/"
+  },
+  "schwannoma": {
+    "title": "NCBI Bookshelf: Vestibular Schwannoma",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK562312/"
+  },
+  "bladder": {
+    "title": "NCBI Bookshelf: Physiology, Bladder",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538533/"
+  },
+  "dandy": {
+    "title": "NIH MedlinePlus: Dandy-Walker Malformation",
+    "url": "https://medlineplus.gov/genetics/condition/dandy-walker-malformation/"
+  }
+}

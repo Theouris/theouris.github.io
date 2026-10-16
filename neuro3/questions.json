@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "Q001",
+    "ref": "cn-4",
+    "deck": "cn",
+    "topic": "Brainstem framework",
+    "stem": "Which structure is part of the brainstem?",
+    "options": [
+      {
+        "text": "Thalamus",
+        "why": "This is a diencephalic structure."
+      },
+      {
+        "text": "Olfactory bulb",
+        "why": "This is a forebrain-associated olfactory structure."
+      },
+      {
+        "text": "Caudate nucleus",
+        "why": "This is a deep telencephalic nucleus."
+      },
+      {
+        "text": "Cerebellar cortex",
+        "why": "Cerebellum is connected to but distinct from brainstem."
+      },
+      {
+        "text": "Pons",
+        "why": "The brainstem comprises midbrain, pons, and medulla."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q002",
+    "ref": "cn-4",
+    "deck": "cn",
+    "topic": "Brainstem framework",
+    "stem": "The dorsal midbrain roof behind the cerebral aqueduct is called what?",
+    "options": [
+      {
+        "text": "Basis pontis",
+        "why": "This is ventral pons."
+      },
+      {
+        "text": "Inferior olive",
+        "why": "This is a medullary structure."
+      },
+      {
+        "text": "Pyramid",
+        "why": "This is a ventral medullary motor structure."
+      },
+      {
+        "text": "Tectum",
+        "why": "The tectum contains superior and inferior colliculi."
+      },
+      {
+        "text": "Middle cerebellar peduncle",
+        "why": "This is a lateral pontocerebellar connection."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q003",
+    "ref": "cn-5",
+    "deck": "cn",
+    "topic": "Brainstem framework",
+    "stem": "A specimen has prominent ventral pyramids and lateral olives. Which level is being examined?",
+    "options": [
+      {
+        "text": "Rostral midbrain",
+        "why": "This is identified by cerebral peduncles and superior colliculi."
+      },
+      {
+        "text": "Middle pons",
+        "why": "Large basis and middle cerebellar peduncles are pontine landmarks."
+      },
+      {
+        "text": "Thalamus",
+        "why": "This is above the brainstem and lacks these landmarks."
+      },
+      {
+        "text": "Cervical spinal cord",
+        "why": "This lacks the prominent medullary olive/pyramid surface configuration."
+      },
+      {
+        "text": "Medulla",
+        "why": "Pyramids and olives are medullary surface landmarks."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q004",
+    "ref": "cn-5",
+    "deck": "cn",
+    "topic": "Brainstem framework",
+    "stem": "Which surface structure most directly carries descending corticospinal fibers in ventral midbrain?",
+    "options": [
+      {
+        "text": "Inferior colliculus",
+        "why": "This is an auditory midbrain structure."
+      },
+      {
+        "text": "Gracile tubercle",
+        "why": "This is a dorsal medullary sensory landmark."
+      },
+      {
+        "text": "Superior colliculus",
+        "why": "This dorsal structure participates in visual orienting."
+      },
+      {
+        "text": "Solitary nucleus",
+        "why": "This is a visceral/taste sensory nucleus."
+      },
+      {
+        "text": "Cerebral peduncle/crus cerebri",
+        "why": "Its ventral fiber bundles include corticospinal output."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q005",
+    "ref": "cn-6",
+    "deck": "cn",
+    "topic": "Nerve attachments",
+    "stem": "Which cranial nerve uniquely exits from the dorsal brainstem?",
+    "options": [
+      {
+        "text": "CN VI",
+        "why": "This emerges near midline at pontomedullary junction."
+      },
+      {
+        "text": "CN XII",
+        "why": "This emerges between pyramid and olive."
+      },
+      {
+        "text": "CN V",
+        "why": "This attaches to lateral pons."
+      },
+      {
+        "text": "CN III",
+        "why": "This emerges ventrally near the interpeduncular region."
+      },
+      {
+        "text": "CN IV",
+        "why": "Trochlear axons cross and emerge dorsally from caudal midbrain."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q006",
+    "ref": "cn-6",
+    "deck": "cn",
+    "topic": "Nerve attachments",
+    "stem": "A nerve root emerges from the medulla between the pyramid and olive. Which nerve is it?",
+    "options": [
+      {
+        "text": "CN X",
+        "why": "This also emerges lateral to olive."
+      },
+      {
+        "text": "CN VII",
+        "why": "This attaches near the lateral pontomedullary junction."
+      },
+      {
+        "text": "CN IX",
+        "why": "This emerges lateral/posterior to olive."
+      },
+      {
+        "text": "CN V",
+        "why": "This attaches to pons."
+      },
+      {
+        "text": "CN XII",
+        "why": "Hypoglossal rootlets emerge in the preolivary groove."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q007",
+    "ref": "cn-7",
+    "deck": "cn",
+    "topic": "Nerve names and routes",
+    "stem": "Which pair is associated with forebrain rather than brainstem nerve attachments?",
+    "options": [
+      {
+        "text": "CN IX and X",
+        "why": "These attach to medulla."
+      },
+      {
+        "text": "CN III and IV",
+        "why": "Both are associated with midbrain."
+      },
+      {
+        "text": "CN I and II",
+        "why": "Olfactory and optic pathways are not typical brainstem-attached cranial nerves."
+      },
+      {
+        "text": "CN V and VI",
+        "why": "These are associated with pons/pontomedullary levels."
+      },
+      {
+        "text": "CN VII and VIII",
+        "why": "These attach near pontomedullary junction/CPA."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q008",
+    "ref": "cn-7",
+    "deck": "cn",
+    "topic": "Nerve names and routes",
+    "stem": "What is the name of CN VI?",
+    "options": [
+      {
+        "text": "Oculomotor",
+        "why": "This is CN III."
+      },
+      {
+        "text": "Trigeminal",
+        "why": "This is CN V."
+      },
+      {
+        "text": "Trochlear",
+        "why": "This is CN IV."
+      },
+      {
+        "text": "Accessory",
+        "why": "This is CN XI."
+      },
+      {
+        "text": "Abducens",
+        "why": "CN VI supplies lateral rectus."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q009",
+    "ref": "cn-8",
+    "deck": "cn",
+    "topic": "Blood supply",
+    "stem": "Which two arteries normally unite to form the basilar artery?",
+    "options": [
+      {
+        "text": "Posterior communicating arteries",
+        "why": "These link carotid and posterior circulation."
+      },
+      {
+        "text": "Anterior cerebral arteries",
+        "why": "These connect through ACOM but do not form basilar."
+      },
+      {
+        "text": "Middle cerebral arteries",
+        "why": "These are carotid-system branches."
+      },
+      {
+        "text": "Internal carotid arteries",
+        "why": "These provide anterior circulation rather than joining as basilar."
+      },
+      {
+        "text": "Vertebral arteries",
+        "why": "Paired vertebral arteries join near the pontomedullary region."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q010",
+    "ref": "cn-8",
+    "deck": "cn",
+    "topic": "Blood supply",
+    "stem": "Which artery is adjacent to, but not part of, the circle of Willis ring itself?",
+    "options": [
+      {
+        "text": "Proximal anterior cerebral artery",
+        "why": "This contributes to the ring."
+      },
+      {
+        "text": "Proximal posterior cerebral artery",
+        "why": "This contributes to the ring."
+      },
+      {
+        "text": "Anterior communicating artery",
+        "why": "This is part of the ring."
+      },
+      {
+        "text": "Posterior communicating artery",
+        "why": "This is part of the ring."
+      },
+      {
+        "text": "Middle cerebral artery",
+        "why": "MCA is a major nearby branch, not a component of the ring."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q011",
+    "ref": "cn-8",
+    "deck": "cn",
+    "topic": "Blood supply",
+    "stem": "Which artery normally arises from the basilar artery?",
+    "options": [
+      {
+        "text": "ACA",
+        "why": "This is an internal carotid terminal branch."
+      },
+      {
+        "text": "Ophthalmic artery",
+        "why": "This arises from internal carotid rather than basilar."
+      },
+      {
+        "text": "AICA",
+        "why": "Anterior inferior cerebellar artery is a usual basilar branch."
+      },
+      {
+        "text": "MCA",
+        "why": "This is an internal carotid terminal branch."
+      },
+      {
+        "text": "PICA",
+        "why": "This usually arises from vertebral artery."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q012",
+    "ref": "cn-9",
+    "deck": "cn",
+    "topic": "Blood supply",
+    "stem": "Which arterial combination best matches the medulla's major supply?",
+    "options": [
+      {
+        "text": "Ophthalmic and central retinal arteries",
+        "why": "These supply ocular structures."
+      },
+      {
+        "text": "External carotid and facial arteries alone",
+        "why": "These are not the principal medullary supply."
+      },
+      {
+        "text": "Vertebral, PICA, and ASA branches",
+        "why": "These provide major medullary territories."
+      },
+      {
+        "text": "ACA and MCA alone",
+        "why": "These primarily supply cerebral territories."
+      },
+      {
+        "text": "Only the superior sagittal sinus",
+        "why": "This is a venous channel, not an artery."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q013",
+    "ref": "cn-9",
+    "deck": "cn",
+    "topic": "Blood supply",
+    "stem": "Paramedian pontine tissue receives major supply from branches of which artery?",
+    "options": [
+      {
+        "text": "Anterior communicating artery",
+        "why": "This joins anterior cerebral arteries rather than supplying main pontine perforators."
+      },
+      {
+        "text": "Basilar artery",
+        "why": "Pontine branches provide medial and other pontine territories."
+      },
+      {
+        "text": "Middle meningeal artery",
+        "why": "This mainly supplies dura."
+      },
+      {
+        "text": "Central retinal artery",
+        "why": "This supplies retina."
+      },
+      {
+        "text": "Inferior mesenteric artery",
+        "why": "This supplies hindgut rather than brainstem."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q014",
+    "ref": "cn-11",
+    "deck": "cn",
+    "topic": "Functional components",
+    "stem": "Motor fibers to pharyngeal-arch-derived skeletal muscles are classified as what?",
+    "options": [
+      {
+        "text": "SSA",
+        "why": "This includes vision, hearing, and balance."
+      },
+      {
+        "text": "GVA",
+        "why": "This is visceral sensory input."
+      },
+      {
+        "text": "SVA",
+        "why": "This includes smell and taste."
+      },
+      {
+        "text": "SVE/branchial motor",
+        "why": "Special visceral efferent refers to branchial skeletal muscle output."
+      },
+      {
+        "text": "GVE",
+        "why": "This is autonomic efferent output."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q015",
+    "ref": "cn-11",
+    "deck": "cn",
+    "topic": "Functional components",
+    "stem": "Which modality is classified as special visceral afferent?",
+    "options": [
+      {
+        "text": "Hearing",
+        "why": "This is SSA."
+      },
+      {
+        "text": "Lateral rectus contraction",
+        "why": "This is GSE motor output."
+      },
+      {
+        "text": "Lacrimal secretion via parasympathetics",
+        "why": "This is GVE output."
+      },
+      {
+        "text": "Taste",
+        "why": "Taste and smell are SVA."
+      },
+      {
+        "text": "Facial pinprick",
+        "why": "This is GSA."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q016",
+    "ref": "cn-11",
+    "deck": "cn",
+    "topic": "Functional components",
+    "stem": "Preganglionic parasympathetic fibers to the ciliary ganglion belong to which component?",
+    "options": [
+      {
+        "text": "GSE",
+        "why": "This refers to somatic motor skeletal-muscle fibers."
+      },
+      {
+        "text": "SSA",
+        "why": "This is special somatic sensory input."
+      },
+      {
+        "text": "SVE",
+        "why": "This is branchial motor output."
+      },
+      {
+        "text": "GSA",
+        "why": "This is somatic sensory input."
+      },
+      {
+        "text": "GVE",
+        "why": "These are general visceral efferent autonomic fibers."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q017",
+    "ref": "cn-11",
+    "deck": "cn",
+    "topic": "Functional components",
+    "stem": "Which pairing is correct?",
+    "options": [
+      {
+        "text": "Facial expression — GVA",
+        "why": "This is SVE motor output."
+      },
+      {
+        "text": "Visceral stretch — GSE",
+        "why": "This is GVA sensory input."
+      },
+      {
+        "text": "Tongue skeletal motor — GSA",
+        "why": "Tongue XII motor is GSE."
+      },
+      {
+        "text": "Smell — GVE",
+        "why": "This is SVA sensory input."
+      },
+      {
+        "text": "Hearing — SSA",
+        "why": "Vision, hearing, and balance are special somatic afferent modalities."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q018",
+    "ref": "cn-11",
+    "deck": "cn",
+    "topic": "Functional components",
+    "stem": "Skeletal motor output to lateral rectus is classified as which component?",
+    "options": [
+      {
+        "text": "SVA",
+        "why": "This is smell/taste sensory input."
+      },
+      {
+        "text": "SVE",
+        "why": "This is branchial muscle motor output."
+      },
+      {
+        "text": "GSE",
+        "why": "VI supplies a somite-related extraocular skeletal muscle."
+      },
+      {
+        "text": "GVE",
+        "why": "This is autonomic output."
+      },
+      {
+        "text": "GVA",
+        "why": "This is visceral sensory input."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q019",
+    "ref": "cn-11",
+    "deck": "cn",
+    "topic": "Functional components",
+    "stem": "Carotid body chemistry and carotid sinus stretch input are classified in the lecture as what?",
+    "options": [
+      {
+        "text": "GVE",
+        "why": "This is autonomic motor."
+      },
+      {
+        "text": "SSA",
+        "why": "This is vision/hearing/balance."
+      },
+      {
+        "text": "GVA",
+        "why": "These are general visceral afferents carried through IX."
+      },
+      {
+        "text": "SVE",
+        "why": "This is branchial motor."
+      },
+      {
+        "text": "GSE",
+        "why": "This is somatic motor."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q020",
+    "ref": "cn-12",
+    "deck": "cn",
+    "topic": "Nuclei organization",
+    "stem": "What developmental landmark separates motor and sensory territories in the brainstem nuclei framework?",
+    "options": [
+      {
+        "text": "Ciliary ganglion",
+        "why": "This is a peripheral parasympathetic relay."
+      },
+      {
+        "text": "Foramen ovale",
+        "why": "This is the V3 skull opening."
+      },
+      {
+        "text": "Optic chiasm",
+        "why": "This is a visual crossing."
+      },
+      {
+        "text": "Sulcus limitans",
+        "why": "Motor derivatives are generally medial and sensory derivatives lateral to it."
+      },
+      {
+        "text": "Anterior median fissure",
+        "why": "This is a ventral midline landmark, not the functional boundary."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q021",
+    "ref": "cn-12",
+    "deck": "cn",
+    "topic": "Nuclei organization",
+    "stem": "Taste and visceral afferents share which central nucleus?",
+    "options": [
+      {
+        "text": "Edinger-Westphal nucleus",
+        "why": "This is ocular parasympathetic output."
+      },
+      {
+        "text": "Abducens nucleus",
+        "why": "This controls horizontal eye movement circuitry."
+      },
+      {
+        "text": "Facial motor nucleus",
+        "why": "This is SVE motor."
+      },
+      {
+        "text": "Solitary nucleus",
+        "why": "Rostral portions chiefly process taste; caudal portions visceral information."
+      },
+      {
+        "text": "Hypoglossal nucleus",
+        "why": "This is GSE tongue motor."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q022",
+    "ref": "cn-13",
+    "deck": "cn",
+    "topic": "Nuclei organization",
+    "stem": "An axial section contains oculomotor and trochlear nuclear regions. Which major brainstem division is implicated?",
+    "options": [
+      {
+        "text": "Cerebellar cortex",
+        "why": "This does not contain the III/IV motor nuclei."
+      },
+      {
+        "text": "Lower cervical cord",
+        "why": "This contains spinal neurons rather than ocular motor nuclei."
+      },
+      {
+        "text": "Thalamus",
+        "why": "This is not the site of these motor nuclei."
+      },
+      {
+        "text": "Midbrain",
+        "why": "III/IV nuclei are associated with rostral/caudal midbrain levels."
+      },
+      {
+        "text": "Medulla",
+        "why": "This contains IX/X/XII nuclei rather than III/IV."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q023",
+    "ref": "cn-13",
+    "deck": "cn",
+    "topic": "Nuclei organization",
+    "stem": "Why is assigning every trigeminal sensory nucleus to one pontine slice misleading?",
+    "options": [
+      {
+        "text": "Every trigeminal afferent synapses in the sympathetic chain",
+        "why": "This is not the somatic sensory relay."
+      },
+      {
+        "text": "The sensory complex extends through midbrain, pons, medulla, and upper cord",
+        "why": "Its divisions span levels and process different modalities."
+      },
+      {
+        "text": "CN V has no central sensory relays",
+        "why": "It has several major sensory nuclei."
+      },
+      {
+        "text": "All trigeminal nuclei lie only in the retina",
+        "why": "They are brainstem/upper-cord structures."
+      },
+      {
+        "text": "Pontine attachment means every sensory soma is pontine",
+        "why": "Attachment does not determine the entire longitudinal sensory system."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q024",
+    "ref": "cn-15",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "Which extraocular muscle is supplied by CN IV?",
+    "options": [
+      {
+        "text": "Medial rectus",
+        "why": "This receives III."
+      },
+      {
+        "text": "Superior rectus",
+        "why": "This receives III."
+      },
+      {
+        "text": "Inferior oblique",
+        "why": "This receives III."
+      },
+      {
+        "text": "Lateral rectus",
+        "why": "This receives VI."
+      },
+      {
+        "text": "Superior oblique",
+        "why": "SO4 is the classic innervation pairing."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q025",
+    "ref": "cn-15",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "A lesion weakens levator palpebrae superioris. Which nerve supplies this muscle?",
+    "options": [
+      {
+        "text": "CN VI",
+        "why": "This supplies lateral rectus."
+      },
+      {
+        "text": "CN III",
+        "why": "It elevates the lid through levator."
+      },
+      {
+        "text": "CN V1",
+        "why": "This carries sensory input from the upper orbital region."
+      },
+      {
+        "text": "CN IV",
+        "why": "This supplies superior oblique."
+      },
+      {
+        "text": "CN VII",
+        "why": "VII closes the lid through orbicularis oculi."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q026",
+    "ref": "cn-16",
+    "deck": "cn",
+    "topic": "Eye movement testing",
+    "stem": "Why is superior oblique tested by first adducting the eye and then asking the patient to look down?",
+    "options": [
+      {
+        "text": "Superior oblique primarily adducts as its only action",
+        "why": "It also intorts/abducts, and depression is isolated in adduction."
+      },
+      {
+        "text": "Adduction eliminates the need for a motor nerve",
+        "why": "The muscle still requires IV input."
+      },
+      {
+        "text": "Adduction preferentially isolates its depressive action",
+        "why": "Clinical test position differs from the muscle's complete anatomical action vector."
+      },
+      {
+        "text": "The test evaluates only pupil constriction",
+        "why": "This is extraocular movement testing, not a light reflex."
+      },
+      {
+        "text": "All vertical muscles can be isolated identically in every position",
+        "why": "Their lines of pull differ."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q027",
+    "ref": "cn-16",
+    "deck": "cn",
+    "topic": "Eye movement testing",
+    "stem": "Which secondary anatomical action belongs to superior oblique?",
+    "options": [
+      {
+        "text": "Pupil dilation as a skeletal action",
+        "why": "Pupil dilation uses iris smooth muscle and sympathetic signaling."
+      },
+      {
+        "text": "Lid closure",
+        "why": "This is orbicularis oculi via VII."
+      },
+      {
+        "text": "Intorsion",
+        "why": "Superior oblique intorts and depresses especially in adduction."
+      },
+      {
+        "text": "Pure extorsion only",
+        "why": "Extorsion is associated with inferior oblique/inferior rectus contributions."
+      },
+      {
+        "text": "Lens accommodation",
+        "why": "This is ciliary muscle parasympathetic function."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q028",
+    "ref": "cn-16",
+    "deck": "cn",
+    "topic": "Eye movement testing",
+    "stem": "Which anatomical action set belongs to superior rectus?",
+    "options": [
+      {
+        "text": "Depression, extorsion, adduction",
+        "why": "This describes inferior rectus more closely."
+      },
+      {
+        "text": "Elevation, extorsion, abduction",
+        "why": "This describes inferior oblique."
+      },
+      {
+        "text": "Elevation, intorsion, adduction",
+        "why": "Its full vector differs from a one-direction clinical isolation test."
+      },
+      {
+        "text": "Depression, intorsion, abduction",
+        "why": "This describes superior oblique."
+      },
+      {
+        "text": "Pure lid closure",
+        "why": "This describes orbicularis oculi, not a globe muscle."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q029",
+    "ref": "cn-17",
+    "deck": "cn",
+    "topic": "Eye movement testing",
+    "stem": "The eye is abducted and then elevated. Which muscle's vertical action is preferentially tested?",
+    "options": [
+      {
+        "text": "Superior rectus",
+        "why": "Vertical recti are tested in abduction."
+      },
+      {
+        "text": "Inferior rectus",
+        "why": "This depresses an abducted eye."
+      },
+      {
+        "text": "Inferior oblique",
+        "why": "This elevates an adducted eye."
+      },
+      {
+        "text": "Superior oblique",
+        "why": "This depresses an adducted eye."
+      },
+      {
+        "text": "Medial rectus",
+        "why": "This adducts rather than primarily elevating."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q030",
+    "ref": "cn-17",
+    "deck": "cn",
+    "topic": "Eye movement testing",
+    "stem": "The eye is adducted and then elevated. Which muscle is preferentially tested?",
+    "options": [
+      {
+        "text": "Inferior oblique",
+        "why": "Obliques are tested vertically in adduction."
+      },
+      {
+        "text": "Inferior rectus",
+        "why": "This depresses an abducted eye."
+      },
+      {
+        "text": "Superior oblique",
+        "why": "This depresses an adducted eye."
+      },
+      {
+        "text": "Orbicularis oculi",
+        "why": "This closes the eyelid."
+      },
+      {
+        "text": "Lateral rectus",
+        "why": "This abducts."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q031",
+    "ref": "cn-17",
+    "deck": "cn",
+    "topic": "Eye movement testing",
+    "stem": "Which movement preferentially tests inferior rectus's vertical action?",
+    "options": [
+      {
+        "text": "Adduct the eye, then elevate it",
+        "why": "This preferentially tests inferior oblique."
+      },
+      {
+        "text": "Abduct the eye, then elevate it",
+        "why": "This preferentially tests superior rectus."
+      },
+      {
+        "text": "Ask for eyelid closure only",
+        "why": "This tests VII/orbicularis oculi rather than inferior rectus."
+      },
+      {
+        "text": "Abduct the eye, then depress it",
+        "why": "Vertical recti are tested in abduction."
+      },
+      {
+        "text": "Adduct the eye, then depress it",
+        "why": "This preferentially tests superior oblique."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q032",
+    "ref": "cn-18",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "Which sequence carries parasympathetic input to sphincter pupillae?",
+    "options": [
+      {
+        "text": "Motor V → V3 → superior cervical ganglion",
+        "why": "This mixes branchial motor and sympathetic pathways."
+      },
+      {
+        "text": "Solitary nucleus → XII → submandibular ganglion",
+        "why": "Solitary is sensory, and XII does not provide this autonomic route."
+      },
+      {
+        "text": "Facial nucleus → VII → otic ganglion",
+        "why": "Otic ganglion is the IX parotid relay."
+      },
+      {
+        "text": "Abducens nucleus → VI → pterygopalatine ganglion",
+        "why": "VI supplies lateral rectus rather than parasympathetic glands."
+      },
+      {
+        "text": "Edinger-Westphal → III → ciliary ganglion → short ciliary nerves",
+        "why": "This is the pupilloconstrictor route."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q033",
+    "ref": "cn-18",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "Parasympathetic activation of the ciliary muscle most directly enables which function?",
+    "options": [
+      {
+        "text": "Eyelid closure",
+        "why": "VII/orbicularis oculi closes the lid."
+      },
+      {
+        "text": "Facial skin pain sensation",
+        "why": "This uses trigeminal sensory pathways."
+      },
+      {
+        "text": "Near accommodation",
+        "why": "Ciliary contraction permits a rounder lens for near focus."
+      },
+      {
+        "text": "Vocal-fold tension",
+        "why": "Cricothyroid/external superior laryngeal provides this."
+      },
+      {
+        "text": "Lateral eye abduction",
+        "why": "Lateral rectus/VI provides this skeletal movement."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q034",
+    "ref": "cn-19",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "A 59-year-old develops abrupt painful diplopia and a severe unilateral headache. Examination shows left ptosis, a down-and-out left eye, and a dilated poorly reactive left pupil. There is no isolated facial weakness or hearing deficit. The clinician suspects compression of a cranial nerve near a posterior communicating artery aneurysm and arranges urgent evaluation. Which nerve is most directly affected?",
+    "options": [
+      {
+        "text": "Left CN IV",
+        "why": "This causes superior oblique weakness, not the full ptosis/pupil pattern."
+      },
+      {
+        "text": "Left CN III",
+        "why": "The motor and parasympathetic findings together indicate left oculomotor dysfunction."
+      },
+      {
+        "text": "Left CN VII",
+        "why": "This affects facial expression/eyelid closure rather than ocular motility and pupil constriction."
+      },
+      {
+        "text": "Right CN II",
+        "why": "This affects afferent vision, not left extraocular motor output."
+      },
+      {
+        "text": "Left CN VI",
+        "why": "This causes impaired abduction and esotropia."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q035",
+    "ref": "cn-19",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "What explains the typical down-and-out eye position in a complete III palsy?",
+    "options": [
+      {
+        "text": "Only paralysis of the optic nerve",
+        "why": "II is sensory rather than a motor nerve."
+      },
+      {
+        "text": "Overactivity of medial rectus supplied by III",
+        "why": "Medial rectus is weakened, not the retained abductor."
+      },
+      {
+        "text": "Loss of orbicularis oculi alone",
+        "why": "This affects lid closure, not the globe position."
+      },
+      {
+        "text": "Relatively unopposed lateral rectus and superior oblique actions",
+        "why": "VI and IV muscles remain active while most III muscles fail."
+      },
+      {
+        "text": "Excessive ciliary muscle contraction",
+        "why": "This changes accommodation rather than aligning the globe down/out."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q036",
+    "ref": "cn-19",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "A new III palsy spares pupillary constriction. Which interpretation is most appropriate?",
+    "options": [
+      {
+        "text": "CN III contains no parasympathetic fibers",
+        "why": "It does carry them."
+      },
+      {
+        "text": "An aneurysm is impossible",
+        "why": "Pupil sparing cannot safely provide that absolute reassurance."
+      },
+      {
+        "text": "The lesion must be limited to the retina",
+        "why": "Retinal injury does not explain a III motor palsy."
+      },
+      {
+        "text": "Microvascular ischemia is possible, but pupil sparing alone does not exclude compression",
+        "why": "This is a useful tendency rather than a definitive exclusion test."
+      },
+      {
+        "text": "The patient must have no neurologic disease",
+        "why": "Motor III dysfunction is still present."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q037",
+    "ref": "cn-20",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "A small lesion destroys the right trochlear nucleus before its fibers cross. Which muscle is weakened?",
+    "options": [
+      {
+        "text": "Left lateral rectus",
+        "why": "This is supplied by VI."
+      },
+      {
+        "text": "Left superior oblique",
+        "why": "Trochlear nuclear output crosses before the peripheral nerve exits."
+      },
+      {
+        "text": "Both medial recti necessarily",
+        "why": "That is not the isolated IV nuclear pattern."
+      },
+      {
+        "text": "Right inferior oblique",
+        "why": "This is supplied by III."
+      },
+      {
+        "text": "Right superior oblique",
+        "why": "This is expected from a right peripheral IV lesion after crossing."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q038",
+    "ref": "cn-20",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "Through which skull opening does the trochlear nerve enter the orbit?",
+    "options": [
+      {
+        "text": "Hypoglossal canal",
+        "why": "This transmits XII."
+      },
+      {
+        "text": "Foramen ovale",
+        "why": "This transmits V3."
+      },
+      {
+        "text": "Superior orbital fissure",
+        "why": "III/IV/VI and V1 use this route."
+      },
+      {
+        "text": "Optic canal",
+        "why": "This transmits II and ophthalmic artery."
+      },
+      {
+        "text": "Foramen rotundum",
+        "why": "This transmits V2."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q039",
+    "ref": "cn-21",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "After a minor head injury, a 34-year-old reports that images separate vertically when he reads or walks downstairs. The right eye is relatively elevated and extorted, and downward movement is impaired when it is adducted. He tilts his head to the left to reduce the diplopia. Pupils are symmetric and reactive, and horizontal abduction is intact. Which peripheral nerve is most likely injured?",
+    "options": [
+      {
+        "text": "Right CN VI",
+        "why": "This causes horizontal abduction weakness."
+      },
+      {
+        "text": "Right CN IV",
+        "why": "Superior oblique weakness causes this vertical/torsional pattern and contralateral compensatory tilt."
+      },
+      {
+        "text": "Left CN II",
+        "why": "This affects afferent vision rather than the described selective motility."
+      },
+      {
+        "text": "Right CN VII",
+        "why": "This causes facial/eyelid closure weakness."
+      },
+      {
+        "text": "Left CN IV",
+        "why": "The described weak superior oblique is on the right."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q040",
+    "ref": "cn-21",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "A patient with a right peripheral IV palsy most commonly adopts which compensatory posture?",
+    "options": [
+      {
+        "text": "Complete inability to move either shoulder",
+        "why": "This is an XI motor deficit."
+      },
+      {
+        "text": "Head tilt to the left",
+        "why": "Tilting away from the weak side can reduce torsional/vertical misalignment."
+      },
+      {
+        "text": "Head tilt to the right as the standard compensatory response",
+        "why": "This often worsens the classic right IV pattern."
+      },
+      {
+        "text": "Mandatory head turn left from isolated VI dysfunction",
+        "why": "VI has a different horizontal pattern and often a turn toward the lesion."
+      },
+      {
+        "text": "Tongue protrusion toward the left",
+        "why": "This is unrelated to the compensatory ocular posture."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q041",
+    "ref": "cn-22",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "Which muscle does peripheral CN VI innervate?",
+    "options": [
+      {
+        "text": "Superior oblique",
+        "why": "This receives IV."
+      },
+      {
+        "text": "Inferior oblique",
+        "why": "This receives III."
+      },
+      {
+        "text": "Medial rectus",
+        "why": "This receives III."
+      },
+      {
+        "text": "Lateral rectus",
+        "why": "This abducts the ipsilateral eye."
+      },
+      {
+        "text": "Levator palpebrae",
+        "why": "This receives III."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q042",
+    "ref": "cn-22",
+    "deck": "cn",
+    "topic": "Ocular motor nerves",
+    "stem": "Why can a VI nucleus lesion differ from an isolated VI nerve lesion?",
+    "options": [
+      {
+        "text": "The nucleus lies in the cerebral cortex",
+        "why": "It lies in caudal pons."
+      },
+      {
+        "text": "The nerve supplies every extraocular muscle",
+        "why": "Peripheral VI supplies lateral rectus only."
+      },
+      {
+        "text": "The nerve carries the visual afferent limb",
+        "why": "That is II."
+      },
+      {
+        "text": "The nucleus also contains interneurons for conjugate horizontal gaze",
+        "why": "Its injury can impair both eyes looking ipsilaterally."
+      },
+      {
+        "text": "The nucleus is a parasympathetic ganglion",
+        "why": "It is a pontine motor/gaze structure."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q043",
+    "ref": "cn-23",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "A 46-year-old develops horizontal diplopia that worsens when looking to the right. The right eye rests slightly medially and cannot abduct fully; the left eye adducts normally. There is no ptosis or pupillary abnormality. He turns his face to the right to keep his eyes away from the problematic gaze direction. Which isolated peripheral lesion best explains the examination?",
+    "options": [
+      {
+        "text": "Right V1 palsy",
+        "why": "This affects corneal/face sensation rather than abduction."
+      },
+      {
+        "text": "Left CN IV palsy",
+        "why": "This produces a vertical/torsional pattern."
+      },
+      {
+        "text": "Right CN III palsy",
+        "why": "This more broadly impairs III muscles and often causes a down-and-out eye."
+      },
+      {
+        "text": "Left CN VII palsy",
+        "why": "This affects left facial movement."
+      },
+      {
+        "text": "Right CN VI palsy",
+        "why": "Right lateral rectus weakness produces impaired right abduction and esotropia."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q044",
+    "ref": "cn-23",
+    "deck": "cn",
+    "topic": "Ocular palsies",
+    "stem": "An isolated VI palsy in a patient with raised intracranial pressure may be called a false-localizing sign because why?",
+    "options": [
+      {
+        "text": "Raised pressure always destroys only the right VI nucleus",
+        "why": "There is no such obligatory side/site rule."
+      },
+      {
+        "text": "VI is a sensory nerve to the retina",
+        "why": "It is motor to lateral rectus."
+      },
+      {
+        "text": "The nerve's long intracranial course can be affected without a focal pontine lesion",
+        "why": "The deficit need not identify a lesion in its nucleus."
+      },
+      {
+        "text": "Lateral rectus is supplied by two unrelated cranial nerves",
+        "why": "Its standard motor supply is VI."
+      },
+      {
+        "text": "VI normally arises from the occipital cortex",
+        "why": "It arises from caudal pontine motor circuitry."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q045",
+    "ref": "cn-25",
+    "deck": "cn",
+    "topic": "Trigeminal",
+    "stem": "Which trigeminal division carries branchial motor fibers to muscles of mastication?",
+    "options": [
+      {
+        "text": "CN VII instead of any V division",
+        "why": "VII supplies facial expression rather than the main mastication group."
+      },
+      {
+        "text": "CN VIII",
+        "why": "This is special sensory for hearing/balance."
+      },
+      {
+        "text": "V3",
+        "why": "Mandibular division is mixed sensory and branchial motor."
+      },
+      {
+        "text": "V2",
+        "why": "Maxillary division is sensory."
+      },
+      {
+        "text": "V1",
+        "why": "Ophthalmic division is sensory."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q046",
+    "ref": "cn-25",
+    "deck": "cn",
+    "topic": "Trigeminal",
+    "stem": "Which sensory territory is most strongly associated with V1?",
+    "options": [
+      {
+        "text": "Posterior tongue taste",
+        "why": "This is chiefly IX."
+      },
+      {
+        "text": "Upper teeth only",
+        "why": "These mainly receive V2 input."
+      },
+      {
+        "text": "Lower teeth only",
+        "why": "These mainly receive V3 input."
+      },
+      {
+        "text": "Cornea and forehead",
+        "why": "V1 supplies the corneal afferent pathway and upper facial territory."
+      },
+      {
+        "text": "Trapezius muscle motor output",
+        "why": "This is XI."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q047",
+    "ref": "cn-26",
+    "deck": "cn",
+    "topic": "Skull foramina",
+    "stem": "Which nerve and skull opening are correctly paired?",
+    "options": [
+      {
+        "text": "CN II — jugular foramen",
+        "why": "II uses optic canal."
+      },
+      {
+        "text": "CN XII — stylomastoid foramen",
+        "why": "XII uses hypoglossal canal."
+      },
+      {
+        "text": "V3 — optic canal",
+        "why": "V3 uses foramen ovale."
+      },
+      {
+        "text": "V2 — foramen rotundum",
+        "why": "Maxillary division uses rotundum."
+      },
+      {
+        "text": "V1 — foramen ovale",
+        "why": "V1 uses superior orbital fissure."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q048",
+    "ref": "cn-26",
+    "deck": "cn",
+    "topic": "Skull foramina",
+    "stem": "A skull-base fracture damages structures traversing foramen ovale. Which deficit is most plausible?",
+    "options": [
+      {
+        "text": "Complete loss of hearing as the specific opening syndrome",
+        "why": "VIII uses internal acoustic meatus."
+      },
+      {
+        "text": "Tongue wasting from XII injury",
+        "why": "XII uses hypoglossal canal."
+      },
+      {
+        "text": "Isolated inability to abduct an eye",
+        "why": "VI uses superior orbital fissure."
+      },
+      {
+        "text": "Isolated loss of vision",
+        "why": "II uses optic canal."
+      },
+      {
+        "text": "Ipsilateral lower-face sensation loss with weak mastication",
+        "why": "V3 carries both sensory and motor components."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q049",
+    "ref": "cn-27",
+    "deck": "cn",
+    "topic": "Trigeminal nuclei",
+    "stem": "Which trigeminal nucleus is most directly associated with facial pain and temperature?",
+    "options": [
+      {
+        "text": "Motor nucleus of V",
+        "why": "This is branchial motor."
+      },
+      {
+        "text": "Edinger-Westphal nucleus",
+        "why": "This is ocular parasympathetic output."
+      },
+      {
+        "text": "Spinal trigeminal nucleus",
+        "why": "Its caudally extending tract/nucleus processes these modalities."
+      },
+      {
+        "text": "Mesencephalic nucleus",
+        "why": "This chiefly handles jaw-related proprioception."
+      },
+      {
+        "text": "Principal sensory nucleus",
+        "why": "This chiefly handles discriminative touch/vibration."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q050",
+    "ref": "cn-27",
+    "deck": "cn",
+    "topic": "Trigeminal nuclei",
+    "stem": "Which nucleus unusually contains primary sensory neuronal cell bodies within the CNS?",
+    "options": [
+      {
+        "text": "Facial motor nucleus",
+        "why": "This contains motor somata."
+      },
+      {
+        "text": "Hypoglossal nucleus",
+        "why": "This contains tongue motor somata."
+      },
+      {
+        "text": "Mesencephalic trigeminal nucleus",
+        "why": "It contains primary jaw-related proprioceptive somata."
+      },
+      {
+        "text": "Inferior salivatory nucleus",
+        "why": "This is parasympathetic preganglionic output."
+      },
+      {
+        "text": "Dorsal motor X",
+        "why": "This contains parasympathetic preganglionic neurons."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q051",
+    "ref": "cn-27",
+    "deck": "cn",
+    "topic": "Trigeminal nuclei",
+    "stem": "A pontine lesion selectively impairs facial fine touch and vibration. Which relay is most directly implicated?",
+    "options": [
+      {
+        "text": "Superior salivatory nucleus",
+        "why": "This supplies VII parasympathetic output."
+      },
+      {
+        "text": "Principal sensory nucleus of V",
+        "why": "This is the major pontine discriminative facial sensory relay."
+      },
+      {
+        "text": "Cochlear nucleus",
+        "why": "This processes hearing."
+      },
+      {
+        "text": "Nucleus ambiguus",
+        "why": "This is branchial motor for swallowing/phonation."
+      },
+      {
+        "text": "Spinal V alone",
+        "why": "This chiefly handles pain/temperature."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q052",
+    "ref": "cn-28",
+    "deck": "cn",
+    "topic": "Mastication",
+    "stem": "On opening the mouth, a patient's jaw deviates to the right and right mastication is weak. Which LMN pathway is likely injured?",
+    "options": [
+      {
+        "text": "Right VII terminal branches only",
+        "why": "These affect facial expression rather than the principal mastication group."
+      },
+      {
+        "text": "Left motor V3 pathway",
+        "why": "This would tend to produce leftward deviation."
+      },
+      {
+        "text": "Right motor V3 pathway",
+        "why": "The intact left pterygoid pushes toward the weak right side."
+      },
+      {
+        "text": "Right VI nerve",
+        "why": "This affects eye abduction."
+      },
+      {
+        "text": "Left XII nerve",
+        "why": "This affects tongue protrusion, not jaw pterygoid force."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q053",
+    "ref": "cn-28",
+    "deck": "cn",
+    "topic": "Mastication",
+    "stem": "Which muscle is supplied by motor V3 rather than VII?",
+    "options": [
+      {
+        "text": "Buccinator",
+        "why": "This receives VII motor branches."
+      },
+      {
+        "text": "Posterior belly of digastric",
+        "why": "This receives VII."
+      },
+      {
+        "text": "Tensor tympani",
+        "why": "This is a V3 branchial motor target."
+      },
+      {
+        "text": "Orbicularis oculi",
+        "why": "This receives VII."
+      },
+      {
+        "text": "Stapedius",
+        "why": "This receives VII."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q054",
+    "ref": "cn-28",
+    "deck": "cn",
+    "topic": "Mastication",
+    "stem": "Which action is strongly associated with masseter?",
+    "options": [
+      {
+        "text": "Protrusion of the tongue",
+        "why": "This is genioglossus."
+      },
+      {
+        "text": "Rotation of head to opposite side",
+        "why": "This is SCM."
+      },
+      {
+        "text": "Vocal-fold tension",
+        "why": "This is cricothyroid."
+      },
+      {
+        "text": "Closure of the eyelids",
+        "why": "This is orbicularis oculi."
+      },
+      {
+        "text": "Elevation of mandible",
+        "why": "Masseter is a major jaw-closing mastication muscle."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q055",
+    "ref": "cn-29",
+    "deck": "cn",
+    "topic": "Facial nerve",
+    "stem": "Which function is carried by CN VII?",
+    "options": [
+      {
+        "text": "General sensation from the same tongue territory as its main route",
+        "why": "This is lingual V3."
+      },
+      {
+        "text": "Lateral rectus motor output",
+        "why": "This is VI."
+      },
+      {
+        "text": "Parotid secretomotor origin",
+        "why": "This originates in IX."
+      },
+      {
+        "text": "Taste from most anterior two-thirds of tongue",
+        "why": "Chorda tympani carries this SVA input."
+      },
+      {
+        "text": "Tongue intrinsic motor output",
+        "why": "This is XII."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q056",
+    "ref": "cn-29",
+    "deck": "cn",
+    "topic": "Facial nerve",
+    "stem": "Which sequence describes the facial nerve's skull route?",
+    "options": [
+      {
+        "text": "Jugular foramen → hypoglossal canal",
+        "why": "These are different lower cranial nerve openings."
+      },
+      {
+        "text": "Optic canal → cavernous sinus → foramen ovale",
+        "why": "This combines unrelated II/V3 routes."
+      },
+      {
+        "text": "Foramen magnum → foramen spinosum",
+        "why": "This is not VII's normal route."
+      },
+      {
+        "text": "Internal acoustic meatus → facial canal → stylomastoid foramen",
+        "why": "VII traverses the temporal bone through this route."
+      },
+      {
+        "text": "Foramen rotundum → cribriform plate",
+        "why": "These carry V2 and I, not VII."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q057",
+    "ref": "cn-29",
+    "deck": "cn",
+    "topic": "Facial nerve",
+    "stem": "Facial motor branches run through the parotid gland. Which statement is correct?",
+    "options": [
+      {
+        "text": "CN IX controls facial-expression muscles instead",
+        "why": "Those are VII branchial motor targets."
+      },
+      {
+        "text": "VII necessarily supplies all parotid secretion",
+        "why": "IX provides the classic secretomotor origin."
+      },
+      {
+        "text": "Parotid contains the facial motor nucleus",
+        "why": "The nucleus is pontine."
+      },
+      {
+        "text": "Parotid secretomotor fibers originate in IX, despite VII traversing the gland",
+        "why": "Passage through an organ does not define its autonomic supply."
+      },
+      {
+        "text": "VII synapses in the parotid as a sensory ganglion",
+        "why": "Its sensory ganglion is geniculate."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q058",
+    "ref": "cn-29",
+    "deck": "cn",
+    "topic": "Facial nerve",
+    "stem": "Which ganglion contains facial taste-related sensory neuronal somata rather than providing the VII parasympathetic synapse?",
+    "options": [
+      {
+        "text": "Pterygopalatine ganglion",
+        "why": "This is a VII parasympathetic relay for lacrimal/nasal/palatal targets."
+      },
+      {
+        "text": "Otic ganglion",
+        "why": "This is the IX parasympathetic relay."
+      },
+      {
+        "text": "Geniculate ganglion",
+        "why": "This is a sensory ganglion in VII's temporal course."
+      },
+      {
+        "text": "Ciliary ganglion",
+        "why": "This is the III parasympathetic relay."
+      },
+      {
+        "text": "Submandibular ganglion",
+        "why": "This is a VII parasympathetic relay for salivary glands."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q059",
+    "ref": "cn-30",
+    "deck": "cn",
+    "topic": "Facial branches",
+    "stem": "A facial lesion produces hyperacusis because which branch is affected?",
+    "options": [
+      {
+        "text": "Greater petrosal only",
+        "why": "This mainly conveys glandular parasympathetic input."
+      },
+      {
+        "text": "Temporal terminal branch only",
+        "why": "This supplies upper facial muscles."
+      },
+      {
+        "text": "Chorda tympani only",
+        "why": "This carries taste and salivary parasympathetics."
+      },
+      {
+        "text": "Marginal mandibular terminal branch only",
+        "why": "This supplies lower-lip muscles."
+      },
+      {
+        "text": "Nerve to stapedius",
+        "why": "Loss of stapedius damping can increase sound sensitivity."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q060",
+    "ref": "cn-30",
+    "deck": "cn",
+    "topic": "Facial branches",
+    "stem": "Preganglionic VII fibers carried by chorda tympani synapse in which ganglion?",
+    "options": [
+      {
+        "text": "Superior cervical",
+        "why": "This is sympathetic rather than the VII parasympathetic relay."
+      },
+      {
+        "text": "Submandibular",
+        "why": "This relay supplies submandibular and sublingual glands."
+      },
+      {
+        "text": "Otic",
+        "why": "This is the IX parotid relay."
+      },
+      {
+        "text": "Ciliary",
+        "why": "This is the III ocular relay."
+      },
+      {
+        "text": "Geniculate",
+        "why": "This contains sensory somata rather than the parasympathetic synapse."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q061",
+    "ref": "cn-30",
+    "deck": "cn",
+    "topic": "Facial branches",
+    "stem": "Greater petrosal parasympathetic fibers most directly relay in which ganglion?",
+    "options": [
+      {
+        "text": "Trigeminal sensory ganglion",
+        "why": "This is not the autonomic relay."
+      },
+      {
+        "text": "Dorsal root ganglion",
+        "why": "This contains spinal sensory somata."
+      },
+      {
+        "text": "Pterygopalatine",
+        "why": "This pathway supplies lacrimal/nasal/palatal secretion."
+      },
+      {
+        "text": "Ciliary",
+        "why": "This is the III pathway."
+      },
+      {
+        "text": "Submandibular",
+        "why": "This is the chorda tympani salivary relay."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q062",
+    "ref": "cn-31",
+    "deck": "cn",
+    "topic": "Facial terminal branches",
+    "stem": "Which terminal facial branch group mainly supplies platysma?",
+    "options": [
+      {
+        "text": "Marginal mandibular",
+        "why": "This chiefly supplies lower-lip regions."
+      },
+      {
+        "text": "Temporal",
+        "why": "This supplies upper facial regions."
+      },
+      {
+        "text": "Zygomatic",
+        "why": "This supplies upper/midfacial regions including eyelid-related muscles."
+      },
+      {
+        "text": "Chorda tympani",
+        "why": "This carries taste and salivary fibers rather than platysma motor output."
+      },
+      {
+        "text": "Cervical",
+        "why": "Cervical VII branches supply this neck facial-expression muscle."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q063",
+    "ref": "cn-31",
+    "deck": "cn",
+    "topic": "Facial terminal branches",
+    "stem": "After a superficial parotid procedure, a patient has weakness confined to the lower lip but preserved brow and eye closure. Which branch is most likely injured?",
+    "options": [
+      {
+        "text": "Greater petrosal nerve only",
+        "why": "This primarily alters glandular output."
+      },
+      {
+        "text": "Marginal mandibular branch of VII",
+        "why": "A regional terminal branch lesion can selectively impair lower-lip muscles."
+      },
+      {
+        "text": "CN IX",
+        "why": "This does not supply lower-lip expression muscles."
+      },
+      {
+        "text": "CN VI",
+        "why": "This supplies lateral rectus."
+      },
+      {
+        "text": "Entire facial nerve proximal to the geniculate region",
+        "why": "This would usually affect more motor and potentially autonomic/taste functions."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q064",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which muscle closes the eyelids?",
+    "options": [
+      {
+        "text": "Orbicularis oculi",
+        "why": "It is the VII-innervated blink effector."
+      },
+      {
+        "text": "Levator palpebrae superioris",
+        "why": "This elevates the lid through III."
+      },
+      {
+        "text": "Superior rectus",
+        "why": "This moves the globe rather than closing the lid."
+      },
+      {
+        "text": "Cricothyroid",
+        "why": "This tensions vocal folds."
+      },
+      {
+        "text": "Masseter",
+        "why": "This elevates mandible."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q065",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Food collects between the teeth and cheek after a facial nerve injury. Which weak muscle best explains this?",
+    "options": [
+      {
+        "text": "Masseter",
+        "why": "This closes jaw through V3, rather than primarily retaining cheek contents."
+      },
+      {
+        "text": "Stapedius",
+        "why": "This dampens middle-ear motion."
+      },
+      {
+        "text": "Genioglossus",
+        "why": "This protrudes the tongue through XII."
+      },
+      {
+        "text": "Tensor veli palatini",
+        "why": "This is V3 palate motor."
+      },
+      {
+        "text": "Buccinator",
+        "why": "It compresses cheek against teeth and is VII motor."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q066",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which facial muscle mainly raises the mouth corner during smiling?",
+    "options": [
+      {
+        "text": "Nasalis",
+        "why": "This acts on nasal aperture."
+      },
+      {
+        "text": "Depressor anguli oris",
+        "why": "This lowers the mouth corner."
+      },
+      {
+        "text": "Orbicularis oculi",
+        "why": "This closes eyelids."
+      },
+      {
+        "text": "Zygomaticus major",
+        "why": "It elevates the oral angle."
+      },
+      {
+        "text": "Mentalis",
+        "why": "This acts on lower lip/chin."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q067",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which pairing of facial muscle and action is correct?",
+    "options": [
+      {
+        "text": "Orbicularis oris — closes/protrudes lips",
+        "why": "This forms the main oral sphincter complex."
+      },
+      {
+        "text": "Risorius — depresses the tongue",
+        "why": "Risorius retracts the mouth angle."
+      },
+      {
+        "text": "Procerus — tensions vocal folds",
+        "why": "It wrinkles the nasal bridge."
+      },
+      {
+        "text": "Corrugator supercilii — abducts the eye",
+        "why": "It draws the eyebrow medially/downward."
+      },
+      {
+        "text": "Depressor labii inferioris — elevates the upper lid",
+        "why": "It lowers the lower lip."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q068",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which set contains only facial-expression muscles supplied by VII?",
+    "options": [
+      {
+        "text": "Genioglossus, hyoglossus, styloglossus",
+        "why": "These are XII tongue muscles."
+      },
+      {
+        "text": "Platysma, mentalis, occipitofrontalis",
+        "why": "All are VII-associated facial-expression muscles."
+      },
+      {
+        "text": "SCM, trapezius, cricothyroid",
+        "why": "These use XI and X rather than VII."
+      },
+      {
+        "text": "Superior rectus, inferior rectus, medial rectus",
+        "why": "These are III extraocular muscles."
+      },
+      {
+        "text": "Masseter, temporalis, lateral pterygoid",
+        "why": "These are V3 mastication muscles."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q069",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which pairing correctly relates a named oral muscle to its action?",
+    "options": [
+      {
+        "text": "Depressor anguli oris — raises upper eyelid",
+        "why": "It lowers the oral angle."
+      },
+      {
+        "text": "Risorius — constricts the pupil",
+        "why": "It retracts mouth angle rather than acting on iris."
+      },
+      {
+        "text": "Zygomaticus minor — retracts the tongue",
+        "why": "It raises upper lip rather than acting on tongue."
+      },
+      {
+        "text": "Mentalis — protrudes/elevates lower lip and wrinkles chin",
+        "why": "This is a VII facial-expression muscle."
+      },
+      {
+        "text": "Levator anguli oris — depresses mouth corner",
+        "why": "It raises the oral angle."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q070",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which group consists of upper-lip elevators described in the lecture?",
+    "options": [
+      {
+        "text": "Depressor labii inferioris, mentalis, platysma as identical upper-lip elevators",
+        "why": "These have different lower-face/chin/neck functions."
+      },
+      {
+        "text": "Levator labii superioris, levator labii superioris alaeque nasi, zygomaticus minor",
+        "why": "These elevate upper lip, with the alaeque nasi component also acting on the ala."
+      },
+      {
+        "text": "SCM, trapezius, stylopharyngeus",
+        "why": "These have neck/pharyngeal actions rather than upper-lip elevation."
+      },
+      {
+        "text": "Superior oblique, inferior rectus, lateral rectus",
+        "why": "These move the globe."
+      },
+      {
+        "text": "Masseter, temporalis, pterygoids",
+        "why": "These are V3 mastication muscles."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q071",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which muscle draws the medial eyebrow downward and inward during frowning?",
+    "options": [
+      {
+        "text": "Buccinator",
+        "why": "This compresses the cheek against teeth."
+      },
+      {
+        "text": "Depressor septi nasi",
+        "why": "This acts on the nasal septum/ala."
+      },
+      {
+        "text": "Lateral rectus",
+        "why": "This abducts the globe through VI."
+      },
+      {
+        "text": "Corrugator supercilii",
+        "why": "It produces this characteristic brow movement through VII motor supply."
+      },
+      {
+        "text": "Levator palpebrae superioris",
+        "why": "This raises the upper eyelid through III."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q072",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Wrinkling the bridge of the nose most directly recruits which named facial muscle?",
+    "options": [
+      {
+        "text": "Styloglossus",
+        "why": "This retracts/elevates the tongue through XII."
+      },
+      {
+        "text": "Procerus",
+        "why": "Procerus acts over the nasal bridge."
+      },
+      {
+        "text": "Cricothyroid",
+        "why": "This tensions vocal folds through X."
+      },
+      {
+        "text": "Mentalis",
+        "why": "This acts on the lower lip/chin."
+      },
+      {
+        "text": "Risorius",
+        "why": "This retracts the mouth angle laterally."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q073",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which pairing correctly identifies nasal facial-muscle actions?",
+    "options": [
+      {
+        "text": "Both are parasympathetic iris muscles",
+        "why": "They are skeletal facial muscles, not iris smooth muscle."
+      },
+      {
+        "text": "Nasalis protrudes tongue; depressor septi closes eyelids",
+        "why": "These actions belong to different muscles."
+      },
+      {
+        "text": "Nasalis modifies nasal aperture; depressor septi nasi moves septal/alar structures downward",
+        "why": "Both belong to the VII facial-expression nasal group."
+      },
+      {
+        "text": "Nasalis tensions vocal folds; depressor septi elevates shoulder",
+        "why": "These are laryngeal/X and trapezius/XI functions."
+      },
+      {
+        "text": "Both are V3 muscles of mastication",
+        "why": "They are VII facial-expression muscles."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q074",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which muscle retracts the angle of the mouth laterally?",
+    "options": [
+      {
+        "text": "Orbicularis oculi",
+        "why": "This closes eyelids."
+      },
+      {
+        "text": "Depressor anguli oris",
+        "why": "This lowers the oral angle."
+      },
+      {
+        "text": "Risorius",
+        "why": "This pulls the oral angle laterally."
+      },
+      {
+        "text": "Levator anguli oris",
+        "why": "This elevates the oral angle."
+      },
+      {
+        "text": "Auricularis superior",
+        "why": "This acts on the pinna rather than the mouth."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q075",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which muscle most directly lowers the lower lip?",
+    "options": [
+      {
+        "text": "Zygomaticus minor",
+        "why": "This also raises the upper lip."
+      },
+      {
+        "text": "Levator anguli oris",
+        "why": "This raises the mouth angle."
+      },
+      {
+        "text": "Depressor labii inferioris",
+        "why": "Its name reflects its lower-lip action."
+      },
+      {
+        "text": "Frontal belly of occipitofrontalis",
+        "why": "This raises brows/moves forehead."
+      },
+      {
+        "text": "Levator labii superioris",
+        "why": "This raises the upper lip."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q076",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which action is associated with the frontal belly of occipitofrontalis?",
+    "options": [
+      {
+        "text": "Jaw protrusion as a pterygoid action",
+        "why": "This uses V3 mastication muscles."
+      },
+      {
+        "text": "Tongue protrusion",
+        "why": "This is genioglossus/XII."
+      },
+      {
+        "text": "Pupil constriction",
+        "why": "This is iris sphincter via III parasympathetics."
+      },
+      {
+        "text": "Eyebrow elevation and forehead movement",
+        "why": "This is a VII facial-expression action."
+      },
+      {
+        "text": "Eye abduction",
+        "why": "This is lateral rectus/VI."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q077",
+    "ref": "cn-32",
+    "deck": "cn",
+    "topic": "Facial muscles",
+    "stem": "Which statement correctly relates auricular and scalp muscles to cranial motor supply?",
+    "options": [
+      {
+        "text": "Auricular muscles are postganglionic parasympathetic smooth muscle",
+        "why": "They are skeletal muscles."
+      },
+      {
+        "text": "All auricular muscles are VIII motor targets",
+        "why": "VIII is sensory for hearing/balance."
+      },
+      {
+        "text": "Both groups are supplied exclusively by IX",
+        "why": "IX's characteristic branchial motor target is stylopharyngeus."
+      },
+      {
+        "text": "Auricular muscles and occipitofrontalis are VII facial-expression targets",
+        "why": "They belong to the broader facial motor group."
+      },
+      {
+        "text": "Occipitofrontalis is supplied by XII",
+        "why": "XII supplies tongue muscles."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q078",
+    "ref": "cn-33",
+    "deck": "cn",
+    "topic": "Central versus peripheral face",
+    "stem": "A 72-year-old woman suddenly develops right arm weakness and an asymmetric smile. The right lower face is weak, but she can wrinkle both sides of the forehead and close both eyes strongly. There is no ipsilateral taste loss or hyperacusis. Imaging shows a left hemispheric lesion affecting descending motor pathways. Why is the forehead relatively spared in this classic pattern?",
+    "options": [
+      {
+        "text": "The lesion must be in the right stylomastoid foramen",
+        "why": "That would produce an ipsilateral LMN pattern."
+      },
+      {
+        "text": "Forehead muscles are supplied exclusively by V1",
+        "why": "V1 is sensory, not their motor nerve."
+      },
+      {
+        "text": "Upper facial motor pools receive more bilateral cortical input",
+        "why": "Unilateral supranuclear injury mainly weakens contralateral lower face."
+      },
+      {
+        "text": "The entire facial nerve supplies only lower face",
+        "why": "VII also supplies upper facial muscles."
+      },
+      {
+        "text": "Corticobulbar fibers never influence facial movement",
+        "why": "They provide descending facial motor control."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q079",
+    "ref": "cn-33",
+    "deck": "cn",
+    "topic": "Central versus peripheral face",
+    "stem": "A patient cannot raise the left brow, close the left eye tightly, or move the left mouth normally. Which lesion category produces this pattern?",
+    "options": [
+      {
+        "text": "Right V2 sensory division",
+        "why": "This does not produce left facial motor weakness."
+      },
+      {
+        "text": "Left facial LMN pathway",
+        "why": "Nucleus, fascicle, or peripheral VII injury affects the entire ipsilateral face."
+      },
+      {
+        "text": "Left spinal accessory nerve alone",
+        "why": "This affects SCM/trapezius rather than face."
+      },
+      {
+        "text": "Right unilateral supranuclear pathway alone as the classic pattern",
+        "why": "This chiefly causes left lower-face weakness with relative forehead sparing."
+      },
+      {
+        "text": "Left optic nerve alone",
+        "why": "This affects vision rather than facial-expression motor output."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q080",
+    "ref": "cn-33",
+    "deck": "cn",
+    "topic": "Central versus peripheral face",
+    "stem": "Why does a complete ipsilateral facial LMN pattern not prove Bell palsy specifically?",
+    "options": [
+      {
+        "text": "Pontine nucleus/fascicle and other peripheral lesions can cause the same motor pattern",
+        "why": "The pattern localizes the motor pathway but not one unique cause."
+      },
+      {
+        "text": "Bell palsy is defined as any abnormal smile regardless of location",
+        "why": "It is an idiopathic peripheral VII syndrome in the appropriate setting."
+      },
+      {
+        "text": "Bell palsy requires an accompanying III palsy",
+        "why": "This is not a defining requirement."
+      },
+      {
+        "text": "The facial nerve carries only sensory fibers",
+        "why": "It has major motor output."
+      },
+      {
+        "text": "All facial LMN lesions spare the forehead",
+        "why": "They usually affect upper and lower face."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q081",
+    "ref": "cn-34",
+    "deck": "cn",
+    "topic": "Corneal reflex",
+    "stem": "What are the classic afferent and efferent nerves of the corneal blink reflex?",
+    "options": [
+      {
+        "text": "V1 afferent; VII efferent",
+        "why": "Nasociliary V1 input activates bilateral facial eyelid closure."
+      },
+      {
+        "text": "VIII afferent; XII efferent",
+        "why": "This does not describe corneal blinking."
+      },
+      {
+        "text": "IX afferent; X efferent",
+        "why": "This is the standard gag-reflex pairing."
+      },
+      {
+        "text": "II afferent; III efferent",
+        "why": "This is the pupillary light-reflex pairing."
+      },
+      {
+        "text": "V3 motor afferent; XI efferent",
+        "why": "Motor output is not an afferent limb, and XI does not close eyelids."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q082",
+    "ref": "cn-34",
+    "deck": "cn",
+    "topic": "Corneal reflex",
+    "stem": "Touching the left cornea produces no blink in either eye. Touching the right cornea produces a bilateral blink. Which isolated lesion best fits?",
+    "options": [
+      {
+        "text": "Left VII efferent lesion",
+        "why": "The left eye would fail to close even with right stimulation."
+      },
+      {
+        "text": "Right VII efferent lesion",
+        "why": "The right eye would fail to close regardless of input side."
+      },
+      {
+        "text": "Bilateral VII lesions",
+        "why": "Neither stimulus would produce bilateral closure."
+      },
+      {
+        "text": "Left V1 afferent lesion",
+        "why": "Left stimulation fails to reach the reflex circuit, but both VII outputs work."
+      },
+      {
+        "text": "Right V1 afferent lesion",
+        "why": "Right stimulation would be the ineffective input."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q083",
+    "ref": "cn-34",
+    "deck": "cn",
+    "topic": "Corneal reflex",
+    "stem": "Neither corneal stimulus causes the right eyelid to close, but the left eyelid closes when either cornea is touched. Which lesion is most likely?",
+    "options": [
+      {
+        "text": "Right V1 afferent lesion",
+        "why": "Right input failure would prevent both blinks only with right stimulation."
+      },
+      {
+        "text": "Bilateral trigeminal input failure",
+        "why": "No stimulus would trigger the intact left output."
+      },
+      {
+        "text": "Left VII efferent lesion",
+        "why": "This would impair left eyelid closure rather than right."
+      },
+      {
+        "text": "Left V1 afferent lesion",
+        "why": "Left input failure would prevent both blinks only with left stimulation."
+      },
+      {
+        "text": "Right VII efferent lesion",
+        "why": "Both inputs work, but right motor blink output fails."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q084",
+    "ref": "cn-36",
+    "deck": "cn",
+    "topic": "Hearing and balance",
+    "stem": "CN VIII is classified as which functional component?",
+    "options": [
+      {
+        "text": "GVE",
+        "why": "This is autonomic motor."
+      },
+      {
+        "text": "SSA",
+        "why": "Hearing and balance are special somatic afferent functions."
+      },
+      {
+        "text": "GVA alone",
+        "why": "This is visceral sensory rather than VIII's special sensory modalities."
+      },
+      {
+        "text": "GSE",
+        "why": "This is somatic skeletal motor."
+      },
+      {
+        "text": "SVE",
+        "why": "This is branchial motor."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q085",
+    "ref": "cn-36",
+    "deck": "cn",
+    "topic": "Hearing and balance",
+    "stem": "Which two nerves share the internal acoustic meatus?",
+    "options": [
+      {
+        "text": "VII and VIII",
+        "why": "Facial and vestibulocochlear nerves traverse this opening."
+      },
+      {
+        "text": "IX and XII",
+        "why": "These use jugular foramen and hypoglossal canal."
+      },
+      {
+        "text": "II and III",
+        "why": "These use optic canal and superior orbital fissure."
+      },
+      {
+        "text": "XI and I",
+        "why": "These follow foramen magnum/jugular and cribriform routes."
+      },
+      {
+        "text": "V2 and V3",
+        "why": "These use rotundum and ovale."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q086",
+    "ref": "cn-37",
+    "deck": "cn",
+    "topic": "Hearing and balance",
+    "stem": "Which finding most directly suggests cochlear rather than isolated vestibular-division dysfunction?",
+    "options": [
+      {
+        "text": "Sensorineural hearing loss",
+        "why": "Cochlear circuitry mediates hearing."
+      },
+      {
+        "text": "Vertigo without auditory symptoms",
+        "why": "This chiefly suggests vestibular involvement."
+      },
+      {
+        "text": "Head-motion-related imbalance only",
+        "why": "This is a vestibular symptom."
+      },
+      {
+        "text": "Gaze stabilization failure only",
+        "why": "This involves vestibulo-ocular circuitry."
+      },
+      {
+        "text": "Isolated lateral rectus weakness",
+        "why": "This is VI motor dysfunction."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q087",
+    "ref": "cn-37",
+    "deck": "cn",
+    "topic": "Hearing and balance",
+    "stem": "Semicircular canals principally detect which stimulus?",
+    "options": [
+      {
+        "text": "Only linear acceleration and gravitational tilt",
+        "why": "These are mainly otolith/utricle/saccule functions."
+      },
+      {
+        "text": "Only sound frequency",
+        "why": "Cochlear structures process hearing."
+      },
+      {
+        "text": "Angular head acceleration",
+        "why": "Canals encode rotational movement."
+      },
+      {
+        "text": "Posterior tongue taste",
+        "why": "This is IX gustation."
+      },
+      {
+        "text": "Carotid arterial oxygen tension",
+        "why": "This is carotid body chemoreception."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q088",
+    "ref": "cn-38",
+    "deck": "cn",
+    "topic": "Inner-ear disease",
+    "stem": "A 51-year-old has gradually worsening left-sided hearing and tinnitus over two years, followed by imbalance. MRI shows a mass beginning in the left internal acoustic meatus and extending into the CPA. Examination now reveals mild left facial weakness and a reduced left corneal sensory response. Which tumor best explains the progressive involvement of VIII and adjacent VII/V structures?",
+    "options": [
+      {
+        "text": "Vestibular schwannoma",
+        "why": "A vestibular Schwann-cell tumor can expand from IAM into CPA."
+      },
+      {
+        "text": "Pituitary adenoma",
+        "why": "This is a sellar tumor more associated with optic chiasmal compression."
+      },
+      {
+        "text": "Olfactory neuroblastoma",
+        "why": "This arises near olfactory/nasal structures rather than IAM."
+      },
+      {
+        "text": "An isolated middle-ear effusion",
+        "why": "This does not explain the enhancing CPA mass and adjacent cranial deficits."
+      },
+      {
+        "text": "Choroid plexus papilloma",
+        "why": "This is a ventricular epithelial tumor."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q089",
+    "ref": "cn-38",
+    "deck": "cn",
+    "topic": "Inner-ear disease",
+    "stem": "Which cell type gives rise to a vestibular schwannoma?",
+    "options": [
+      {
+        "text": "Chromaffin cell",
+        "why": "This is a catecholamine-secreting adrenal/paraganglionic lineage."
+      },
+      {
+        "text": "Ependymal cell",
+        "why": "This is associated with ependymal tumors."
+      },
+      {
+        "text": "Oligodendrocyte",
+        "why": "This produces CNS myelin rather than a schwannoma."
+      },
+      {
+        "text": "Schwann cell",
+        "why": "The tumor usually arises from the vestibular division's peripheral myelinating lineage."
+      },
+      {
+        "text": "Meningothelial cell",
+        "why": "This gives rise to meningioma."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q090",
+    "ref": "cn-39",
+    "deck": "cn",
+    "topic": "Inner-ear disease",
+    "stem": "A 45-year-old experiences recurrent spontaneous vertigo lasting much longer than a few seconds, with fluctuating unilateral hearing loss, roaring tinnitus, and ear fullness. Between attacks, symptoms partially improve. There is no persistent facial weakness or long-tract deficit. The clinician considers a disorder associated with endolymphatic hydrops. Which diagnosis best fits the episodic cochlear and vestibular pattern?",
+    "options": [
+      {
+        "text": "Isolated peripheral VII palsy",
+        "why": "This causes facial motor/autonomic/taste findings, not this classic inner-ear triad."
+      },
+      {
+        "text": "Ménière disease",
+        "why": "Fluctuating hearing, tinnitus/fullness, and recurrent vertigo are characteristic."
+      },
+      {
+        "text": "Progressive vestibular schwannoma as the best episodic hydrops pattern",
+        "why": "It more commonly causes progressive asymmetric auditory/imbalance symptoms."
+      },
+      {
+        "text": "Typical BPPV alone",
+        "why": "This usually causes brief positional vertigo without fluctuating hearing loss."
+      },
+      {
+        "text": "Medial medullary infarction",
+        "why": "This causes an acute motor/position/XII pattern."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q091",
+    "ref": "cn-39",
+    "deck": "cn",
+    "topic": "Inner-ear disease",
+    "stem": "Which anatomical compartment is most closely associated with Ménière disease's hydrops?",
+    "options": [
+      {
+        "text": "Cerebral aqueduct exclusively",
+        "why": "This is a ventricular CSF conduit."
+      },
+      {
+        "text": "Parotid gland duct",
+        "why": "This is a salivary structure."
+      },
+      {
+        "text": "Subdural potential space",
+        "why": "This is an intracranial meningeal compartment."
+      },
+      {
+        "text": "Endolymph-containing membranous labyrinth",
+        "why": "Distention affects cochlear and vestibular function."
+      },
+      {
+        "text": "Cervical sympathetic chain",
+        "why": "This is an autonomic nerve-ganglion system rather than the inner-ear fluid compartment."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q092",
+    "ref": "cn-41",
+    "deck": "cn",
+    "topic": "Glossopharyngeal and vagus",
+    "stem": "Which muscle is the characteristic branchial motor target of CN IX?",
+    "options": [
+      {
+        "text": "Genioglossus",
+        "why": "This receives XII."
+      },
+      {
+        "text": "Palatoglossus",
+        "why": "This receives X."
+      },
+      {
+        "text": "Stapedius",
+        "why": "This receives VII."
+      },
+      {
+        "text": "Tensor veli palatini",
+        "why": "This receives V3."
+      },
+      {
+        "text": "Stylopharyngeus",
+        "why": "IX elevates the pharynx through stylopharyngeus."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q093",
+    "ref": "cn-41",
+    "deck": "cn",
+    "topic": "Glossopharyngeal and vagus",
+    "stem": "Which route supplies parasympathetic secretion to the parotid gland?",
+    "options": [
+      {
+        "text": "XII → geniculate ganglion",
+        "why": "XII is tongue motor, and geniculate is sensory."
+      },
+      {
+        "text": "XI → superior cervical ganglion",
+        "why": "This is not the parotid parasympathetic route."
+      },
+      {
+        "text": "VII → chorda tympani → submandibular ganglion",
+        "why": "This supplies submandibular/sublingual glands."
+      },
+      {
+        "text": "III → ciliary ganglion",
+        "why": "This supplies ocular smooth muscle."
+      },
+      {
+        "text": "IX → lesser petrosal → otic ganglion → auriculotemporal V3",
+        "why": "This is the classic parotid secretomotor route."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q094",
+    "ref": "cn-41",
+    "deck": "cn",
+    "topic": "Glossopharyngeal and vagus",
+    "stem": "Carotid sinus and carotid body afferents travel chiefly through which cranial nerve?",
+    "options": [
+      {
+        "text": "IX",
+        "why": "Glossopharyngeal carries carotid stretch and chemosensory input."
+      },
+      {
+        "text": "XII",
+        "why": "This is tongue motor."
+      },
+      {
+        "text": "VII alone",
+        "why": "This is not the main carotid afferent route."
+      },
+      {
+        "text": "III",
+        "why": "This carries ocular motor/parasympathetic output."
+      },
+      {
+        "text": "II",
+        "why": "This carries vision."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q095",
+    "ref": "cn-42",
+    "deck": "cn",
+    "topic": "Glossopharyngeal and vagus",
+    "stem": "Which function is most strongly associated with CN X branchial motor output?",
+    "options": [
+      {
+        "text": "Masseter contraction",
+        "why": "This is V3."
+      },
+      {
+        "text": "Lateral rectus contraction",
+        "why": "This is VI."
+      },
+      {
+        "text": "Most pharyngeal and laryngeal movement",
+        "why": "Vagus supplies major swallowing and phonation muscles."
+      },
+      {
+        "text": "Trapezius contraction",
+        "why": "This is spinal XI."
+      },
+      {
+        "text": "Tongue intrinsic motor output",
+        "why": "This is XII."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q096",
+    "ref": "cn-42",
+    "deck": "cn",
+    "topic": "Glossopharyngeal and vagus",
+    "stem": "Which palate muscle is a V3 motor exception to the broad vagal motor pattern?",
+    "options": [
+      {
+        "text": "Palatopharyngeus",
+        "why": "This is chiefly vagal."
+      },
+      {
+        "text": "Levator veli palatini",
+        "why": "This is chiefly vagal/pharyngeal plexus motor."
+      },
+      {
+        "text": "Musculus uvulae",
+        "why": "This is chiefly vagal."
+      },
+      {
+        "text": "Tensor veli palatini",
+        "why": "It receives mandibular trigeminal branchial motor input."
+      },
+      {
+        "text": "Palatoglossus",
+        "why": "This is vagal rather than XII."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q097",
+    "ref": "cn-43",
+    "deck": "cn",
+    "topic": "Bulbar nuclei",
+    "stem": "Which nucleus provides major branchial motor output for swallowing and phonation through IX/X?",
+    "options": [
+      {
+        "text": "Inferior salivatory nucleus",
+        "why": "This provides IX parasympathetics to parotid."
+      },
+      {
+        "text": "Spinal trigeminal nucleus",
+        "why": "This processes general somatic sensation."
+      },
+      {
+        "text": "Solitary nucleus",
+        "why": "This is taste/visceral sensory."
+      },
+      {
+        "text": "Nucleus ambiguus",
+        "why": "Its motor neurons supply pharyngeal/laryngeal pathways."
+      },
+      {
+        "text": "Cochlear nucleus",
+        "why": "This processes auditory input."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q098",
+    "ref": "cn-43",
+    "deck": "cn",
+    "topic": "Bulbar nuclei",
+    "stem": "Which nucleus supplies the preganglionic parasympathetic origin of the IX parotid pathway?",
+    "options": [
+      {
+        "text": "Principal V sensory nucleus",
+        "why": "This processes facial touch/vibration."
+      },
+      {
+        "text": "Hypoglossal nucleus",
+        "why": "This supplies tongue skeletal muscles."
+      },
+      {
+        "text": "Inferior salivatory nucleus",
+        "why": "Its GVE axons travel through IX toward the otic ganglion."
+      },
+      {
+        "text": "Superior salivatory nucleus",
+        "why": "This is associated with VII glandular output."
+      },
+      {
+        "text": "Edinger-Westphal nucleus",
+        "why": "This supplies III ocular parasympathetics."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q099",
+    "ref": "cn-43",
+    "deck": "cn",
+    "topic": "Bulbar nuclei",
+    "stem": "A lesion of rostral solitary nucleus most directly impairs which input?",
+    "options": [
+      {
+        "text": "Taste",
+        "why": "Rostral solitary regions process SVA taste from VII/IX/X."
+      },
+      {
+        "text": "Ciliary muscle parasympathetic origin",
+        "why": "This is Edinger-Westphal."
+      },
+      {
+        "text": "Conscious body vibration as its primary relay",
+        "why": "That uses dorsal-column/medial-lemniscal pathways."
+      },
+      {
+        "text": "Facial muscle branchial motor output",
+        "why": "This originates in facial motor nucleus."
+      },
+      {
+        "text": "Lateral rectus motor control",
+        "why": "This is VI circuitry."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q100",
+    "ref": "cn-43",
+    "deck": "cn",
+    "topic": "Bulbar nuclei",
+    "stem": "Which statement best distinguishes superior from inferior salivatory nuclei?",
+    "options": [
+      {
+        "text": "Superior is associated with VII glandular output; inferior with IX parotid output",
+        "why": "The two nuclei serve different cranial parasympathetic routes."
+      },
+      {
+        "text": "Their names refer to two skull foramina",
+        "why": "They are brainstem nuclei, not foramina."
+      },
+      {
+        "text": "Superior supplies only XII; inferior supplies only XI",
+        "why": "Neither is the salivatory cranial route."
+      },
+      {
+        "text": "Both directly supply every extraocular muscle",
+        "why": "Those muscles use GSE ocular nuclei."
+      },
+      {
+        "text": "Both contain primary retinal sensory somata",
+        "why": "They are autonomic motor nuclei."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q101",
+    "ref": "cn-44",
+    "deck": "cn",
+    "topic": "Vagal lesions",
+    "stem": "After a left skull-base lesion, a patient develops hoarseness, dysphagia, and left palatal droop. When asked to say “ah,” the uvula moves toward the right. Tongue protrusion remains midline, and mastication strength is preserved. Which nerve most directly accounts for the palate and laryngeal motor deficits?",
+    "options": [
+      {
+        "text": "Left CN VII",
+        "why": "This affects facial expression and its associated branches."
+      },
+      {
+        "text": "Right CN X",
+        "why": "This would more typically cause right palatal droop with leftward uvula."
+      },
+      {
+        "text": "Left CN XII",
+        "why": "This would affect tongue, not most palate/larynx motor output."
+      },
+      {
+        "text": "Left CN X",
+        "why": "The palate droops ipsilaterally, while the intact side pulls the uvula away."
+      },
+      {
+        "text": "Right CN V3",
+        "why": "This chiefly affects mastication and specific V3 muscles."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q102",
+    "ref": "cn-44",
+    "deck": "cn",
+    "topic": "Vagal lesions",
+    "stem": "An isolated recurrent laryngeal injury differs from a proximal X lesion because it can cause which pattern?",
+    "options": [
+      {
+        "text": "Hoarseness with preserved palatal movement",
+        "why": "The isolated laryngeal branch lesion spares upstream pharyngeal/palatal branches."
+      },
+      {
+        "text": "Loss of all anterior tongue taste",
+        "why": "That is VII/chorda tympani territory."
+      },
+      {
+        "text": "Complete ipsilateral facial paralysis",
+        "why": "That is VII motor dysfunction."
+      },
+      {
+        "text": "Loss of ocular abduction",
+        "why": "That is VI dysfunction."
+      },
+      {
+        "text": "Weak shoulder shrug as its defining finding",
+        "why": "That is XI."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q103",
+    "ref": "cn-45",
+    "deck": "cn",
+    "topic": "Gag reflex",
+    "stem": "What is the standard board-style gag-reflex pairing?",
+    "options": [
+      {
+        "text": "II afferent; III efferent",
+        "why": "This is pupillary light response."
+      },
+      {
+        "text": "VIII afferent; XI efferent",
+        "why": "This is not the gag pathway."
+      },
+      {
+        "text": "IX afferent; X efferent",
+        "why": "Posterior pharyngeal input activates vagal pharyngeal contraction."
+      },
+      {
+        "text": "V1 afferent; VII efferent",
+        "why": "This is corneal blink."
+      },
+      {
+        "text": "XII afferent; V3 efferent",
+        "why": "XII is motor and is not the standard sensory limb."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q104",
+    "ref": "cn-45",
+    "deck": "cn",
+    "topic": "Gag reflex",
+    "stem": "Why should an absent gag reflex be interpreted with voice, swallowing, and palate findings?",
+    "options": [
+      {
+        "text": "A normal gag excludes all dysphagia",
+        "why": "Swallowing dysfunction can occur despite a gag response."
+      },
+      {
+        "text": "Gag absence always proves an optic nerve lesion",
+        "why": "II is not the standard gag afferent."
+      },
+      {
+        "text": "Every healthy person must have an identical gag response",
+        "why": "Normal variation exists."
+      },
+      {
+        "text": "The gag reflex has no neural pathway",
+        "why": "It does have cranial sensory/motor circuits."
+      },
+      {
+        "text": "The reflex varies normally and depends on technique/site",
+        "why": "Absence alone does not establish a focal IX/X lesion."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q105",
+    "ref": "cn-46",
+    "deck": "cn",
+    "topic": "Laryngeal innervation",
+    "stem": "After thyroid surgery, a singer cannot reach high notes as before. Vocal-fold movement for abduction is otherwise preserved. Which nerve is most directly implicated?",
+    "options": [
+      {
+        "text": "Glossopharyngeal motor branch",
+        "why": "This supplies stylopharyngeus."
+      },
+      {
+        "text": "Hypoglossal nerve",
+        "why": "This supplies tongue muscles."
+      },
+      {
+        "text": "External superior laryngeal branch",
+        "why": "It supplies cricothyroid for fold tension and pitch."
+      },
+      {
+        "text": "Recurrent laryngeal nerve as the specific cricothyroid motor supply",
+        "why": "RLN supplies other intrinsic muscles, not cricothyroid."
+      },
+      {
+        "text": "Internal superior laryngeal branch",
+        "why": "This mainly supplies sensation above folds."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q106",
+    "ref": "cn-46",
+    "deck": "cn",
+    "topic": "Laryngeal innervation",
+    "stem": "Sensation above the vocal folds travels chiefly in which branch?",
+    "options": [
+      {
+        "text": "Auriculotemporal nerve alone",
+        "why": "This carries other head sensory/autonomic distribution."
+      },
+      {
+        "text": "Chorda tympani",
+        "why": "This carries tongue taste/salivary fibers."
+      },
+      {
+        "text": "Recurrent laryngeal nerve as the above-fold branch",
+        "why": "Its sensory territory is chiefly below folds."
+      },
+      {
+        "text": "Internal superior laryngeal nerve",
+        "why": "This is the above-fold sensory branch of X."
+      },
+      {
+        "text": "External superior laryngeal nerve",
+        "why": "This is motor to cricothyroid."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q107",
+    "ref": "cn-46",
+    "deck": "cn",
+    "topic": "Laryngeal innervation",
+    "stem": "Which right-versus-left recurrent laryngeal relationship is correct?",
+    "options": [
+      {
+        "text": "Right loops under aortic arch; left under right subclavian",
+        "why": "This reverses the classic sides."
+      },
+      {
+        "text": "Both loop through the optic canal",
+        "why": "This is unrelated skull anatomy."
+      },
+      {
+        "text": "Right loops under subclavian; left under aortic arch",
+        "why": "The different great-artery loops explain side-specific surgical/mediastinal risks."
+      },
+      {
+        "text": "Both loop under the carotid sinus",
+        "why": "This is not the normal arrangement."
+      },
+      {
+        "text": "Right loops under superior cerebellar; left under PCA",
+        "why": "These are cranial arteries, not the laryngeal loops."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q108",
+    "ref": "cn-46",
+    "deck": "cn",
+    "topic": "Laryngeal innervation",
+    "stem": "Which muscle is the principal vocal-fold abductor and receives recurrent laryngeal motor supply?",
+    "options": [
+      {
+        "text": "Masseter",
+        "why": "This closes the jaw through V3."
+      },
+      {
+        "text": "Orbicularis oris",
+        "why": "This closes/protrudes lips through VII."
+      },
+      {
+        "text": "Posterior cricoarytenoid",
+        "why": "Bilateral dysfunction can compromise the airway."
+      },
+      {
+        "text": "Cricothyroid",
+        "why": "This tensions folds through external superior laryngeal supply."
+      },
+      {
+        "text": "Stylopharyngeus",
+        "why": "This elevates pharynx through IX."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q109",
+    "ref": "cn-48",
+    "deck": "cn",
+    "topic": "Accessory nerve",
+    "stem": "Which route is followed by spinal accessory rootlets?",
+    "options": [
+      {
+        "text": "Upper cervical cord → foramen magnum → jugular foramen",
+        "why": "XI ascends into skull before exiting."
+      },
+      {
+        "text": "Cranial cortex → foramen rotundum",
+        "why": "Rotundum carries V2."
+      },
+      {
+        "text": "Retina → superior orbital fissure",
+        "why": "II uses optic canal, and XI is unrelated."
+      },
+      {
+        "text": "Pons → optic canal → orbit",
+        "why": "This is not the XI route."
+      },
+      {
+        "text": "Medulla → hypoglossal canal only",
+        "why": "This is XII's exit pattern."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q110",
+    "ref": "cn-48",
+    "deck": "cn",
+    "topic": "Accessory nerve",
+    "stem": "Contraction of the right SCM most strongly rotates the face in which direction?",
+    "options": [
+      {
+        "text": "Directly upward without rotation as its sole action",
+        "why": "SCM has several actions but contralateral rotation is the tested one."
+      },
+      {
+        "text": "Only leftward tongue protrusion",
+        "why": "SCM acts on head/neck, not tongue."
+      },
+      {
+        "text": "Right",
+        "why": "This reverses the primary rotation relation."
+      },
+      {
+        "text": "Left",
+        "why": "Unilateral SCM turns the face contralaterally."
+      },
+      {
+        "text": "Only downward eye depression",
+        "why": "This is an ocular muscle action."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q111",
+    "ref": "cn-48",
+    "deck": "cn",
+    "topic": "Accessory nerve",
+    "stem": "Which motor origin is most characteristic of spinal CN XI?",
+    "options": [
+      {
+        "text": "Retinal ganglion layer",
+        "why": "This produces optic nerve axons."
+      },
+      {
+        "text": "Upper cervical cord around C1-C5",
+        "why": "Its rootlets ascend into skull before exiting jugular foramen."
+      },
+      {
+        "text": "Inferior salivatory nucleus",
+        "why": "This is IX parasympathetic output."
+      },
+      {
+        "text": "Rostral midbrain next to III",
+        "why": "That is ocular motor territory."
+      },
+      {
+        "text": "Trigeminal sensory ganglion",
+        "why": "This contains primary facial sensory somata."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q112",
+    "ref": "cn-49",
+    "deck": "cn",
+    "topic": "Accessory nerve",
+    "stem": "After a right posterior-triangle lymph-node biopsy, a patient has shoulder droop and difficulty carrying a bag on that side. Right shoulder shrug is weak. When asked to turn his face left against resistance, he also shows weakness. Facial expression, tongue movement, and extraocular movements are normal. Which nerve is most likely injured?",
+    "options": [
+      {
+        "text": "Right CN VII",
+        "why": "This would affect facial expression."
+      },
+      {
+        "text": "Right CN XI",
+        "why": "Right trapezius and SCM weakness explain weak right shrug and leftward head turn."
+      },
+      {
+        "text": "Left CN XI",
+        "why": "This would weaken left shrug and rightward head turn."
+      },
+      {
+        "text": "Right CN XII",
+        "why": "This would affect tongue."
+      },
+      {
+        "text": "Left CN VI",
+        "why": "This would affect left eye abduction."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q113",
+    "ref": "cn-49",
+    "deck": "cn",
+    "topic": "Accessory nerve",
+    "stem": "A left accessory lesion most directly weakens which action?",
+    "options": [
+      {
+        "text": "Right shoulder shrug only",
+        "why": "This is the opposite side."
+      },
+      {
+        "text": "Pupillary constriction left",
+        "why": "This is III parasympathetic function."
+      },
+      {
+        "text": "Tongue protrusion right",
+        "why": "This is XII/ genioglossus function."
+      },
+      {
+        "text": "Leftward head turn as its classic SCM weakness",
+        "why": "Left SCM chiefly turns the face right."
+      },
+      {
+        "text": "Left shoulder shrug",
+        "why": "Trapezius is supplied ipsilaterally by XI."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q114",
+    "ref": "cn-50",
+    "deck": "cn",
+    "topic": "Hypoglossal and tongue",
+    "stem": "Which tongue muscle is a CN X exception to the general XII motor rule?",
+    "options": [
+      {
+        "text": "Intrinsic longitudinal tongue muscle",
+        "why": "Intrinsic tongue muscles receive XII."
+      },
+      {
+        "text": "Styloglossus",
+        "why": "This receives XII."
+      },
+      {
+        "text": "Hyoglossus",
+        "why": "This receives XII."
+      },
+      {
+        "text": "Genioglossus",
+        "why": "This receives XII."
+      },
+      {
+        "text": "Palatoglossus",
+        "why": "This receives vagal pharyngeal plexus supply."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q115",
+    "ref": "cn-50",
+    "deck": "cn",
+    "topic": "Hypoglossal and tongue",
+    "stem": "Through which opening does CN XII exit the skull?",
+    "options": [
+      {
+        "text": "Stylomastoid foramen",
+        "why": "VII exits here."
+      },
+      {
+        "text": "Hypoglossal canal",
+        "why": "This transmits hypoglossal motor fibers."
+      },
+      {
+        "text": "Cribriform plate",
+        "why": "I fibers traverse here."
+      },
+      {
+        "text": "Foramen ovale",
+        "why": "This transmits V3."
+      },
+      {
+        "text": "Jugular foramen",
+        "why": "This transmits IX/X/XI."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q116",
+    "ref": "cn-51",
+    "deck": "cn",
+    "topic": "Tongue lesion laterality",
+    "stem": "A patient's protruded tongue deviates right and has right-sided wasting and fasciculations. Which lesion is most likely?",
+    "options": [
+      {
+        "text": "Left XII LMN pathway",
+        "why": "This would produce leftward deviation and wasting."
+      },
+      {
+        "text": "Right XII LMN pathway",
+        "why": "The tongue points toward the weak denervated genioglossus."
+      },
+      {
+        "text": "Right accessory nerve",
+        "why": "This supplies SCM/trapezius rather than tongue."
+      },
+      {
+        "text": "Left V1 sensory lesion",
+        "why": "This affects corneal/face sensation."
+      },
+      {
+        "text": "Right unilateral cortical lesion as the classic explanation",
+        "why": "This tends to weaken left genioglossus without prominent denervation atrophy."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q117",
+    "ref": "cn-51",
+    "deck": "cn",
+    "topic": "Tongue lesion laterality",
+    "stem": "A right corticobulbar lesion classically weakens which genioglossus and causes which protrusion direction?",
+    "options": [
+      {
+        "text": "Neither muscle can be affected by cortex",
+        "why": "Corticobulbar pathways control tongue motor output."
+      },
+      {
+        "text": "Both genioglossi obligatorily destroyed",
+        "why": "A unilateral supranuclear lesion need not destroy both motor nuclei."
+      },
+      {
+        "text": "Left genioglossus; rightward deviation",
+        "why": "The tongue points toward the weak side, not away from it."
+      },
+      {
+        "text": "Right genioglossus; rightward deviation",
+        "why": "This fits right XII LMN injury more closely."
+      },
+      {
+        "text": "Left genioglossus; leftward deviation",
+        "why": "Predominantly contralateral input means deviation away from the cortical lesion."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q118",
+    "ref": "cn-52",
+    "deck": "cn",
+    "topic": "Tongue modalities",
+    "stem": "A lesion of chorda tympani alone most directly impairs which tongue modality?",
+    "options": [
+      {
+        "text": "Posterior tongue taste",
+        "why": "This is chiefly IX."
+      },
+      {
+        "text": "Taste from most anterior two-thirds",
+        "why": "Chorda tympani carries this SVA signal."
+      },
+      {
+        "text": "General anterior tongue touch",
+        "why": "This is lingual V3."
+      },
+      {
+        "text": "Epiglottic sensation exclusively",
+        "why": "This includes X."
+      },
+      {
+        "text": "Tongue skeletal force",
+        "why": "This is XII except palatoglossus."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q119",
+    "ref": "cn-52",
+    "deck": "cn",
+    "topic": "Tongue modalities",
+    "stem": "A lingual nerve injury occurs distal to its union with chorda tympani. Which combined deficit is plausible?",
+    "options": [
+      {
+        "text": "Only posterior tongue taste loss",
+        "why": "This is IX territory."
+      },
+      {
+        "text": "Anterior tongue general sensation and taste loss",
+        "why": "The distal nerve carries V3 sensory and hitchhiking VII taste fibers."
+      },
+      {
+        "text": "Only loss of hearing",
+        "why": "This is VIII/cochlear circuitry."
+      },
+      {
+        "text": "Only tongue motor paralysis",
+        "why": "Motor XII fibers are separate."
+      },
+      {
+        "text": "Only right shoulder shrug weakness",
+        "why": "This is XI."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q120",
+    "ref": "cn-52",
+    "deck": "cn",
+    "topic": "Tongue modalities",
+    "stem": "Taste from circumvallate papillae is classically supplied by which nerve?",
+    "options": [
+      {
+        "text": "XII",
+        "why": "This is motor."
+      },
+      {
+        "text": "V1",
+        "why": "This is ophthalmic sensory."
+      },
+      {
+        "text": "VII exclusively because all anterior structures must use VII",
+        "why": "Circumvallate taste is typically IX."
+      },
+      {
+        "text": "IX",
+        "why": "This is a useful exception near the anterior/posterior tongue boundary."
+      },
+      {
+        "text": "VI",
+        "why": "This is ocular motor."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q121",
+    "ref": "cn-54",
+    "deck": "cn",
+    "topic": "Long tracts",
+    "stem": "Which brainstem tract chiefly carries body vibration and conscious position information after sensory decussation?",
+    "options": [
+      {
+        "text": "Corticospinal tract",
+        "why": "This is descending motor."
+      },
+      {
+        "text": "Facial nerve fascicle",
+        "why": "This is cranial motor/sensory axons, not the body DCML continuation."
+      },
+      {
+        "text": "Spinothalamic tract",
+        "why": "This chiefly carries pain/temperature."
+      },
+      {
+        "text": "Medial lemniscus",
+        "why": "It carries crossed dorsal-column-relayed modalities."
+      },
+      {
+        "text": "Optic tract",
+        "why": "This carries vision."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q122",
+    "ref": "cn-54",
+    "deck": "cn",
+    "topic": "Long tracts",
+    "stem": "Why is lesion level needed before predicting corticospinal weakness laterality?",
+    "options": [
+      {
+        "text": "Every cranial nerve uses its crossing",
+        "why": "Cranial nuclei/fascicles have their own organization."
+      },
+      {
+        "text": "The tract crosses in caudal medulla",
+        "why": "Above-crossing lesions cause contralateral weakness; spinal lesions typically ipsilateral weakness below."
+      },
+      {
+        "text": "It crosses repeatedly in every spinal segment",
+        "why": "This is not the main corticospinal pattern."
+      },
+      {
+        "text": "It lies only outside CNS",
+        "why": "It is a CNS tract."
+      },
+      {
+        "text": "Corticospinal is purely sensory",
+        "why": "It is motor."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q123",
+    "ref": "cn-55",
+    "deck": "cn",
+    "topic": "Long tracts",
+    "stem": "A left pontine corticospinal lesion causes weakness mainly on which body side?",
+    "options": [
+      {
+        "text": "Only left eye abduction with no possible limb effect",
+        "why": "The corticospinal tract controls limb motor output rather than VI alone."
+      },
+      {
+        "text": "Only posterior tongue taste",
+        "why": "This is a different sensory pathway."
+      },
+      {
+        "text": "Left",
+        "why": "This is the usual spinal-tract relation below crossing."
+      },
+      {
+        "text": "Right",
+        "why": "It lies above the pyramidal decussation."
+      },
+      {
+        "text": "No side because the tract is unmyelinated sensory",
+        "why": "This misclassifies the tract."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q124",
+    "ref": "cn-55",
+    "deck": "cn",
+    "topic": "Long tracts",
+    "stem": "Where do internal arcuate sensory fibers cross to form medial lemniscus?",
+    "options": [
+      {
+        "text": "Superior orbital fissure",
+        "why": "This is a skull opening."
+      },
+      {
+        "text": "Middle cerebellar peduncle",
+        "why": "This primarily carries pontocerebellar input rather than the DCML crossing."
+      },
+      {
+        "text": "Every dorsal root ganglion",
+        "why": "DRG are primary sensory somata without this crossing."
+      },
+      {
+        "text": "Caudal medulla",
+        "why": "This follows gracile/cuneate nuclear relay."
+      },
+      {
+        "text": "Ciliary ganglion",
+        "why": "This is an ocular parasympathetic relay."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q125",
+    "ref": "cn-56",
+    "deck": "cn",
+    "topic": "Crossed sensory patterns",
+    "stem": "A patient loses pain and temperature on the left face and right body after a lateral brainstem lesion. Which paired structures best explain this?",
+    "options": [
+      {
+        "text": "Right spinal V and right spinothalamic",
+        "why": "This would reverse the classic sides."
+      },
+      {
+        "text": "Left medial lemniscus and left XII alone",
+        "why": "This would affect body position and tongue motor rather than crossed pain modalities."
+      },
+      {
+        "text": "Only left facial motor nucleus",
+        "why": "This would cause facial weakness, not the sensory combination."
+      },
+      {
+        "text": "Left spinal trigeminal complex and left spinothalamic tract",
+        "why": "Face fibers are pre-crossing there, while body pain fibers have already crossed."
+      },
+      {
+        "text": "Both optic nerves",
+        "why": "This would affect vision."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q126",
+    "ref": "cn-56",
+    "deck": "cn",
+    "topic": "Crossed sensory patterns",
+    "stem": "Which thalamic pairing correctly distinguishes face and body somatosensory relays?",
+    "options": [
+      {
+        "text": "Face — cochlear nucleus; body — ciliary ganglion",
+        "why": "These are unrelated auditory/autonomic structures."
+      },
+      {
+        "text": "Both — Edinger-Westphal",
+        "why": "EW is an ocular parasympathetic nucleus, not thalamus."
+      },
+      {
+        "text": "Both — facial motor nucleus",
+        "why": "This is a pontine motor nucleus."
+      },
+      {
+        "text": "Face — VPM; body — VPL",
+        "why": "These are the classic ventral posterior sensory targets."
+      },
+      {
+        "text": "Face — VPL; body — VPM",
+        "why": "This reverses the usual mapping."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q127",
+    "ref": "cn-57",
+    "deck": "cn",
+    "topic": "Complete nuclei chart",
+    "stem": "Which set contains only cranial GVE nuclei represented on the chart?",
+    "options": [
+      {
+        "text": "Vestibular and cochlear nuclei",
+        "why": "These are SSA sensory."
+      },
+      {
+        "text": "Principal V, spinal V, mesencephalic V",
+        "why": "These are somatic sensory."
+      },
+      {
+        "text": "III motor, IV motor, VI motor, XII motor",
+        "why": "These are GSE rather than GVE."
+      },
+      {
+        "text": "Facial motor, motor V, ambiguus",
+        "why": "These are branchial motor/SVE."
+      },
+      {
+        "text": "EW, superior salivatory, inferior salivatory, dorsal motor X",
+        "why": "These provide parasympathetic preganglionic output."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q128",
+    "ref": "cn-57",
+    "deck": "cn",
+    "topic": "Complete nuclei chart",
+    "stem": "The chart labels ambiguus with IX/X/XI. How should its XI association be interpreted alongside the spinal accessory pathway?",
+    "options": [
+      {
+        "text": "It eliminates the need for a spinal accessory nucleus",
+        "why": "That nucleus supplies the spinal XI motor system."
+      },
+      {
+        "text": "It means XI carries all taste from anterior tongue",
+        "why": "This is VII."
+      },
+      {
+        "text": "It proves SCM motor neurons all lie in ambiguus",
+        "why": "They arise in spinal accessory nucleus."
+      },
+      {
+        "text": "It means XII and XI are one peripheral nerve",
+        "why": "They have distinct nuclei/routes."
+      },
+      {
+        "text": "It reflects traditional cranial-accessory terminology, functionally grouped with vagus",
+        "why": "Spinal XI to SCM/trapezius arises in cervical cord."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q129",
+    "ref": "cn-58",
+    "deck": "cn",
+    "topic": "Cross-section method",
+    "stem": "What is the best first step when interpreting an unfamiliar brainstem section?",
+    "options": [
+      {
+        "text": "Name a disease before identifying structures",
+        "why": "Localization should precede the final syndrome inference."
+      },
+      {
+        "text": "Assume all nuclei lie at midline",
+        "why": "Motor/sensory and individual nuclei have different positions."
+      },
+      {
+        "text": "Assume every cavity is a lateral ventricle",
+        "why": "Aqueduct, fourth ventricle, and central canal distinguish levels."
+      },
+      {
+        "text": "Ignore cranial nerve findings",
+        "why": "They are major clues to level and side."
+      },
+      {
+        "text": "Identify level and orient dorsal/ventral landmarks",
+        "why": "This constrains which nuclei and tracts can be present."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q130",
+    "ref": "cn-58",
+    "deck": "cn",
+    "topic": "Cross-section method",
+    "stem": "What distinguishes a cranial nerve fascicle from its nucleus?",
+    "options": [
+      {
+        "text": "A fascicle is a skull bone",
+        "why": "It is neural tissue."
+      },
+      {
+        "text": "They are both synonyms for an artery",
+        "why": "Neither is a vascular structure."
+      },
+      {
+        "text": "A fascicle is axons traveling within brainstem; a nucleus contains somata",
+        "why": "Either can be injured near long tracts."
+      },
+      {
+        "text": "A fascicle must contain only CSF",
+        "why": "It contains axons."
+      },
+      {
+        "text": "A nucleus is always outside CNS",
+        "why": "That describes a peripheral ganglion more closely."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q131",
+    "ref": "cn-59",
+    "deck": "cn",
+    "topic": "Midbrain sections",
+    "stem": "A section contains superior colliculus, red nucleus, aqueduct, and III nuclei. What level is most likely?",
+    "options": [
+      {
+        "text": "Closed caudal medulla",
+        "why": "This contains central canal and dorsal-column decussation structures."
+      },
+      {
+        "text": "Rostral midbrain",
+        "why": "Superior colliculus and III are the key pair."
+      },
+      {
+        "text": "Upper cervical cord",
+        "why": "This lacks midbrain colliculi/aqueduct."
+      },
+      {
+        "text": "Middle pons",
+        "why": "This contains motor/principal sensory V nuclei."
+      },
+      {
+        "text": "Caudal pons",
+        "why": "This contains facial colliculus and VI/VII structures."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q132",
+    "ref": "cn-59",
+    "deck": "cn",
+    "topic": "Midbrain sections",
+    "stem": "Which structure separates much of crus cerebri from midbrain tegmentum and is linked to dopaminergic motor function?",
+    "options": [
+      {
+        "text": "Geniculate ganglion",
+        "why": "This is a VII sensory ganglion in temporal bone."
+      },
+      {
+        "text": "Substantia nigra",
+        "why": "This is a key ventral midbrain landmark."
+      },
+      {
+        "text": "Cochlear nucleus",
+        "why": "This lies near pontomedullary levels."
+      },
+      {
+        "text": "Inferior olive",
+        "why": "This is medullary."
+      },
+      {
+        "text": "Otic ganglion",
+        "why": "This is a peripheral parasympathetic ganglion."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q133",
+    "ref": "cn-60",
+    "deck": "cn",
+    "topic": "Midbrain sections",
+    "stem": "Which crossing is a hallmark of caudal midbrain near inferior colliculus level?",
+    "options": [
+      {
+        "text": "Anterior white commissure pain crossing only",
+        "why": "This is near spinal sensory entry."
+      },
+      {
+        "text": "Superior cerebellar peduncle decussation",
+        "why": "This helps identify caudal midbrain."
+      },
+      {
+        "text": "Internal arcuate DCML crossing",
+        "why": "This is in caudal medulla."
+      },
+      {
+        "text": "Optic chiasm crossing",
+        "why": "This is forebrain/diencephalic-region visual anatomy."
+      },
+      {
+        "text": "Pyramidal decussation",
+        "why": "This is farther caudally in medulla."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q134",
+    "ref": "cn-60",
+    "deck": "cn",
+    "topic": "Midbrain sections",
+    "stem": "Inferior colliculus level is most closely associated with which cranial motor nucleus?",
+    "options": [
+      {
+        "text": "Abducens VI",
+        "why": "This is caudal pons."
+      },
+      {
+        "text": "Facial VII",
+        "why": "This is pons."
+      },
+      {
+        "text": "Trochlear IV",
+        "why": "This is the caudal midbrain ocular motor level."
+      },
+      {
+        "text": "Hypoglossal XII",
+        "why": "This is medulla."
+      },
+      {
+        "text": "Spinal accessory XI",
+        "why": "This is upper cervical cord."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q135",
+    "ref": "cn-61",
+    "deck": "cn",
+    "topic": "Pontine sections",
+    "stem": "A section has a massive basis, many transverse fibers, and prominent middle cerebellar peduncles. Which division is most likely?",
+    "options": [
+      {
+        "text": "Cervical cord",
+        "why": "This lacks basis pontis."
+      },
+      {
+        "text": "Closed medulla",
+        "why": "This contains central canal and decussation structures."
+      },
+      {
+        "text": "Thalamus",
+        "why": "This is above brainstem."
+      },
+      {
+        "text": "Pons",
+        "why": "Basis pontis and middle peduncles are characteristic."
+      },
+      {
+        "text": "Midbrain tectum",
+        "why": "This is dorsal collicular anatomy."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q136",
+    "ref": "cn-61",
+    "deck": "cn",
+    "topic": "Pontine sections",
+    "stem": "Pontine nuclei mainly relay cortical information toward cerebellum through which peduncle?",
+    "options": [
+      {
+        "text": "Hypoglossal canal",
+        "why": "This is the XII skull exit."
+      },
+      {
+        "text": "Superior peduncle as the main pontine afferent route",
+        "why": "This is a major cerebellar output route."
+      },
+      {
+        "text": "Optic tract",
+        "why": "This carries visual output from retina."
+      },
+      {
+        "text": "Middle cerebellar peduncle",
+        "why": "Crossed pontocerebellar fibers enter through this major afferent route."
+      },
+      {
+        "text": "Cerebral aqueduct",
+        "why": "This is a CSF passage."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q137",
+    "ref": "cn-62",
+    "deck": "cn",
+    "topic": "Pontine sections",
+    "stem": "A section contains principal sensory V and motor V nuclei. Which level best fits?",
+    "options": [
+      {
+        "text": "Caudal closed medulla",
+        "why": "This is dorsal-column relay/decussation level."
+      },
+      {
+        "text": "Inferior colliculus midbrain",
+        "why": "This is IV/superior peduncle crossing level."
+      },
+      {
+        "text": "Middle pons",
+        "why": "These are the defining trigeminal nuclear structures at that level."
+      },
+      {
+        "text": "Upper cervical cord alone",
+        "why": "This is not the principal pontine V nuclear level."
+      },
+      {
+        "text": "Superior colliculus midbrain",
+        "why": "This is III/red nucleus level."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q138",
+    "ref": "cn-62",
+    "deck": "cn",
+    "topic": "Pontine sections",
+    "stem": "Which tegmental tract links ocular motor nuclei and vestibular gaze pathways?",
+    "options": [
+      {
+        "text": "Gracile fasciculus only",
+        "why": "This carries lower-body dorsal-column input in cord."
+      },
+      {
+        "text": "MLF",
+        "why": "The medial longitudinal fasciculus coordinates eye movement circuitry."
+      },
+      {
+        "text": "Chorda tympani",
+        "why": "This is a peripheral VII branch."
+      },
+      {
+        "text": "Auriculotemporal nerve",
+        "why": "This is a peripheral V3 branch."
+      },
+      {
+        "text": "Corticospinal alone",
+        "why": "This chiefly controls limb voluntary movement."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q139",
+    "ref": "cn-63",
+    "deck": "cn",
+    "topic": "Pontine sections",
+    "stem": "What forms the facial colliculus?",
+    "options": [
+      {
+        "text": "VII fibers looping around VI nucleus",
+        "why": "The surface prominence is not simply the facial nucleus itself."
+      },
+      {
+        "text": "The otic ganglion inside fourth ventricle",
+        "why": "Otic ganglion is peripheral."
+      },
+      {
+        "text": "The superior colliculus descended into pons",
+        "why": "Superior colliculus is a separate midbrain structure."
+      },
+      {
+        "text": "The optic nerve crossing",
+        "why": "This occurs at optic chiasm."
+      },
+      {
+        "text": "Only the trigeminal sensory ganglion",
+        "why": "That ganglion lies outside the brainstem."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q140",
+    "ref": "cn-63",
+    "deck": "cn",
+    "topic": "Pontine sections",
+    "stem": "A lesion at the left facial colliculus may combine which deficits?",
+    "options": [
+      {
+        "text": "Only parotid secretion loss",
+        "why": "IX secretomotor structures are not the defining adjacent pair."
+      },
+      {
+        "text": "Left facial LMN weakness and impaired leftward conjugate gaze",
+        "why": "Looping VII fibers and VI nuclear circuitry are adjacent."
+      },
+      {
+        "text": "Right tongue atrophy and isolated loss of smell",
+        "why": "These do not localize to this caudal pontine structure."
+      },
+      {
+        "text": "Right shoulder shrug weakness only",
+        "why": "This is spinal XI function."
+      },
+      {
+        "text": "Pure bilateral blindness from II injury",
+        "why": "Optic nerves are not at the facial colliculus."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q141",
+    "ref": "cn-64",
+    "deck": "cn",
+    "topic": "Medullary sections",
+    "stem": "An open fourth ventricle with prominent inferior olive and inferior cerebellar peduncle identifies which region?",
+    "options": [
+      {
+        "text": "Rostral/open medulla",
+        "why": "These are characteristic medullary landmarks."
+      },
+      {
+        "text": "Rostral midbrain",
+        "why": "This has aqueduct and superior colliculus."
+      },
+      {
+        "text": "Middle pons as the best olive landmark",
+        "why": "A prominent inferior olive supports medulla."
+      },
+      {
+        "text": "Caudal closed medulla",
+        "why": "Its dorsal cavity is a central canal."
+      },
+      {
+        "text": "Cerebral cortex",
+        "why": "This lacks these brainstem structures."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q142",
+    "ref": "cn-64",
+    "deck": "cn",
+    "topic": "Medullary sections",
+    "stem": "Which nucleus in open medulla receives taste and visceral afferents?",
+    "options": [
+      {
+        "text": "Solitary nucleus",
+        "why": "It handles SVA/GVA input."
+      },
+      {
+        "text": "Motor V nucleus",
+        "why": "This is pontine branchial motor."
+      },
+      {
+        "text": "Superior colliculus",
+        "why": "This is dorsal midbrain visual orienting."
+      },
+      {
+        "text": "Abducens nucleus",
+        "why": "This is caudal pontine horizontal gaze circuitry."
+      },
+      {
+        "text": "Oculomotor nucleus",
+        "why": "This is midbrain GSE motor."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q143",
+    "ref": "cn-65",
+    "deck": "cn",
+    "topic": "Medullary sections",
+    "stem": "Which set lies in the classic medial medullary localization group?",
+    "options": [
+      {
+        "text": "Ambiguus, spinal V, spinothalamic",
+        "why": "These favor lateral medullary patterns."
+      },
+      {
+        "text": "III and red nucleus",
+        "why": "These are midbrain."
+      },
+      {
+        "text": "Otic ganglion and chorda tympani",
+        "why": "These are peripheral head pathways."
+      },
+      {
+        "text": "XII fibers, pyramid, medial lemniscus",
+        "why": "These explain tongue, contralateral motor, and position/vibration deficits."
+      },
+      {
+        "text": "Facial nucleus and VI nucleus",
+        "why": "These are pontine."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q144",
+    "ref": "cn-65",
+    "deck": "cn",
+    "topic": "Medullary sections",
+    "stem": "Which medullary nucleus explains hoarseness and dysphagia in a lateral lesion?",
+    "options": [
+      {
+        "text": "Edinger-Westphal nucleus",
+        "why": "This is in midbrain and controls ocular parasympathetics."
+      },
+      {
+        "text": "Gracile nucleus",
+        "why": "This processes lower-body discriminative sensory input."
+      },
+      {
+        "text": "Nucleus ambiguus",
+        "why": "Its branchial motor output supports pharyngeal/laryngeal function."
+      },
+      {
+        "text": "Cochlear nucleus alone",
+        "why": "This processes hearing."
+      },
+      {
+        "text": "Hypoglossal nucleus alone",
+        "why": "This supplies tongue, not most palate/larynx."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q145",
+    "ref": "cn-66",
+    "deck": "cn",
+    "topic": "Medullary sections",
+    "stem": "Which cavity is a defining landmark of closed caudal medulla?",
+    "options": [
+      {
+        "text": "Central canal",
+        "why": "The fourth ventricle has narrowed to the canal at this level."
+      },
+      {
+        "text": "Ciliary ganglion lumen",
+        "why": "A ganglion is not a CSF cavity."
+      },
+      {
+        "text": "Lateral ventricle",
+        "why": "This lies in a cerebral hemisphere."
+      },
+      {
+        "text": "Cavernous sinus",
+        "why": "This is a skull-base venous compartment."
+      },
+      {
+        "text": "Cerebral aqueduct",
+        "why": "This is midbrain."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q146",
+    "ref": "cn-66",
+    "deck": "cn",
+    "topic": "Medullary sections",
+    "stem": "Which statement about caudal medullary crossings is correct?",
+    "options": [
+      {
+        "text": "Sensory and pyramidal decussations occur at nearby but distinct levels",
+        "why": "The image can show adjacent sections for the two crossings."
+      },
+      {
+        "text": "Corticospinal fibers cross in every facial ganglion",
+        "why": "They cross at pyramidal decussation."
+      },
+      {
+        "text": "Only the optic nerve crosses here",
+        "why": "The optic chiasm is elsewhere."
+      },
+      {
+        "text": "Both must lie in one identical axial plane",
+        "why": "That is too rigid and not the section organization."
+      },
+      {
+        "text": "Dorsal-column fibers never cross",
+        "why": "They cross after medullary relay."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q147",
+    "ref": "cn-67",
+    "deck": "cn",
+    "topic": "Integrated blood supply",
+    "stem": "A medullary lesion causes left tongue weakness with leftward deviation, right limb weakness, and right vibration/position loss. Which region is most likely injured?",
+    "options": [
+      {
+        "text": "Right lateral medulla",
+        "why": "This favors the opposite face/body pain and bulbar pattern."
+      },
+      {
+        "text": "Right peripheral XII nerve alone",
+        "why": "This cannot explain contralateral body long-tract deficits."
+      },
+      {
+        "text": "Left medial medulla",
+        "why": "Left XII, pyramid, and medial lemniscus explain this crossed pattern."
+      },
+      {
+        "text": "Left facial canal alone",
+        "why": "This affects VII rather than XII and body tracts."
+      },
+      {
+        "text": "Left caudal pons only",
+        "why": "This would implicate VI/VII more than XII."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q148",
+    "ref": "cn-67",
+    "deck": "cn",
+    "topic": "Integrated blood supply",
+    "stem": "A lateral medullary syndrome is most commonly associated with which arterial territory?",
+    "options": [
+      {
+        "text": "Central retinal artery",
+        "why": "This supplies retina."
+      },
+      {
+        "text": "ACOM exclusively",
+        "why": "This is an anterior circulation communicating vessel."
+      },
+      {
+        "text": "External carotid facial branch",
+        "why": "This is not the principal medullary supply."
+      },
+      {
+        "text": "Vertebral or PICA",
+        "why": "These commonly supply the involved lateral medulla."
+      },
+      {
+        "text": "MCA exclusively",
+        "why": "This primarily supplies lateral cerebral territories."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q149",
+    "ref": "board-overview",
+    "deck": "board",
+    "topic": "Board: complete cranial overview",
+    "stem": "Anterior skull-base trauma causes anosmia and CSF rhinorrhea. Which structure is most directly implicated?",
+    "options": [
+      {
+        "text": "Internal acoustic meatus",
+        "why": "This carries VII/VIII."
+      },
+      {
+        "text": "Foramen ovale",
+        "why": "This carries V3."
+      },
+      {
+        "text": "Hypoglossal canal",
+        "why": "This carries XII."
+      },
+      {
+        "text": "Cribriform plate",
+        "why": "Olfactory axons traverse it, and meningeal disruption can leak CSF into the nose."
+      },
+      {
+        "text": "Jugular foramen",
+        "why": "This carries IX/X/XI."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q150",
+    "ref": "board-overview",
+    "deck": "board",
+    "topic": "Board: complete cranial overview",
+    "stem": "Which property makes optic nerve injury anatomically different from most peripheral cranial nerves?",
+    "options": [
+      {
+        "text": "It consists only of sympathetic postganglionic axons",
+        "why": "It carries retinal visual afferents."
+      },
+      {
+        "text": "The optic nerve is a CNS extension with oligodendrocyte myelin",
+        "why": "It also has meningeal coverings and can be involved in CNS demyelination."
+      },
+      {
+        "text": "It supplies lateral rectus",
+        "why": "VI supplies that muscle."
+      },
+      {
+        "text": "It exits through foramen ovale",
+        "why": "It uses optic canal."
+      },
+      {
+        "text": "It contains no axons",
+        "why": "It is composed of retinal ganglion-cell axons."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q151",
+    "ref": "board-overview",
+    "deck": "board",
+    "topic": "Board: complete cranial overview",
+    "stem": "A lesion centered in the jugular foramen is most likely to combine which deficits?",
+    "options": [
+      {
+        "text": "Isolated III/IV/VI ophthalmoplegia with V1 loss",
+        "why": "These use cavernous/superior orbital fissure routes."
+      },
+      {
+        "text": "Only anterior tongue taste loss",
+        "why": "This is VII/chorda-related."
+      },
+      {
+        "text": "Dysphagia/hoarseness and weak ipsilateral shoulder shrug",
+        "why": "IX/X/XI traverse this opening."
+      },
+      {
+        "text": "Only loss of vision",
+        "why": "II uses optic canal."
+      },
+      {
+        "text": "Only tongue wasting from XII as the required finding",
+        "why": "XII uses an adjacent but distinct hypoglossal canal."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q152",
+    "ref": "board-overview",
+    "deck": "board",
+    "topic": "Board: complete cranial overview",
+    "stem": "Which nerve-ganglion pairing is correct?",
+    "options": [
+      {
+        "text": "IX — ciliary",
+        "why": "III supplies the ciliary ganglion."
+      },
+      {
+        "text": "VI — geniculate parasympathetic relay",
+        "why": "VI is motor to lateral rectus and geniculate is a VII sensory ganglion."
+      },
+      {
+        "text": "VII — pterygopalatine",
+        "why": "Greater petrosal fibers relay there for lacrimal/nasal/palatal secretion."
+      },
+      {
+        "text": "III — otic",
+        "why": "IX supplies the otic ganglion."
+      },
+      {
+        "text": "XII — submandibular",
+        "why": "VII supplies submandibular ganglion through chorda tympani."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q153",
+    "ref": "board-overview",
+    "deck": "board",
+    "topic": "Board: complete cranial overview",
+    "stem": "A parasympathetic fiber travels on an auriculotemporal V3 branch to the parotid. Where did its preganglionic output originate?",
+    "options": [
+      {
+        "text": "Facial motor nucleus directly",
+        "why": "This is facial-expression motor rather than IX secretomotor origin."
+      },
+      {
+        "text": "Edinger-Westphal through III",
+        "why": "This supplies the eye."
+      },
+      {
+        "text": "Motor nucleus of V",
+        "why": "This produces branchial motor output, not parotid parasympathetics."
+      },
+      {
+        "text": "Hypoglossal nucleus through XII",
+        "why": "This supplies tongue skeletal muscle."
+      },
+      {
+        "text": "Inferior salivatory nucleus through IX",
+        "why": "V3 distributes postganglionic fibers after the otic relay."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q154",
+    "ref": "board-overview",
+    "deck": "board",
+    "topic": "Board: complete cranial overview",
+    "stem": "A midline sellar mass compresses the optic chiasm. Which classic field defect is expected?",
+    "options": [
+      {
+        "text": "Bitemporal hemianopia",
+        "why": "Crossing nasal retinal fibers carry temporal visual fields."
+      },
+      {
+        "text": "Complete blindness of only the right eye as the required chiasmal pattern",
+        "why": "That favors a right prechiasmal lesion."
+      },
+      {
+        "text": "Isolated loss of right abduction",
+        "why": "This is VI motor dysfunction."
+      },
+      {
+        "text": "Left tongue wasting",
+        "why": "This is XII LMN dysfunction."
+      },
+      {
+        "text": "Right facial sensory loss",
+        "why": "This is trigeminal rather than a visual field defect."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q155",
+    "ref": "board-eyes",
+    "deck": "board",
+    "topic": "Board: pupils and gaze",
+    "stem": "Light in the left eye causes neither pupil to constrict. Light in the right causes both pupils to constrict. Which complete isolated lesion fits?",
+    "options": [
+      {
+        "text": "Bilateral III lesions",
+        "why": "Neither pupil would constrict to right input."
+      },
+      {
+        "text": "Left CN II afferent lesion",
+        "why": "Left input fails, but both III efferent pathways respond to right input."
+      },
+      {
+        "text": "Left III parasympathetic lesion",
+        "why": "Left pupil would fail to constrict to either input."
+      },
+      {
+        "text": "Right CN II afferent lesion",
+        "why": "This would make right illumination ineffective."
+      },
+      {
+        "text": "Right III parasympathetic lesion",
+        "why": "Right pupil would fail regardless of input."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q156",
+    "ref": "board-eyes",
+    "deck": "board",
+    "topic": "Board: pupils and gaze",
+    "stem": "The left pupil remains dilated regardless of the illuminated eye. The right pupil constricts to light in either eye. Which isolated pathway is impaired?",
+    "options": [
+      {
+        "text": "Left II afferent",
+        "why": "This would prevent both responses only to left light."
+      },
+      {
+        "text": "Left III parasympathetic efferent",
+        "why": "Inputs work, but left pupillary output fails."
+      },
+      {
+        "text": "Bilateral optic nerve afferents",
+        "why": "Right pupil would not respond to either eye."
+      },
+      {
+        "text": "Right facial nerve",
+        "why": "VII closes eyelids rather than constricting the pupil."
+      },
+      {
+        "text": "Right II afferent",
+        "why": "This would prevent both responses only to right light."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q157",
+    "ref": "board-eyes",
+    "deck": "board",
+    "topic": "Board: pupils and gaze",
+    "stem": "A 27-year-old woman has episodic sensory symptoms and new diplopia. When looking right, her left eye fails to adduct and her right eye shows abducting nystagmus. Both eyes can converge toward a near target. MRI shows a small demyelinating lesion in a brainstem pathway connecting horizontal gaze centers. Which structure is most directly involved?",
+    "options": [
+      {
+        "text": "Right peripheral VI nerve",
+        "why": "Right abduction is present, though nystagmic."
+      },
+      {
+        "text": "Left MLF",
+        "why": "Left INO impairs left adduction on right gaze, often with preserved convergence."
+      },
+      {
+        "text": "Right facial canal",
+        "why": "This affects VII functions rather than the MLF."
+      },
+      {
+        "text": "Left peripheral III nerve as the best isolated explanation",
+        "why": "A III lesion often impairs additional muscles and may affect convergence/pupils."
+      },
+      {
+        "text": "Left optic nerve",
+        "why": "This affects afferent vision rather than internuclear coordination."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q158",
+    "ref": "board-eyes",
+    "deck": "board",
+    "topic": "Board: pupils and gaze",
+    "stem": "A lesion of the right VI nucleus causes inability of both eyes to look right. Why is the left eye affected?",
+    "options": [
+      {
+        "text": "Both pupils must be paralyzed before gaze can occur",
+        "why": "Pupillary and gaze motor circuits are distinct."
+      },
+      {
+        "text": "The right VI nucleus lies in left cortex",
+        "why": "It is a right caudal pontine structure."
+      },
+      {
+        "text": "The right peripheral VI nerve directly innervates both medial recti",
+        "why": "It innervates only right lateral rectus."
+      },
+      {
+        "text": "The left optic nerve crosses inside the VI nucleus",
+        "why": "Optic crossing is at chiasm."
+      },
+      {
+        "text": "VI interneurons normally cross and ascend in left MLF to left medial rectus neurons",
+        "why": "The nucleus coordinates conjugate gaze as well as right lateral rectus."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q159",
+    "ref": "board-eyes",
+    "deck": "board",
+    "topic": "Board: pupils and gaze",
+    "stem": "Which examination finding is most compatible with sympathetic Horner syndrome rather than a complete compressive III palsy?",
+    "options": [
+      {
+        "text": "Miosis with mild ptosis",
+        "why": "Sympathetic loss differs from III parasympathetic loss causing mydriasis."
+      },
+      {
+        "text": "Isolated inability to abduct an eye",
+        "why": "This favors VI weakness."
+      },
+      {
+        "text": "An isolated inability to depress an adducted eye",
+        "why": "This favors IV weakness."
+      },
+      {
+        "text": "A down-and-out eye with a large fixed pupil",
+        "why": "This favors III dysfunction."
+      },
+      {
+        "text": "Loss of near accommodation as the defining isolated sympathetic sign",
+        "why": "Ciliary accommodation is parasympathetic III."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q160",
+    "ref": "board-eyes",
+    "deck": "board",
+    "topic": "Board: pupils and gaze",
+    "stem": "Fluctuating diplopia and ptosis worsen with use, while the pupils remain normal. Which neuromuscular disorder can mimic an ocular cranial palsy?",
+    "options": [
+      {
+        "text": "Ménière disease",
+        "why": "This produces vestibular/auditory episodes."
+      },
+      {
+        "text": "Isolated V1 neuropathy",
+        "why": "This affects sensory corneal/face input rather than fatigable eye muscle strength."
+      },
+      {
+        "text": "Myasthenia gravis",
+        "why": "Fatigable ocular weakness typically spares the pupil."
+      },
+      {
+        "text": "Vestibular schwannoma",
+        "why": "This commonly causes progressive asymmetric hearing/imbalance."
+      },
+      {
+        "text": "Tabes dorsalis as the expected fatigable endplate disorder",
+        "why": "This is a sensory neurosyphilis syndrome."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q161",
+    "ref": "board-face",
+    "deck": "board",
+    "topic": "Board: facial lesion localization",
+    "stem": "After facial surgery distal to the stylomastoid foramen, a patient has facial-expression weakness but normal taste and tearing. Why are those functions spared?",
+    "options": [
+      {
+        "text": "Taste and glandular branches left VII within its proximal temporal course",
+        "why": "A distal motor lesion can spare those upstream pathways."
+      },
+      {
+        "text": "All sensory input reroutes through the injured motor branch",
+        "why": "No such rerouting is needed."
+      },
+      {
+        "text": "The parotid replaces the facial nucleus",
+        "why": "The motor nucleus remains pontine."
+      },
+      {
+        "text": "Tearing is driven exclusively by XII",
+        "why": "VII parasympathetic pathways support lacrimation."
+      },
+      {
+        "text": "VII has no taste or parasympathetic fibers anywhere",
+        "why": "It does carry them proximally."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q162",
+    "ref": "board-face",
+    "deck": "board",
+    "topic": "Board: facial lesion localization",
+    "stem": "Facial paralysis with severe ear pain and vesicles in the external-ear region suggests which syndrome?",
+    "options": [
+      {
+        "text": "Classic isolated Bell palsy without any identified cause as the best label",
+        "why": "Vesicles suggest a specific alternative cause."
+      },
+      {
+        "text": "BPPV",
+        "why": "This causes brief positional vertigo rather than vesicular facial palsy."
+      },
+      {
+        "text": "Pure III palsy",
+        "why": "This affects eye muscles/pupil rather than the VII-ear pattern."
+      },
+      {
+        "text": "Ramsay Hunt syndrome",
+        "why": "This is a zoster-associated peripheral facial syndrome."
+      },
+      {
+        "text": "Medial medullary syndrome",
+        "why": "This favors XII and body motor/position findings."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q163",
+    "ref": "board-face",
+    "deck": "board",
+    "topic": "Board: facial lesion localization",
+    "stem": "Brief electric-shock facial pain in V2/V3 is triggered by brushing teeth, with no major persistent motor deficit. Which disorder is most characteristic?",
+    "options": [
+      {
+        "text": "Pseudobulbar palsy as the direct pain syndrome",
+        "why": "This is a bilateral corticobulbar motor syndrome."
+      },
+      {
+        "text": "An isolated XII palsy",
+        "why": "This causes tongue weakness."
+      },
+      {
+        "text": "Trigeminal neuralgia",
+        "why": "Triggerable paroxysmal pain in trigeminal distribution is classic."
+      },
+      {
+        "text": "Complete VI palsy",
+        "why": "This causes horizontal diplopia."
+      },
+      {
+        "text": "Ménière disease",
+        "why": "This causes recurrent vertigo/hearing symptoms."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q164",
+    "ref": "board-face",
+    "deck": "board",
+    "topic": "Board: facial lesion localization",
+    "stem": "Which statement correctly distinguishes the buccal VII branch from the long buccal V3 nerve?",
+    "options": [
+      {
+        "text": "VII buccal is a direct extension of optic nerve",
+        "why": "These are separate cranial systems."
+      },
+      {
+        "text": "VII is facial motor; long buccal V3 is sensory",
+        "why": "Similar names do not imply identical function."
+      },
+      {
+        "text": "Both supply lateral rectus",
+        "why": "VI supplies lateral rectus."
+      },
+      {
+        "text": "The V3 long buccal is the main motor nerve to buccinator",
+        "why": "Buccinator receives VII motor."
+      },
+      {
+        "text": "Both are exclusively taste nerves",
+        "why": "Neither is the main chorda tympani taste route."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q165",
+    "ref": "board-hearing",
+    "deck": "board",
+    "topic": "Board: auditory tests",
+    "stem": "A patient with right conductive hearing loss undergoes Weber testing. Where is sound typically perceived louder?",
+    "options": [
+      {
+        "text": "Only after every vestibular nerve is cut",
+        "why": "The test requires no such intervention."
+      },
+      {
+        "text": "Left ear",
+        "why": "This is the usual direction for right sensorineural loss."
+      },
+      {
+        "text": "Always exactly midline regardless of loss",
+        "why": "Asymmetric loss can lateralize."
+      },
+      {
+        "text": "Only in the left eye",
+        "why": "This is not an auditory test response."
+      },
+      {
+        "text": "Right ear",
+        "why": "Weber lateralizes toward the conductive-loss side."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q166",
+    "ref": "board-hearing",
+    "deck": "board",
+    "topic": "Board: auditory tests",
+    "stem": "A patient has unilateral left sensorineural hearing loss. What is the expected classic Weber/Rinne pattern, ignoring profound-loss crossover effects?",
+    "options": [
+      {
+        "text": "Both tests directly prove a tumor",
+        "why": "They suggest type/side of hearing loss but do not establish cause."
+      },
+      {
+        "text": "Rinne tests only pupil constriction",
+        "why": "It compares air and bone hearing."
+      },
+      {
+        "text": "Weber always midline; bone absent in every normal ear",
+        "why": "Neither claim is generally correct."
+      },
+      {
+        "text": "Weber to right; air greater than bone on Rinne",
+        "why": "Weber goes away from sensorineural loss, while Rinne can remain positive."
+      },
+      {
+        "text": "Weber to left; bone greater than air left as the usual sensorineural pattern",
+        "why": "This more closely fits left conductive loss."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q167",
+    "ref": "board-hearing",
+    "deck": "board",
+    "topic": "Board: auditory tests",
+    "stem": "A patient has seconds-long vertigo when rolling over in bed, without new hearing loss or tinnitus. Which diagnosis is more characteristic than Ménière disease?",
+    "options": [
+      {
+        "text": "Bell palsy",
+        "why": "This causes facial weakness."
+      },
+      {
+        "text": "Isolated hypoglossal palsy",
+        "why": "This causes tongue weakness."
+      },
+      {
+        "text": "Medial medullary infarction",
+        "why": "This causes focal brainstem deficits rather than the usual isolated brief positional pattern."
+      },
+      {
+        "text": "BPPV",
+        "why": "Brief positional attacks without new auditory symptoms fit this pattern."
+      },
+      {
+        "text": "Vestibular schwannoma as the classic seconds-only positional disorder",
+        "why": "It more often causes progressive asymmetric auditory/imbalance symptoms."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q168",
+    "ref": "board-hearing",
+    "deck": "board",
+    "topic": "Board: auditory tests",
+    "stem": "Bilateral vestibular schwannomas most strongly suggest what?",
+    "options": [
+      {
+        "text": "Complete absence of all facial nerves",
+        "why": "Tumors can compress nerves without congenital absence."
+      },
+      {
+        "text": "Ménière disease as the tumor-cell mechanism",
+        "why": "Hydrops is not a Schwann-cell tumor."
+      },
+      {
+        "text": "Every unilateral tumor is inherited in the same way",
+        "why": "Many unilateral tumors are sporadic."
+      },
+      {
+        "text": "Isolated diabetic III palsy",
+        "why": "This is an unrelated microvascular ocular palsy."
+      },
+      {
+        "text": "NF2-related schwannomatosis",
+        "why": "Bilateral vestibular tumors are a characteristic predisposition clue."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q169",
+    "ref": "board-bulbar",
+    "deck": "board",
+    "topic": "Board: bulbar localization",
+    "stem": "A patient has hoarseness after mediastinal disease near the aortic arch but preserved palatal movement. Which structure is especially vulnerable?",
+    "options": [
+      {
+        "text": "Left spinal accessory at cervical roots",
+        "why": "This supplies SCM/trapezius."
+      },
+      {
+        "text": "Left V3 at foramen ovale",
+        "why": "This is mastication/sensory rather than laryngeal supply."
+      },
+      {
+        "text": "Left recurrent laryngeal nerve",
+        "why": "Its loop under the aortic arch exposes it to thoracic pathology."
+      },
+      {
+        "text": "Right greater petrosal nerve",
+        "why": "This supplies glandular parasympathetics."
+      },
+      {
+        "text": "Right CN XII in hypoglossal canal",
+        "why": "This is a tongue motor nerve at skull base."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q170",
+    "ref": "board-bulbar",
+    "deck": "board",
+    "topic": "Board: bulbar localization",
+    "stem": "Bilateral corticobulbar disease causes dysarthria, a brisk jaw reflex, and emotional lability. Which syndrome is classically associated with this pattern?",
+    "options": [
+      {
+        "text": "BPPV",
+        "why": "This is a positional vestibular disorder."
+      },
+      {
+        "text": "Pure peripheral optic neuropathy",
+        "why": "This affects vision."
+      },
+      {
+        "text": "Isolated stapedius denervation",
+        "why": "This can cause hyperacusis."
+      },
+      {
+        "text": "Pseudobulbar palsy",
+        "why": "Bilateral UMN bulbar pathway dysfunction produces this constellation."
+      },
+      {
+        "text": "Isolated unilateral chorda tympani injury",
+        "why": "This chiefly affects taste/salivary fibers."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q171",
+    "ref": "board-bulbar",
+    "deck": "board",
+    "topic": "Board: bulbar localization",
+    "stem": "Which pattern distinguishes a XII LMN lesion from a classic unilateral cortical genioglossus weakness?",
+    "options": [
+      {
+        "text": "Tongue atrophy and fasciculations on the weak side",
+        "why": "Denervation signs indicate LMN involvement."
+      },
+      {
+        "text": "Only loss of tongue taste",
+        "why": "XII is motor, not the taste nerve."
+      },
+      {
+        "text": "Only impaired palatal elevation",
+        "why": "This primarily implicates vagal motor output."
+      },
+      {
+        "text": "Deviation alone always specifies cortical side",
+        "why": "Direction must be interpreted with the weak muscle and lesion level."
+      },
+      {
+        "text": "A normal tongue can never deviate transiently",
+        "why": "Clinical interpretation uses the full examination."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "id": "Q172",
+    "ref": "board-vascular",
+    "deck": "board",
+    "topic": "Board: brainstem vascular syndromes",
+    "stem": "A 68-year-old abruptly develops vertigo, left limb ataxia, hoarseness, dysphagia, and left Horner syndrome. Pinprick is reduced on the left face and right body. Limb force is relatively preserved compared with the prominent bulbar and coordination problems. Which lesion best unifies the crossed pain-temperature and ipsilateral bulbar/cerebellar findings?",
+    "options": [
+      {
+        "text": "Left optic nerve",
+        "why": "This would affect vision."
+      },
+      {
+        "text": "Right facial canal",
+        "why": "This affects VII rather than the full brainstem pattern."
+      },
+      {
+        "text": "Left lateral medulla",
+        "why": "Spinal V, spinothalamic, ambiguus, sympathetic, and cerebellar/vestibular structures fit Wallenberg."
+      },
+      {
+        "text": "Right medial medulla",
+        "why": "This would favor right XII and left motor/position deficits."
+      },
+      {
+        "text": "Left peripheral vagus alone",
+        "why": "This does not explain crossed body sensation, Horner, and ataxia."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q173",
+    "ref": "board-vascular",
+    "deck": "board",
+    "topic": "Board: brainstem vascular syndromes",
+    "stem": "A ventral right midbrain infarct produces right III palsy and left hemiparesis. Which syndrome pattern is most characteristic?",
+    "options": [
+      {
+        "text": "Ménière disease",
+        "why": "This is episodic inner-ear dysfunction."
+      },
+      {
+        "text": "Cauda equina syndrome",
+        "why": "This involves lumbosacral roots."
+      },
+      {
+        "text": "Weber syndrome",
+        "why": "III fascicles and cerebral peduncle combine ipsilateral ocular and contralateral motor signs."
+      },
+      {
+        "text": "Isolated Bell palsy",
+        "why": "This is VII LMN facial weakness."
+      },
+      {
+        "text": "Wallenberg syndrome",
+        "why": "This is lateral medullary with bulbar/crossed sensory findings."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q174",
+    "ref": "board-vascular",
+    "deck": "board",
+    "topic": "Board: brainstem vascular syndromes",
+    "stem": "Which finding particularly supports lateral pontine/AICA rather than classic lateral medullary disease?",
+    "options": [
+      {
+        "text": "Unilateral posterior tongue taste loss as the only possible clue",
+        "why": "This alone does not specifically establish AICA localization."
+      },
+      {
+        "text": "Hoarseness from ambiguus dysfunction alone",
+        "why": "This is especially associated with lateral medulla."
+      },
+      {
+        "text": "Ipsilateral XII with contralateral vibration loss",
+        "why": "This favors medial medulla."
+      },
+      {
+        "text": "Ipsilateral LMN facial paralysis with hearing involvement",
+        "why": "VII/VIII-region findings favor pontine/AICA involvement."
+      },
+      {
+        "text": "An isolated optic chiasm field deficit",
+        "why": "This is forebrain/skull-base visual anatomy."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q175",
+    "ref": "board-vascular",
+    "deck": "board",
+    "topic": "Board: brainstem vascular syndromes",
+    "stem": "After a bilateral ventral pontine infarction, a patient is quadriplegic and cannot speak but is awake and communicates with vertical eye movement. Which state is most likely?",
+    "options": [
+      {
+        "text": "Ménière attack",
+        "why": "This does not cause this motor disconnection state."
+      },
+      {
+        "text": "Pure peripheral VII palsy",
+        "why": "This does not explain limb paralysis."
+      },
+      {
+        "text": "Isolated unilateral VI palsy",
+        "why": "This cannot explain quadriplegia and anarthria."
+      },
+      {
+        "text": "Locked-in syndrome",
+        "why": "Ventral motor pathway interruption can spare consciousness and vertical gaze."
+      },
+      {
+        "text": "Coma necessarily",
+        "why": "The preserved awareness and purposeful communication argue against coma."
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "id": "Q176",
+    "ref": "board-vascular",
+    "deck": "board",
+    "topic": "Board: brainstem vascular syndromes",
+    "stem": "A left medial medullary lesion involves XII fibers, pyramid, and medial lemniscus. Which combination is predicted?",
+    "options": [
+      {
+        "text": "Left entire facial paralysis with isolated left deafness",
+        "why": "These favor pontine VII/VIII structures."
+      },
+      {
+        "text": "Only bilateral anosmia",
+        "why": "This is forebrain olfactory function."
+      },
+      {
+        "text": "No motor deficit because all three structures are sensory",
+        "why": "XII and pyramid are motor."
+      },
+      {
+        "text": "Right tongue wasting with left body pain loss only",
+        "why": "This reverses the XII side and selects a different sensory pathway."
+      },
+      {
+        "text": "Left tongue LMN weakness with right limb weakness and right position/vibration loss",
+        "why": "This is the classic crossed medial medullary pattern."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q177",
+    "ref": "board-crosssections",
+    "deck": "board",
+    "topic": "Board: section landmarks",
+    "stem": "Which cerebellar peduncle carries major output that crosses in caudal midbrain?",
+    "options": [
+      {
+        "text": "Ciliary ganglion",
+        "why": "This is a peripheral autonomic relay."
+      },
+      {
+        "text": "Superior cerebellar peduncle",
+        "why": "Its decussation is an inferior-colliculus-level landmark."
+      },
+      {
+        "text": "Pyramid",
+        "why": "This is a medullary descending motor structure."
+      },
+      {
+        "text": "Middle cerebellar peduncle",
+        "why": "This mainly carries pontocerebellar input."
+      },
+      {
+        "text": "Optic peduncle as a cerebellar structure",
+        "why": "This is not one of the three cerebellar peduncles."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "id": "Q178",
+    "ref": "board-crosssections",
+    "deck": "board",
+    "topic": "Board: section landmarks",
+    "stem": "Which structure surrounds the cerebral aqueduct and participates in pain/autonomic networks?",
+    "options": [
+      {
+        "text": "Inferior olive",
+        "why": "This is medullary and projects to cerebellum."
+      },
+      {
+        "text": "Submandibular ganglion",
+        "why": "This is a peripheral parasympathetic relay."
+      },
+      {
+        "text": "Cochlear duct",
+        "why": "This is an inner-ear endolymphatic structure."
+      },
+      {
+        "text": "Geniculate ganglion",
+        "why": "This is a facial sensory ganglion in temporal bone."
+      },
+      {
+        "text": "Periaqueductal gray",
+        "why": "Its name and position identify this midbrain region."
+      }
+    ],
+    "answer": 4
+  },
+  {
+    "id": "Q179",
+    "ref": "board-exam",
+    "deck": "board",
+    "topic": "Board: integrated examination",
+    "stem": "A unilateral cranial motor deficit occurs with weakness of the opposite arm and leg. What broad localization is most strongly suggested?",
+    "options": [
+      {
+        "text": "Only a facial terminal branch",
+        "why": "This cannot affect limbs."
+      },
+      {
+        "text": "Only an olfactory receptor lesion",
+        "why": "This affects smell."
+      },
+      {
+        "text": "Brainstem involving a cranial fascicle/nucleus and nearby long tract",
+        "why": "Crossed cranial-body motor signs are a classic brainstem clue."
+      },
+      {
+        "text": "One isolated peripheral cranial nerve only",
+        "why": "That alone does not explain opposite limb long-tract weakness."
+      },
+      {
+        "text": "Only a cochlear hair-cell lesion",
+        "why": "This does not cause the motor pattern."
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "id": "Q180",
+    "ref": "board-exam",
+    "deck": "board",
+    "topic": "Board: integrated examination",
+    "stem": "Why should reflex input on each side be tested separately when localizing a cranial reflex deficit?",
+    "options": [
+      {
+        "text": "Reflexes bypass the nervous system",
+        "why": "They are neural circuits."
+      },
+      {
+        "text": "Sensory nerves cannot be damaged independently",
+        "why": "They can be injured separately from motor output."
+      },
+      {
+        "text": "It separates afferent failure from unilateral efferent failure",
+        "why": "Comparing both stimulation sides and both outputs identifies circuit defects."
+      },
+      {
+        "text": "One observed eyelid is always enough to identify every nerve",
+        "why": "Afferent and efferent patterns can otherwise be confused."
+      },
+      {
+        "text": "All cranial reflexes use identical nerves",
+        "why": "Corneal, light, and gag circuits differ."
+      }
+    ],
+    "answer": 2
+  }
+]

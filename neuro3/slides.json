@@ -1,0 +1,485 @@
+[
+  {
+    "id": "cn",
+    "title": "Cranial Nerves I",
+    "source": "NNN 3 – Cranial Nerves I.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Cranial Nerves and Brainstem - I\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nKirk Kerkorian School of Medicine\nUniversity of Nevada Las Vegas",
+        "image": "slides/cn-001.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives\n1. Describe the external anatomy of the brainstem, including the midbrain, pons, medulla, major surface\nlandmarks, cranial nerve attachment sites, and major arterial supply. (CLO 1)\n2. Describe the anatomical pathways, functional components, and major functions of the twelve cranial\nnerves, including their passage through skull foramina and clinically relevant head and neck structures,\nand correlate peripheral cranial nerve lesions with their characteristic neurological deficits. (CLO 1,\nCLO 2, CLO 3)\n3. Explain the internal organization of the brainstem, including the arrangement of cranial nerve nuclei,\ncranial nerve fascicles, major ascending and descending pathways, and vascular territories, and\ndescribe their roles in normal sensory, motor, and autonomic function. (CLO 1, CLO 2)\nPre-Session Assignment\n• Preview the PowerPoint slides. You are not expected to memorize details before class.\n• B&B: Brainstem (30 min)\n• B&B: Cranial Nerves I (21 min)\n• B&B: Cranial Nerves II (21 min)",
+        "image": "slides/cn-002.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 3,
+        "text": "Brainstem Framework\nExternal Anatomy • Cranial Nerve Attachments • Internal Organization • Blood Supply",
+        "image": "slides/cn-003.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 4,
+        "text": "Brainstem Organization\nThree Divisions\n• Medulla oblongata\n• Pons\n• Midbrain\nInternal Organization\n• Tectum: dorsal midbrain\n• Tegmentum: central\n• Basis: ventral\nFirst orient yourself:\nlevel → dorsal/ventral → medial/lateral",
+        "image": "slides/cn-004.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 5,
+        "text": "External Brainstem Anatomy\nMidbrain Pons Medulla\n• Cerebral peduncles • Basilar pons • Pyramids\n• Superior and inferior colliculi • Middle cerebellar peduncles • Olives",
+        "image": "slides/cn-005.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 6,
+        "text": "Cranial Nerve Attachment Sites\nMidbrain:\n• CN III\n• CN IV exits dorsally\nPons: CN V\nPontomedullary Junction\n• CN VI, VII, VIII\nMedulla: CN IX, X, XII\nCN XI\n• Spinal roots arise from upper\ncervical cord and ascend into skull\nCN deficit helps identify the brainstem level",
+        "image": "slides/cn-006.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 7,
+        "text": "Cranial Nerves\nCN I* Olfactory\nCN II* Optic\nCN III Oculomotor\nCN IV Trochlear\nCN V Trigeminal\nCN V1: Ophthalmic\nCN V2: Maxillary\nCN V3: Mandibular\nCN VI Abducent\nCN VII Facial\nCN VIII Vestibulocochlear\nCN IX Glossopharyngeal\nCN X Vagus\nCN XI Accessory\nCN XII Hypoglossal\nAnterior View Posterior View\n*CN I and II are not brainstem cranial nerves.\nImage: NA Text & Atlas, Martin, 4e.",
+        "image": "slides/cn-007.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 8,
+        "text": "Blood Supply – Circle of Willis\nAnterior Circulation\n• Internal carotid artery → ACA, MCA\nPosterior Circulation\n• Vertebral arteries → PICA\n• Vertebral arteries unite → Basilar artery\n• Basilar artery branches → AICA, SCA, pontine aa.\n• Basilar artery terminates as → PCA\nCommunicating Arteries\n• Anterior communicating artery (ACOM)\n• Posterior communicating arteries (PCOM)\nFig. 7.2 The arrangement of arterial vessels on the base of the brain. The\ndiagram shows the circulus arteriosus (circle of Willis).\nCrossman, Neuroanatomy: An Illustrated Color Text, 6e.",
+        "image": "slides/cn-008.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 9,
+        "text": "Major Arterial Supply\nMidbrain\n• Posterior cerebral artery (PCA)\n• Superior cerebellar artery (SCA)\nPons\n• Pontine branches of basilar artery\n• Anterior inferior cerebellar artery (AICA)\n• Superior cerebellar artery (SCA)\nMedulla\n• Vertebral artery\n• Posterior inferior cerebellar artery (PICA)\n• Anterior spinal artery\nFig. 7.2 The arrangement of arterial vessels on the base of the brain. The\ndiagram shows the circulus arteriosus (circle of Willis).\nCrossman, Neuroanatomy: An Illustrated Color Text, 6e.",
+        "image": "slides/cn-009.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 10,
+        "text": "Cranial Nerve Organization\nFunctional Components • Brainstem Nuclei • Pathways",
+        "image": "slides/cn-010.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 11,
+        "text": "Cranial Nerve Functional Components\nAbbreviation Functional Component General Function\nMotor\nGSE General somatic efferent Motor to skeletal muscles derived from somites\nSVE Special visceral efferent Motor to pharyngeal arch muscles\nGVE General visceral efferent Parasympathetic motor to glands, heart, and smooth muscle\nSensory\nSVA Special visceral afferent Smell, taste\nGVA General visceral afferent Sensory input from viscera\nGSA General somatic afferent General sensations – touch, pain, temperature\nSSA Special somatic afferent Vision, hearing, balance\nEfferent = motor output | Afferent = sensory input",
+        "image": "slides/cn-011.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 12,
+        "text": "Organization of Cranial Nerve Nuclei\n• Motor nuclei → medial\n• Sensory nuclei → lateral\n• Motor and sensory columns are separated by the sulcus limitans\n• Functional columns follow a predictable medial-to-lateral organization\nMotor = medial | Sensory = lateral\nGVA + SVA share the solitary nucleus: SVA mainly rostral; GVA mainly caudal.\nDorsal brainstem view showing sensory (left) and motor (right) cranial nerve\nnuclei; matching colors indicate common embryologic origin.\nNeuroanatomy. Crossman, 7e.",
+        "image": "slides/cn-012.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 13,
+        "text": "Cranial Nerve Nuclei by Level\nMidbrain: III, IV\nPons: V, VI, VII, VIII\nMedulla: IX, X, XII\nSpinal Cord: XI\nDon't memorize every nucleus on this map. Use it to identify the\nbrainstem level and recognize that some nuclei extend across levels.",
+        "image": "slides/cn-013.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 14,
+        "text": "Eye Movements & Ocular Motor Nerves\nCN III • CN IV • CN VI • Extraocular Muscles • Peripheral Lesions",
+        "image": "slides/cn-014.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 15,
+        "text": "Extraocular Muscle Innervation\n• CN III: medial rectus, superior rectus, inferior rectus, inferior oblique\n• CN IV: superior oblique\n• CN VI: lateral rectus\n• CN III: levator palpebrae superioris\nLR6 • SO4 • All others III\nFig. 8.92 Gray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-015.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 16,
+        "text": "Anatomical Actions vs Clinical Testing Watch the video:\nhttps://youtu.be/3J2UZiLVZKA?feature=shared\n• Extraocular muscles have multiple anatomical actions\n• Clinical testing positions the eye to preferentially isolate a muscle’s vertical action\nAnatomical Actions Clinical Testing\nRecti: abduct first | Obliques: adduct first\nAnatomical actions describe muscle biomechanics; clinical\ntesting describes how muscle function is isolated on examination.",
+        "image": "slides/cn-016.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 17,
+        "text": "Extraocular Muscles: Actions & Testing\nMuscle Primary Clinical Test\nMedial rectus Adduct\nLateral rectus Abduct\nSuperior rectus Abduct → elevate\nInferior rectus Abduct → depress\nSuperior oblique Adduct → depress\nInferior oblique Adduct → elevate\nRecti tested in abduction | Obliques tested in adduction\nFig. 8.92 Gray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-017.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 18,
+        "text": "Oculomotor Nerve (CN III)\n• Origin: midbrain\n• Oculomotor nucleus (GSE) → most extraocular muscles + levator palpebrae\n• Edinger–Westphal nucleus (GVE) → parasympathetic fibers\n• Passes through cavernous sinus → superior orbital fissure\n• Parasympathetic: Edinger-Westphal → ciliary ganglion → short ciliary nerves\n• Controls: sphincter pupillae → miosis | Ciliary muscle → accommodation\nFig. 12.61A. Origin and distribution of the oculomotor nerve. Wineski, SCABR, 10e.\nChampney. ECNA, 2016.\nFig. 12.61A. Origin and distribution of the oculomotor nerve. Wineski, SCABR, 10e.",
+        "image": "slides/cn-018.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 19,
+        "text": "Oculomotor Nerve Palsy\n• Eye “down and out”\n• Ptosis\n• Mydriasis\n• Loss of accommodation\n• Diplopia\nPupil Involvement Fig. B8.31A Clinically Oriented Anatomy, 9e.\n• Compressive lesion → pupil often involved (dilated)\n• Ischemic lesion → pupil often spared\nCN III palsy → Ptosis + 3Ds\n(Down + Deviated + Dilated pupil)\nFig. 8.92 Gray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-019.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 20,
+        "text": "Trochlear Nerve (CN IV)\n• Origin: midbrain\n• Motor (GSE) → superior oblique\n• Only CN that exits dorsally\n• Fibers decussate before exiting\n• Passes through cavernous sinus → superior orbital fissure\n• Superior oblique: intorsion + depression in adduction\nFig. 8.99 Gray’s Anatomy for Students, 3e.\nCN IV → superior oblique → “down and in” testing\nCN IV nucleus lesion → contralateral superior oblique weakness\nCN IV nerve lesion → ipsilateral superior oblique weakness",
+        "image": "slides/cn-020.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 21,
+        "text": "Trochlear Nerve Palsy\n• Vertical/torsional diplopia\n• Worse looking down and in\n• Difficulty descending stairs or reading\n• Affected eye tends to be elevated and extorted\n• Compensatory head tilt away from lesion\nCN IV palsy → trouble looking down when the eye is adducted",
+        "image": "slides/cn-021.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 22,
+        "text": "Abducens Nerve (CN VI)\n• Origin: pons\n• Motor (GSE) → lateral rectus\n• Passes through cavernous sinus → superior orbital fissure\n• Lateral rectus abducts the eye\nCN VI → lateral rectus → abduction",
+        "image": "slides/cn-022.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 23,
+        "text": "Abducens Nerve Palsy\n• Lateral rectus paralysis\n• Eye pulled medially (esotropia)\n• Horizontal diplopia\n• Worse looking toward the affected side\n• Compensatory head turn toward lesion\nFig. B8.31B Clinically Oriented Anatomy, 9e.\nCN VI palsy → cannot abduct the affected eye",
+        "image": "slides/cn-023.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 24,
+        "text": "Facial Sensation & Movement\nCN V • CN VII • Facial Sensation • Facial Movement • Corneal Reflex",
+        "image": "slides/cn-024.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 25,
+        "text": "Trigeminal Nerve (CN V)\n• Origin: pons\n• Major sensory nerve of the face\n• V1 Ophthalmic: sensory\n• V2 Maxillary: sensory\n• V3 Mandibular: sensory + branchial motor (SVE)\n• V3 motor → muscles of mastication\nV1 + V2 = sensory | V3 = sensory + motor",
+        "image": "slides/cn-025.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 26,
+        "text": "Trigeminal Divisions & Skull Foramina\n• V1 Ophthalmic → superior orbital fissure\n• V2 Maxillary → foramen rotundum\n• V3 Mandibular → foramen ovale\nFig 8.284. Gray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-026.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 27,
+        "text": "Trigeminal Sensory Nuclei\n• Mesencephalic nucleus: proprioception\n• Principal (chief) sensory nucleus: fine touch & vibration\n• Spinal trigeminal nucleus: pain & temperature\nMidbrain → proprioception | Pons → touch | Caudal → pain & temperature\nChampney. ECNA, 2016.\nDorsal brainstem view of the cranial nerve nuclei. Crossman, 7e.",
+        "image": "slides/cn-027.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 28,
+        "text": "Trigeminal Motor Function\n• Motor nucleus of CN V: pons\n• V3 (SVE) → muscles of mastication\n• Masseter, temporalis, medial & lateral pterygoids\n• LMN lesion → weakness of ipsilateral mastication\n• Jaw deviates toward the weak side on opening\nMasseter Temporalis\nV3 LMN Lesion →\njaw deviates toward the weak side on opening\nMedial Pterygoid Lateral Pterygoid\nFig. 8.137, 8.139, 8.142, 8.143. GAS, 3e.",
+        "image": "slides/cn-028.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 29,
+        "text": "Facial Nerve (CN VII)\n• Origin: pons\n• SVE: muscles of facial expression\n• GVE: lacrimal, submandibular & sublingual glands\n• SVA: taste from anterior 2/3 of tongue\n• GSA: small area of external ear\n• Travels through internal acoustic meatus → facial canal\n• Exits skull through stylomastoid foramen\nCN VII = facial movement + parasympathetic + taste\nFacial nerve anatomy.\nUpToDate, 2019.",
+        "image": "slides/cn-029.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 30,
+        "text": "Facial Nerve: Major Branches\n• Greater petrosal nerve → lacrimal/nasal/palatal glands\n• Nerve to stapedius\n• Chorda tympani → taste anterior 2/3 + salivary parasympathetics\n• Motor branches → muscles of facial expression\nLesion location determines which CN VII functions are lost\nFacial nerve anatomy.\nUpToDate, 2019.",
+        "image": "slides/cn-030.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 31,
+        "text": "Motor Innervation\nFacial Nerve\n• Temporal branch\n• Zygomatic branch\n• Buccal branch\n• Marginal mandibular branch\n• Cervical branch\nFig. 8.63 Facial nerve on the face.\nGray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-031.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 32,
+        "text": "Muscles of the Face\nOrbital Group\nOrbital oculi\nCorrugator supercilia\nNasal Group\nProcerus\nNasalis\nDepressor septi nasi\nOral Group\nBuccinator\nOrbicularis oris\nLevator labii superioris alaeque nasi\nLevator labii superioris\nZygomaticus minor\nZygomaticus major\nLevator anguli oris\nRisorius\nDepressor anguli oris\nDepressor labii inferioris\nMentalis\nOther Muscles\nPlatysma\nAuricular muscles\nOccipitofrontalis\nFig. 8.53 Facial muscles.\nGray’s Anatomy for Students, 3e.\nFig. 8.54, 8.56 Gray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-032.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 33,
+        "text": "Central vs Peripheral Facial Weakness\nCorticobulbar Innervation\n• Most cranial motor nuclei receive bilateral cortical input\n• Important exceptions: lower facial motor neurons (CN VII) and genioglossus\nmotor neuron (CN XII) receive predominantly contralateral input\nUMN Lesion\n• Contralateral lower-face weakness\n• Forehead relatively spared\n• Upper face receives bilateral cortical input\nLMN / CN VII Lesion\n• Ipsilateral upper + lower-face weakness\n• Forehead not spared\nBell Palsy\nForehead spared → UMN | Entire ipsilateral face weak → LMN\nBell palsy = peripheral CN VII (LMN) palsy\nSingh. TCNA, 3e.",
+        "image": "slides/cn-033.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 34,
+        "text": "Corneal (Blink) Reflex\n• Corneal touch activates V1 (nasociliary branch)\n• Afferent limb: CN V1\n• Efferent limb: CN VII\n• CN VII → orbicularis oculi → eyelid closure\n• Normal response: bilateral blink\nCorneal reflex: V1 in → VII out\nFigure 11.4 A: Corneal reflex.\nSplittgerber, SCNA, 8e.",
+        "image": "slides/cn-034.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 35,
+        "text": "Hearing & Balance\nCN VIII • Cochlear Division • Vestibular Division • Clinical Correlates",
+        "image": "slides/cn-035.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 36,
+        "text": "Vestibulocochlear Nerve (CN VIII)\n• Origin/attachment: pontomedullary junction\n• Special somatic afferent (SSA)\n• Cochlear division → hearing\n• Vestibular division → balance & head movement\n• Enters internal acoustic meatus (IAM) with CN VII\n• Sensory nuclei extend across the pons–medulla region\nCN VIII = SSA → hearing + balance\nFig. 8.123 Gray’s Anatomy for Students, 3e.",
+        "image": "slides/cn-036.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 37,
+        "text": "CN VIII: Cochlear vs Vestibular\nCochlear Division\n• Sensory input from the cochlea\n• Function → hearing\n• Terminates in cochlear nuclei\n• Lesion → sensorineural hearing loss ± tinnitus\nVestibular Division\n• Sensory input from the vestibular apparatus\n• Function → balance & head movement\n• Terminates in vestibular nuclei\n• Lesion → vertigo, nystagmus, imbalance\nFig. 8.124 Gray’s Anatomy for Students, 3e.\nCochlear → hearing | Vestibular → balance",
+        "image": "slides/cn-037.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 38,
+        "text": "Vestibular Schwannoma\n• Schwann-cell tumor, usually arising from the vestibular division of CN VIII\n• Often begins within the internal acoustic meatus\n• CN VIII: unilateral sensorineural hearing loss, tinnitus, imbalance\n• May extend into the cerebellopontine angle (CPA)\n• Larger tumors may compress adjacent CN VII and CN V\n• Acoustic neuroma is a historical misnomer\nThe anatomy of cerebellopontine angle (CPA).\nKościołek, Biomedicines. 2024",
+        "image": "slides/cn-038.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 39,
+        "text": "Ménière’s Disease (Endolymphatic Hydrops)\n• Disorder of the inner ear caused by excess endolymph in the membranous labyrinth.\n• Increased endolymph pressure → distention of cochlear and vestibular membranes\n→ dysfunction of hair cells.\nClinical Triad\n• Vertigo (recurrent, episodic)\n• Tinnitus (ringing or roaring in the ear)\n• Fluctuating sensorineural hearing loss (usually unilateral early)\nAdditional Features\n• Sensation of ear fullness or pressure\n• Symptoms may be triggered by stress, tiredness (fatigue), illness, dietary factor\nImage: Medline Plus",
+        "image": "slides/cn-039.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 40,
+        "text": "Pharynx, Larynx & Visceral Function\nCN IX • CN X • Swallowing • Phonation • Gag Reflex • Visceral Function",
+        "image": "slides/cn-040.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 41,
+        "text": "Glossopharyngeal Nerve (CN IX)\n• Origin: medulla\n• SVE: stylopharyngeus → swallowing\n• GVE: parotid gland\n• SVA: taste from posterior 1/3 of tongue\n• GVA: carotid sinus & carotid body\n• GSA: posterior 1/3 tongue, oropharynx & middle ear\n• Exits skull through jugular foramen\nFig. 11.17. Distribution of the glossopharyngeal nerve.\nCN IX = posterior 1/3 tongue + carotid sinus/body + stylopharyngeus + parotid\nImages: Champney; Splittgerber, SNA, 8e",
+        "image": "slides/cn-041.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 42,
+        "text": "Vagus Nerve (CN X)\n• Origin: medulla\n• SVE: most muscles of soft palate, pharynx & larynx\n• GVE: parasympathetic to thoracic & abdominal viscera\n• SVA: taste from epiglottis/posterior tongue\n• GVA: thoracic & abdominal viscera\n• GSA: pharynx, larynx & external ear\n• Exits skull through jugular foramen\nCN X = swallowing + phonation + visceral parasympathetic\nFig. 12.65. Distribution of the vagus nerve.\nWineski, SCABR, 10e.",
+        "image": "slides/cn-042.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 43,
+        "text": "CN IX & X: Key Brainstem Nuclei\nMotor (Efferent)\n• Nucleus ambiguus (SVE) → pharyngeal/laryngeal motor\n• Inferior salivatory nucleus (GVE) → CN IX → parotid gland\n• Dorsal motor nucleus of X (GVE) → thoracoabdominal viscera\nSensory (Afferent)\n• Nucleus solitarius (GVA & SVA) → taste & visceral sensory input\n• Spinal trigeminal nucleus (GSA) → somatic sensation\nAmbiguus = motor | Dorsal motor X = parasympathetic | Solitarius = sensory\nDorsal brainstem view of the cranial nerve nuclei. Crossman, 7e.",
+        "image": "slides/cn-043.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 44,
+        "text": "Vagus Motor Function & Lesion\n• Weakness of palate, pharynx & larynx\n• Dysphagia\n• Hoarseness\n• Impaired efferent limb of gag reflex\n• Palate droops on affected side\n• Uvula deviates away from the lesion\nCN X lesion → palate droops ipsilaterally; uvula points away\nSingh. Neurosciences, 2015.",
+        "image": "slides/cn-044.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 45,
+        "text": "Pharyngeal (Gag) Reflex\n• Touch posterior pharynx → bilateral pharyngeal contraction\n• Afferent limb: CN IX\n• Efferent limb: CN X\n• Motor response → pharyngeal elevation/contraction\nGag reflex: IX in → X out\nFig. 8.205 GAS, 4e.",
+        "image": "slides/cn-045.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 46,
+        "text": "Larynx Innervation (CN X)\nSuperior Laryngeal Nerve\n• External laryngeal nerve: motor → cricothyroid\n• Internal laryngeal nerve: sensory → above cords\nInferior (Recurrent) Laryngeal Nerve\n• Motor → all laryngeal muscles except cricothyroid\n• Sensory → below vocal folds\nRight RLN → loops under right SCA\nLeft RLN → loops under aortic arch\nFig. 8.221, 8.228 Gray’s Anatomy for Students, 4e.\n46",
+        "image": "slides/cn-046.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 47,
+        "text": "Head, Neck & Tongue Motor Function\nCN XI • CN XII • Head & Shoulder Movement • Tongue Movement",
+        "image": "slides/cn-047.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 48,
+        "text": "Accessory Nerve (CN XI)\n• Origin: spinal cord C1–C5\n• Motor → sternocleidomastoid (SCM) + trapezius\n• Spinal roots ascend through foramen magnum\n• Exits skull through jugular foramen\n• SCM → rotates head to opposite side\n• Trapezius → elevates shoulder\nCN XI → SCM + trapezius → head rotation + shoulder elevation\nChampney. ECNA, 2016.\nThieme",
+        "image": "slides/cn-048.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 49,
+        "text": "Accessory Nerve Lesion\n• Ipsilateral SCM weakness\n• Difficulty turning head away from the lesion\n• Ipsilateral trapezius weakness\n• Weak shoulder shrug on affected side\n• May produce shoulder droop\nAddas, Clarke. Encyclopedia of the Neurological Sciences. 2003.\nCN XI lesion → weak ipsilateral shoulder shrug + difficulty turning head contralaterally",
+        "image": "slides/cn-049.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 50,
+        "text": "Hypoglossal Nerve (CN XII)\n• Origin: medulla\n• General somatic efferent (GSE)\n• Motor to intrinsic + extrinsic tongue muscles\n• Exception: palatoglossus → CN X\n• Exits skull through hypoglossal canal\n• Genioglossus protrudes the tongue\nCN XII = motor to tongue | Palatoglossus = CN X\nSingh. TBCNA, 3e.\nChampney. ECNA, 2016.",
+        "image": "slides/cn-050.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 51,
+        "text": "Hypoglossal Lesions: UMN vs LMN\nLMN / CN XII Lesion\n• Ipsilateral tongue weakness\n• Atrophy + fasciculations\n• Tongue deviates toward the lesion on protrusion\nUMN / Corticobulbar Lesion\n• Contralateral genioglossus weakness\n• No prominent atrophy/fasciculations\n• Tongue deviates away from the cortical lesion\nLMN → toward lesion | UMN → away from lesion\nThe tongue deviates toward the weak genioglossus",
+        "image": "slides/cn-051.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 52,
+        "text": "Tongue Innervation\nAnterior 2/3\n• General sensation (GSA): lingual n. (CN V3)\n• Taste (SVA): chorda tympani (CN VII)\nPosterior 1/3\n• General sensation (GSA): CN IX\n• Taste (SVA): CN IX\nMost Posterior Tongue & Epiglottis\n• General sensation + taste: CN X\nMotor\n• CN XII: intrinsic + extrinsic tongue muscles\n• Exception: palatoglossus → CN X",
+        "image": "slides/cn-052.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 53,
+        "text": "Internal Organization of the Brainstem\nLong Tracts • Cross-Sections • Vascular Territories",
+        "image": "slides/cn-053.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 54,
+        "text": "Major Long Tracts Through the Brainstem\nCorticospinal Dorsal Column Spinothalamic\nTract (proprioception and vibration) (pain and temperature)\n• Corticospinal tract → voluntary motor control\n• Medial lemniscus → fine touch, vibration, proprioception\n• Spinothalamic tract → pain & temperature\nIn the brainstem, these pathways have already\ncrossed or will cross at predictable levels.\nLMN: lower motor neuron\nUMN: upper motor neuron\nWB, NA",
+        "image": "slides/cn-054.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 55,
+        "text": "Long Tracts in the Brainstem\nCorticospinal Tract\n• Crosses in caudal medulla\n• Brainstem lesion above crossing → contralateral weakness\nMedial Lemniscus\n• Crosses in caudal medulla\n• Brainstem lesion above crossing → contralateral loss of fine touch, vibration & proprioception\nSpinothalamic Tract\n• Already crossed in spinal cord\n• Brainstem lesion → contralateral loss of pain & temperature",
+        "image": "slides/cn-055.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 56,
+        "text": "Face vs Body Sensory Pathways\nFace\n• Principal sensory nucleus of V → fine touch/vibration\n• Spinal trigeminal nucleus/tract → pain & temperature\nBody\n• Medial lemniscus → fine touch/vibration/proprioception\n• Spinothalamic tract → pain & temperature\nBrainstem lesion may produce ipsilateral face + contralateral body deficits",
+        "image": "slides/cn-056.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 57,
+        "text": "",
+        "image": "slides/cn-057.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 58,
+        "text": "How to Read a Brainstem Cross-Section\nIdentify the level\n• Midbrain | pons | medulla\nFind orientation landmarks:\n• Aqueduct | 4th ventricle | colliculi | olive/pyramids\nIdentify CN nuclei/fascicles:\n• Which cranial nerves belong at this level?\nLocate major long tracts:\n• Corticospinal | medial lemniscus | spinothalamic\nOrient medial vs lateral:\n• Prepare to localize lesions\nCross-Section of Central Medulla\nLandmark → CN structures → Long tracts → Medial/Lateral\nFig. 9.8. Siegel, EN, 4e.",
+        "image": "slides/cn-058.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 59,
+        "text": "Midbrain: Superior Colliculus Level\nLandmarks\n• Superior colliculus → visual reflex center\n• Cerebral aqueduct\nCN Structure\n• Oculomotor nucleus (CN III)\nLong Tracts\n• Cerebral peduncle (crus cerebri)\n→ corticospinal fibers\n• Medial lemniscus\n• Spinothalamic tract\nOther Key Structures\n• Red nucleus\n• Substantia nigra\nSuperior colliculus + CN III → rostral midbrain\nFig. 11.5. Siegel, EN, 4e.",
+        "image": "slides/cn-059.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 60,
+        "text": "Midbrain: Inferior Colliculus Level\nLandmarks\n• Inferior colliculus → auditory reflex center\n• Cerebral aqueduct\nCN Structure\n• Trochlear nucleus (CN IV)\nLong Tracts\n• Cerebral peduncle → corticospinal fibers\n• Medial lemniscus\n• Spinothalamic tract\nOther Key Structure\n• Superior cerebellar peduncle decussation\n• Substantia nigra\nInferior colliculus + CN IV → caudal midbrain\nFig. 11.3. Siegel, EN, 4e.",
+        "image": "slides/cn-060.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 61,
+        "text": "Rostral Pons\nLandmarks\n• Large basis pontis\n• Middle cerebellar peduncle\nCN Structure\n• Mesencephalic nucleus of CN V\nLong Tracts\n• Corticospinal tract\n• Medial lemniscus\nOther Key Structures\n• Pontine nuclei Large basis pontis + middle cerebellar peduncle → pons\nFig. 10.6. Siegel, EN, 4e.",
+        "image": "slides/cn-061.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 62,
+        "text": "Middle Pons\nLandmarks\n• 4th ventricle\n• Middle cerebellar peduncle\nCN Nuclei\n• Principal sensory nucleus of CN V\n• Motor nucleus of CN V\nLong Tracts\n• Corticospinal tract\n• Medial lemniscus\n• Medial longitudinal fasciculus (MLF)\nCN V nuclei → mid-pons\nOther Key Structures\n• Pontine nuclei + transverse pontine fibers\nFig. 10.5. Siegel, EN, 4e.",
+        "image": "slides/cn-062.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 63,
+        "text": "Caudal Pons\nLandmark\n• Facial colliculus\n• 4th ventricle\nCN Nuclei\n• Abducens nucleus (CN VI)\n• Facial nucleus (CN VII)\n• Vestibular nuclei (CN VIII)\n• Spinal trigeminal nucleus & tract\nLong Tracts\n• Corticospinal tract\n• Medial lemniscus\nCerebellar Connections\nCN VI/VII + facial colliculus → caudal pons\n• Middle + inferior cerebellar peduncles\nFig. 10.4. Siegel, EN, 4e.",
+        "image": "slides/cn-063.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 64,
+        "text": "Upper (Open) Medulla\nLandmarks\n• 4th ventricle\n• Inferior olive\nCN/Sensory Nuclei\n• Vestibular nuclei\n• Solitary nucleus\n• Spinal trigeminal nucleus & tract\nLong Tracts\n• Pyramid → corticospinal tract\n• Medial lemniscus\nCerebellar Connection Olive + open 4th ventricle → rostral/open medulla\n• Inferior cerebellar peduncle\nFig. 9.8. Siegel, EN, 4e.",
+        "image": "slides/cn-064.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 65,
+        "text": "Central Medulla\nLandmarks\n• 4th ventricle\n• Inferior olive\nCN Nuclei\n• Hypoglossal nucleus (CN XII)\n• Dorsal motor nucleus of X\n• Nucleus ambiguus\n• Solitary nucleus\n• Spinal trigeminal nucleus & tract\nLong Tracts\n• Pyramid → corticospinal tract\n• Medial lemniscus\n• Spinothalamic tract\nCerebellar Connection\nMedial structures → XII + pyramid + medial lemniscus\n• Inferior cerebellar peduncle\nLateral structures → ambiguus + spinal V + spinothalamic\nFig. 9.8. Siegel, EN, 4e.",
+        "image": "slides/cn-065.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 66,
+        "text": "Lower (Closed) Medulla\nLandmark\n• Central canal\nSensory Structures\n• Gracile + cuneate nuclei\n• Internal arcuate fibers → sensory decussation\n• Formation of medial lemniscus\nMotor Structure\n• Pyramids\n• Pyramidal decussation\nFace/Body Pain Pathways\n• Spinal trigeminal nucleus & tract\n• Spinothalamic tract\nCaudal medulla = two major crossings: sensory decussation + pyramidal decussation\nFig. 9.3. Siegel, EN, 4e.",
+        "image": "slides/cn-066.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 67,
+        "text": "Brainstem Vascular Territories\nMidbrain\n• Posterior cerebral artery (PCA)\n• Superior cerebellar artery (SCA)\nPons\n• Pontine branches of basilar artery\n• Anterior inferior cerebellar artery (AICA)\n• Superior cerebellar artery (SCA)\nMedulla\n• Vertebral artery\n• Posterior inferior cerebellar artery (PICA)\n• Anterior spinal artery\nFig. 7.2 The arrangement of arterial vessels on the base of the brain. The\ndiagram shows the circulus arteriosus (circle of Willis).\nCrossman, Neuroanatomy: An Illustrated Color Text, 6e.\nLearn the anatomy now → localize vascular syndromes in Brainstem II",
+        "image": "slides/cn-067.png",
+        "width": 2000,
+        "height": 1125
+      },
+      {
+        "page": 68,
+        "text": "Brainstem and\nCranial Nerves – I\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nCourse Director Anatomy and Neuroscience\nTel: (702) 545-2050 | aftab.merchant@unlv.edu\nSchedule an Appointment",
+        "image": "slides/cn-068.png",
+        "width": 2000,
+        "height": 1125
+      }
+    ]
+  }
+]

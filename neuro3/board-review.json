@@ -1,0 +1,155 @@
+[
+  {
+    "id": "overview",
+    "title": "All twelve cranial nerves, foramina, and functional patterns",
+    "refs": [
+      "cn",
+      "exam",
+      "v"
+    ],
+    "bullets": [
+      "CN I: olfactory receptor axons traverse cribriform plate to olfactory bulb; anterior cranial base trauma can cause anosmia and CSF rhinorrhea. CN II: retinal ganglion axons traverse optic canal; lesions affect vision and afferent pupillary signaling.",
+      "CN III/IV/VI use superior orbital fissure; V1 also uses this fissure, V2 rotundum, V3 ovale. VII/VIII enter internal acoustic meatus; VII later exits stylomastoid foramen. IX/X/XI leave jugular foramen; XII uses hypoglossal canal. Spinal XI first enters through foramen magnum.",
+      "Predominantly sensory: I, II, VIII; predominantly somatic/branchial motor: III, IV, VI, XI, XII; mixed: V, VII, IX, X. III also carries parasympathetics despite a simplified 'motor' classification.",
+      "Parasympathetic ganglia: III → ciliary; VII → pterygopalatine and submandibular; IX → otic; X → near/intramural ganglia of thoracoabdominal organs.",
+      "Trigeminal branches often distribute autonomic fibers originating from other cranial nerves. A fiber traveling on V does not necessarily originate in a trigeminal parasympathetic nucleus.",
+      "GSE refers to motor output to somite-related skeletal muscle; SVE is branchial motor to skeletal muscle derived from pharyngeal arches; GVE is autonomic. SVA = smell/taste; SSA = vision/hearing/balance; GSA = general somatic; GVA = visceral sensory.",
+      "Skull-base combinations help localization: jugular foramen disease can affect IX/X/XI; an extended skull-base lesion involving XII adds tongue weakness. Internal acoustic meatus/CPA lesions can combine VIII with VII and, if larger, V findings.",
+      "Visual localization: one optic nerve lesion causes ipsilateral monocular loss; midline chiasmal compression can cause bitemporal loss by injuring crossing nasal retinal fibers; retrochiasmal lesions cause contralateral homonymous field deficits, with details depending on location."
+    ]
+  },
+  {
+    "id": "eyes",
+    "title": "Pupillary reflexes, gaze circuits, and ocular palsy differentiation",
+    "refs": [
+      "ocular",
+      "iii",
+      "ino"
+    ],
+    "bullets": [
+      "Light reflex: retina/II → pretectal region → bilateral Edinger-Westphal nuclei → III → ciliary ganglia → short ciliary nerves → sphincter pupillae. Bilateral central projection explains direct and consensual constriction.",
+      "A complete left II afferent lesion prevents either pupil from responding to light shone in the left eye; both can respond when the intact right eye is illuminated if III efferents are intact.",
+      "A left III parasympathetic efferent lesion prevents left pupil constriction regardless of which eye is illuminated; the right pupil can still constrict to either light input if afferents are intact.",
+      "Near response includes convergence through medial recti, accommodation through ciliary muscle, and miosis. It overlaps with light-reflex efferents but uses different upstream circuitry.",
+      "Horizontal gaze: PPRF activates ipsilateral VI nucleus; lateral rectus abducts that eye, while interneurons cross and ascend in opposite MLF to III medial rectus neurons.",
+      "An isolated VI nerve lesion impairs ipsilateral abduction; a VI nucleus/PPRF lesion can impair both eyes looking toward the lesion. A facial colliculus lesion may also affect looping VII fibers.",
+      "MLF injury causes internuclear ophthalmoplegia: ipsilateral adduction weakness on horizontal gaze with nystagmus of the abducting eye. Convergence can be preserved, though not universally. Bilateral INO suggests demyelination in the appropriate young-adult setting; vascular lesions are important in older adults.",
+      "Myasthenia can mimic ocular palsy with fluctuating ptosis/diplopia, typically sparing the pupils. Horner syndrome gives miosis and mild ptosis from sympathetic interruption, contrasting with a complete compressive III pattern.",
+      "Acute III palsy, especially with pain or pupillary involvement, raises concern for aneurysm/compression. Pupil sparing alone does not safely exclude a serious cause."
+    ]
+  },
+  {
+    "id": "face",
+    "title": "Trigeminal and facial lesion localization",
+    "refs": [
+      "v",
+      "facial",
+      "chorda",
+      "corneal"
+    ],
+    "bullets": [
+      "V3 mastication muscles include masseter/temporalis/pterygoids plus mylohyoid, anterior digastric, tensor tympani, and tensor veli palatini. VII supplies buccinator, facial expression, stapedius, posterior digastric, and stylohyoid.",
+      "Tensor tympani is V3; stapedius is VII. Hyperacusis after VII injury reflects failure to damp stapes motion. Buccal VII is motor to facial muscles; long buccal V3 is sensory to cheek mucosa/skin.",
+      "VII lesion proximal to greater petrosal can reduce tearing plus taste/saliva/stapedius/movement; a lesion distal to greater petrosal may spare tears; distal to stylomastoid usually preserves intracanalicular taste/autonomic branches.",
+      "Chorda tympani crosses middle ear and joins lingual V3. A distal lingual injury after that union can impair both anterior-tongue general sensation and taste, plus related salivary fibers.",
+      "Bell palsy is idiopathic peripheral VII weakness. Facial weakness with ear pain/vesicles suggests Ramsay Hunt syndrome; a pontine lesion can also produce an LMN facial pattern with other brainstem findings.",
+      "A parotid operation can injure VII terminal motor branches without directly abolishing IX-derived parotid secretion. Geniculate is a sensory ganglion; pterygopalatine/submandibular are parasympathetic relay ganglia.",
+      "Trigeminal neuralgia classically causes brief electric-shock facial pain, often V2/V3 and triggered by light contact or chewing; substantial persistent sensory loss should prompt assessment for additional structural pathology.",
+      "Corneal reflex distinguishes input from output: a V1 lesion removes bilateral response to stimulation of that cornea; a VII lesion removes one eyelid's closure to stimulation from either side."
+    ]
+  },
+  {
+    "id": "hearing",
+    "title": "Auditory and vestibular bedside distinctions",
+    "refs": [
+      "viii",
+      "meniere",
+      "schwannoma"
+    ],
+    "bullets": [
+      "Conductive hearing loss impairs transmission through external/middle ear; sensorineural loss involves cochlea or neural pathways. CN VIII lesions cause the latter rather than a simple mechanical air-conduction block.",
+      "Rinne: air conduction normally exceeds bone conduction and usually remains so in sensorineural loss. Bone conduction greater than air suggests conductive loss in that ear; profound unilateral sensorineural loss can produce a false-negative Rinne through crossover.",
+      "Weber lateralizes toward conductive loss and away from unilateral sensorineural loss. Interpret together with Rinne and audiometry rather than treating one bedside test as definitive.",
+      "Vestibular schwannoma often causes progressive asymmetric hearing loss/tinnitus/imbalance; Ménière disease causes recurrent vertigo with fluctuating hearing loss/tinnitus/fullness; BPPV causes brief position-triggered attacks, usually without new hearing loss.",
+      "A unilateral vestibular imbalance can cause nystagmus; direction, triggers, fixation effects, other neurologic signs, and time course help differentiate peripheral from central causes.",
+      "Vestibulo-ocular reflex links VIII input to III/IV/VI motor output to stabilize retinal images during head motion. Cerebellar and brainstem lesions can disrupt this circuitry.",
+      "Bilateral vestibular schwannomas suggest NF2-related schwannomatosis; unilateral tumors are commonly sporadic. CPA extension can affect V/VII or cerebellar/brainstem structures."
+    ]
+  },
+  {
+    "id": "bulbar",
+    "title": "Bulbar, laryngeal, neck, and tongue localization",
+    "refs": [
+      "ixx",
+      "vagal",
+      "larynx",
+      "exam"
+    ],
+    "bullets": [
+      "IX stylopharyngeus and X pharyngeal plexus/laryngeal branches coordinate swallowing; X carries motor to most palate/pharynx/larynx except V3 tensor veli palatini and IX stylopharyngeus.",
+      "External superior laryngeal → cricothyroid → high-pitch control. Internal superior laryngeal → sensation above folds. RLN → intrinsic muscles except cricothyroid and sensation below folds.",
+      "Left RLN loops under aortic arch; right under subclavian. Mediastinal pathology can affect left RLN; neck/thyroid procedures can injure either laryngeal route.",
+      "Proximal X weakness can cause ipsilateral palate droop, uvula away, hoarseness, and dysphagia. Isolated RLN injury can spare palate and mainly alter voice; bilateral vocal-fold abductor dysfunction may threaten breathing.",
+      "Right XI lesion → weak right shrug and weak leftward head turn; right XII LMN lesion → right tongue wasting/fasciculations and rightward protrusion. Test actions rather than memorizing a direction without the muscle.",
+      "Anterior tongue general sensation = lingual V3; taste = VII. Posterior tongue both = IX, with circumvallate taste usually IX. Epiglottic region = X. Motor = XII except palatoglossus X.",
+      "Bilateral corticobulbar injury can produce pseudobulbar features such as brisk jaw reflex and emotional lability; lower motor/bulbar injury more often gives wasting/fasciculations and impaired motor output. Both can threaten swallowing."
+    ]
+  },
+  {
+    "id": "vascular",
+    "title": "High-yield vascular patterns predicted by the slides",
+    "refs": [
+      "lateralmed",
+      "medialmed",
+      "pons",
+      "midbrain"
+    ],
+    "bullets": [
+      "Lateral medullary/Wallenberg: vertebral or PICA territory; ipsilateral face pain-temperature loss (spinal V), contralateral body pain-temperature loss (spinothalamic), dysphagia/hoarseness (ambiguus), vertigo/nystagmus, ipsilateral ataxia, and possible Horner syndrome.",
+      "Medial medullary: ASA/paramedian vertebral territory; ipsilateral XII LMN tongue weakness plus contralateral limb weakness (pyramid) and contralateral vibration-position loss (medial lemniscus). The pattern depends on lesion extent.",
+      "Lateral pontine/AICA pattern can add ipsilateral LMN facial weakness, reduced lacrimation/salivation or taste, hearing/vestibular findings, and crossed pain-temperature changes. Hearing/facial involvement helps distinguish it from classic lateral medullary disease.",
+      "Ventral pontine basilar injury can interrupt bilateral corticospinal/corticobulbar pathways, causing locked-in syndrome with preserved consciousness and often vertical eye movement/blinking; it is not the same as coma.",
+      "Ventral midbrain/Weber pattern combines ipsilateral III palsy with contralateral limb weakness from cerebral peduncle involvement. A more tegmental midbrain lesion can add red-nuclear/cerebellar-pathway ataxia or tremor.",
+      "SCA territories contribute superior cerebellar and rostral pontine/midbrain supply; PICA/AICA/SCA territories overlap and vary. Named syndromes are pattern guides, not guaranteed artery-to-symptom identities.",
+      "Cerebellar peduncle injury can cause ipsilateral ataxia in many brainstem patterns; weakness and ataxia are distinct findings and may coexist."
+    ]
+  },
+  {
+    "id": "crosssections",
+    "title": "Cross-sectional landmarks and the nuclei map",
+    "refs": [
+      "brainstem",
+      "cn",
+      "ino"
+    ],
+    "bullets": [
+      "Superior colliculus + III/EW + red nucleus → rostral midbrain. Inferior colliculus + IV + superior cerebellar peduncle decussation → caudal midbrain. Aqueduct is the midbrain CSF landmark.",
+      "Large basis pontis + transverse fibers/middle cerebellar peduncle → pons. V sensory/motor nuclei → middle pons. VI/VII loop/facial colliculus → caudal pons.",
+      "Olive + open fourth ventricle + inferior cerebellar peduncle → rostral medulla. XII/dorsal motor X/ambiguus/solitary are medullary nuclear clues. Central canal + gracile/cuneate nuclei/decussations → caudal closed medulla.",
+      "Cerebellar peduncles: middle mainly carries pontocerebellar afferents; superior carries major cerebellar output and crosses in caudal midbrain; inferior carries varied cerebellar afferents and some efferents, including vestibular/olivary connections.",
+      "MLF links ocular motor and vestibular systems; periaqueductal gray surrounds the aqueduct and participates in pain/autonomic networks; substantia nigra is a dopaminergic motor-system structure; inferior olive projects climbing-fiber information to cerebellum.",
+      "Functional nuclei: III/IV/VI/XII are GSE; V/VII/ambiguus are branchial motor; EW/superior and inferior salivatory/dorsal motor X are GVE; solitary is SVA/GVA; trigeminal sensory complex is GSA; vestibulocochlear is SSA.",
+      "The chart's accessory/ambiguus connection reflects traditional cranial-XI terminology. Spinal XI arises in cervical cord and is functionally distinct from vagal pharyngeal/laryngeal motor output.",
+      "Somatic and visceral mucosal-afferent labels vary among references; nerve territory, reflex role, and central target are usually more robust localization anchors than one contested letter classification."
+    ]
+  },
+  {
+    "id": "exam",
+    "title": "A structured cranial nerve examination and localization method",
+    "refs": [
+      "exam",
+      "ocular",
+      "corneal",
+      "ixx"
+    ],
+    "bullets": [
+      "I: assess familiar nonirritant odors when indicated; II: visual acuity/fields, fundus, and afferent light responses; III/IV/VI: pupils, ptosis, alignment, and extraocular movements.",
+      "V: compare face sensory divisions and jaw strength; VII: brow elevation, tight eye closure, smile, and cheek/lip movements; VIII: hearing and vestibular complaints/examination.",
+      "IX/X: voice quality, swallowing, palatal elevation and selected gag testing; XI: shoulder shrug and resisted head rotation; XII: tongue protrusion, strength, wasting, and fasciculations.",
+      "Afferent versus efferent reflex analysis asks two questions: does stimulation on each side reach the brainstem, and can each output structure execute the response? Test the two inputs separately rather than only observing one eyelid/pupil once.",
+      "Ipsilateral cranial nerve signs with contralateral limb motor/sensory signs favor brainstem localization. A peripheral cranial nerve lesion alone should not produce a contralateral body long-tract deficit.",
+      "Cortical corticobulbar injury commonly gives contralateral lower-face and genioglossus weakness; a cranial nucleus/fascicle/nerve LMN lesion usually affects the corresponding ipsilateral muscles, with special crossing exceptions such as trochlear nuclei.",
+      "Separate nerve from nucleus, movement from sensation, and anatomic action from test position. Then combine level, side, modalities, and vascular territory into one explanation."
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "electrical",
+    "title": "Resting potential, action potentials, and conduction block",
+    "refs": [
+      "ap",
+      "channels",
+      "synapses"
+    ],
+    "bullets": [
+      "Resting membrane potential depends strongly on K+ permeability and transmembrane ion gradients. The Na+/K+-ATPase maintains gradients over time by exporting 3 Na+ and importing 2 K+ per ATP; it is not the main immediate repolarizing current of each spike.",
+      "Opening voltage-gated Na+ channels drives the rapid upstroke; Na+ channel inactivation plus delayed voltage-gated K+ opening drives repolarization. Continued K+ conductance can produce an afterhyperpolarization.",
+      "Absolute refractory period chiefly reflects Na+ channel inactivation; a larger stimulus cannot produce another normal spike until sufficient channels recover. The relative refractory period permits a spike with stronger stimulation.",
+      "Spike amplitude is approximately all-or-none for a given axon and condition; stimulus intensity is chiefly encoded by firing rate and recruited fibers, not larger spikes. Receptor/synaptic potentials can summate; action potentials do not add their amplitudes.",
+      "Myelin raises membrane resistance and lowers capacitance; larger diameter lowers axial resistance. Demyelination slows conduction and can cause conduction block by reducing the safety factor for exciting the next region.",
+      "Local anesthetics block voltage-gated Na+ channels and interrupt action-potential propagation. Frequency/use dependence favors activated channels; fiber susceptibility also depends on diameter, myelin, position, and drug exposure rather than a universal size-only rule.",
+      "At a chemical synapse, a terminal spike opens voltage-gated Ca2+ channels; Ca2+ drives vesicle fusion and transmitter release. Postsynaptic receptor conductance changes can cause excitation, inhibition, or shunting depending on reversal potential.",
+      "EPSPs/IPSPs are graded and summate across space/time. The axon initial segment integrates whether combined input reaches threshold; a depolarizing conductance can still be inhibitory if it holds voltage below threshold and shunts other input."
+    ]
+  },
+  {
+    "id": "receptors",
+    "title": "Receptor comparison, receptive fields, and coding",
+    "refs": [
+      "sensory",
+      "touch",
+      "mechanical"
+    ],
+    "bullets": [
+      "Pacinian: deep dermis/subcutis, large receptive field, rapid adaptation, high-frequency vibration. Meissner: superficial dermal papillae in glabrous skin, small field, rapid adaptation, flutter/slip.",
+      "Merkel: epidermal touch complexes, small field, slow adaptation, edges/form and sustained pressure. Ruffini: deeper endings, larger field, slow adaptation, skin stretch.",
+      "Small receptive fields, dense innervation, and lateral inhibition support fine spatial discrimination. Two-point discrimination is better at fingertips than back because of peripheral and central organization.",
+      "A labeled line identifies modality through the activated neural pathway; frequency and population recruitment encode stimulus strength, while receptive-field patterns encode location.",
+      "Primary sensory endings, such as Pacinian afferents, generate a local generator potential in the same neuron that later spikes. Separate receptor cells, such as hair cells and photoreceptors, regulate transmitter release onto downstream neurons.",
+      "Adequate stimulus means the energy type to which a receptor is most sensitive; electrical activation of a sensory pathway can still create the modality normally carried by that pathway.",
+      "Adaptation emphasizes change while tonic responses retain information. A spike-frequency plot with onset/offset firing suggests a phasic receptor; sustained firing with a smaller decline suggests a tonic receptor."
+    ]
+  },
+  {
+    "id": "special",
+    "title": "Retinal, hair-cell, taste, and smell mechanisms",
+    "refs": [
+      "photo",
+      "sour",
+      "synapses"
+    ],
+    "bullets": [
+      "Rod in dark: relatively high cGMP → open outer-segment cation channels → inward dark current and relative depolarization → tonic glutamate release. Light reverses this through rhodopsin/transducin/PDE and lowers glutamate.",
+      "The retinal chromophore is derived from vitamin A; deficiency can impair dim-light vision. Rods favor sensitivity, while foveal cones favor acuity/color.",
+      "ON bipolar cells use a sign-inverting glutamate response: less photoreceptor glutamate in light permits depolarization. OFF bipolar circuits generally respond with the opposite sign. Do not infer that every downstream retinal neuron hyperpolarizes because the rod does.",
+      "Cochlear hair-cell stereocilia deflection toward the tallest row opens tip-link-associated channels; K+ enters from endolymph, depolarizing the cell. Basolateral Ca2+ channels then support glutamate release onto auditory afferents.",
+      "Olfaction uses odorant GPCR/Golf → adenylyl cyclase → cAMP → cation channel opening. Phototransduction uses transducin → PDE → decreased cGMP → cation channel closure.",
+      "Sweet, bitter, and umami use GPCR pathways, including PLC/IP3 and intracellular Ca2+ signaling. Salt can use direct cation entry; sour uses proton-dependent mechanisms with a central role for OTOP1.",
+      "Taste afferents travel through VII from much of anterior tongue, IX from posterior tongue, and X from epiglottic regions to the solitary nucleus. The old tongue map assigning one taste exclusively to each region is incorrect.",
+      "Photoreceptor light adaptation, mechanical end-organ adaptation, and central habituation are distinct mechanisms; use the pathway to predict the sign and timing of response rather than assigning all receptors one response pattern."
+    ]
+  },
+  {
+    "id": "pain",
+    "title": "Pain, small-fiber neuropathy, and sensitization",
+    "refs": [
+      "pain",
+      "sensory"
+    ],
+    "bullets": [
+      "A-delta transmits relatively fast localized first pain; C fibers transmit slower diffuse burning/aching second pain. Small-fiber injury can impair pain/temperature despite preserved large-fiber vibration and normal routine nerve-conduction studies.",
+      "Nociceptors generally adapt little or slowly, and inflammation can lower their thresholds. Hyperalgesia is exaggerated pain to a painful stimulus; allodynia is pain to an innocuous stimulus.",
+      "Peripheral sensitization can involve inflammatory mediators; central sensitization includes increased excitability and altered inhibition in spinal/brain circuits. Neuropathic pain can arise without continuing external tissue injury.",
+      "Dorsal horn inhibitory circuits can modulate nociceptive transmission; rubbing an injured area can recruit large-fiber touch input that reduces pain signaling in a gate-control model.",
+      "Descending pathways from brainstem can modulate spinal pain transmission using monoaminergic and endogenous opioid mechanisms. Pain intensity is not simply the number of activated receptors.",
+      "Tinnitus, anosmia, IBS, and sensory features of autism have multiple possible mechanisms. An adaptation concept can help explain some physiology without serving as a complete diagnosis or causal account."
+    ]
+  },
+  {
+    "id": "tracts",
+    "title": "Spinal tract map and crossing rules",
+    "refs": [
+      "brown",
+      "tracts",
+      "cst"
+    ],
+    "bullets": [
+      "Dorsal-column medial-lemniscal pathway: first-order sensory soma in DRG → ipsilateral dorsal column → gracile/cuneate nucleus in caudal medulla → internal arcuate crossing → medial lemniscus → VPL thalamus → somatosensory cortex.",
+      "Fasciculus gracilis lies medially and carries lower-body input; fasciculus cuneatus lies laterally above roughly T6 and carries upper-body input. Vibration, conscious position sense, and discriminative touch are key modalities.",
+      "Spinothalamic pathway: DRG → short ascending/descending branches in Lissauer tract → dorsal horn synapse → crossing in anterior white commissure over nearby segments → contralateral anterolateral ascent → thalamus/cortex.",
+      "Lateral corticospinal tract: cortex → internal capsule → cerebral peduncle → pons → medullary pyramid → pyramidal decussation → contralateral lateral cord. In the spinal cord it controls ipsilateral muscles below the lesion.",
+      "Anterior horn/root injury gives LMN signs at that segment; descending tract interruption gives UMN signs below after spinal shock resolves. One cord injury can therefore produce both patterns at different levels.",
+      "Spinocerebellar pathways carry largely unconscious proprioceptive information. Dorsal spinocerebellar input ascends mainly ipsilaterally through the inferior cerebellar peduncle; ventral pathways have crossing/recrossing patterns resulting in functional ipsilateral representation.",
+      "The original repeated cord-section plate labels gracile/cuneate, posterior/anterior spinocerebellar, anterolateral, lateral/anterior corticospinal, lateral/medial reticulospinal, and lateral vestibulospinal pathways. These support sensory transmission, coordinated movement, and axial/postural control alongside the three major localization pathways.",
+      "A sensory level points toward a cord process; dermatomal radiating pain with reduced segmental reflexes favors a root. Clinical patterns can be incomplete and overlapping."
+    ]
+  },
+  {
+    "id": "vascular",
+    "title": "Cord blood supply and acute versus chronic spinal injury",
+    "refs": [
+      "asa",
+      "neurogenic",
+      "dysreflexia"
+    ],
+    "bullets": [
+      "One anterior spinal artery supplies much of anterior two-thirds of cord; paired posterior spinal arteries preferentially supply posterior regions. Segmental radiculomedullary feeders reinforce these longitudinal vessels.",
+      "Artery of Adamkiewicz is especially important to lower-cord anterior supply. Its origin is variable, commonly left lower thoracic/upper lumbar; operative injury can cause anterior-cord ischemia.",
+      "Spinal shock is loss of reflexes/tone after acute severe cord injury. Neurogenic shock is hypotension due to sympathetic loss, often with bradycardia in high-cord injury. Hemorrhagic shock remains an important alternative in trauma and commonly causes compensatory tachycardia.",
+      "Autonomic dysreflexia is episodic severe hypertension from an unmodulated sympathetic reflex, usually with a lesion at/above T6. Bladder distension, catheter obstruction, or bowel impaction are classic triggers.",
+      "Dysreflexia can produce pounding headache, sweating/flushing above the lesion, and reflex bradycardia. Sit the patient upright and address the trigger promptly while monitoring and treating dangerous pressure as clinically indicated.",
+      "Central cord syndrome after cervical hyperextension classically causes greater arm than leg weakness; this is distinct from a small central syrinx causing segmental crossing-fiber sensory loss. The arm-predominant pattern should not be reduced to a rigid universally proven corticospinal lamination model.",
+      "Complete high cervical injury can impair diaphragmatic function via C3-C5; respiratory assessment is central to acute localization."
+    ]
+  },
+  {
+    "id": "metabolic",
+    "title": "Metabolic, infectious, and inherited tract diseases",
+    "refs": [
+      "b12",
+      "friedreich",
+      "tabes",
+      "sma",
+      "als"
+    ],
+    "bullets": [
+      "B12 deficiency can follow pernicious anemia/intrinsic-factor loss, gastric or ileal disease, inadequate intake, or other causes. Methylmalonic acid and homocysteine can rise; folate deficiency raises homocysteine without the characteristic methylmalonic acid increase.",
+      "Nitrous oxide can inactivate B12 and cause a myeloneuropathy even when a measured B12 concentration is not clearly low. Copper deficiency can mimic a posterior-column/corticospinal syndrome.",
+      "Treating folate deficiency alone can improve anemia while failing to address unrecognized B12-related neurologic injury. Neurologic symptoms may occur without macrocytosis.",
+      "Tabes dorsalis injures dorsal roots and columns: sensory ataxia, areflexia, lightning pains, and possible light-near dissociation. B12 SCD adds corticospinal signs; a clinical combination guides the differential.",
+      "Friedreich ataxia: usually biallelic FXN GAA expansions; mitochondrial dysfunction, early progressive ataxia, sensory loss, areflexia with possible Babinski, cardiomyopathy, and diabetes. Frataxin disease is autosomal recessive rather than a typical dominant CAG disorder.",
+      "SMN1-related SMA: anterior horn degeneration and preserved sensation; additional SMN2 copies often mitigate severity. Polio is an infectious anterior horn disease rather than an inherited repeat disorder.",
+      "ALS classically combines UMN and LMN deficits with relative sensory sparing. Bulbar and respiratory involvement matter; frontotemporal features occur in a subset.",
+      "Progressive weakness with substantial sensory loss, a clear sensory level, or prominent early sphincter dysfunction warrants consideration of ALS mimics such as myelopathy rather than assuming ALS from fasciculations alone."
+    ]
+  },
+  {
+    "id": "localize",
+    "title": "A practical syndrome comparison and emergency localization",
+    "refs": [
+      "brown",
+      "cauda",
+      "tracts"
+    ],
+    "bullets": [
+      "Hemicord/Brown-Séquard: ipsilateral weakness and position/vibration loss below; contralateral pain-temperature loss starting below; possible ipsilateral segmental LMN and sensory deficits at injury.",
+      "Anterior cord: bilateral weakness plus pain-temperature loss with relatively spared posterior-column modalities. Posterior cord: position/vibration loss with relative motor and pain-temperature sparing.",
+      "Central cervical syrinx: bilateral suspended pain-temperature loss, then hand LMN weakness if anterior horns are reached; later corticospinal/sympathetic findings with expansion.",
+      "Sensory ataxia improves with visual guidance and worsens on eye closure; cerebellar ataxia persists with eyes open and can have dysmetria/intention tremor. Vestibular dysfunction often adds vertigo/nystagmus.",
+      "Conus medullaris involves terminal cord and may have mixed signs, symmetric saddle loss, and early sphincter dysfunction; cauda equina affects roots and tends toward asymmetric painful LMN deficits. Neither pattern is perfectly exclusive.",
+      "New urinary retention or altered bladder sensation plus saddle anesthesia or progressive leg deficits suggests compressive conus/cauda disease and requires urgent MRI/evaluation, not routine follow-up.",
+      "A complete cord lesion can initially be flaccid/areflexic; later spasticity does not mean the lesion moved from peripheral nerve to cord. Timing is part of localization."
+    ]
+  },
+  {
+    "id": "cross-section",
+    "title": "Reading every spinal cross-section landmark",
+    "refs": [
+      "morphology",
+      "tracts"
+    ],
+    "bullets": [
+      "Posterior median sulcus and septum mark the dorsal midline; the deeper anterior median fissure marks the ventral midline. Use these landmarks to orient a section before assigning lesion laterality.",
+      "Posterior, lateral, and anterior funiculi/white columns contain ascending and descending axons. Dorsal horns receive sensory input; ventral horns contain somatic motor neurons; thoracolumbar lateral/intermediate gray includes sympathetic preganglionic neurons.",
+      "Posterior root is afferent; anterior root is efferent. A spinal nerve and its dorsal/ventral rami are mixed, so a root and a ramus are not interchangeable.",
+      "Rexed laminae divide spinal gray matter into zones I-X. Lamina II/substantia gelatinosa is important in pain modulation; lamina IX contains somatic motor neuron groups; lamina X surrounds the central canal. The Roman numerals in the original plate indicate these laminae.",
+      "The anterior white commissure lies ventral to the central canal and carries crossing pain-temperature axons; this is the key early syrinx target. A central cavity can later expand into nearby motor and long-tract structures.",
+      "In dorsal columns, sacral/lumbar input lies more medially and upper thoracic/cervical input is added laterally. The S/L/T/C labels in the figure indicate somatotopy, not separate spinal nerves.",
+      "Denticulate ligaments are lateral pial extensions that help stabilize the cord within its dural covering. They are supporting structures rather than white-matter tracts.",
+      "Gracile/cuneate pathways convey conscious discriminative sensation; spinocerebellar pathways support unconscious proprioceptive coordination; corticospinal conveys descending motor control; vestibulo- and reticulospinal pathways contribute posture and automatic motor adjustments."
+    ]
+  }
+]

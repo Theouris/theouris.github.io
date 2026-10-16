@@ -1,0 +1,548 @@
+[
+  {
+    "id": "sig",
+    "title": "Neural Signaling",
+    "source": "Alexander_Neural Signaling _Lecture Slides 10.02.2026a.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Neural Signaling\nMED 808: Neuroscience, Neuroanatomy, and Neurology (NNN); Fall 2026\nReading:\nLinda S. Costanzo: Physiology, 8th Ed., “Refer to Course Syllabus”.\nLarry D. Alexander, Ph. D.\nAssistant Dean for Biomedical Science Education\nAssociate Professor of Physiology\nEmail: larry.alexander@unlv.edu\nOffice: MED 5-566\nOffice Hours: Walk-ins and by Appointment\n1",
+        "image": "slides/sig-001.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives\nAfter studying this lecture, the student should be able to:\n1. Classify nerve fibers by conduction velocity, diameter, and myelination, and\nexplain how these properties affect signal transmission.\n2. Identify the types of sensory receptors and explain how excitation of a sensory\nnerve fiber by a receptor potential produced in a Pacinian corpuscle or Rod cell\ngenerates a receptor potential.\n3. Describe how different types of sensory receptors transduce external stimuli\ninto neural signals, including key mechanisms of receptor activation.\n4. Explain the concept of sensory adaptation and its physiological significance in\nnormal perception and clinical conditions.\n2",
+        "image": "slides/sig-002.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 3,
+        "text": "Lecture Outline\nI. Types of Nerve Fibers\nII. Sensory Reception\nIII. Sensory Transduction and Receptor Potentials\nIV. Types of Sensory Receptors and Their\nTransduction Mechanisms\nV. Sensory Adaptation\n3",
+        "image": "slides/sig-003.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 4,
+        "text": "Types of Nerve\nFibers\n4",
+        "image": "slides/sig-004.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 5,
+        "text": "Overview of Nerve Fibers\n• Nerve fibers are the axons of neurons that carry electrical impulses.\n• Sensory and Motor Nerve Fibers\n– Sensory Fibers (Afferent): Transmit sensory information from receptors\n(e.g., touch, pain, proprioception) to the CNS\n– Motor Fibers (Efferent): Carry motor commands from the CNS to\nmuscles and glands for actions (voluntary and involuntary)\n• Nerve fibers differ in diameter, conduction velocity, and function.\n5",
+        "image": "slides/sig-005.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 6,
+        "text": "Nerve Fiber Classification, Cont.\n• Based on Diameter and Conduction Velocity:\n– A fibers (myelinated, fast- to medium- conducting)\n– B fibers (moderately myelinated, slower-conducting)\n– C fibers (unmyelinated, slow-conducting)\n• Based on Function:\n– Sensory fibers (afferent)\n– Motor fibers (efferent)\n– Autonomic fibers (sympathetic and parasympathetic)\n6",
+        "image": "slides/sig-006.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 7,
+        "text": "A Fibers\n• A Fibers: Myelinated\n• Types of A fibers:\n– Aα (alpha): Motor fibers for muscle control and proprioception; (large-diameter); fast\nconducting\n– Aβ (beta): Sensory fibers for touch, pressure, and vibration; (large-diameter); fast\nconducting\n– Aγ (gamma): Motor fibers for muscle spindles (regulating muscle tone); (medium-\ndiameter); medium conducting\n– Aδ (delta): Sensory fibers for touch, pressure, fast pain, and temperature (e.g., cold);\n(small-diameter); medium conducting\n• Conduction Velocity: 80-120 m/sec (Aα) to 5-30 m/sec (Aδ).\n7",
+        "image": "slides/sig-007.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 8,
+        "text": "B Fibers\n• B Fibers: Myelinated, Slower Conduction\n– Found mainly in the autonomic nervous system (e.g., preganglionic\nautonomic nerves)\n– Carry signals from the CNS to autonomic ganglia (preganglionic\nfibers)\n– Conduction velocity is slower than A fibers (3-15 m/sec)\n– Control smooth muscle activity, heart rate, and glandular function\n8",
+        "image": "slides/sig-008.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 9,
+        "text": "C Fibers\n• C Fibers: Unmyelinated, Slow-Conducting, Found mainly in\nthe autonomic nervous system\n– Small diameter and lack of myelination lead to slow conduction (0.5-\n2 m/sec)\n– Involved in transmitting slow, chronic pain and temperature\nsensations\n– C fibers are also part of the autonomic nervous system (e.g.,\npostganglionic autonomic fibers)\n– Function in long-lasting dull pain and visceral sensations\n9",
+        "image": "slides/sig-009.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 10,
+        "text": "Conduction Velocity and Myelination\n• The Role of Myelination in Nerve Conduction\n– Myelination speeds up signal transmission\n• Increases membrane resistance and lowers capacitance\n– Myelinated fibers (A and B) use saltatory conduction, where\nthe impulse jumps between nodes of Ranvier\n– Unmyelinated fibers (C) conduct more slowly due to\ncontinuous conduction\n10",
+        "image": "slides/sig-010.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 11,
+        "text": "Conduction Velocity and Myelination,\nCont.\n• An axon’s myelin sheath is not continuous.\n• Every 1 to 2 mm is a 2- to 3-μm segment of exposed axonal\nmembrane known as a node of Ranvier.\n• Nodes are tightly packed with Na+ channels, whereas the\ninternodal regions (areas lying hidden beneath the myelin\nsheath) have virtually no channels.\n• In practice, this means that an action potential leapfrogs\nfrom one node to the next down the length of the axon,\na behavior known as nodal, or saltatory conduction.\n• Breaks in the myelin sheath occur at the nodes of\nRanvier.\nFigure 5.2 Neuronal anatomy. (Adopted from Lippincott\nIllustrated Reviews Physiology, 3rd Ed.)\n11",
+        "image": "slides/sig-011.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 12,
+        "text": "Conduction Velocity and Myelination,\nCont.\n• Breaks in the myelin sheath occur at the\nnodes of Ranvier.\nFigure 5.4 Myelin and diameter effects on axonal conduction\nvelocity. (Adopted from Lippincott Illustrated Reviews\nPhysiology, 3rd Ed.)\n12",
+        "image": "slides/sig-012.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 13,
+        "text": "Axonal Diameter and Conduction Velocity\n• The Role of Myelination in Nerve Conduction\n– Myelination speeds up signal transmission\n• Increases membrane resistance and lowers capacitance\n– Myelinated fibers (A and B) use saltatory conduction, where\nthe impulse jumps between nodes of Ranvier\n– Unmyelinated fibers (C) conduct more slowly due to\ncontinuous conduction\n13",
+        "image": "slides/sig-013.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 14,
+        "text": "TABLE 3.1 Classification of Nerve Fibers\nType of Nerve Relative Relative Conduction\nClassification Fiber Example Diameter Velocity Myelination\nSensory and Aα α-Motoneurons Largest Fastest Yes\nMotor\nAβ Touch, pressure) Medium Medium Yes\nAΥ Υ-motoneurons to muscle Medium Medium Yes\nspindles (intrafusal fibers)\nAΔ Touch, pressure, temperature, Small Medium Yes\nfast pain\nB Preganglionic autonomic nerves Small Medium Yes\nC Slow pain, postganglionic Smallest Slowest No\nautonomic nerves; olfaction\nSensory only Ia Muscle spindle afferents Largest Fastest Yes\nIb Golgi tendon organ afferents Largest Fastest Yes\nII Secondary afferents of muscle Medium Medium Yes\nspindles, touch, pressure\nIII Touch, pressure, fast pain, Small Medium Yes\ntemperature\nIV Pain, temperature, olfaction Smallest Slowest No\n14",
+        "image": "slides/sig-014.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 15,
+        "text": "Clinical Relevance\n• Disorders Related to Nerve Fibers\n– Peripheral Neuropathy: Damage to peripheral nerves\naffecting sensory and motor functions.\n– Multiple Sclerosis: Damage to the myelin sheath of A and B\nfibers leading to impaired transmission.\n– Diabetic Neuropathy: Affects C fibers, causing chronic pain\nand loss of sensation.\n15",
+        "image": "slides/sig-015.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 16,
+        "text": "Summary of Nerve Fiber Types\n• Nerve fibers in the peripheral nervous system are classified according to\ntheir diameter.\n• This is closely linked to the speed with which impulses spread along them\n(i.e., their conduction velocity, and allows fibers to be crudely\ncharacterized as to function.\n• The fastest fibers are the myelinated large-diameter neurons (Aα).\n• The slowest fibers are unmyelinated small (C) fibers\n– Transmit pain impulses\n16",
+        "image": "slides/sig-016.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 17,
+        "text": "Sensory Reception\n17",
+        "image": "slides/sig-017.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 18,
+        "text": "Types of Sensory Receptors\n• Sensory receptors are specialized cells or structures that transduce environmental energy\ninto electrical signals. They are classified by modality (type of stimulus detected):\n– Mechanoreceptors – respond to mechanical deformation (touch, pressure, vibration, stretch)\n• Examples: Pacinian corpuscles, Meissner’s corpuscles, hair cells in cochlea\n– Thermoreceptors – detect temperature (warm/cold receptors in skin)\n– Nociceptors – pain receptors; detect tissue damage (mechanical, thermal, chemical)\n– Photoreceptors – detect light (rods and cones in retina)\n– Chemoreceptors – detect chemicals (taste buds, olfactory receptors, carotid body)\n– Electromagnetic receptors – specialized type (photoreceptors fall here)\n– Proprioceptors – detect body position and movement (muscle spindles, Golgi tendon organs)\n18",
+        "image": "slides/sig-018.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 19,
+        "text": "Mechanoreceptors: Sensing Touch and Pressure\n• Found in the skin and other organs.\n• Activated by pressure or changes in pressure.\n• The physical deformation of the receptor membrane opens ion channels.\n• Example: Pacinian corpuscles in subcutaneous tissue respond to deep\npressure; Meissner corpuscles in nonhairy skin (touch), baroreceptors\nin the carotid sinus (blood pressure), hair cells on the organ of Corti\n(audition) and in the semicircular canals (vestibular system).\n• Once activated, the receptor generates an action potential that travels to\nthe brain.\n19",
+        "image": "slides/sig-019.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 20,
+        "text": "Thermoreceptors: Detecting Temperature\n• Found in the skin.\n• Activated by temperature or changes in temperature\n(detecting hot and cold stimuli).\n• Specific receptors (e.g., TRPV1 for heat and TRPM8 for cold).\n• Receptors activate ion channels, generating action potentials.\n• Signals are transmitted to the brain where temperature\nchanges are perceived.\n20",
+        "image": "slides/sig-020.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 21,
+        "text": "Nociceptors: Pain Receptors\n• Activated by extremes of pressure, temperature, or\nnoxious chemicals.\n• Activation leads to pain sensation to protect the body from\ninjury.\n• Nociceptors generate action potentials that travel to the\nspinal cord and brain.\n• Chronic pain involves long-term activation of nociceptors.\n21",
+        "image": "slides/sig-021.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 22,
+        "text": "Photoreceptors: Light Detection and Vision\n• Located in the retina (rods and cones).\n• Activated by light and are involved in vision.\n• Rods detect low light, while cones detect color.\n• Phototransduction: Light is absorbed, causing a change\nin retinal pigment.\n• This change activates a signal cascade leading to action\npotentials sent to the visual cortex.\n22",
+        "image": "slides/sig-022.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 23,
+        "text": "Chemoreceptors: Sensing Chemicals (Taste & Smell)\n• Activated by chemical stimuli like taste (gustation) and smell\n(olfaction)\n– Gustatory cells in taste buds respond to specific chemicals (e.g.,\nsalty, sweet)\n– Olfactory receptors detect airborne molecules and send signals to\nthe brain\n• Mechanism: Chemical binds to receptors, initiating signal\ntransduction pathways.\n23",
+        "image": "slides/sig-023.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 24,
+        "text": "TABLE 3.2 Types and Examples of Sensory Receptors\nType of Receptor Modality Receptor Receptor\nMechanoreceptors Touch Pacinian corpuscle Skin\nAudition Hair cell Organ of Corti\nVestibular Hair cell Macula, semicircular canal\nPhotoreceptors Vision Rods and cones Retina\nChemoreceptors Olfaction Olfactory receptors Olfactory mucosa\nTaste Taste buds Tongue\nArterial PO Carotid and aortic bodies\n2\npH and CSF Ventrolateral medulla\nThermoreceptors Temperature Cold receptors Skin\nWarm receptors Skin\nNociceptors Extremes of pain Thermal nociceptors Skin\nand temperature\nPolymodal nociceptors Skin\nCSF, Cerebrospinal fluid; PO , partial pressure of oxygen.\n2\n24",
+        "image": "slides/sig-024.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 25,
+        "text": "Disorders Involving Visceral Sensory Neurons\n• Visceral pain syndromes\n• Autonomic dysreflexia\n• Conditions like irritable bowel syndrome (IBS)\n• Impact on Homeostasis: Malfunctioning of visceral\nsensory neurons can disrupt homeostasis and lead to\nchronic disorders.\n25",
+        "image": "slides/sig-025.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 26,
+        "text": "Sensory Transduction\nand Receptor Potentials\n26",
+        "image": "slides/sig-026.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 27,
+        "text": "Sensory Transduction\n• Sensory Transduction: The process by which a sensory receptor\nconverts an external stimulus (e.g., mechanical, thermal,\nchemical, or light energy) into an electrical signal that the nervous\nsystem can interpret.\n• Mechanism:\n– Stimulus energy activates ion channels (directly or via second\nmessengers)\n– This changes ion fluxes (Na⁺, K⁺, Ca²⁺, Cl⁻) across the receptor\nmembrane\n27",
+        "image": "slides/sig-027.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 28,
+        "text": "Receptor Potentials\n• The direct electrical result of sensory transduction.\n• A graded, local change in membrane potential in the receptor cell\ncaused by the stimulus.\n• Properties:\n– Amplitude depends on stimulus strength\n– Can be depolarizing (e.g., mechanoreceptors) or hyperpolarizing (e.g., rods in\nthe retina)\n– If threshold is reached, the receptor potential initiates action potentials in the\nafferent neuron (or regulates neurotransmitter release in secondary synaptic\npathways)\n28",
+        "image": "slides/sig-028.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 29,
+        "text": "Figure. 3.5 Receptor potentials in sensory receptor cells. Receptor potentials may be\neither depolarizing (shown) or hyperpolarizing (not shown). A, if a depolarizing receptor\npotential does not bring the membrane potential to threshold, no action potential occurs. B, If\na depolarizing receptor potential brings the membrane to threshold, then an action potential\noccurs in the sensory receptor.\n29",
+        "image": "slides/sig-029.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 30,
+        "text": "Receptor Potentials, Cont.\n• Key properties:\n• Local and graded: confined to receptor membrane,\namplitude varies with stimulus\n• Summation possible: multiple stimuli can add together\n• Decremental: spreads passively and decreases with distance\n• Threshold function: must reach a certain level at the trigger\nzone to generate action potentials\n30",
+        "image": "slides/sig-030.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 31,
+        "text": "Relationship Between the Two\n• Sensory transduction is the biophysical/biochemical\nprocess (converts stimulus energy → electrical change).\n• Receptor potential is the product (the graded potential\ngenerated by that process).\n• Put another way:\n– Transduction = cause (conversion of stimulus energy)\n– Receptor potential = effect (graded electrical signal produced)\n31",
+        "image": "slides/sig-031.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 32,
+        "text": "Example Pathways\n• Pacinian Corpuscle (touch)\n– Mechanical deformation → mechanosensitive Na⁺ channels open\n(sensory transduction) → depolarizing receptor potential →\naction potentials in afferent nerve\n• Rod Photoreceptor (vision)\n– Photon absorption → rhodopsin activates transducin → PDE lowers\ncGMP → Na⁺ channels close (sensory transduction) →\nhyperpolarizing receptor potential → reduced glutamate release to\nbipolar cells\n32",
+        "image": "slides/sig-032.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 33,
+        "text": "Receptor Potentials in Pacinian Corpuscle\n• Pacinian Corpuscle\n(mechanoreceptor)\n– Structure: Onion-like\nlayers around a central\nnerve ending.\n– Stimulus: Vibration or\npressure compresses\nthe lamellae.\nFIGURE 47-3. Excitation of a sensory nerve fiber by a\nreceptor potential produced in a Pacinian corpuscle.\n(Adopted from Guyton and Hall Textbook of Medical\nPhysiology, 13th ed.)\n33",
+        "image": "slides/sig-033.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 34,
+        "text": "Receptor Potentials in Pacinian Corpuscle, Cont.\n• Mechanism:\n– Mechanical deformation (e.g., pressure) stretches\nthe nerve ending’s membrane\n– This opens mechanosensitive Na⁺ channels.\n– Na⁺ influx (through mechanically gated ion\nchannels)→ local graded depolarization (receptor\npotential)\n– If the receptor potential reaches threshold at the\nfirst node of Ranvier, voltage-gated Na⁺ channels\nopen\n– Action potentials are generated and propagated FIGURE 47-3. Excitation of a sensory\nalong the sensory fiber nerve fiber by a receptor potential\nproduced in a Pacinian corpuscle.\n• Key point: Pacinian corpuscles adapt rapidly\n(Adopted from Guyton and Hall Textbook\n(phasic receptor) → detect vibration and rapid\nof Medical Physiology, 13th ed.)\nchanges, not steady pressure.\n34",
+        "image": "slides/sig-034.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 35,
+        "text": "Receptor Potentials in Rod Photoreceptor\n• Rod Cell (photoreceptor)\n– Structure: Outer segment\ncontains rhodopsin (light-\nsensitive pigment).\n– Stimulus: Light (photons).\nFigure 51-7 Phototransduction in the outer segment of the\nphotoreceptor (rod or cone) membrane. Adopted from Guyton\nand Hall Textbook of Medical Physiology, 13th ed.\n35",
+        "image": "slides/sig-035.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 36,
+        "text": "• Mechanism:\n– Light activates rhodopsin → retinal changes\nshape → activates transducin (G-protein)\n– Transducin activates phosphodiesterase\n(PDE), which decreases intracellular cGMP\n– Low cGMP → closure of cGMP-gated\nNa⁺/Ca²⁺ channels in the outer segment\nmembrane\n– Na⁺ influx decreases → cell hyperpolarizes\n(unlike most receptors, rods hyperpolarize to\nstimulus)\n– Hyperpolarization reduces glutamate release\nat the synapse with bipolar cells\n– This modulates activity of bipolar → ganglion\ncells → optic nerve action potentials\n• Key point: Rods and cones do not fire Figure 51-7 Phototransduction in the outer\naction potentials; they use graded\nsegment of the photoreceptor (rod or cone)\npotentials to regulate transmitter release.\nmembrane. Adopted from Guyton and Hall\nTextbook of Medical Physiology, 13th ed.\n36",
+        "image": "slides/sig-036.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 37,
+        "text": "TABLE 1. Comparison: Pacinian Vs. Rod\nFeature Pacinian Corpuscle Rod Cell (Photoreceptor)\nStimulus Mechanical deformation (vibration) Light (photons)\nIon channel type Mechanosensitive Na⁺ channels cGMP-gated Na⁺/Ca²⁺ channels\nResponse Depolarization (generator potential) Hyperpolarization (graded potential)\nSignal encoding Action potential in afferent nerve Neurotransmitter release modulation\nAdaptation Rapid (phasic) Sustained (tonic, but light-adaptive)\n• Sensory receptors transduce environmental stimuli into electrical signals.\n• Pacinian corpuscle: mechanical stimulus → depolarizing receptor potential →\naction potentials.\n• Rod cell: light stimulus → hyperpolarizing receptor potential → decreased\nneurotransmitter release → downstream action potentials in ganglion cells.\n37",
+        "image": "slides/sig-037.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 38,
+        "text": "Types of Sensory\nReceptors and Their\nTransduction Mechanisms\n38",
+        "image": "slides/sig-038.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 39,
+        "text": "Mechanoreceptors\n• Modalities: Touch, vibration, pressure, proprioception, hearing, balance\n• Stimulus: Mechanical deformation (stretch, vibration, movement of hair cells).\n• Mechanism:\n– Mechanical force opens mechanosensitive ion channels → Na⁺ or K⁺ influx\n– Generates a depolarizing receptor potential\n• Examples:\n– Pacinian corpuscles: detect vibration/pressure via deformation of lamellae\n– Hair cells (cochlea, vestibular system): bending of stereocilia opens tip-link gated K⁺\nchannels → depolarization\n39",
+        "image": "slides/sig-039.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 40,
+        "text": "Thermoreceptors\n• Stimulus: Temperature changes.\n• Mechanism:\n– Heat or cold alters the gating of transient receptor potential (TRP)\nion channels\n– Ion flux (Na⁺/Ca²⁺) → depolarizing receptor potential\n• Examples:\n– TRPV1: activated by heat >43°C and capsaicin\n– TRPM8: activated by cold and menthol\n40",
+        "image": "slides/sig-040.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 41,
+        "text": "Nociceptors\n• Modalities: Pain\n• Stimulus: Mechanical, thermal, or chemical injury.\n• Mechanism:\n– Noxious stimuli activate ion channels (TRP family, acid-sensing\nion channels, ATP-sensitive channels)\n– Depolarization generates action potentials in Aδ (fast pain) or C\nfibers (slow pain)\n41",
+        "image": "slides/sig-041.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 42,
+        "text": "Photoreceptors\n• Modalities: Vision\n• Stimulus: Light (photons).\n• Mechanism:\n– Photon absorption by rhodopsin (rods) or photopsins (cones) → activates\ntransducin (G-protein)\n– Transducin activates PDE, reducing cGMP\n– cGMP-gated Na⁺/Ca²⁺ channels close → membrane hyperpolarization\n– This decreases glutamate release, modulating bipolar/ganglion cell activity\n• Key point: Photoreceptors hyperpolarize (opposite to most receptors).\n42",
+        "image": "slides/sig-042.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 43,
+        "text": "Chemoreceptors\n1. Olfactory receptors (smell)\n– Odorant molecules bind GPCRs in olfactory neurons\n– Activates adenylyl cyclase → cAMP increase\n– cAMP opens cation channels → depolarization\n2. Taste receptors (gustation)\n– Salt: Na⁺ influx directly through ENaC channels\n– Sour: H⁺ entry blocks K⁺ channels, depolarizing cell\n– Sweet, bitter, umami: GPCRs activate second messenger pathways →\ndepolarization and neurotransmitter release\n43",
+        "image": "slides/sig-043.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 44,
+        "text": "Chemoreceptors, Cont..\n3. Carotid body chemoreceptors\n– Detect ↓O₂, ↑CO₂, ↓pH\n– Ion channel modulation leads to depolarization and\nneurotransmitter release onto afferent nerve endings\n44",
+        "image": "slides/sig-044.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 45,
+        "text": "Proprioceptors\n• Modalities: Muscle length, tension, position\n• Stimulus: Stretch or tension in muscles/tendons.\n• Mechanism:\n– Muscle spindle stretch → opens stretch-sensitive ion channels in Ia\nafferents\n– Golgi tendon organ tension → activates mechanosensitive channels in Ib\nafferents\n– Leads to depolarizing receptor potentials → action potentials in afferent\nfibers\n45",
+        "image": "slides/sig-045.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 46,
+        "text": "Encoding Stimuli into Neural Signals\n• Amplitude of receptor potential = proportional to stimulus\nintensity.\n• If threshold reached: frequency of action potentials encodes\nintensity.\n• Adaptation:\n– Phasic receptors (e.g., Pacinian corpuscle): rapid adaptation →\ndetect change.\n– Tonic receptors (e.g., muscle spindle): slow adaptation → detect\nsustained input.\n46",
+        "image": "slides/sig-046.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 47,
+        "text": "Summary\n• Different sensory receptors transduce stimuli by ion channel\nmodulation:\n– Mechanoreceptors, thermoreceptors, nociceptors → direct ion channel\nopening (Na⁺, K⁺, Ca²⁺)\n– Photoreceptors → GPCR cascade → closure of cGMP-gated channels →\nhyperpolarization\n– Chemoreceptors → GPCRs or direct ion channel modulation → depolarization.\n– Proprioceptors → mechanosensitive ion channels in muscle spindle or Golgi\ntendon organs\n• All lead to a receptor potential, which, if large enough, drives action\npotential firing in sensory nerves or modulates neurotransmitter release.\n47",
+        "image": "slides/sig-047.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 48,
+        "text": "Sensory Adaptation\n48",
+        "image": "slides/sig-048.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 49,
+        "text": "Sensory Adaptation\n• Sensory adaptation is the process by which sensory\nreceptors decrease their responsiveness during a\nconstant or unchanging stimulus\n– The receptor potential amplitude diminishes → fewer action\npotentials generated in the afferent nerve\n– This prevents the nervous system from being overloaded with\nredundant information\n49",
+        "image": "slides/sig-049.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 50,
+        "text": "Types of Sensory Adaptation\n• Rapidly Adapting (Phasic) Receptors\n– Respond strongly at the onset and offset of a stimulus\n– Stop firing during constant stimulation\n– Detect changes, vibration, and movement\n– Examples: Pacinian corpuscles (vibration), Meissner’s corpuscles (touch)\n• Slowly Adapting (Tonic) Receptors\n– Continue firing as long as the stimulus persists\n– Encode duration and intensity of the stimulus\n– Examples: Merkel cells (touch/pressure), muscle spindles (stretch), nociceptors\n(pain)\n50",
+        "image": "slides/sig-050.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 51,
+        "text": "Physiological Mechanisms\n• Ion channel inactivation: sustained stimulation causes receptor ion\nchannels to gradually close (e.g., mechanosensitive Na⁺ channels).\n• Receptor membrane properties: viscoelastic deformation in\nmechanoreceptors (Pacinian corpuscle “slips” under constant pressure).\n• Synaptic adaptation: in sensory pathways (e.g., decreased\nneurotransmitter release in olfactory neurons with continuous odor\nexposure).\n• Central adaptation: modulation in higher CNS centers can also “tune\ndown” repetitive signals.\n51",
+        "image": "slides/sig-051.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 52,
+        "text": "Physiological Significance\n1. Efficiency of perception\n– Frees the brain from constant background noise\n– Enhances sensitivity to new or changing stimuli (e.g., detecting sudden movement in\nvision or vibration in touch)\n2. Special senses examples\n– Vision: retinal photoreceptors adapt to light levels (dark vs light adaptation)\n– Smell (olfaction): rapid adaptation prevents sensory overload in strong odors\n– Touch: you stop feeling your clothes after a while (Pacinian corpuscle adaptation)\n3. Homeostasis\n– Prevents overstimulation by constant input, conserving energy for meaningful changes\n52",
+        "image": "slides/sig-052.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 53,
+        "text": "Clinical Significance\n1. Loss of adaptation\n– Neuropathy (e.g., diabetic neuropathy): abnormal adaptation may impair\ndetection of vibrations or changes in pressure, predisposing to foot ulcers\n– Chronic pain syndromes: nociceptors normally adapt slowly, but in neuropathic\npain, adaptation fails → persistent, exaggerated pain sensation (hyperalgesia)\n2. Abnormal hypersensitivity\n– Tinnitus: failure of auditory adaptation in cochlear or central circuits leads to\npersistent perception of sound\n– Allodynia: normally non-painful stimuli perceived as painful due to altered\ncentral adaptation\n53",
+        "image": "slides/sig-053.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 54,
+        "text": "Clinical Significance, Cont.\n3. Deficits in sensory adaptation\n– Olfactory loss (anosmia/hyposmia): impaired adaptation can\naffect appetite, safety (e.g., failure to detect smoke or gas)\n– Autism spectrum disorders: atypical sensory adaptation →\nhypersensitivity or hyposensitivity to sensory input\n54",
+        "image": "slides/sig-054.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 55,
+        "text": "Summary\n• Sensory adaptation: reduction in receptor response during\nsustained stimulation.\n• Rapid (phasic) receptors → detect changes; slow (tonic)\nreceptors → encode duration/intensity.\n• Physiological importance: filters redundant signals, emphasizes\nnew information.\n• Clinical relevance: disrupted adaptation contributes to pain\nsyndromes, sensory neuropathies, tinnitus, and sensory processing\ndisorders.\n55",
+        "image": "slides/sig-055.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 56,
+        "text": "The End !\nThe End!\n56",
+        "image": "slides/sig-056.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 57,
+        "text": "Questions !\nQuestions?\n57",
+        "image": "slides/sig-057.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 58,
+        "text": "Thank You !\nQuestions?\n58",
+        "image": "slides/sig-058.png",
+        "width": 1867,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "id": "cord",
+    "title": "Spinal Cord",
+    "source": "NNN 2 – Spinal Cord (Post-Class Slides).pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Spinal Cord Anatomy\n& Clinical Correlates\nPost-Class Slides\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nKirk Kerkorian School of Medicine\nUniversity of Nevada Las Vegas",
+        "image": "slides/cord-001.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 2,
+        "text": "Spinal Cord\nClinical Correlates",
+        "image": "slides/cord-002.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 3,
+        "text": "Brown Séquard Syndrome (Hemisection)\nCause: Spinal cord hemisection; classically penetrating trauma\nAt the Lesion\n• Ipsilateral LMN signs (anterior horn)\n• Ipsilateral complete sensory loss at lesion level\nBelow the Lesion\n• Ipsilateral UMN signs (corticospinal tract)\n• Ipsilateral loss of fine touch, vibration, proprioception (dorsal column)\n• Contralateral loss of pain, temperature (spinothalamic tract)\nCST + DCML = ipsilateral | Spinothalamic = contralateral\nLast, 12e.",
+        "image": "slides/cord-003.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 4,
+        "text": "Anterior Spinal Artery (ASA) Syndrome\nCause\n• Infarction of anterior 2/3 of spinal cord\n• May occur with aortic pathology or surgery, ASA occlusion\nBelow the Lesion\n• Bilateral UMN weakness (corticospinal tracts)\n• Bilateral loss of pain, temperature (spinothalamic tracts)\n• Vibration, proprioception, fine touch preserved (dorsal column spared)\n• ± Autonomic dysfunction (bladder, bowel, sexual, hypotension)\nAt the Lesion Level\n• LMN weakness (anterior horn)\nLast, 12e.",
+        "image": "slides/cord-004.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 5,
+        "text": "Artery of Adamkiewicz\n• Major segmental medullary artery\n• Reinforces blood supply to the lower spinal cord\n• Usually arises from the lower thoracic/upper lumbar region (T9–L2)\n• Injury during aortic surgery may cause anterior spinal artery syndrome\nArterial Supply of Spinal Cord\nFig. 2.55. GAS, 5e.",
+        "image": "slides/cord-005.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 6,
+        "text": "Syringomyelia\n• Fluid-filled cavity (syrinx) within the central spinal cord\n• Most commonly affects cervical cord\n• Damages crossing spinothalamic fibers in the anterior white commissure\n• → Bilateral pain/temperature loss in a cape-like distribution\n• Vibration/proprioception preserved\nWith expansion\n• Anterior horn → LMN weakness/hand muscle atrophy\n• Lateral horn/sympathetic pathway → Horner syndrome\n• Corticospinal tract → UMN signs below lesion\nAssociation\n• Chiari I malformation\nLast, 12e.",
+        "image": "slides/cord-006.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 7,
+        "text": "Subacute Combined Degeneration\n• Associated with vitamin B12 deficiency\n• Demyelination of:\n• Dorsal columns\n• Lateral corticospinal tracts\n• ↓ Vibration, proprioception → sensory ataxia, positive Romberg\n• Corticospinal involvement → spastic weakness, hyperreflexia, Babinski\n• May cause paresthesias and peripheral neuropathy\nB12 deficiency → dorsal columns + corticospinal tracts\nLast, 12e.",
+        "image": "slides/cord-007.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 8,
+        "text": "Ataxia\nAtaxia = impaired coordination, not weakness\n• Sensory: impaired proprioceptive → worse with eyes closed; positive Romberg\n• Cerebellar: wide-based gait, dysmetria, intention tremor\n• Vestibular: vertigo, nystagmus, imbalance",
+        "image": "slides/cord-008.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 9,
+        "text": "Tabes Dorsalis\n• Late manifestation of neurosyphilis\n• Degeneration of dorsal columns + dorsal roots\n• ↓ Vibration/proprioception → sensory ataxia, positive Romberg\n• Dorsal root involvement → absent reflexes + lightning pains\n• May cause urinary dysfunction (loss of bladder fullness sensation → dorsal root involvement)\n• Argyll Robertson pupils: accommodate but do not react to light\nSCD → dorsal columns + corticospinal tracts\nTabes dorsalis → dorsal columns + dorsal roots\nLast, 12e.",
+        "image": "slides/cord-009.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 10,
+        "text": "Friedreich Ataxia\n• Autosomal recessive; GAA repeat expansion in frataxin\nDegeneration of:\n• Dorsal columns → ↓ vibration/proprioception → sensory ataxia\nLast, 12e.\n• Spinocerebellar tracts → ↓ proprioceptive input to cerebellum → gait/limb ataxia\n• Corticospinal tracts → UMN signs (spasticity, Babinski)\n• Absent DTRs → impaired sensory afferent limb of reflex arc\n• Associated with hypertrophic cardiomyopathy and diabetes\n• Onset in childhood/adolescence\nSCD → dorsal columns + corticospinal tracts\nTabes dorsalis → dorsal columns + dorsal roots\nFriedreich → dorsal columns + spinocerebellar + corticospinal tracts",
+        "image": "slides/cord-010.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 11,
+        "text": "Poliomyelitis\n• Poliovirus selectively damages anterior horn motor neurons\n• Produces LMN signs\n• Flaccid weakness/paralysis\n• ↓ Muscle tone\n• ↓ Reflexes\n• Muscle atrophy\n• Sensation is preserved\n• Weakness may be asymmetric\nLast, 12e.\nAnterior horn lesion → LMN signs with preserved sensation",
+        "image": "slides/cord-011.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 12,
+        "text": "Spinal Muscular Atrophy (SMA)\n• Autosomal recessive disorder due to SMN1 (Survival Motor Neuron 1) gene deletion/mutation\n• Degeneration of anterior horn motor neurons\n• Produces LMN signs: weakness, hypotonia, muscle atrophy, ↓ reflexes\n• Sensation preserved\nSMA Type I (Werdnig-Hoffmann Disease)\n• Severe infantile form\n• “Floppy infant”\n• Symmetric proximal weakness\n• Tongue fasciculations\n• Respiratory weakness may occur\nPoliomyelitis: viral destruction of anterior horn cells\nSMA: genetic degeneration of anterior horn cells\nBoth → LMN signs with preserved sensation",
+        "image": "slides/cord-012.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 13,
+        "text": "Amyotrophic Lateral Sclerosis (ALS) / Lou Gehrig’s Disease\n• Progressive degeneration of:\n• Lateral corticospinal tracts (UMN) → spasticity, hyperreflexia, Babinski\n• Anterior horn motor neurons (LMN) → weakness, atrophy, fasciculations\n• Mixed UMN + LMN signs\n• Often begins asymmetrically\n• Sensation is preserved\n• Bulbar involvement → dysarthria, dysphagia\n• Respiratory muscle weakness may occur\nPolio → anterior horn → LMN\nSMA → anterior horn → LMN\nLast, 12e.\nALS → anterior horn + corticospinal tract → LMN + UMN",
+        "image": "slides/cord-013.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 14,
+        "text": "Conus Medullaris Syndrome (CMS)\n• Lesion of the terminal spinal cord (conus medullaris)\n• Findings usually bilateral and symmetric\n• May produce mixed UMN + LMN signs\n• Saddle anesthesia\n• Early bladder/bowel dysfunction\n• Radicular pain is typically less prominent than in CES\nConus medullaris = spinal cord → may have UMN/LMN signs\nTypically symmetric findings + early sphincter dysfunction\nVaishya. World Neurosurg X, 2024",
+        "image": "slides/cord-014.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 15,
+        "text": "Cauda Equina Syndrome (CES)\n• Compression of lumbosacral nerve roots below the conus medullaris\n• LMN signs\n• Flaccid weakness\n• ↓/absent reflexes\n• Sensory loss often asymmetric\n• Saddle anesthesia\n• Radicular low back/leg pain\n• Bladder/bowel dysfunction may occur\nCauda equina = nerve roots\n→ asymmetric LMN findings\nVaishya. World Neurosurg X, 2024\nConus = cord → may have UMN + LMN signs; symmetric; early sphincter dysfunction\nCauda equina = roots → LMN only; asymmetric; prominent radicular pain",
+        "image": "slides/cord-015.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 16,
+        "text": "Complete Spinal Cord Transection\nAcute Phase — Spinal Shock\n• Loss of motor and sensory function below the lesion\n• Flaccid paralysis\n• Areflexia\n• Loss of autonomic function\n• Cervical/high thoracic injury may cause hypotension + bradycardia\nAfter Spinal Shock Resolves\n• Spasticity\n• Hyperreflexia\n• Babinski signs\n• Persistent paralysis below the lesion\nAcute cord injury → spinal shock: flaccid + areflexic\nLater → UMN signs: spastic + hyperreflexic + Babinski",
+        "image": "slides/cord-016.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 17,
+        "text": "Summary\n• Localize: modality + side + level\n• UMN: spasticity, hyperreflexia, Babinski\n• LMN: flaccidity, hyporeflexia, atrophy/fasciculations\n• Tract location + decussation → pattern of deficits\n• Selective tract disease → characteristic combinations of deficits\n• Cord lesions → UMN ± LMN | Root lesions → LMN\n• Spinal shock: acute areflexia/flaccidity → later UMN signs",
+        "image": "slides/cord-017.png",
+        "width": 1867,
+        "height": 1050
+      },
+      {
+        "page": 18,
+        "text": "Spinal Cord\nAnatomy & Clinical\nCorrelates\nAftab Merchant, MBBS, FCPS, MHPE\nProfessor of Medical Education\nAssistant Dean of Anatomical Education\nCourse Director Anatomy and Neuroscience\nTel: (702) 545-2050 | aftab.merchant@unlv.edu\nSchedule an Appointment",
+        "image": "slides/cord-018.png",
+        "width": 1867,
+        "height": 1050
+      }
+    ]
+  }
+]

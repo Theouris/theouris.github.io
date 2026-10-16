@@ -1,0 +1,90 @@
+{
+  "ap": {
+    "title": "NCBI: Neuron Action Potential",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK546639/"
+  },
+  "channels": {
+    "title": "NCBI: Ion Channels and Electrical Properties of Membranes",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK26910/"
+  },
+  "synapses": {
+    "title": "NCBI Neuroscience: Synaptic Transmission",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK11001/"
+  },
+  "sensory": {
+    "title": "NCBI: Physiology, Sensory Receptors",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539861/"
+  },
+  "touch": {
+    "title": "NCBI Neuroscience: Mechanoreceptors Specialized for Tactile Information",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK10895/"
+  },
+  "mechanical": {
+    "title": "NCBI: Physiology, Mechanoreceptors",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK541068/"
+  },
+  "photo": {
+    "title": "NCBI Neuroscience: Phototransduction",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK10806/"
+  },
+  "sour": {
+    "title": "Sour Sensing from the Tongue to the Brain (primary study)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31543264/"
+  },
+  "pain": {
+    "title": "NCBI Neuroscience: Hyperalgesia and Sensitization",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK10999/"
+  },
+  "brown": {
+    "title": "NCBI: Brown-Séquard Syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538135/"
+  },
+  "tracts": {
+    "title": "Incomplete Cord Syndromes: Clinical and Imaging Review",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29995620/"
+  },
+  "cst": {
+    "title": "NCBI: Corticospinal Tract Lesion",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542201/"
+  },
+  "asa": {
+    "title": "NCBI: Anterior Spinal Artery Syndrome",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560731/"
+  },
+  "neurogenic": {
+    "title": "NCBI: Neurogenic Shock",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459361/"
+  },
+  "dysreflexia": {
+    "title": "NCBI: Autonomic Dysreflexia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482434/"
+  },
+  "b12": {
+    "title": "NCBI: Spinal Cord Subacute Combined Degeneration",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560728/"
+  },
+  "friedreich": {
+    "title": "GeneReviews: Friedreich Ataxia",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK1281/"
+  },
+  "tabes": {
+    "title": "NCBI: Tabes Dorsalis",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK557891/"
+  },
+  "sma": {
+    "title": "GeneReviews: Spinal Muscular Atrophy",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK1352/"
+  },
+  "als": {
+    "title": "NINDS: Amyotrophic Lateral Sclerosis",
+    "url": "https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als"
+  },
+  "cauda": {
+    "title": "NCBI: Cauda Equina and Conus Medullaris Syndromes",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537200/"
+  },
+  "morphology": {
+    "title": "NCBI: Spinal Cord Morphology",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK545206/"
+  }
+}
