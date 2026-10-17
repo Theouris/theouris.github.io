@@ -1,0 +1,1479 @@
+=== av-1 ===
+Disorders of 
+the Auditory 
+and Vestibular 
+System
+Matthew Ng, MD
+Clinical Associate Professor
+Department of Otolaryngology-HNS
+UNLV School of Medicine
+=== av-2 ===
+Goals & Objectives
+• Review clinical applications of knowledge base on auditory and 
+vestibular neurophysiology
+• Review common auditory and vestibular disorders
+• Auditory disorders: types of hearing loss (conductive vs sensorineural 
+vs mixed hearing loss), age-related, noise-induced, sudden idiopathic, 
+ototoxicity, asymmetric) and tinnitus
+• Vestibular disorders: BPPV, vestibular neuritis and labyrinthitis, 
+Meniere's disease and vestibulotoxicity
+=== av-3 ===
+Case #1
+3 yo M brought in by mom with concerns for recurrent ear infections. Pt 
+has had an ear infection, sometimes bilateral, about 6 times this past 
+one year. In between ear infections, the pediatrician notices amber￾colored discoloration of the eardrums.
+=== av-4 ===
+Tubes were placed and mom reports pt is happier and hears better.
+=== av-5 ===
+• Newer treatment for Eustachian tube dysfunction
+=== av-6 ===
+Case #2
+6 month-old infant girl (no family hx of hearing loss) failed her state￾mandated newborn hearing screen at birth. Audiologic testing at 3 
+mos of age with auditory brainstem response testing revealed bilateral 
+profound hearing loss. Genetic testing revealed a mutation in the GBJ2 
+gene (connexin gene). Hearing aid trial at 6 mos of age did not make 
+any difference in the patient’s response to sound. Parents desire 
+patient to hear and develop speech normally.
+=== av-7 ===
+As early as 9 mos of age, bilateral cochlear implants were surgically 
+placed. By age 5 years, patient is attending mainstream school and is 
+academically on par with her peers in the classroom.
+=== av-8 ===
+Case #3
+55 yo M presents with gradual left 
+hearing loss out of proportion to the 
+right. This has been ongoing for at least 
+5 years. In addition to the near-total 
+hearing loss, he has left unremitting, 
+high-pitch tinnitus. He notices that when 
+he walks, he veers to the left. 
+Audiometric evaluation reveals an 
+asymmetric left sensorineural hearing 
+loss.
+=== av-9 ===
+This asymmetry in hearing prompts 
+an MRI of the internal auditory 
+canal with and without gadolinium.
+Left vestibular schwannoma.
+=== av-10 ===
+Surgery is performed to remove the vestibular schwannoma tumor in 
+conjunction with neurosurgery via translabyrinthine approach. The 
+vestibular end-organ is drilled away to gain access to the 
+cerebellopontine angle to permit tumor removal and facial nerve 
+preservation.
+=== av-11 ===
+Case #4
+82 yo female c/o “dizziness”. Upon further elicitation 
+of her history, she has gait imbalance when she is on 
+her feet. She loses her orientation with quick head 
+movements or rapid changes in her position. She 
+feels like she is going to fall. She will be having 
+cataract surgery because her vision is blurred. She 
+recently had bilateral knee replacement surgery. 
+Why is she so imbalanced?
+=== av-12 ===
+Balance Mechanisms
+(multiple inputs to brain)
+Balance treatment: vestibular 
+rehabilitation/ balance-retraining
+=== av-13 ===
+HEARING LOSS
+=== av-14 ===
+Hearing…what happens?
+• Phenomenon of capturing sound energy 
+(acoustic energy) traveling via air medium by 
+outer ear
+• Transforming the sound energy by the middle ear 
+(impedance matching system)
+• Tranducing the sound energy by the inner ear to 
+neural activity…
+• Decoded by central auditory nervous system into 
+complex auditory perceptions (speech and 
+music)
+=== av-15 ===
+External Ear Middle Ear
+=== av-16 ===
+INNER EAR
+• Acoustic energy from middle ear 
+transferred to inner ear fluids 
+(hydromechanical energy)
+• Inner ear fluids: endolymph and 
+perilymph
+• Cochlear fluid movement results in basilar 
+membrane movement (Traveling Wave 
+Theory)
+=== av-17 ===
+Traveling Wave Theory
+• Georg von Bekesy 
+• 1961 Nobel Prize in 
+Physiology/Medicine
+• Harvard University
+=== av-18 ===
+Cochlear Tonotopicity
+=== av-19 ===
+Central Auditory System
+• Cochlear nerve enters pontomedullary junction
+• Consists of cochlear nuclei at brainstem
+• Dorsal nucleus (all fibers ascend contralaterally)
+• Ventral nucleus (30% fibers go ipsilateral)
+=== av-20 ===
+Auditory Cortex
+• Hearing in noise
+• Sound localization
+• Temporal judgments of sound
+• Decoding complex acoustic 
+stimuli
+• Music appreciation
+=== av-21 ===
+How to test 
+hearing:
+=== av-22 ===
+How to test 
+hearing:
+=== av-23 ===
+Audiology Booth and Testing
+=== av-24 ===
+Air Conduction and Bone Conduction Testing
+=== av-25 ===
+Pure Tone Testing & Word Recognition 
+Testing
+=== av-26 ===
+AUDIOGRAM
+=== av-27 ===
+AUDIOGRAM￾degrees of 
+hearing loss
+=== av-28 ===
+AUDIOGRAM
+=== av-29 ===
+Normal 
+hearing
+=== av-30 ===
+AUDIOGRAM￾sensorineural 
+hearing loss
+=== av-31 ===
+Conductive 
+Hearing Loss
+=== av-32 ===
+Mixed
+Hearing Loss
+=== av-33 ===
+TYMPANOGRAM
+=== av-34 ===
+Auditory 
+Brainstem 
+Response 
+Testing
+=== av-35 ===
+Types of hearing loss…
+=== av-36 ===
+Conductive Hearing Loss
+=== av-37 ===
+Sensorineural Hearing Loss
+=== av-38 ===
+Mixed Hearing Loss
+=== av-39 ===
+Causes for 
+conductive 
+hearing 
+loss…
+=== av-40 ===
+Causes of conductive hearing loss…
+=== av-41 ===
+Ways to 
+correct 
+conductive 
+hearing loss…
+=== av-42 ===
+Bone conduction devices-percutaneous
+=== av-43 ===
+Bone conduction devices-transcutaneous
+=== av-44 ===
+What 
+happens in 
+SNHL 
+hearing 
+loss?
+=== av-45 ===
+Ways to assist 
+hearing…
+Amplification
+=== av-46 ===
+Cochlear Implantation
+=== av-47 ===
+Presbycusis (age-related hearing loss)
+• Auditory neural structures do not regenerate 
+• Loss of auditory sensitivity and decline in 
+word recognition abilities
+• Contributing factors: genetic predispositions, 
+occupational noise, diet, CV disease, 
+smoking, alcohol abuse, head trauma
+• Symmetric sensorineural hearing loss
+=== av-48 ===
+Noise-induced 
+hearing loss
+• Susceptibility to NIHL from sounds within 
+our audible spectrum
+• Damage to human hearing > 8 hrs of 
+continuous sound 85dBA
+• Most noise is intermittent and broad 
+band
+• OSHA 5-dB trade rule: reduction of ½ 
+duration, permissible sound levels can 
+increase by 5dB
+• Most affected frequency band affected 
+3-6KHz 
+• Temporary vs. permanent threshold 
+shifts
+• Humans lack hair cell regeneration 
+capability
+=== av-49 ===
+Ototoxic hearing loss
+• Therapeutic agents/chemical substances that cause functional impairment and 
+cellular degeneration of inner ear tissues
+• Common agents:
+• Aminoglycosides (OHC>IHC loss at basal turn) 
+• Streptomycin, gentamicin, tobramycin, amikacin
+• Loop diuretics (stria vascularis; dose-related, reversible reduction of 
+endocochlear potential)
+• furosemide
+• Salicylates (biochemical alterations, OHC motility affected, reversible)
+• aspirin
+• Cisplatin (loss of OHC; mechanism? Irreversible damage)
+• Recommendations: reduce dosing frequency, avoid IV bolus 
+administrations, monitor drug serum levels, pay attention to 
+early symptomatology (HL, tinnitus)
+• Vestibulotoxicity
+• Similar mechanisms of hair cell damage
+• Early signs: dizziness, vertigo, nystagmus, oscillopsia
+=== av-50 ===
+Sudden idiopathic SNHL
+• Defined by loss of >30dB in at least 3 
+contiguous test frequencies within 3 days 
+(rule of 3’s)
+• Atrophy of organ of Corti, stria vascularis, 
+tectorial membrane
+• Causes: viral, autoimmune, vasocclusive
+• Treatment: oral steroids, intratympanic 
+steroids
+=== av-51 ===
+Asymmetric SNHL and 
+Vestibular Schwannomas
+• Asymmetric hearing loss is not common
+• Defined as 10dB or worse over 2 test 
+frequencies or > 15% difference in word 
+recognition scores
+=== av-52 ===
+TINNITUS
+=== av-53 ===
+TINNITUS
+Definition
+• Tinnitus: perception of noise in the absence of 
+acoustic stimulus
+=== av-54 ===
+TINNITUS
+• Objective and subjective 
+tinnitus
+• Objective: that which is audible by 
+physician or with pulsatile 
+character
+• Subjective: that which is audible 
+by patient only
+Tinnitus 
+Help
+=== av-55 ===
+Objective Tinnitus
+• Types of objective tinnitus
+• Vascular
+• Muscular
+• Eustachian tube dysfunction
+=== av-56 ===
+Objective Tinnitus
+Vascular
+=== av-57 ===
+Objective Tinnitus
+Vascular
+=== av-58 ===
+Objective Tinnitus
+Vascular
+• Pulsatile sound
+• Synchronous with heartbeat/pulse
+• Tempo or rate increases with exercise
+• Pathologies to consider:
+• Arteriovenous shunts (intracranial or periauricular, congenital or 
+acquired)
+• Congenital AV malformations (direct connection between 
+arterial and venous systems)
+• Arterial bruits (from carotid or vertebral A systems, stenoses)
+• Venous hums (related to HTN)
+• Idiopathic intracranial hypertention
+=== av-59 ===
+• Diagnosis: MRA/MRV; CT angiography; conventional 
+angiography
+Objective Tinnitus
+Vascular
+=== av-60 ===
+Objective Tinnitus
+Muscular
+• Tensor tympani muscle/ 
+stapedius muscle spasm
+=== av-61 ===
+Objective 
+Tinnitus
+Eustachian tube 
+dysfunction
+• Patulous Eustachian Tube
+• Respiratory & phonatory 
+autophony
+• Aural fullness
+=== av-62 ===
+Subjective Tinnitus
+=== av-63 ===
+Subjective Tinnitus
+Causes/ Theories
+• Disordered hair cell theory: hair cell injury from hearing loss causes repetitive 
+discharge in a way that central auditory system does not discriminate from actual 
+sound
+• Spontaneous neural activity within individual nerve fibers of the auditory nerve 
+originate from neural injury or metabolic abnormality
+• Hyperactivity of nuclei in ascending auditory pathway stimulates different areas 
+of auditory cortex in absence of acoustic stimulus
+=== av-64 ===
+Subjective Tinnitus
+Causes/ Theories
+• **Cochlear damage reduces suppressive influence of CNS allowing increase in 
+neural activity at higher centers in the auditory system
+DEAFFERENTATION- LOSS OF INHIBITION HYPOTHESIS OF TINNITUS
+=== av-65 ===
+Subjective Tinnitus
+Causes/ Theories
+=== av-66 ===
+Tinnitus
+Common Presentation
+• 75% with tinnitus have 30+ dB hearing loss from 3-8 KHz
+• Pitch match of tinnitus correlates with frequency of hearing loss 
+nadir
+=== av-67 ===
+Tinnitus
+Treatment
+=== av-68 ===
+Tinnitus
+Treatment
+• General lifestyle and dietary modifications:
+• Reduce chocolate, caffeine, nicotine
+• Avoid noisy environments
+• Home masking techniques
+• Avoid ASA-containing medications
+• Treatment should be directed to associated conditions (targeted￾therapy)
+• TMJ (TMJ treatment)
+• Cervical muscular tension (muscle relaxant)
+• Depression/anxiety disorder (SSRI/anxiolytic)
+• Poor sleep patterns (melatonin)
+=== av-69 ===
+Tinnitus
+Medical Treatment
+• Anti-depressants 
+• Heterocyclics (nortriptyline) /SSRI (sertraline)
+• Anti-convulsants
+• Carbamazepine, gabapentin
+• Tranquilizers 
+• diazepam, clonazepam, oxazepam, alprazolam
+• Rationale: 
+• Enhance neural inhibition: GABA (inhibitory neurotransmitter) analogue 
+such as gabapentin useful
+• Maintain serotonin levels (serotonin is a chemical modulator of neural 
+sensory systems)
+=== av-70 ===
+
+=== av-71 ===
+Vestibular System, 
+Balance, Dizziness, & 
+Vestibulopathies
+=== av-72 ===
+Vestibular 
+Endorgans
+=== av-73 ===
+Vestibular Endorgans
+=== av-74 ===
+Maintaining Orientation and Balance
+=== av-75 ===
+Maintaining Orientation and Balance
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+=== av-76 ===
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+VESTIBULAR
+-Associated reflexes:
+VESTIBULO-OCULAR REFLEX
+VESTIBULO-SPINAL REFLEX
+=== av-77 ===
+VESTIBULAR
+VISION
+PROPRIOCEPTION
+BALANCE
+• Visual acuity (clear vision)
+• Oculomotor system
+•Binocular vision
+=== av-78 ===
+VESTIBULAR
+VISION
+PROPRIOCEPTION
+BALANCE
+• Sensory input from major 
+joints (hips, knees, ankles)
+• Center of gravity shifts to 
+remain upright
+=== av-79 ===
+Maintaining Orientation and Balance
+Sensory and Multisensory Conflict
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+=== av-80 ===
+Maintaining Orientation and Balance
+Sensory and Multisensory Conflict
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+=== av-81 ===
+Maintaining Orientation and Balance
+Sensory and Multisensory Conflict
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+=== av-82 ===
+Maintaining Orientation and Balance
+Sensory and Multisensory Conflict
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+=== av-83 ===
+Maintaining Orientation and Balance
+Sensory and Multisensory Conflict
+VESTIBULAR
+VISION PROPRIOCEPTION
+BALANCE
+=== av-84 ===
+Dizziness
+=== av-85 ===
+PERIPHERAL LABYRINTHINE 
+DISORDERS
+• Benign Paroxysmal Positional Vertigo
+• Vestibular neuritis/ labyrinthitis
+• Meniere’s disease
+• Vestibulotoxicity
+=== av-86 ===
+COMMON PERIPHERAL 
+LABYRINTHINE DISORDERS
+• Benign Paroxysmal Positional Vertigo (BPPV)
+• Cupulolithiasis/ Canalithiasis: Loose otoconial particles 
+from posterior SCC from utricle
+• Positionally induced vertigo, lasting seconds
+• Provoking positions: turn over in bed, get in/out of bed, 
+bending over, extend neck to look up and back
+• + Dix-Hallpike positioning test: torsional vertical positional 
+nystagmus in plane of posterior SCC
+• Treatment: Canalith repositioning maneuver (Epley 
+maneuver)
+=== av-87 ===
+BENIGN PAROXYSMAL POSITIONAL VERTIGO
+=== av-88 ===
+Dix-Hallpike test for BPPV
+• Look for rotary, jerk nystagmus
+• Geotropic (toward lowermost 
+involved ear) rotational 
+nystagmus
+=== av-89 ===
+Epley Maneuver for BPPV
+=== av-90 ===
+COMMON 
+PERIPHERAL 
+LABYRINTHINE 
+DISORDERS
+• Vestibular Neuritis
+• Inflammation of labyrinth or vestibular 
+nerve from viral
+• Acute onset vertigo (peak at 24 hours), 
+duration for days, and gradual 
+improvement over weeks
+• 20-30% have recurrence
+• usually not associated hearing loss
+• Treatment: vestibular suppressants, 
+antiemetics, corticosteorids
+=== av-91 ===
+COMMON 
+PERIPHERAL 
+LABYRINTHINE 
+DISORDERS
+• Serous / suppurative labyrinthitis
+• Infection of the labyrinth
+• Entry of infection from middle ear or 
+intracranial cavity (meningitis, internal 
+auditory canal, cochlear aqueduct)
+• May have entry of inflammatory 
+mediators / toxins / bacteria
+• Features hearing loss
+• Treatment: vestibular suppressants, 
+antiemetics, corticosteorids + 
+ANTIBIOTICS
+=== av-92 ===
+Meniere’s disease
+• Symptom complex described by Prosper Ménière
+in 1861
+• Spontaneous episodic vertigo
+• Tinnitus
+• Fluctuating hearing loss
+• Aural fullness
+• Histopathologic correlate described independently 
+by Hallpike & Cairns and Yamakawa (1938): 
+endolymphatic hydrops
+=== av-93 ===
+Endolymphatic Hydrops
+=== av-94 ===
+MENIERE’S DISEASE
+DISTENTION OF 
+ENDOLYMPHATIC 
+COMPARTMENT
+=== av-95 ===
+Endolymphatic Hydrops & Meniere’s disease: a complex 
+relationship
+• Endolymph produced by stria vascularis and dark cells of 
+the vestibular labyrinth
+• Endolymphatic hydrops might result from overproduction 
+or under-resorption of endolymph
+• Local alteration of the biochemical environment & 
+homeostasis of the labyrinth
+=== av-96 ===
+Meniere’s disease: Presentation 
+(classic tetrad)
+• Episodic vertigo (minutes to hrs)
+• Fluctuating hearing loss (50-70%) (low 
+frequency)
+• Tinnitus (roaring, gets louder with attacks)
+• Aural fullness (50-70%)
+• Progression of Meniere’s disease to contralateral 
+ear (up to 50%)
+=== av-97 ===
+Course of Meniere’s Disease
+• Spontaneous attacks of vertigo in clusters or on 
+regular schedule
+• Fluctuating hearing loss leading to progressive 
+hearing loss
+• Periods of remission for years followed by 
+recurrence
+• Burnt-out phase: 
+• no more acute attacks of vertigo
+• chronic dysequilibrium
+• hearing stabilizes at 50dB flat audiometric 
+configuration, 50% WRS
+=== av-98 ===
+Medical Management
+• Symptomatic treatment
+• Vestibular suppressants: meclizine, valium, 
+clonazepam, phenergan, ondansetron
+• Dietary modifications
+• Low sodium diet (< 2 grams/ day)
+• Reduce caffeine, alcohol intake
+• General health maintenance: sleep, rest, control 
+allergies, thyroid, DM control, avoid hormonal 
+fluxes
+=== av-99 ===
+Medical Management
+• Diuretics
+• Classes of diuretics used: thiazide (HCTZ), potassium sparing (Dyazide, Maxzide), 
+carbonic anhydrase inhibitor (Diamox)\
+• Vasodilators
+• Betahistine (Serc)
+• Oral analogue of histamine
+• Causes capillary dilation
+=== av-100 ===
+Surgical Treatment
+• Endolymphatic sac shunt / decompression
+=== av-101 ===
+Surgical Treatment
+• Labyrinthectomy
+=== av-102 ===
+Surgical Treatment
+• Vestibular Nerve Section
+=== av-103 ===
+Intratympanic Gentamicin
+=== av-104 ===
+COMMON PERIPHERAL 
+LABYRINTHINE DISORDERS
+•Vestibulotoxicity
+• Drug-induced hair cell injury
+• Common agents: aminoglycosides (gentamicin), 
+chemotherapeutic agents (cisplatin), salicylates
+• May lead to bilateral vestibular hypofunction
+• Symptoms: oscillopsia (visual bobbing), imbalance, high￾frequency hearing loss
+=== av-105 ===
+RECOVERY FROM VESTIBULAR INJURY
+• Central nervous system has adaptive mechanisms 
+to handle sensory conflicts
+(CENTRAL COMPENSATION)
+• Develop coping strategies
+• Adaptive mechanisms will differ in each case; hence, 
+recovery will be variable
+• Factors: health of CNS, severity of insult
+=== av-106 ===
+Recovery
+• Recovery through process of central 
+compensation
+• Consists of (2) phases:
+• Suppression of asymmetry in the acute 
+phase
+• Re-balance neural activity (recalibration)
+• CNS plasticity (ability to adapt to 
+sensory input and maintain appropriate 
+response)
+• Rationale for vestibular rehabilitation
+• Habituation exercises
+=== av-107 ===
+COMPENSATION PATTERNS
+FAILURE OF COMPENSATION
+DECOMPENSATION INCOMPLETE RECOVERY
+=== av-108 ===
+Central Compensation
+• Compensation takes longer in older population
+• Altered with medications
+• Other neurological conditions
+• Decompensation can still occur
+=== av-109 ===
+VESTIBULAR REHABILITATION
+• Balance exercises to maximize and enhance 
+remaining vestibular function
+• Exercises to improve gaze stability, balance, and 
+gait
+• Habituation exercises designed to extinguish 
+pathologic responses to head motion
+• Must have re-synthesis of visual, vestibular, 
+proprioceptive information; changes on-going at 
+cerebellum and vestibular nuclei level
+=== av-110 ===
+Vestibular Rehabilitation
+=== av-111 ===
+Vestibular Rehabilitation
+=== av-112 ===
+Vestibular Rehabilitation
+=== av-113 ===
+CONCLUSIONS
+• Understanding the basics of hearing and balance function 
+contributes to a better understanding of the 
+pathophysiology of hearing and balance disorders to better 
+treat clinical disorders
+• Results in more effective and rational treatments
+matthew.ng@unlv.edu
+=== oph-1 ===
+Ophthalmics
+Aryan Rahbar, PharmD
+=== oph-2 ===
+Mydriatics & cycloplegics
+• Atropine, tropicamide, 
+cyclopentolate
+• Cholinergic antagonists
+• Have mydriatic and cycloplegic activity 
+• Primary difference between the 
+agents is duration of mydriasis 
+• Atropine: 7-14 days
+• Cyclopentolate: 24 hours
+• Tropicamide: 6 hours 
+• Phenylephrine 
+• α1
+agonist → mydriasis (no 
+cycloplegia)
+Whalen. Pharmacology 8th edition. 2023
+=== oph-3 ===
+Antiglaucoma agents
+=== oph-4 ===
+β-blockers (timolol, betaxolol, 
+carteolol)
+• Mechanism of action
+• Blocks β2
+activated aqueous humor production from 
+the ciliary epithelium
+• Adverse effects
+• Indicated for angle closure and open angle 
+glaucoma 
+Whalen. Pharmacology 8th edition. 2023
+=== oph-5 ===
+α-agonists
+• α2
+agonist(apraclonidine, brimonidine)
+• Mechanism of action
+• Primary:  aqueous humor synthesis via α2
+receptor activation
+• Secondary: ↑outflow of aqueous humor 
+through the uveoscleral pathway 
+• Adverse effects
+• Blurry vision
+• Ocular hyperemia 
+• Foreign body sensation
+• Itchy eyes 
+• Indicated for open angle glaucoma 
+• α and β agonist (epinephrine)
+• Mechanism of action
+• Early effect:  β2 aqueous humor production
+• DO NOT GIVE IN ANGLE-CLOSURE GLAUCOMA 
+• Later effect:  aqueous humor synthesis via 
+vasoconstriction and α2
+receptor activation
+• Later effect: ↑outflow of aqueous humor 
+through the uveoscleral pathway 
+• Adverse effects
+• Mydriasis
+• Blurry vision
+• Ocular hyperemia 
+• Foreign body sensation
+• Itchy eyes 
+• Not routinely used anymore for glaucoma 
+management 
+Whalen. Pharmacology 8th edition. 2023
+=== oph-6 ===
+Diuretics (acetazolamide, mannitol)
+• Carbonic anhydrase inhibitors 
+(acetazolamide, dorzolamide, 
+brinzolamide)
+• Mechanism of action
+• Inhibits carbonic anhydrase on the ciliary 
+epithelium of the eye → decreased 
+production of aqueous humor 
+• Adverse effects
+• Metabolic acidosis
+• Potassium depletion 
+• Paresthesia 
+• Renal stones 
+• Acetazolamide given orally or 
+intravenously → increased risk for 
+systemic effects
+• Indicated for angle closure glaucoma or 
+open angle glaucoma 
+• Mannitol
+• Mechanism of action
+•  serum osmolarity → draws fluid out of 
+the anterior chamber of the eye 
+• Adverse effects
+• Dehydration → prerenal acute kidney injury 
+• Indicated for angle closure glaucoma 
+Whalen. Pharmacology 8th edition. 2023
+=== oph-7 ===
+Prostaglandin analogs (bimatoprost, 
+latanoprost)
+• Mechanism of action
+• PGF2α analog→ increase outflow 
+of aqueous humor via uveoscleral 
+pathway
+• Adverse effects
+• Darkening of iris 
+• Eyelash growth (Latisse)
+• Indicated for open angle 
+glaucoma 
+Latisse.com
+Whalen. Pharmacology 8th edition. 2023
+=== oph-8 ===
+Cholinomimetics
+• Direct (pilocarpine, carbachol)
+• Mechanism of action
+• M3
+receptor activation contracts 
+ciliary muscle → increased outflow 
+of aqueous humor through 
+trabecular meshwork 
+• Adverse effects
+• Cholinergic toxicity 
+• Miosis → blurry vision in low light
+• Angle closure glaucoma or open 
+angle glaucoma 
+• Indirect (echothiophate)
+• Mechanism of action
+• Inhibits acetylcholinesterase →
+increased acetycholine → M3
+receptor activation contracts ciliary 
+muscle → increased outflow of 
+aqueous humor through trabecular 
+meshwork 
+• Adverse effects
+• Cholinergic toxicity 
+• Miosis → blurry vision in low light
+• Open angle glaucoma 
+Whalen. Pharmacology 8th edition. 2023
+=== oph-9 ===
+Rho kinase inhibitors (netarsudil, ripasudil)
+• Mechanism of action
+• ↓ cell stiffness of trabecular 
+meshwork → increased drainage 
+of aqueous humor
+• Can ↓ fibrosis of trabecular 
+meshwork
+• Well tolerated
+• Used in open angle glaucoma 
+rhopressa.myalcon.com
+Whalen. Pharmacology 8th edition. 2023
+=== oph-10 ===
+Carbonic anhydrase inhibitors
+Whalen. Pharmacology 8th edition. 2023
+=== oph-11 ===
+Question
+A 53-year-old woman suffering from open-angle glaucoma was 
+prescribed pilocarpine to help control her intraocular pressure. The 
+therapeutic effect of pilocarpine is due to:
+A. Inhibition of carbonic anhydrase
+B. Inhibition of acetylcholinesterase
+C. Activation of muscarinic M3
+receptors
+D. Blockade of β-adrenergic receptors
+=== oph-12 ===
+Question
+If an ophthalmologist wants to dilate the pupils for an eye examination, 
+which of the following class of drugs would be most useful?
+A. Muscarinic receptor agonist
+B. Muscarinic receptor antagonist
+C. Beta-blocker
+D. Osmotic diuretic 
+=== oph-13 ===
+Questions?
+Aryan.Rahbar@unlv.edu
+=== va-1 ===
+Visual and Auditory Systems
+MED 808: Neuroscience, Neuroanatomy, and Neurology (NNN), Fall 2026
+Reading: 
+Linda S. Costanzo: Physiology, 8th Ed., (Refer to Course Syllabus).
+Larry D. Alexander, Ph. D. 
+Assistant Dean for Biomedical Science Education
+Associate Professor of Physiology
+Email: larry.alexander@unlv.edu
+Office: MED 5-566
+Office Hours: Walk-ins and by Appointment
+1
+=== va-2 ===
+Learning Objectives
+After studying this lecture, the student should be able to:
+1. Explain the mechanisms of phototransduction in retinal rod and 
+cone photoreceptors and predict how light- and dark-induced 
+changes in photopigments, cyclic GMP, ion-channel activity, and 
+neurotransmitter release influence bipolar and ganglion cell 
+signaling. 
+2. Describe the structure of the outer, middle, and inner ear, and 
+relate their anatomical organization to hearing and balance.
+3. Explain the organization and function of the auditory and vestibular 
+pathways from the inner ear to the cerebral cortex. 
+2
+=== va-3 ===
+Lecture Outline
+I. Photoreceptors
+II. Photoreception in the Rod Cell
+III. Vision Field Defects
+IV. Overview of Hearing
+V. External and Middle Ear: Sound Conduction
+VI. Physiological Mechanism of Auditory Signal Transduction
+VII. Auditory Neural Pathway
+3
+=== va-4 ===
+Photoreceptors
+4
+=== va-5 ===
+Photoreceptors
+• Two types of 
+photoreceptors:
+– Rods
+– Cones
+• Modified neurons
+– Outer segment: detects light
+– Inner segment: cell body
+– Synaptic terminal: connects to 
+interneurons
+• Photoreceptors located in 
+retina.
+5
+FIG. 3.15 Structureof photoreceptors. The enlargements show a
+magnified view of the outer segments. Outer segment contains
+rhodopsin (a light-sensitive pigment). The greater the amount of
+photopigment, the greater the sensitivity to light. The inner segments
+contain mitochondria and other organelles.
+Apex
+Base
+Contains large
+amounts of 
+rhodopsin).
+NIGHT vision
+HIGH sensitivity to light
+LOW visual acuity
+COLOR vision
+LOW sensitivity to light
+HIGH visual acuity
+=== va-6 ===
+TABLE 3.4 Properties of Rods and Cones
+Photoreceptor Sensitivity to Light Acuity Dark Adaptation Color Vision
+Rods Low threshold
+Sensitive to
+low- intensity
+light
+Night vision
+Low acuity
+Not present
+on fovea
+Adapt late No
+Cones High threshold
+Sensitive to
+high- intensity
+light
+Day vision
+High acuity
+Present on fovea
+Adapt early Yes
+6
+=== va-7 ===
+Photoreception in the 
+Rod Cell
+7
+=== va-8 ===
+Photoreception
+• Both rhodopsin and opsin are essential proteins involved in the 
+phototransduction process, but they serve different roles in vision.
+• Rhodopsin structure:
+– Visual pigment in rod cells of the retina
+– Composed of 11-cis-retinal (a light-sensitive chromophore derived from 
+Vitamin A) bound to opsin (a protein)
+– In the dark, rhodopsin is stable and has a purple color due to the 
+specific configuration of 11-cis-retinal
+8
+=== va-9 ===
+1. In darkness, the cyclic GMP levels of photoreceptors 
+are high.
+2. This level of cGMP opens the cGMP ligand-gated Na+
+ions channels.
+3. Inflow of Na+
+ions through the channel in the 
+photoreceptor takes place called as “dark current”
+which partially depolarizes the photoreceptor 
+.
+4. As a result, in darkness the membrane potential of a 
+photoreceptor is -30 mV which is much closer to -70 
+mV.
+5. This partial depolarization during darkness triggers the 
+release of neurotransmitters at the synaptic 
+terminals.
+6. The neurotransmitter is the amino acid glutamate or 
+glutamic acid.
+7. This glutamate inhibits the bipolar cells that synapse 
+with rods.
+9
+REACTION OF PHOTORECEPTOR IN DARKNESS
+=== va-10 ===
+1. When light strikes on the retina the cis-retinal undergoes 
+isomerization to trans-retinal, enzyme transduction get 
+activated which activates phosphodiesterase which 
+breaks down the cyclic GMP and leads to decrease in 
+cyclic GMP levels which in turn is responsible for 
+closing of cGMP-gated Na+ and Ca2+ channels.
+2. So, inflows of Na+ and Ca2+ ions in the photoreceptor 
+get decreases.
+3. The membrane potential becomes more negative -70 
+mV (hyperpolarizing receptor potential).
+4. Decreases the release of neurotransmitter glutamate.
+5. Thus, light excites bipolar cells that synapse with rods 
+by turning off the release of inhibition of 
+neurotransmitter.
+6. The excited bipolar cells subsequently stimulate the 
+ganglion cells to form action potentials in their axons.
+10
+-70 mV
+REACTION OF PHOTORECEPTOR IN LIGHT
+Glutamate
+(also Ca2+)
+=== va-11 ===
+• Phototransduction in retinal rod cells in response to light is triggered by 
+capture of photon by opsin (rhodopsin absorbs a photon) → changing 
+opsin conformation.
+• Metarhodopsin II (represents activated rhodopsin after phosphorylation by 
+rhodopsin kinase).
+• Activated rhodopsin (= metarhodopsin II) binds to the G protein transducin. 
+• Transducin dissociates and activates a cGMP phosphodiesterase → 
+hydrolyses cGMP to 5’-GMP → ↑ breakdown of cGMP → ↓ cGMP levels → 
+closing cGMP-gated Na+
+/Ca2+ channels (↓ Na+ and Ca2+ influx) → reversing 
+the depolarization → enhancing light-induced hyperpolarization 
+(hyperpolarizing photoreceptor membrane potential to ~ –70 mV).
+11
+FIG. 3.16. Steps in photoreception. When light impinges on the retina, the
+photoreceptors are hyperpolarized. In turn, the photoreceptors decrease their
+release of glutamate, leading to either hyperpolarization or depolarization of bipolar
+or horizontal cells (i.e., decreased excitation). Circled numbers correlate with steps
+described in the text. Cyclic GMP, Cyclic guanosine monophosphate; GMP,
+guanosine monophosphate. Note: Metarhodopsin II is the light-excited form of
+rhodopsin that triggers G protein function.
+~ –70 mV
+ARRISTIN BINDS HERE 
+After rhodopsin kinase phosphorylates and 
+activates rhodopsin. 
+Prevents further transducin activation.
+Isomerization
+=== va-12 ===
+Vision in the Presence of Darkness and Light
+• Neurotransmitter glutamate is continuously released
+– Because membrane is partially depolarized in the dark
+– Glutamate inhibits the optic nerve bipolar cells with which the rod cells 
+synapse
+• Light hyperpolarizes the rod cell membrane → stops release of 
+glutamate
+– Relieves inhibition of optic nerve bipolar cell
+– Initiates signal into brain
+• The rod cell return to its normal state quickly when activated rhodopsin 
+is inactivated, and a protein called arrestin subsequently binds it.
+12
+=== va-13 ===
+Clinical Correlation: Vitamin A Deficiency 
+and Night Blindness
+• Definition:
+– Night blindness (nyctalopia) occurs with severe vitamin A deficiency
+– Due to inadequate formation of retinal and rhodopsin in photoreceptor cells
+• Pathophysiology:
+• Vitamin A → retinal → rhodopsin (light-sensitive pigment in rods)
+– Deficiency → ↓ rhodopsin synthesis → impaired rod function
+– In low-light conditions, rods cannot generate sufficient visual signals
+• Clinical Manifestation:
+– Poor vision in dim light or at night
+– Vision may be normal in bright daylight (cones unaffected initially)
+13
+=== va-14 ===
+Clinical Correlation: Vitamin A Deficiency 
+and Night Blindness, Cont.
+• Blind spots:
+– Spots or patches in the eye
+• Time Course:
+– Requires months of vitamin A deficiency to deplete liver stores
+– Liver normally contains large vitamin A reserves that supply the retina
+• Treatment and Reversal:
+– Rapid improvement possible with intravenous vitamin A
+– Rhodopsin synthesis restored within minutes to an hour after 
+supplementation
+14
+=== va-15 ===
+Clinical Correlation: Color Blindness
+• Color vision depends on cone photoreceptors 
+containing photopsin with different wavelength 
+sensitivities.
+• The common red-green color-vision deficiencies are 
+usually X-linked abnormalities of cone opsin genes → 
+impairment of color discrimination.
+• Abnormal or absent cone opsin causes inherited color 
+blindness = inherited color-vision deficiency.
+• Usually congenital, bilateral, and nonprogressive.
+• Visual acuity is usually normal.
+• NOTE: Rods mediate dim-light vision and DO NOT 
+distinguish color.
+15
+=== va-16 ===
+Visual Perception
+16
+=== va-17 ===
+Visual Perception
+• Definition:
+– Visual perception is the process by which the brain interprets 
+and organizes visual information received from the eyes, 
+transforming light patterns into meaningful representations —
+such as objects, faces, motion, depth, and color.
+– In short: Vision ≠ perception — vision captures the image; 
+perception gives it meaning.
+17
+=== va-18 ===
+• Both eyes view same image from slightly different angles.
+• Visual cortex fuses these slightly different images, resulting in a three￾dimensional image, which leads to depth perception.
+• Requires input from both eyes.
+18
+Image Illustrating Depth Perception.
+=== va-19 ===
+19
+Image Illustrating Loss of Depth Perception. In these examples: 1) Loss of an eye or
+destruction of one optic nerve eliminates true depth perception entirely and peripheral vision on
+damaged side is also affected. 2) Neural destruction occurring beyond optic chiasma → part or all
+of opposite half of the visual field is lost. 3) Stroke can affect left visual cortex, which leads to
+blindness in right half of visual field.
+=== va-20 ===
+Overview of 
+Hearing
+20
+=== va-21 ===
+Overview
+• Hearing depends on the conversion of mechanical 
+sound waves → neural electrical signals within the 
+cochlea, followed by transmission through the auditory 
+pathway to the primary auditory cortex for conscious 
+perception and interpretation of sound.
+21
+=== va-22 ===
+The Ear Has Three Major Areas
+• The ear has three major areas:
+– External (outer) ear: hearing only
+– Middle ear (tympanic cavity): hearing only
+– Internal (inner) ear: hearing and equilibrium
+• Receptors for hearing and balance respond to separate 
+stimuli and are activated independently
+22
+=== va-23 ===
+External and Middle Ear: 
+Sound Conduction
+23
+=== va-24 ===
+Inner Ear: Cochlear Structure
+24
+Figure 15.27b Anatomy of the cochlea.
+(Adopted from Marieb Anatomy and Physiology,
+13th Ed.).
+• Cavity of cochlea divided into three 
+chambers:
+– Scala vestibule: abuts oval window, contains 
+perilymph
+– Scala media (cochlear duct): contains 
+endolymph – high K+
+– Scala tympani: terminates at round window; 
+contains perilymph - normal K+
+• The basilar membrane separates the 
+cochlear duct from the scala tympani.
+• Reissner membrane separates the scala 
+vestibular from the scala media
+• The Organ of Corti (on the basilar 
+membrane) is the sensory organ of hearing.
+↑ K+
+K+
+Reissner membrane 
+=== va-25 ===
+Inner Ear: Cochlear Structure, Cont.
+• Spiral organ contains cochlear 
+hair cells.
+• Hair cells are sandwiched 
+between tectorial and basilar 
+membranes:
+– Transduce basilar-membrane 
+movement into neural signals
+– Their stereocilia project into 
+endolymph within the scala media
+• The cochlear branch of nerve 
+VIII runs from spiral organ to the 
+brain
+25
+Figure 15.27c Anatomy of the cochlea.
+(Adopted from Marieb Anatomy and Physiology,
+13th Ed.)
+=== va-26 ===
+Inner Ear: Cochlear Structure, Cont.
+• Supporting cells not named:
+– Outer pharyngeal, or Deiters 
+cells: support outer hair cells. 
+– Outer pillar cells: help form the 
+tunnel of Corti and support the 
+organ of Corti
+26
+Figure 15.27c Anatomy of the cochlea.
+(Adopted from Marieb Anatomy and Physiology,
+13th Ed.)
+=== va-27 ===
+Physiological Mechanism of 
+Auditory Signal Transduction
+27
+=== va-28 ===
+Step 1: Mechanical Vibration
+• Sound waves → tympanic membrane → ossicles → stapes at oval window → pressure waves in 
+perilymph (scala vestibuli).
+28
+Figure 15.30 Pathway of sound waves. (Adopted from Marieb Anatomy and Physiology, 13th Ed.)
+1. Sounds waves vibrate the tympanic 
+membrane.
+2. Auditory ossicles vibrate. Pressure is 
+amplified.
+3. Pressure waves crated by the stapes 
+pushing on the oval window move through 
+the fluid in the scala vestibuli.
+4a. Sounds with frequencies below the hearing 
+range travel through the helicotrema and do
+not excite hair cells.
+4b. Sounds in the hearing range go through the 
+cochlear duct, vibrating the basilar 
+membrane and defecting hairs on inner hair 
+cells.
+=== va-29 ===
+Step 2: Basilar Membrane Motion
+• Perilymph pressure waves deform 
+the basilar membrane.
+• The basilar membrane acts as a 
+frequency analyzer:
+– Base (near oval window): narrow 
+and stiff → responds best to high 
+frequencies (~20,000 Hz)
+– Apex: wide and flexible → responds 
+best to low frequencies (~20 Hz)
+– Tonotopic organization permits us 
+with the ability to discriminate 
+between sounds with different 
+frequency.
+29
+FIG. 3.24 Frequency responses of the
+basilar membrane.
+=== va-30 ===
+• Hair cells for higher frequency have 
+a smaller interval.
+• Hence, easier to distinguish 
+between various high frequency 
+tones in comparison to pin-pointing 
+low frequency
+• IMPORTANT: The basilar membrane 
+is in contact with perilymph and is 
+critical to the ability to discriminate 
+between sounds with different 
+frequencies.
+30
+FIG. 3.24 Frequency responses of the
+basilar membrane.
+(High pitch) (Low pitch)
+Step 2: Basilar Membrane Motion, Cont.
+=== va-31 ===
+• Low-frequency sounds, such as 
+20-100 Hz, CANNOT move the 
+short, stiff fibers at the base
+– These sounds continue to the longer, 
+floppier fibers at the apex, where 
+they vibrate the basilar membrane
+• Medium-frequency sounds, such 
+as 800-1000 Hz, vibrate the 
+basilar membrane near its middle 
+(center). 
+• High-frequency sounds, such as 
+10,000 Hz, vibrate the basilar 
+membrane near the short stiff 
+fibers at its base. 
+31
+Figure 15.31-3 Basilar membrane function. (Adopted
+from Marieb Anatomy and Physiology, 13th Ed.).
+=== va-32 ===
+Step 3: Hair Cell Activation
+• The Organ of Corti contains:
+– Inner hair cells: true sensory receptors 
+(afferent)
+– Outer hair cells: amplify motion of 
+basilar membrane (efferent modulation)
+• The tectorial membrane overlies 
+the hair cells.
+• Basilar membrane movement 
+causes shearing between the 
+basilar and tectorial membranes, 
+bending the stereocilia on hair 
+cells.
+32
+Figure 15.27c Anatomy of the cochlea.
+(Adopted from Marieb Anatomy and Physiology,
+13th Ed.)
+=== va-33 ===
+Step 4: Mechanotransduction
+• The tallest stereocilium touches the 
+tectorial membrane. 
+• At rest, a few ion channels are open
+and the hair cell is slightly depolarized.
+33
+Figure 15.32 Pivoting of stereocilia
+(hairs) opens or closes mechanically
+gated ion channels in hair cells.
+(Adopted from Marieb Anatomy and
+Physiology, 13th Ed.)
+=== va-34 ===
+Step 4: Mechanotransduction, Cont.
+• Stereocilia deflection toward the tallest cilium 
+opens mechanically gated K⁺ channels at the 
+tips.
+• K⁺ influx (from high - K⁺ endolymph) depolarizes
+the hair cell.
+• Depolarization opens voltage-gated Ca²⁺
+channels → glutamate release at the basal 
+synapse onto afferent fibers of the cochlear 
+(spiral ganglion) neurons.
+• As a result, more action potentials occur in 
+cochlear nerve.
+34
+Figure 15.32 Pivoting of stereocilia
+(hairs) opens or closes mechanically
+gated ion channels in hair cells.
+(Adopted from Marieb Anatomy and
+Physiology, 13th Ed.)
+=== va-35 ===
+Step 4: Mechanotransduction, Cont.
+• Stereocilia deflection away closes
+channels → hyperpolarization → 
+decreased neurotransmitter release 
+in hair cells.
+• As a result, fewer action potentials 
+occur in the cochlear nerve.
+35
+Figure 15.32 Pivoting of stereocilia
+(hairs) opens or closes mechanically
+gated ion channels in hair cells.
+(Adopted from Marieb Anatomy and
+Physiology, 13th Ed.)
+=== va-36 ===
+Sound Waves
+• Sound waves travel through the external auditory canal 
+and cause the tympanic membrane (eardrum) to vibrate.
+• Movement of the eardrum causes vibration of the 
+ossicles in the middle ear (i.e., the malleus, incus, and 
+stapes).
+• Vibration of the ossicles are transferred through the oval 
+window and into the inner ear.
+36
+=== va-37 ===
+37
+(by a shear force as the cilia push against the 
+tectorial membrane)
+(Auditory hair cells)
+(Inner ear)
+FIG. 3.23 Steps in auditory transduction in hair cells. Circled numbers correspond to steps
+described in the text.
+=== va-38 ===
+Auditory Neural 
+Pathway
+38
+=== va-39 ===
+Auditory Neural Pathway
+1. Cochlear Nerve (CN VIII – Auditory Division)
+– Spiral ganglion neurons form the cochlear nerve, 
+carrying frequency-coded information to the 
+brainstem
+2. Cochlear Nuclei (Medulla)
+– The first central synapse occurs in the dorsal and 
+ventral cochlear nuclei
+3. Superior Olivary Complex (Pons)
+– Receives bilateral input from both ears → critical for 
+sound localization:
+• Medial superior olive: interaural time differences (low￾frequency sounds)
+• Lateral superior olive: interaural intensity differences 
+(high-frequency sounds)
+39
+Medial 
+genicular 
+nucleus
+Figure 15.33 The auditory pathway. (Adopted
+from Marieb Anatomy and Physiology, 13th Ed.)
+=== va-40 ===
+Auditory Neural Pathway, 
+Cont.
+4. Lateral Lemniscus (Midbrain)
+– Each lateral lemniscus carries information 
+derived from both ears; however, input from 
+the contralateral ear predominates
+– Carries auditory input from the cochlear 
+nuclei and the superior olivary nuclei to the 
+inferior colliculus
+5. Inferior Colliculus (Midbrain)
+– Major integration center for auditory reflexes 
+(e.g., orienting to sound)
+– Sends auditory information to the medial 
+geniculate nucleus (MGN) of the thalamus
+40
+Medial 
+genicular 
+nucleus
+Figure 15.33 The auditory pathway. (Adopted
+from Marieb Anatomy and Physiology, 13th Ed.
+=== va-41 ===
+Auditory Neural Pathway, 
+Cont.
+6. Medial Geniculate Body (Thalamus)
+– Relays auditory information to the auditory cortex; 
+functions as a thalamic “gateway” for auditory 
+processing
+7. Primary Auditory Cortex (Temporal Lobe)
+– Located in the superior temporal gyrus (Brodmann 
+areas 41 and 42, Heschl’s gyrus)
+– Tonotopic organization is preserved:
+• Posterior–medial: high frequencies
+• Anterior–lateral: low frequencies
+– Interprets sound pitch, intensity, and pattern;
+association areas integrate with language centers 
+(Wernicke’s area)
+41
+Medial 
+genicular 
+nucleus
+Figure 15.33 The auditory pathway. (Adopted
+from Marieb Anatomy and Physiology, 13th Ed.).
+=== va-42 ===
+• Lesions of the cochlear part of CN VIII or 
+cochlear nuclei inside the brain stem at the 
+pontomedullary junction result in a profound 
+unilateral lesion produce ipsilateral 
+deafness, usually the sensorineural type (A). 
+– Auditory information from each cochlea enters the 
+ipsilateral cochlear nuclei before projecting 
+bilaterally through the superior olivary complex 
+and higher auditory pathways
+– Consequently, a lesion at or before the cochlear 
+nuclei can cause marked ipsilateral hearing loss
+– Whereas, unilateral lesions above this level 
+rarely cause complete unilateral deafness
+42
+Medial 
+genicular 
+nucleus
+Clinical Correlate: Lesions 
+Causing Hearing Loss
+=== va-43 ===
+• All other lesions to auditory structures 
+in the:
+– Brain stem (e.g., inferior colliculus and 
+lateral lemniscus)
+– Thalamus (e.g., geniculate body)
+– Auditory cortex
+• receives bilateral input and therefore 
+result in a bilateral suppression of 
+hearing and a decreased ability to 
+localize a sound source (B). 
+43
+Medial 
+genicular 
+nucleus
+Clinical Correlate: Lesions 
+Causing Hearing Loss, Cont.
+=== va-44 ===
+Clinical Correlate: Lesions 
+Causing Hearing Loss, Cont. • If a patient presents with a 
+significant hearing loss in one 
+ear, the lesion is most likely in the 
+middle ear, inner ear, CN VIII, or 
+cochlear nuclei, and NOT at higher 
+levels of the auditory system.
+• Again, lesion of the cochlear of 
+one ear, CN VIII, or cochlear 
+nuclei will cause unilateral
+deafness
+.
+44
+Medial 
+genicular 
+nucleus
+=== va-45 ===
+TABLE 2. Clinical Correlations
+45
+Lesion Site Resulting Deficit
+Outer/middle ear Conductive hearing loss
+Hair cells or CN VIII Sensorineural hearing loss
+Unilateral cochlear nucleus or auditory 
+nerve
+Ipsilateral deafness
+Lesion above cochlear nuclei (e.g., 
+cortex)
+Bilateral hearing maintained (due to 
+bilateral projections), but impaired 
+sound localization and discrimination
+Sound wave → Tympanic membrane → Ossicles → Oval window → Cochlea → Hair cell depolarization 
+→ CN VIII → Cochlear nuclei → Superior olive → Lateral lemniscus → Inferior colliculus → Medial 
+geniculate body → Auditory cortex.
+=== va-46 ===
+The End!
+46
+The End !
+=== va-47 ===
+Questions?
+47
+Questions !
+=== va-48 ===
+Questions?
+48
+Thank You !

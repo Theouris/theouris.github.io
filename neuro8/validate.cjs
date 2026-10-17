@@ -1,0 +1,73 @@
+const assert=require('node:assert/strict');
+let playwright;try{playwright=require('playwright')}catch{playwright=require(process.env.PLAYWRIGHT_MODULE||'C:/Users/Theo/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright')}
+(async()=>{
+ const browser=await playwright.chromium.launch({channel:'msedge',headless:true});
+ const page=await browser.newPage({viewport:{width:1280,height:900}}),errors=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ const base='http://127.0.0.1:8768/neuro8/';
+ await page.goto(base);
+ const bank=await page.evaluate(()=>NEURO.questions);
+ assert.equal(bank.length,170);
+ assert.equal(await page.locator('input[name=answer]').count(),5);
+ await page.locator('input[name=answer]').nth(bank[0].answer).check();
+ await page.getByRole('button',{name:'Submit answer',exact:true}).click();
+ await page.waitForTimeout(600);
+ assert.match(await page.locator('#explanation').innerText(),/^Correct/);
+ assert.equal(await page.locator('.rationale').count(),5);
+ assert.equal(await page.locator('input[name=answer]:disabled').count(),5);
+ assert.equal(await page.evaluate(()=>document.activeElement.id),'explanation');
+ assert.equal(await page.locator('#answer-next').isVisible(),true);
+ await page.screenshot({path:'neuro8/review/desktop-answer.png'});
+ await page.locator('#answer-next').click();
+ await page.waitForTimeout(500);
+ assert.equal(await page.evaluate(()=>document.activeElement.id),'question-heading');
+ assert.match(await page.locator('#question').innerText(),/Q002/);
+ assert.equal(await page.locator('#explanation').isVisible(),false);
+ await page.reload();assert.match(await page.locator('#question').innerText(),/Q002/);
+ assert.match(await page.locator('#stats').innerText(),/1 answered/);
+ await page.locator('#review').selectOption('missed');assert.match(await page.locator('#question').innerText(),/No questions/);
+ await page.locator('#review').selectOption('all');
+ await page.locator('#topic').selectOption('Extended CNS cases');
+ assert.equal(await page.locator('#jump option').count(),5);
+ await page.locator('#shuffle').click();assert.equal(await page.locator('input[name=answer]').count(),5);
+ await page.goto(base+'?q=Q170');
+ await page.locator('input[name=answer]').nth((bank.at(-1).answer+1)%5).check();
+ await page.getByRole('button',{name:'Submit answer',exact:true}).click();
+ assert.match(await page.locator('#explanation').innerText(),/^Incorrect/);
+ assert.equal(await page.locator('#answer-next').isDisabled(),true);
+ assert.match(await page.locator('#answer-position').innerText(),/End of/);
+ await page.locator('#review').selectOption('missed');assert.equal(await page.locator('#jump option').count(),1);
+ await page.locator('#retry').click();assert.equal(await page.locator('input[name=answer]:disabled').count(),0);
+ // Render every item to catch per-item data or escaping problems, then verify each image response.
+ await page.goto(base);
+ const renderErrors=await page.evaluate(()=>{
+  const out=[];
+  for(let i=0;i<queue.length;i++){position=i;render();if(document.querySelectorAll('input[name=answer]').length!==5)out.push(queue[i].id);}
+  return out;
+ });assert.deepEqual(renderErrors,[]);
+ for(const q of bank.filter(q=>q.image)){const r=await page.request.get(base+'images/'+q.image);assert.equal(r.status(),200,q.image);}
+ await page.setViewportSize({width:390,height:844});
+ const clinical=bank.find(q=>q.topic==='Extended CNS cases'&&q.image);
+ await page.goto(base+'?q='+clinical.id);
+ await page.waitForFunction(()=>[...document.images].every(i=>i.complete&&i.naturalWidth>0));
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
+ await page.locator('.question-image').scrollIntoViewIfNeeded();
+ await page.screenshot({path:'neuro8/review/mobile-question.png'});
+ await page.locator('input[name=answer]').nth(clinical.answer).check();
+ await page.getByRole('button',{name:'Submit answer',exact:true}).click();
+ await page.waitForTimeout(500);assert.equal(await page.locator('#answer-next').isVisible(),true);
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
+ await page.screenshot({path:'neuro8/review/mobile-answer.png'});
+ await page.goto(base+'coverage.html');assert.equal(await page.locator('section.slide').count(),37);
+ const unavailable=await browser.newPage();await unavailable.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('disabled')}})});
+ await unavailable.goto(base);assert.match(await unavailable.locator('#storage').innerText(),/unavailable/);
+ assert.equal(await unavailable.locator('input[name=answer]').count(),5);
+ const offline=await browser.newPage();
+ await offline.goto('file:///'+require('node:path').resolve('neuro8/index.html').replaceAll('\\','/'));
+ assert.equal(await offline.locator('input[name=answer]').count(),5);
+ await offline.locator('input[name=answer]').nth(0).check();await offline.getByRole('button',{name:'Submit answer',exact:true}).click();
+ assert.equal(await offline.locator('.rationale').count(),5);
+ assert.deepEqual(errors,[]);
+ await browser.close();
+ console.log(JSON.stringify({questions:bank.length,source_pages:37,checks:'all-item rendering, five choices/rationales, correct/incorrect, locking, scroll focus, next/last, retry, filters, shuffle, saved progress, deep links, image HTTP, mobile layout, slide map, disabled storage, direct-file offline use',passed:true},null,2));
+})().catch(e=>{console.error(e);process.exit(1)});

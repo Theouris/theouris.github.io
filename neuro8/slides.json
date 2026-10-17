@@ -1,0 +1,193 @@
+[
+  {
+    "id": "inf",
+    "source": "CNS Eye Ear Infection Student.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "CNS, Eye and Ear Infections\r\nDr Lloyd Jensen MD\r\nDr Amy Stone PhD\r\nAcknowledge Dr Stone’s formatting and slides that have \r\nbeen edited by Dr Jensen with the help of Chat GPT for \r\nClinicians –GPT-5.6 Sol and updated .",
+        "image": "images/inf-001.jpg"
+      },
+      {
+        "page": 2,
+        "text": "Objectives\r\n1. Differentiate the pathophysiology, clinical presentation, CSF findings, and diagnostic\r\nevaluation of common CNS infections. (CLO 3)\r\n2. Correlate the routes of infection, causative microorganisms, and characteristic clinical features \r\nof bacterial, viral, fungal, and parasitic infections of the CNS. (CLO 3)\r\n3. Correlate the clinical presentation and causative organisms of common infectious disorders of\r\nthe eye and ear. (CLO 3)",
+        "image": "images/inf-002.jpg"
+      },
+      {
+        "page": 3,
+        "text": "Eye Infections",
+        "image": "images/inf-003.jpg"
+      },
+      {
+        "page": 4,
+        "text": "Corneal Ulcers\r\nClinical Presentation\r\nHallmark: Severe pain, tearing, \r\nand visible white or gray corneal \r\nlesion\r\nSymptoms: Photophobia,\r\ndischarge, possible vision\r\nimpairment\r\nSigns of tissue breakdown or\r\nnecrosis\r\nPathophysiology\r\nDeep tissue involvement of the \r\ncorneal stroma\r\nOften follows untreated keratitis\r\nor corneal trauma\r\nImmune cells infiltrate and \r\ndegrade corneal tissue, leading to \r\nulcer formation\r\nEtiological Agents\r\nBaacterial: Staphylococcus species,\r\nStrep pneumoniae, Pseudomonas\r\nVirus: Herpes simplex virus\r\nFungal: Aspergillus, Fusarium\r\nParasitic: Acanthamoeba in high￾risk individuals (e.g., contact lens\r\nusers)",
+        "image": "images/inf-004.jpg"
+      },
+      {
+        "page": 5,
+        "text": "Keratitis\r\nClinical Presentation\r\n• Hallmark: Pain, light sensitivity, decreased visual acuity\r\n• Symptoms: Foreign body sensation, redness around\r\ncornea\r\n• Possible corneal opacities or infiltrates in infectious cases\r\nPathophysiology\r\n• Inflammation and potential ulceration of the corneal\r\ntissue\r\n• Pathogen-induced breakdown of corneal epithelium, \r\nleading to immune response\r\n• Risk of scarring and vision loss if untreated\r\nEtiological Agents\r\n• Bacterial: Pseudomonas aeruginosa,\r\nStaphylococcus aureus, Streptococcus sp.\r\n• Viral: Herpes simplex virus (HSV)\r\n• Fungal and Parasitic Causes: Candida spp., \r\nAspergillus spp., Acanthamoeba (contact lens \r\nwearers)",
+        "image": "images/inf-005.jpg"
+      },
+      {
+        "page": 6,
+        "text": "Conjunctivitis\r\nClinical Presentation\r\n• Hallmark: Redness, \"pink eye\" appearance\r\n• Symptoms: Tearing, irritation, possible discharge\r\n(purulent in bacterial, watery in viral)\r\n• Commonly affects both eyes in infectious cases\r\nPathophysiology\r\n• Inflammation of the conjunctiva\r\n• Triggered by pathogens leading to immune cell\r\ninfiltration\r\n• Edema and hyperemia contribute to redness and\r\ndiscomfort\r\nEtiological Agents\r\n• Bacterial: Staphylococcus aureus, Streptococcus \r\npneumoniae, Haemophilus influenzae, Chlamydia \r\ntrachomatis (trachoma), Corynebacterium diphtheriae\r\n• Viral: Adenovirus (most common)\r\n• Allergic and Irritant Causes",
+        "image": "images/inf-006.jpg"
+      },
+      {
+        "page": 7,
+        "text": "Eye Discharge in Conjunctivitis\r\nMucopurulent discharge and eyelid matting increase the likelihood of bacterial conjunctivitis, but no single clinical \r\nfinding reliably distinguishes bacterial from viral conjunctivitis.”",
+        "image": "images/inf-007.jpg"
+      },
+      {
+        "page": 8,
+        "text": "Uveitis\r\nClinical Presentation\r\n• Hallmark: Pain, photophobia,\r\n\"floaters,\" blurred vision\r\n• Symptoms: Redness \r\nconcentrated around the \r\nlimbus, decreased vision\r\n• Unilateral or bilateral\r\ndepending on cause\r\nPathophysiology\r\n• Inflammation of the uveal \r\ntract (iris, ciliary body, \r\nchoroid)\r\n• Immune response against \r\nintraocular tissues, often \r\nwith immune cell infiltration\r\n• Can be granulomatous or\r\nnon-granulomatous based\r\non etiology\r\nSelected infectious causes\r\n• Herpes simplex virus \r\n(anterior), cytomegalovirus \r\n(posterior)\r\n• Toxoplasma (posterior)\r\n• Systemic Autoimmune\r\ndiseases\r\nImmune-mediated and idiopathic \r\ncauses are major categories of \r\nuveitis.",
+        "image": "images/inf-008.jpg"
+      },
+      {
+        "page": 9,
+        "text": "Retinitis\r\nClinical Presentation\r\n• Hallmark: Floaters, vision loss, scotomas\r\n• Symptoms: Flashes of light, blurred vision\r\n• Possible retinal hemorrhages or necrosis on\r\nfundoscopy\r\nPathophysiology\r\n• Inflammation and damage of retinal tissue\r\n• Often follows viral infections with direct cytopathic\r\neffects on retinal cells\r\n• Can progress rapidly, leading to tissue necrosis and\r\npotential blindness\r\nEtiological Agents\r\n• Viral: Cytomegalovirus (especially in\r\nimmunocompromised individuals)\r\n• Fungal and Protozoan Causes: Toxoplasma gondii\r\n(rare)",
+        "image": "images/inf-009.jpg"
+      },
+      {
+        "page": 10,
+        "text": "Ear Infections",
+        "image": "images/inf-010.jpg"
+      },
+      {
+        "page": 11,
+        "text": "Key Symptoms:\r\n• Ear Canal Pain: Severe and often exacerbated by manipulation of\r\nthe auricle or tragus.\r\n• Itching: Common early symptom, especially in fungal cases.\r\n• Discharge (Otorrhea): Clear, purulent, or even foul-smelling fluid\r\nmay drain from the canal.\r\n• Hearing Impact: Conductive hearing loss in severe cases due to\r\nobstruction.\r\nExamination Findings:\r\n• Canal Redness and Swelling: Often extends throughout the external\r\nauditory canal.\r\n• Tenderness on Manipulation: Unique feature; pain increases with\r\npulling on the ear.\r\n• Possible Debris: Thickened discharge or fungal debris (\"white,\r\ncottony\" for fungal).\r\nDifferentiating Hallmarks:\r\n• Pain upon ear manipulation and visible canal inflammation.\r\n• Absence of TM bulging (unless complicated by middle ear\r\ninvolvement).\r\nAcute Otitis Externa (AOE) –\r\nClinical Presentation",
+        "image": "images/inf-011.jpg"
+      },
+      {
+        "page": 12,
+        "text": "Acute Otitis \r\nExterna (AOE) –\r\nPathophysiology \r\n& Etiology\r\nPathophysiology:\r\n• Moisture Retention: Trapped moisture creates a favorable\r\nenvironment for microbial growth.\r\n• Disruption of Skin Barrier: Minor trauma (e.g., from Q-tips or \r\nhearing aids) can predispose.\r\n• Infection Progression: Pathogens colonize, leading to\r\ninflammation of the external canal.\r\nMost Common Etiological Agents:\r\n• Bacterial Causes:\r\n• Pseudomonas aeruginosa: Commonly found in water￾exposed environments (e.g., swimming).\r\n• Staphylococcus aureus: Can contribute, especially with\r\ndisrupted skin barriers.\r\n• Fungal Causes:\r\n• Aspergillus spp. and Candida spp. seen more in chronic\r\nAOE or in immunocompromised patients.\r\nRisk Factors:\r\n• Frequent water exposure (e.g., swimming), excessive ear\r\ncleaning, use of hearing aids, eczema in the ear canal.",
+        "image": "images/inf-012.jpg"
+      },
+      {
+        "page": 13,
+        "text": "Key Symptoms:\r\n• Ear Pain (Otalgia): Deep, persistent pain often described as\r\n\"fullness\" in the ear.\r\n• Hearing Loss: Due to fluid accumulation in the middle ear.\r\n• Systemic Symptoms: Fever, irritability (more common in\r\nchildren), difficulty sleeping.\r\nExamination Findings:\r\n• Bulging Tympanic Membrane (TM): Characteristic bulging or\r\nopacity.\r\n• Decreased TM Mobility: Assessed with pneumatic otoscopy,\r\nindicating fluid buildup.\r\n• Redness: Inflammation visible on the TM surface.\r\nDifferentiating Hallmarks:\r\n• Middle ear involvement with TM changes.\r\n• Absence of external ear canal tenderness or pain with\r\nmovement.\r\nAcute Otitis Media (AOM) –\r\nClinical Presentation",
+        "image": "images/inf-013.jpg"
+      },
+      {
+        "page": 14,
+        "text": "Acute Otitis \r\nMedia (AOM) –\r\nPathophysiology \r\n& Etiology\r\nPathophysiology:\r\n• Eustachian Tube Dysfunction: Blocked tube leads to fluid\r\naccumulation in the middle ear.\r\n• Fluid Stasis: Creates an environment conducive to bacterial\r\nor viral growth.\r\n• Pressure Build-Up: Leads to TM bulging and associated pain.\r\nMost Common Etiological Agents:\r\n• Bacterial Causes:\r\n• Haemophilus influenzae: THE leading cause-non-typeable strains\r\n• Moraxella catarrhalis: Common in pediatric AOM.\r\n• Streptococcus pneumoniae: was the leading bacterial cause.\r\n• Viral Contributors:\r\n• Respiratory syncytial virus (RSV), rhinovirus, and\r\nadenovirus may predispose to bacterial AOM.\r\nRisk Factors\r\n• Young age (eustachian tube anatomy), recent upper\r\nrespiratory infections, allergies",
+        "image": "images/inf-014.jpg"
+      },
+      {
+        "page": 15,
+        "text": "CNS Infections",
+        "image": "images/inf-015.jpg"
+      },
+      {
+        "page": 16,
+        "text": "Meningitis – infection and \r\ninflammation of the meninges\r\nEncephalitis – infection \r\nand inflammation of \r\nthe brain\r\nParalysis/Myelitis – Damage to\r\nthe peripheral nerves or spinal\r\ncord leading to loss of function\r\nPost-infection encephalitis* –\r\nThe immune system attacks \r\nhealthy brain tissue following \r\nan infection (days to weeks)\r\nMeningoencephalitis –\r\ninfection and inflammation of \r\nthe brain and the meninges\r\n*aka Secondary encephalitis, Acute disseminated encephalomyelitis (ADEM) – Autoimmune mechanisms\r\nAreas of CNS \r\ndamage",
+        "image": "images/inf-016.jpg"
+      },
+      {
+        "page": 17,
+        "text": "Meningitis\r\n– Enteroviruses \r\n(Echoviruses, Coxsackieviruses, \r\nPoliovirus), HSV\r\n-2, Adenoviruses, \r\nMumps virus, Lymphocytic \r\nchoriomenigitis virus (LCMV), \r\nParainfluenza Types\r\n2\r\n&\r\n3\r\nEncephalitis\r\n– HSV\r\n-1, \r\nVaricella\r\n-Zoster, Rabies, \r\nCoxsackieviruses\r\nA\r\n& B, \r\nPoliovirus\r\nParalysis/Myelitis\r\n– Poliovirus, \r\nEnteroviruses 70\r\n& 71, \r\nCoxsackievirus A7\r\nPost\r\n-infection encephalitis\r\n–\r\nMeasles, Mumps, Rubella, \r\nVaricella\r\n-Zoster, Influenza\r\nMeningoencephalitis\r\n–\r\nArboencephalitis viruses, HIV\r\nAseptic (Viral) \r\ncauses of CNS \r\ndamage",
+        "image": "images/inf-017.jpg"
+      },
+      {
+        "page": 18,
+        "text": "Meningitis (Acute)\r\n– E. coli, \r\nGroup\r\nB streptococci, Neisseria \r\nmeningitides, S. pneumoniae, \r\nListeria monocytogenes\r\nEncephalitis\r\n– Balamuthia, \r\nAcanthamoeba, Naegleria\r\nMeningoencephalitis\r\n–\r\nTreponema pallidum, Borrelia \r\nburgdorferi, Cryptococcus \r\nneoformans, Candida albicans\r\nMeningitis (Chronic)\r\n–\r\nMycobacterium tuberculosis\r\nAbscesses\r\n– Streptococci, \r\nStaphylococci, Toxoplasma \r\ngondii, Taenia solium\r\nEmpyema\r\n– Polymicrobial with \r\nStaphylococci and anaerobic \r\ngram\r\n-negative\r\nSeptic causes of \r\nCNS damage",
+        "image": "images/inf-018.jpg"
+      },
+      {
+        "page": 19,
+        "text": "Meningitis – headache, \r\nphotophobia, nuchal rigidity, \r\nfever, and alterations of \r\nconsciousness in an acute onset\r\nEncephalitis – Altered mental state for 24+ \r\nhours and 2 (possible) or 3 (probable) of: \r\nFever, headache, new-onset seizures, new￾onset focal neurological findings, CSF \r\npleocytosis, abnormal MRI, and EEG consist \r\nwith encephalitis (gray matter lesions).\r\nParalysis – Damage to the \r\nperipheral nerves or spinal cord \r\nleading to loss of function\r\nPost-infection encephalitis –\r\nSimilar to infectious encephalitis \r\nexcept mild/no fever and lesions \r\nappear in the white-matter.\r\nMeningoencephalitis –\r\nsymptoms of both \r\nencephalitis and meningitis\r\nSymptoms of CNS \r\nInfections",
+        "image": "images/inf-019.jpg"
+      },
+      {
+        "page": 20,
+        "text": "",
+        "image": "images/inf-020.jpg"
+      },
+      {
+        "page": 21,
+        "text": "CNS infections – Diagnosis: Bacterial vs. Viral\r\nParameter Bacterial Viral\r\nOrganisms seen in \r\nCSF Often on Gram stain/culture None\r\nCell count (/µL)\r\n100–100,000; PMNs\r\npredominate (except Listeria \r\ncan be mixed/mono)\r\n100–500 (↑)\r\n10–500; lymphocytes \r\npredominate (early PMNs \r\npossible)\r\nNormal–mild ↑ (often 50–\r\n100)\r\nLow (<0.4) Normal\r\nProtein (mg/dL) (10–\r\n45 normal)\r\nGlucose\r\n(CSF:serum)\r\nPreferred additional \r\ntests\r\nBacterial antigen test/culture; \r\nMultiplex PCR\r\nCSF PCR (enteroviruses, \r\nHSV, etc.)\r\nKey differences \r\nbetween bacterial CSF \r\nand viral CSF results:\r\n•\r\n•\r\n•\r\n• Organisms in the \r\nsample\r\nCell type -number \r\nProtein levels \r\nGlucose levels",
+        "image": "images/inf-021.jpg"
+      },
+      {
+        "page": 22,
+        "text": "CNS Virus Pathogenesis\r\n• Epithelial or \r\nmucosal exposure \r\nleading to local \r\nreplication\r\nExposure\r\nDissemination\r\n• Viremia\r\n• Secondary\r\namplification\r\n• Disruption of the\r\nblood-brain barrier\r\n• Axon or retrograde\r\ntransport\r\nCNS Entry\r\nInflammation\r\n• Direct and indirect\r\ncell damage\r\n• Targeted cells such \r\nas neurons, glial, \r\nendothelial cells\r\n• Neurological\r\nsymptoms\r\n• Headache, Nuchal \r\nrigidity, \r\nconstitutional\r\nClinical \r\nDisease",
+        "image": "images/inf-022.jpg"
+      },
+      {
+        "page": 23,
+        "text": "Enteroviruses",
+        "image": "images/inf-023.jpg"
+      },
+      {
+        "page": 24,
+        "text": "",
+        "image": "images/inf-024.jpg"
+      },
+      {
+        "page": 25,
+        "text": "",
+        "image": "images/inf-025.jpg"
+      },
+      {
+        "page": 26,
+        "text": "Paralysis caused by viral infections\r\nPoliomyelitis\r\nAcute flaccid myelitis\r\nAcute transverse myelitis\r\n• Flaccid paralysis\r\n• Muscle-wasting\r\n• Hyporeflexia\r\n• Flaccid paralysis\r\n• Muscle-wasting\r\n• Hyporeflexia\r\n• Asymmetric\r\n• Symmetric or asymmetric\r\n• Not caused by poliovirus\r\n• Para- or quadriparesis\r\n• Sensory and motor deficits\r\n• Autonomic dysfunction (bladder, bowel, sexual)\r\n• Symmetric",
+        "image": "images/inf-026.jpg"
+      },
+      {
+        "page": 27,
+        "text": "",
+        "image": "images/inf-027.jpg"
+      },
+      {
+        "page": 28,
+        "text": "",
+        "image": "images/inf-028.jpg"
+      },
+      {
+        "page": 29,
+        "text": "CNS Bacterial Pathogenesis\r\n• Epithelial or \r\nmucosal \r\ncolonization \r\nleading to local \r\ninvasion\r\nColonization\r\nDissemination\r\n• Bacteremia\r\n• Usually transient\r\n• Meningeal invasion\r\n• Disruption of the\r\nblood-brain barrier\r\nCNS Entry\r\nInflammation\r\n• Edema leading to \r\nincreased \r\nintracranial pressure\r\n• Subarachnoid space\r\ninflammation\r\n• Neurological\r\nsymptoms\r\n• Headache, Nuchal \r\nrigidity, \r\nconstitutional\r\nClinical \r\nDisease",
+        "image": "images/inf-029.jpg"
+      },
+      {
+        "page": 30,
+        "text": "CNS infections – Diagnosis: Bacterial vs. Viral\r\nParameter Bacterial Viral\r\nOrganisms seen in \r\nCSF Often on Gram stain/culture None\r\nCell count (/µL)\r\n100–100,000; PMNs\r\npredominate (except Listeria \r\ncan be mixed/mono)\r\n100–500 (↑)\r\n10–500; lymphocytes \r\npredominate (early PMNs \r\npossible)\r\nNormal–mild ↑ (often 50–\r\n100)\r\nLow (<0.4) Normal\r\nProtein (mg/dL) (10–\r\n45 normal)\r\nGlucose\r\n(CSF:serum)\r\nPreferred additional \r\ntests\r\nBacterial antigen test/culture; \r\nMultiplex PCR\r\nCSF PCR (enteroviruses, \r\nHSV, etc.)\r\nKey differences \r\nbetween bacterial CSF \r\nand viral CSF results:\r\n•\r\n•\r\n•\r\n• Organisms in the \r\nsample\r\nCell type \r\nProtein levels \r\nGlucose levels",
+        "image": "images/inf-030.jpg"
+      },
+      {
+        "page": 31,
+        "text": "Age group Symptoms Signs\r\nInfants (≤2 years) Irritability Fever\r\nPoor feeding Lethargy\r\nVomiting Stupor, coma\r\nUnconsciousness Bulging fontanel\r\nRespiratory symptoms Seizures\r\nApnea Petechial or purpuric rash\r\nChildren and adults Headache Fever\r\nNeck stiffness or pain Nuchal rigidity, Kernig’s and Brudzinski’s signs\r\nUnconsciousness Lethargy, confusion, stupor, coma\r\nNausea and vomiting Seizures\r\nPhotophobia Focal neurologic deficits, including cranial nerve palsies\r\nRespiratory symptoms Ataxia (in children)\r\nPetechial or purpuric rash\r\nPresentation of acute bacterial meningitis by age",
+        "image": "images/inf-031.jpg"
+      },
+      {
+        "page": 32,
+        "text": "CNS infections – Diagnosis: Fungal infections\r\nParameter Bacterial Viral Tuberculous Syphilitic\r\n(Neurosyphilis)\r\nOrganisms \r\nseen in CSF\r\nOften on Gram \r\nstain/culture None Rare on AFB smear; \r\nculture/NAAT better None\r\nFungal\r\nSometimes (India \r\nink/Calcofluor); \r\nCrAg preferred\r\nCell count \r\n(/µL)\r\n100–100,000;\r\nPMNs predominate \r\n(except Listeria can\r\nbe mixed/mono)\r\n10–500;\r\nlymphocytes \r\npredominate\r\n(early PMNs \r\npossible)\r\n50–500;\r\nlymphocytes \r\npredominate\r\n10–100 (can be up\r\nto a few hundred);\r\nlymphocytes\r\n20–500;\r\nlymphocytes \r\npredominate\r\n100–500 (↑) Normal–mild ↑\r\n(often 50–100) ↑ (100–500+) Mild ↑ (≈45–200) ↑ (≈50–300+)\r\nLow (<0.4) Normal Low (ratio <0.5) Normal Low (sometimes \r\nnormal)\r\nProtein\r\n(mg/dL) (10–\r\n45 normal)\r\nGlucose\r\n(CSF:serum)\r\nPreferred\r\nadditional\r\ntests\r\nBacterial antigen \r\ntest/culture; \r\nMultiplex PCR\r\nCSF PCR\r\n(enteroviruses, \r\nHSV, etc.)\r\nNAAT/PCR, culture;\r\nCSF VDRL (specific,\r\nlow sensitivity); CSF\r\nFTA-ABS/TPPA\r\n(more sensitive)\r\nCSF cryptococcal \r\nantigen; India \r\nink/Calcofluor",
+        "image": "images/inf-032.jpg"
+      },
+      {
+        "page": 33,
+        "text": "",
+        "image": "images/inf-033.jpg"
+      },
+      {
+        "page": 34,
+        "text": "CNS infections – CSF Features\r\nParameter Bacterial Viral Syphilitic\r\n(Neurosyphilis) Fungal\r\nOrganisms \r\nseen in CSF\r\nOften on Gram \r\nstain/culture None\r\nTuberculous\r\nRare on AFB \r\nsmear; \r\nculture/NAAT \r\nbetter\r\nNone\r\nSometimes (India \r\nink/Calcofluor); \r\nCrAg preferred\r\nCell count \r\n(/µL)\r\n100–100,000; \r\nPMNs\r\npredominate \r\n(except Listeria \r\ncan be\r\nmixed/mono)\r\n10–500;\r\nlymphocytes\r\npredominate\r\n(early PMNs\r\npossible)\r\n50–500;\r\nlymphocytes\r\npredominate\r\n10–100 (can be \r\nup to a few \r\nhundred); \r\nlymphocytes\r\n20–500;\r\nlymphocytes\r\npredominate\r\nParasitic\r\nRare (except \r\nmotile amoebas in \r\nPAM on wet \r\nmount)\r\n10–500;\r\nEosinophils often \r\npredominate. Can \r\nbe PMNs \r\n(Naegleria) or \r\nlymphocytes.\r\n100–500 (↑) Normal–mild ↑\r\n(often 50–100) ↑ (100–500+) Mild ↑ (≈45–200) ↑ (≈50–300+) Mild to moderate\r\n↑ (≈50–200)\r\nProtein \r\n(mg/dL) (10–\r\n45 normal)\r\nGlucose\r\n(CSF:serum) Low (<0.4) Normal Low (ratio <0.5) Normal Low (sometimes \r\nnormal)\r\nPreferred\r\nadditional\r\ntests\r\nBacterial antigen \r\ntest/culture; \r\nMultiplex PCR\r\nCSF PCR\r\n(enteroviruses, \r\nHSV, etc.)\r\nNAAT/PCR,\r\nculture;\r\nCSF VDRL\r\n(specific, low \r\nsensitivity); CSF \r\nFTA-ABS/TPPA\r\n(more sensitive)\r\nCSF cryptococcal \r\nantigen; India \r\nink/Calcofluor\r\nNormal (can be \r\nlow, especially in \r\nPAM)\r\nCSF differential for \r\neosinophils; \r\nSerology; Wet \r\nmount; specific \r\nNAAT/PCR",
+        "image": "images/inf-034.jpg"
+      },
+      {
+        "page": 35,
+        "text": "Abscess \r\nformation\r\nStreptococci, Staphylococci, \r\nToxoplasma gondii, Taenia \r\nsolium (cysticercosis)",
+        "image": "images/inf-035.jpg"
+      },
+      {
+        "page": 36,
+        "text": "Subdural Empyemas & Epidural Abscesses\r\nPolymicrobial with Staphylococci and anaerobic \r\ngram-negative, or fungal Spread from skull or air sinus \r\ninfections most common",
+        "image": "images/inf-036.jpg"
+      },
+      {
+        "page": 37,
+        "text": "",
+        "image": "images/inf-037.jpg"
+      }
+    ]
+  }
+]

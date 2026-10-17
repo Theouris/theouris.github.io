@@ -1,0 +1,890 @@
+[
+  {
+    "id": "av",
+    "source": "2026 Auditory and Vestibular UNLV Med.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Disorders of \r\nthe Auditory \r\nand Vestibular \r\nSystem\r\nMatthew Ng, MD\r\nClinical Associate Professor\r\nDepartment of Otolaryngology-HNS\r\nUNLV School of Medicine",
+        "image": "images/av-001.jpg"
+      },
+      {
+        "page": 2,
+        "text": "Goals & Objectives\r\n• Review clinical applications of knowledge base on auditory and \r\nvestibular neurophysiology\r\n• Review common auditory and vestibular disorders\r\n• Auditory disorders: types of hearing loss (conductive vs sensorineural \r\nvs mixed hearing loss), age-related, noise-induced, sudden idiopathic, \r\nototoxicity, asymmetric) and tinnitus\r\n• Vestibular disorders: BPPV, vestibular neuritis and labyrinthitis, \r\nMeniere's disease and vestibulotoxicity",
+        "image": "images/av-002.jpg"
+      },
+      {
+        "page": 3,
+        "text": "Case #1\r\n3 yo M brought in by mom with concerns for recurrent ear infections. Pt \r\nhas had an ear infection, sometimes bilateral, about 6 times this past \r\none year. In between ear infections, the pediatrician notices amber￾colored discoloration of the eardrums.",
+        "image": "images/av-003.jpg"
+      },
+      {
+        "page": 4,
+        "text": "Tubes were placed and mom reports pt is happier and hears better.",
+        "image": "images/av-004.jpg"
+      },
+      {
+        "page": 5,
+        "text": "• Newer treatment for Eustachian tube dysfunction",
+        "image": "images/av-005.jpg"
+      },
+      {
+        "page": 6,
+        "text": "Case #2\r\n6 month-old infant girl (no family hx of hearing loss) failed her state￾mandated newborn hearing screen at birth. Audiologic testing at 3 \r\nmos of age with auditory brainstem response testing revealed bilateral \r\nprofound hearing loss. Genetic testing revealed a mutation in the GBJ2 \r\ngene (connexin gene). Hearing aid trial at 6 mos of age did not make \r\nany difference in the patient’s response to sound. Parents desire \r\npatient to hear and develop speech normally.",
+        "image": "images/av-006.jpg"
+      },
+      {
+        "page": 7,
+        "text": "As early as 9 mos of age, bilateral cochlear implants were surgically \r\nplaced. By age 5 years, patient is attending mainstream school and is \r\nacademically on par with her peers in the classroom.",
+        "image": "images/av-007.jpg"
+      },
+      {
+        "page": 8,
+        "text": "Case #3\r\n55 yo M presents with gradual left \r\nhearing loss out of proportion to the \r\nright. This has been ongoing for at least \r\n5 years. In addition to the near-total \r\nhearing loss, he has left unremitting, \r\nhigh-pitch tinnitus. He notices that when \r\nhe walks, he veers to the left. \r\nAudiometric evaluation reveals an \r\nasymmetric left sensorineural hearing \r\nloss.",
+        "image": "images/av-008.jpg"
+      },
+      {
+        "page": 9,
+        "text": "This asymmetry in hearing prompts \r\nan MRI of the internal auditory \r\ncanal with and without gadolinium.\r\nLeft vestibular schwannoma.",
+        "image": "images/av-009.jpg"
+      },
+      {
+        "page": 10,
+        "text": "Surgery is performed to remove the vestibular schwannoma tumor in \r\nconjunction with neurosurgery via translabyrinthine approach. The \r\nvestibular end-organ is drilled away to gain access to the \r\ncerebellopontine angle to permit tumor removal and facial nerve \r\npreservation.",
+        "image": "images/av-010.jpg"
+      },
+      {
+        "page": 11,
+        "text": "Case #4\r\n82 yo female c/o “dizziness”. Upon further elicitation \r\nof her history, she has gait imbalance when she is on \r\nher feet. She loses her orientation with quick head \r\nmovements or rapid changes in her position. She \r\nfeels like she is going to fall. She will be having \r\ncataract surgery because her vision is blurred. She \r\nrecently had bilateral knee replacement surgery. \r\nWhy is she so imbalanced?",
+        "image": "images/av-011.jpg"
+      },
+      {
+        "page": 12,
+        "text": "Balance Mechanisms\r\n(multiple inputs to brain)\r\nBalance treatment: vestibular \r\nrehabilitation/ balance-retraining",
+        "image": "images/av-012.jpg"
+      },
+      {
+        "page": 13,
+        "text": "HEARING LOSS",
+        "image": "images/av-013.jpg"
+      },
+      {
+        "page": 14,
+        "text": "Hearing…what happens?\r\n• Phenomenon of capturing sound energy \r\n(acoustic energy) traveling via air medium by \r\nouter ear\r\n• Transforming the sound energy by the middle ear \r\n(impedance matching system)\r\n• Tranducing the sound energy by the inner ear to \r\nneural activity…\r\n• Decoded by central auditory nervous system into \r\ncomplex auditory perceptions (speech and \r\nmusic)",
+        "image": "images/av-014.jpg"
+      },
+      {
+        "page": 15,
+        "text": "External Ear Middle Ear",
+        "image": "images/av-015.jpg"
+      },
+      {
+        "page": 16,
+        "text": "INNER EAR\r\n• Acoustic energy from middle ear \r\ntransferred to inner ear fluids \r\n(hydromechanical energy)\r\n• Inner ear fluids: endolymph and \r\nperilymph\r\n• Cochlear fluid movement results in basilar \r\nmembrane movement (Traveling Wave \r\nTheory)",
+        "image": "images/av-016.jpg"
+      },
+      {
+        "page": 17,
+        "text": "Traveling Wave Theory\r\n• Georg von Bekesy \r\n• 1961 Nobel Prize in \r\nPhysiology/Medicine\r\n• Harvard University",
+        "image": "images/av-017.jpg"
+      },
+      {
+        "page": 18,
+        "text": "Cochlear Tonotopicity",
+        "image": "images/av-018.jpg"
+      },
+      {
+        "page": 19,
+        "text": "Central Auditory System\r\n• Cochlear nerve enters pontomedullary junction\r\n• Consists of cochlear nuclei at brainstem\r\n• Dorsal nucleus (all fibers ascend contralaterally)\r\n• Ventral nucleus (30% fibers go ipsilateral)",
+        "image": "images/av-019.jpg"
+      },
+      {
+        "page": 20,
+        "text": "Auditory Cortex\r\n• Hearing in noise\r\n• Sound localization\r\n• Temporal judgments of sound\r\n• Decoding complex acoustic \r\nstimuli\r\n• Music appreciation",
+        "image": "images/av-020.jpg"
+      },
+      {
+        "page": 21,
+        "text": "How to test \r\nhearing:",
+        "image": "images/av-021.jpg"
+      },
+      {
+        "page": 22,
+        "text": "How to test \r\nhearing:",
+        "image": "images/av-022.jpg"
+      },
+      {
+        "page": 23,
+        "text": "Audiology Booth and Testing",
+        "image": "images/av-023.jpg"
+      },
+      {
+        "page": 24,
+        "text": "Air Conduction and Bone Conduction Testing",
+        "image": "images/av-024.jpg"
+      },
+      {
+        "page": 25,
+        "text": "Pure Tone Testing & Word Recognition \r\nTesting",
+        "image": "images/av-025.jpg"
+      },
+      {
+        "page": 26,
+        "text": "AUDIOGRAM",
+        "image": "images/av-026.jpg"
+      },
+      {
+        "page": 27,
+        "text": "AUDIOGRAM￾degrees of \r\nhearing loss",
+        "image": "images/av-027.jpg"
+      },
+      {
+        "page": 28,
+        "text": "AUDIOGRAM",
+        "image": "images/av-028.jpg"
+      },
+      {
+        "page": 29,
+        "text": "Normal \r\nhearing",
+        "image": "images/av-029.jpg"
+      },
+      {
+        "page": 30,
+        "text": "AUDIOGRAM￾sensorineural \r\nhearing loss",
+        "image": "images/av-030.jpg"
+      },
+      {
+        "page": 31,
+        "text": "Conductive \r\nHearing Loss",
+        "image": "images/av-031.jpg"
+      },
+      {
+        "page": 32,
+        "text": "Mixed\r\nHearing Loss",
+        "image": "images/av-032.jpg"
+      },
+      {
+        "page": 33,
+        "text": "TYMPANOGRAM",
+        "image": "images/av-033.jpg"
+      },
+      {
+        "page": 34,
+        "text": "Auditory \r\nBrainstem \r\nResponse \r\nTesting",
+        "image": "images/av-034.jpg"
+      },
+      {
+        "page": 35,
+        "text": "Types of hearing loss…",
+        "image": "images/av-035.jpg"
+      },
+      {
+        "page": 36,
+        "text": "Conductive Hearing Loss",
+        "image": "images/av-036.jpg"
+      },
+      {
+        "page": 37,
+        "text": "Sensorineural Hearing Loss",
+        "image": "images/av-037.jpg"
+      },
+      {
+        "page": 38,
+        "text": "Mixed Hearing Loss",
+        "image": "images/av-038.jpg"
+      },
+      {
+        "page": 39,
+        "text": "Causes for \r\nconductive \r\nhearing \r\nloss…",
+        "image": "images/av-039.jpg"
+      },
+      {
+        "page": 40,
+        "text": "Causes of conductive hearing loss…",
+        "image": "images/av-040.jpg"
+      },
+      {
+        "page": 41,
+        "text": "Ways to \r\ncorrect \r\nconductive \r\nhearing loss…",
+        "image": "images/av-041.jpg"
+      },
+      {
+        "page": 42,
+        "text": "Bone conduction devices-percutaneous",
+        "image": "images/av-042.jpg"
+      },
+      {
+        "page": 43,
+        "text": "Bone conduction devices-transcutaneous",
+        "image": "images/av-043.jpg"
+      },
+      {
+        "page": 44,
+        "text": "What \r\nhappens in \r\nSNHL \r\nhearing \r\nloss?",
+        "image": "images/av-044.jpg"
+      },
+      {
+        "page": 45,
+        "text": "Ways to assist \r\nhearing…\r\nAmplification",
+        "image": "images/av-045.jpg"
+      },
+      {
+        "page": 46,
+        "text": "Cochlear Implantation",
+        "image": "images/av-046.jpg"
+      },
+      {
+        "page": 47,
+        "text": "Presbycusis (age-related hearing loss)\r\n• Auditory neural structures do not regenerate \r\n• Loss of auditory sensitivity and decline in \r\nword recognition abilities\r\n• Contributing factors: genetic predispositions, \r\noccupational noise, diet, CV disease, \r\nsmoking, alcohol abuse, head trauma\r\n• Symmetric sensorineural hearing loss",
+        "image": "images/av-047.jpg"
+      },
+      {
+        "page": 48,
+        "text": "Noise-induced \r\nhearing loss\r\n• Susceptibility to NIHL from sounds within \r\nour audible spectrum\r\n• Damage to human hearing > 8 hrs of \r\ncontinuous sound 85dBA\r\n• Most noise is intermittent and broad \r\nband\r\n• OSHA 5-dB trade rule: reduction of ½ \r\nduration, permissible sound levels can \r\nincrease by 5dB\r\n• Most affected frequency band affected \r\n3-6KHz \r\n• Temporary vs. permanent threshold \r\nshifts\r\n• Humans lack hair cell regeneration \r\ncapability",
+        "image": "images/av-048.jpg"
+      },
+      {
+        "page": 49,
+        "text": "Ototoxic hearing loss\r\n• Therapeutic agents/chemical substances that cause functional impairment and \r\ncellular degeneration of inner ear tissues\r\n• Common agents:\r\n• Aminoglycosides (OHC>IHC loss at basal turn) \r\n• Streptomycin, gentamicin, tobramycin, amikacin\r\n• Loop diuretics (stria vascularis; dose-related, reversible reduction of \r\nendocochlear potential)\r\n• furosemide\r\n• Salicylates (biochemical alterations, OHC motility affected, reversible)\r\n• aspirin\r\n• Cisplatin (loss of OHC; mechanism? Irreversible damage)\r\n• Recommendations: reduce dosing frequency, avoid IV bolus \r\nadministrations, monitor drug serum levels, pay attention to \r\nearly symptomatology (HL, tinnitus)\r\n• Vestibulotoxicity\r\n• Similar mechanisms of hair cell damage\r\n• Early signs: dizziness, vertigo, nystagmus, oscillopsia",
+        "image": "images/av-049.jpg"
+      },
+      {
+        "page": 50,
+        "text": "Sudden idiopathic SNHL\r\n• Defined by loss of >30dB in at least 3 \r\ncontiguous test frequencies within 3 days \r\n(rule of 3’s)\r\n• Atrophy of organ of Corti, stria vascularis, \r\ntectorial membrane\r\n• Causes: viral, autoimmune, vasocclusive\r\n• Treatment: oral steroids, intratympanic \r\nsteroids",
+        "image": "images/av-050.jpg"
+      },
+      {
+        "page": 51,
+        "text": "Asymmetric SNHL and \r\nVestibular Schwannomas\r\n• Asymmetric hearing loss is not common\r\n• Defined as 10dB or worse over 2 test \r\nfrequencies or > 15% difference in word \r\nrecognition scores",
+        "image": "images/av-051.jpg"
+      },
+      {
+        "page": 52,
+        "text": "TINNITUS",
+        "image": "images/av-052.jpg"
+      },
+      {
+        "page": 53,
+        "text": "TINNITUS\r\nDefinition\r\n• Tinnitus: perception of noise in the absence of \r\nacoustic stimulus",
+        "image": "images/av-053.jpg"
+      },
+      {
+        "page": 54,
+        "text": "TINNITUS\r\n• Objective and subjective \r\ntinnitus\r\n• Objective: that which is audible by \r\nphysician or with pulsatile \r\ncharacter\r\n• Subjective: that which is audible \r\nby patient only\r\nTinnitus \r\nHelp",
+        "image": "images/av-054.jpg"
+      },
+      {
+        "page": 55,
+        "text": "Objective Tinnitus\r\n• Types of objective tinnitus\r\n• Vascular\r\n• Muscular\r\n• Eustachian tube dysfunction",
+        "image": "images/av-055.jpg"
+      },
+      {
+        "page": 56,
+        "text": "Objective Tinnitus\r\nVascular",
+        "image": "images/av-056.jpg"
+      },
+      {
+        "page": 57,
+        "text": "Objective Tinnitus\r\nVascular",
+        "image": "images/av-057.jpg"
+      },
+      {
+        "page": 58,
+        "text": "Objective Tinnitus\r\nVascular\r\n• Pulsatile sound\r\n• Synchronous with heartbeat/pulse\r\n• Tempo or rate increases with exercise\r\n• Pathologies to consider:\r\n• Arteriovenous shunts (intracranial or periauricular, congenital or \r\nacquired)\r\n• Congenital AV malformations (direct connection between \r\narterial and venous systems)\r\n• Arterial bruits (from carotid or vertebral A systems, stenoses)\r\n• Venous hums (related to HTN)\r\n• Idiopathic intracranial hypertention",
+        "image": "images/av-058.jpg"
+      },
+      {
+        "page": 59,
+        "text": "• Diagnosis: MRA/MRV; CT angiography; conventional \r\nangiography\r\nObjective Tinnitus\r\nVascular",
+        "image": "images/av-059.jpg"
+      },
+      {
+        "page": 60,
+        "text": "Objective Tinnitus\r\nMuscular\r\n• Tensor tympani muscle/ \r\nstapedius muscle spasm",
+        "image": "images/av-060.jpg"
+      },
+      {
+        "page": 61,
+        "text": "Objective \r\nTinnitus\r\nEustachian tube \r\ndysfunction\r\n• Patulous Eustachian Tube\r\n• Respiratory & phonatory \r\nautophony\r\n• Aural fullness",
+        "image": "images/av-061.jpg"
+      },
+      {
+        "page": 62,
+        "text": "Subjective Tinnitus",
+        "image": "images/av-062.jpg"
+      },
+      {
+        "page": 63,
+        "text": "Subjective Tinnitus\r\nCauses/ Theories\r\n• Disordered hair cell theory: hair cell injury from hearing loss causes repetitive \r\ndischarge in a way that central auditory system does not discriminate from actual \r\nsound\r\n• Spontaneous neural activity within individual nerve fibers of the auditory nerve \r\noriginate from neural injury or metabolic abnormality\r\n• Hyperactivity of nuclei in ascending auditory pathway stimulates different areas \r\nof auditory cortex in absence of acoustic stimulus",
+        "image": "images/av-063.jpg"
+      },
+      {
+        "page": 64,
+        "text": "Subjective Tinnitus\r\nCauses/ Theories\r\n• **Cochlear damage reduces suppressive influence of CNS allowing increase in \r\nneural activity at higher centers in the auditory system\r\nDEAFFERENTATION- LOSS OF INHIBITION HYPOTHESIS OF TINNITUS",
+        "image": "images/av-064.jpg"
+      },
+      {
+        "page": 65,
+        "text": "Subjective Tinnitus\r\nCauses/ Theories",
+        "image": "images/av-065.jpg"
+      },
+      {
+        "page": 66,
+        "text": "Tinnitus\r\nCommon Presentation\r\n• 75% with tinnitus have 30+ dB hearing loss from 3-8 KHz\r\n• Pitch match of tinnitus correlates with frequency of hearing loss \r\nnadir",
+        "image": "images/av-066.jpg"
+      },
+      {
+        "page": 67,
+        "text": "Tinnitus\r\nTreatment",
+        "image": "images/av-067.jpg"
+      },
+      {
+        "page": 68,
+        "text": "Tinnitus\r\nTreatment\r\n• General lifestyle and dietary modifications:\r\n• Reduce chocolate, caffeine, nicotine\r\n• Avoid noisy environments\r\n• Home masking techniques\r\n• Avoid ASA-containing medications\r\n• Treatment should be directed to associated conditions (targeted￾therapy)\r\n• TMJ (TMJ treatment)\r\n• Cervical muscular tension (muscle relaxant)\r\n• Depression/anxiety disorder (SSRI/anxiolytic)\r\n• Poor sleep patterns (melatonin)",
+        "image": "images/av-068.jpg"
+      },
+      {
+        "page": 69,
+        "text": "Tinnitus\r\nMedical Treatment\r\n• Anti-depressants \r\n• Heterocyclics (nortriptyline) /SSRI (sertraline)\r\n• Anti-convulsants\r\n• Carbamazepine, gabapentin\r\n• Tranquilizers \r\n• diazepam, clonazepam, oxazepam, alprazolam\r\n• Rationale: \r\n• Enhance neural inhibition: GABA (inhibitory neurotransmitter) analogue \r\nsuch as gabapentin useful\r\n• Maintain serotonin levels (serotonin is a chemical modulator of neural \r\nsensory systems)",
+        "image": "images/av-069.jpg"
+      },
+      {
+        "page": 70,
+        "text": "",
+        "image": "images/av-070.jpg"
+      },
+      {
+        "page": 71,
+        "text": "Vestibular System, \r\nBalance, Dizziness, & \r\nVestibulopathies",
+        "image": "images/av-071.jpg"
+      },
+      {
+        "page": 72,
+        "text": "Vestibular \r\nEndorgans",
+        "image": "images/av-072.jpg"
+      },
+      {
+        "page": 73,
+        "text": "Vestibular Endorgans",
+        "image": "images/av-073.jpg"
+      },
+      {
+        "page": 74,
+        "text": "Maintaining Orientation and Balance",
+        "image": "images/av-074.jpg"
+      },
+      {
+        "page": 75,
+        "text": "Maintaining Orientation and Balance\r\nVESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE",
+        "image": "images/av-075.jpg"
+      },
+      {
+        "page": 76,
+        "text": "VESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE\r\nVESTIBULAR\r\n-Associated reflexes:\r\nVESTIBULO-OCULAR REFLEX\r\nVESTIBULO-SPINAL REFLEX",
+        "image": "images/av-076.jpg"
+      },
+      {
+        "page": 77,
+        "text": "VESTIBULAR\r\nVISION\r\nPROPRIOCEPTION\r\nBALANCE\r\n• Visual acuity (clear vision)\r\n• Oculomotor system\r\n•Binocular vision",
+        "image": "images/av-077.jpg"
+      },
+      {
+        "page": 78,
+        "text": "VESTIBULAR\r\nVISION\r\nPROPRIOCEPTION\r\nBALANCE\r\n• Sensory input from major \r\njoints (hips, knees, ankles)\r\n• Center of gravity shifts to \r\nremain upright",
+        "image": "images/av-078.jpg"
+      },
+      {
+        "page": 79,
+        "text": "Maintaining Orientation and Balance\r\nSensory and Multisensory Conflict\r\nVESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE",
+        "image": "images/av-079.jpg"
+      },
+      {
+        "page": 80,
+        "text": "Maintaining Orientation and Balance\r\nSensory and Multisensory Conflict\r\nVESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE",
+        "image": "images/av-080.jpg"
+      },
+      {
+        "page": 81,
+        "text": "Maintaining Orientation and Balance\r\nSensory and Multisensory Conflict\r\nVESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE",
+        "image": "images/av-081.jpg"
+      },
+      {
+        "page": 82,
+        "text": "Maintaining Orientation and Balance\r\nSensory and Multisensory Conflict\r\nVESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE",
+        "image": "images/av-082.jpg"
+      },
+      {
+        "page": 83,
+        "text": "Maintaining Orientation and Balance\r\nSensory and Multisensory Conflict\r\nVESTIBULAR\r\nVISION PROPRIOCEPTION\r\nBALANCE",
+        "image": "images/av-083.jpg"
+      },
+      {
+        "page": 84,
+        "text": "Dizziness",
+        "image": "images/av-084.jpg"
+      },
+      {
+        "page": 85,
+        "text": "PERIPHERAL LABYRINTHINE \r\nDISORDERS\r\n• Benign Paroxysmal Positional Vertigo\r\n• Vestibular neuritis/ labyrinthitis\r\n• Meniere’s disease\r\n• Vestibulotoxicity",
+        "image": "images/av-085.jpg"
+      },
+      {
+        "page": 86,
+        "text": "COMMON PERIPHERAL \r\nLABYRINTHINE DISORDERS\r\n• Benign Paroxysmal Positional Vertigo (BPPV)\r\n• Cupulolithiasis/ Canalithiasis: Loose otoconial particles \r\nfrom posterior SCC from utricle\r\n• Positionally induced vertigo, lasting seconds\r\n• Provoking positions: turn over in bed, get in/out of bed, \r\nbending over, extend neck to look up and back\r\n• + Dix-Hallpike positioning test: torsional vertical positional \r\nnystagmus in plane of posterior SCC\r\n• Treatment: Canalith repositioning maneuver (Epley \r\nmaneuver)",
+        "image": "images/av-086.jpg"
+      },
+      {
+        "page": 87,
+        "text": "BENIGN PAROXYSMAL POSITIONAL VERTIGO",
+        "image": "images/av-087.jpg"
+      },
+      {
+        "page": 88,
+        "text": "Dix-Hallpike test for BPPV\r\n• Look for rotary, jerk nystagmus\r\n• Geotropic (toward lowermost \r\ninvolved ear) rotational \r\nnystagmus",
+        "image": "images/av-088.jpg"
+      },
+      {
+        "page": 89,
+        "text": "Epley Maneuver for BPPV",
+        "image": "images/av-089.jpg"
+      },
+      {
+        "page": 90,
+        "text": "COMMON \r\nPERIPHERAL \r\nLABYRINTHINE \r\nDISORDERS\r\n• Vestibular Neuritis\r\n• Inflammation of labyrinth or vestibular \r\nnerve from viral\r\n• Acute onset vertigo (peak at 24 hours), \r\nduration for days, and gradual \r\nimprovement over weeks\r\n• 20-30% have recurrence\r\n• usually not associated hearing loss\r\n• Treatment: vestibular suppressants, \r\nantiemetics, corticosteorids",
+        "image": "images/av-090.jpg"
+      },
+      {
+        "page": 91,
+        "text": "COMMON \r\nPERIPHERAL \r\nLABYRINTHINE \r\nDISORDERS\r\n• Serous / suppurative labyrinthitis\r\n• Infection of the labyrinth\r\n• Entry of infection from middle ear or \r\nintracranial cavity (meningitis, internal \r\nauditory canal, cochlear aqueduct)\r\n• May have entry of inflammatory \r\nmediators / toxins / bacteria\r\n• Features hearing loss\r\n• Treatment: vestibular suppressants, \r\nantiemetics, corticosteorids + \r\nANTIBIOTICS",
+        "image": "images/av-091.jpg"
+      },
+      {
+        "page": 92,
+        "text": "Meniere’s disease\r\n• Symptom complex described by Prosper Ménière\r\nin 1861\r\n• Spontaneous episodic vertigo\r\n• Tinnitus\r\n• Fluctuating hearing loss\r\n• Aural fullness\r\n• Histopathologic correlate described independently \r\nby Hallpike & Cairns and Yamakawa (1938): \r\nendolymphatic hydrops",
+        "image": "images/av-092.jpg"
+      },
+      {
+        "page": 93,
+        "text": "Endolymphatic Hydrops",
+        "image": "images/av-093.jpg"
+      },
+      {
+        "page": 94,
+        "text": "MENIERE’S DISEASE\r\nDISTENTION OF \r\nENDOLYMPHATIC \r\nCOMPARTMENT",
+        "image": "images/av-094.jpg"
+      },
+      {
+        "page": 95,
+        "text": "Endolymphatic Hydrops & Meniere’s disease: a complex \r\nrelationship\r\n• Endolymph produced by stria vascularis and dark cells of \r\nthe vestibular labyrinth\r\n• Endolymphatic hydrops might result from overproduction \r\nor under-resorption of endolymph\r\n• Local alteration of the biochemical environment & \r\nhomeostasis of the labyrinth",
+        "image": "images/av-095.jpg"
+      },
+      {
+        "page": 96,
+        "text": "Meniere’s disease: Presentation \r\n(classic tetrad)\r\n• Episodic vertigo (minutes to hrs)\r\n• Fluctuating hearing loss (50-70%) (low \r\nfrequency)\r\n• Tinnitus (roaring, gets louder with attacks)\r\n• Aural fullness (50-70%)\r\n• Progression of Meniere’s disease to contralateral \r\near (up to 50%)",
+        "image": "images/av-096.jpg"
+      },
+      {
+        "page": 97,
+        "text": "Course of Meniere’s Disease\r\n• Spontaneous attacks of vertigo in clusters or on \r\nregular schedule\r\n• Fluctuating hearing loss leading to progressive \r\nhearing loss\r\n• Periods of remission for years followed by \r\nrecurrence\r\n• Burnt-out phase: \r\n• no more acute attacks of vertigo\r\n• chronic dysequilibrium\r\n• hearing stabilizes at 50dB flat audiometric \r\nconfiguration, 50% WRS",
+        "image": "images/av-097.jpg"
+      },
+      {
+        "page": 98,
+        "text": "Medical Management\r\n• Symptomatic treatment\r\n• Vestibular suppressants: meclizine, valium, \r\nclonazepam, phenergan, ondansetron\r\n• Dietary modifications\r\n• Low sodium diet (< 2 grams/ day)\r\n• Reduce caffeine, alcohol intake\r\n• General health maintenance: sleep, rest, control \r\nallergies, thyroid, DM control, avoid hormonal \r\nfluxes",
+        "image": "images/av-098.jpg"
+      },
+      {
+        "page": 99,
+        "text": "Medical Management\r\n• Diuretics\r\n• Classes of diuretics used: thiazide (HCTZ), potassium sparing (Dyazide, Maxzide), \r\ncarbonic anhydrase inhibitor (Diamox)\\\r\n• Vasodilators\r\n• Betahistine (Serc)\r\n• Oral analogue of histamine\r\n• Causes capillary dilation",
+        "image": "images/av-099.jpg"
+      },
+      {
+        "page": 100,
+        "text": "Surgical Treatment\r\n• Endolymphatic sac shunt / decompression",
+        "image": "images/av-100.jpg"
+      },
+      {
+        "page": 101,
+        "text": "Surgical Treatment\r\n• Labyrinthectomy",
+        "image": "images/av-101.jpg"
+      },
+      {
+        "page": 102,
+        "text": "Surgical Treatment\r\n• Vestibular Nerve Section",
+        "image": "images/av-102.jpg"
+      },
+      {
+        "page": 103,
+        "text": "Intratympanic Gentamicin",
+        "image": "images/av-103.jpg"
+      },
+      {
+        "page": 104,
+        "text": "COMMON PERIPHERAL \r\nLABYRINTHINE DISORDERS\r\n•Vestibulotoxicity\r\n• Drug-induced hair cell injury\r\n• Common agents: aminoglycosides (gentamicin), \r\nchemotherapeutic agents (cisplatin), salicylates\r\n• May lead to bilateral vestibular hypofunction\r\n• Symptoms: oscillopsia (visual bobbing), imbalance, high￾frequency hearing loss",
+        "image": "images/av-104.jpg"
+      },
+      {
+        "page": 105,
+        "text": "RECOVERY FROM VESTIBULAR INJURY\r\n• Central nervous system has adaptive mechanisms \r\nto handle sensory conflicts\r\n(CENTRAL COMPENSATION)\r\n• Develop coping strategies\r\n• Adaptive mechanisms will differ in each case; hence, \r\nrecovery will be variable\r\n• Factors: health of CNS, severity of insult",
+        "image": "images/av-105.jpg"
+      },
+      {
+        "page": 106,
+        "text": "Recovery\r\n• Recovery through process of central \r\ncompensation\r\n• Consists of (2) phases:\r\n• Suppression of asymmetry in the acute \r\nphase\r\n• Re-balance neural activity (recalibration)\r\n• CNS plasticity (ability to adapt to \r\nsensory input and maintain appropriate \r\nresponse)\r\n• Rationale for vestibular rehabilitation\r\n• Habituation exercises",
+        "image": "images/av-106.jpg"
+      },
+      {
+        "page": 107,
+        "text": "COMPENSATION PATTERNS\r\nFAILURE OF COMPENSATION\r\nDECOMPENSATION INCOMPLETE RECOVERY",
+        "image": "images/av-107.jpg"
+      },
+      {
+        "page": 108,
+        "text": "Central Compensation\r\n• Compensation takes longer in older population\r\n• Altered with medications\r\n• Other neurological conditions\r\n• Decompensation can still occur",
+        "image": "images/av-108.jpg"
+      },
+      {
+        "page": 109,
+        "text": "VESTIBULAR REHABILITATION\r\n• Balance exercises to maximize and enhance \r\nremaining vestibular function\r\n• Exercises to improve gaze stability, balance, and \r\ngait\r\n• Habituation exercises designed to extinguish \r\npathologic responses to head motion\r\n• Must have re-synthesis of visual, vestibular, \r\nproprioceptive information; changes on-going at \r\ncerebellum and vestibular nuclei level",
+        "image": "images/av-109.jpg"
+      },
+      {
+        "page": 110,
+        "text": "Vestibular Rehabilitation",
+        "image": "images/av-110.jpg"
+      },
+      {
+        "page": 111,
+        "text": "Vestibular Rehabilitation",
+        "image": "images/av-111.jpg"
+      },
+      {
+        "page": 112,
+        "text": "Vestibular Rehabilitation",
+        "image": "images/av-112.jpg"
+      },
+      {
+        "page": 113,
+        "text": "CONCLUSIONS\r\n• Understanding the basics of hearing and balance function \r\ncontributes to a better understanding of the \r\npathophysiology of hearing and balance disorders to better \r\ntreat clinical disorders\r\n• Results in more effective and rational treatments\r\nmatthew.ng@unlv.edu",
+        "image": "images/av-113.jpg"
+      }
+    ]
+  },
+  {
+    "id": "oph",
+    "source": "Ophthalmics student 2025.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Ophthalmics\r\nAryan Rahbar, PharmD",
+        "image": "images/oph-001.jpg"
+      },
+      {
+        "page": 2,
+        "text": "Mydriatics & cycloplegics\r\n• Atropine, tropicamide, \r\ncyclopentolate\r\n• Cholinergic antagonists\r\n• Have mydriatic and cycloplegic activity \r\n• Primary difference between the \r\nagents is duration of mydriasis \r\n• Atropine: 7-14 days\r\n• Cyclopentolate: 24 hours\r\n• Tropicamide: 6 hours \r\n• Phenylephrine \r\n• α1\r\nagonist → mydriasis (no \r\ncycloplegia)\r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-002.jpg"
+      },
+      {
+        "page": 3,
+        "text": "Antiglaucoma agents",
+        "image": "images/oph-003.jpg"
+      },
+      {
+        "page": 4,
+        "text": "β-blockers (timolol, betaxolol, \r\ncarteolol)\r\n• Mechanism of action\r\n• Blocks β2\r\nactivated aqueous humor production from \r\nthe ciliary epithelium\r\n• Adverse effects\r\n• Indicated for angle closure and open angle \r\nglaucoma \r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-004.jpg"
+      },
+      {
+        "page": 5,
+        "text": "α-agonists\r\n• α2\r\nagonist(apraclonidine, brimonidine)\r\n• Mechanism of action\r\n• Primary:  aqueous humor synthesis via α2\r\nreceptor activation\r\n• Secondary: ↑outflow of aqueous humor \r\nthrough the uveoscleral pathway \r\n• Adverse effects\r\n• Blurry vision\r\n• Ocular hyperemia \r\n• Foreign body sensation\r\n• Itchy eyes \r\n• Indicated for open angle glaucoma \r\n• α and β agonist (epinephrine)\r\n• Mechanism of action\r\n• Early effect:  β2 aqueous humor production\r\n• DO NOT GIVE IN ANGLE-CLOSURE GLAUCOMA \r\n• Later effect:  aqueous humor synthesis via \r\nvasoconstriction and α2\r\nreceptor activation\r\n• Later effect: ↑outflow of aqueous humor \r\nthrough the uveoscleral pathway \r\n• Adverse effects\r\n• Mydriasis\r\n• Blurry vision\r\n• Ocular hyperemia \r\n• Foreign body sensation\r\n• Itchy eyes \r\n• Not routinely used anymore for glaucoma \r\nmanagement \r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-005.jpg"
+      },
+      {
+        "page": 6,
+        "text": "Diuretics (acetazolamide, mannitol)\r\n• Carbonic anhydrase inhibitors \r\n(acetazolamide, dorzolamide, \r\nbrinzolamide)\r\n• Mechanism of action\r\n• Inhibits carbonic anhydrase on the ciliary \r\nepithelium of the eye → decreased \r\nproduction of aqueous humor \r\n• Adverse effects\r\n• Metabolic acidosis\r\n• Potassium depletion \r\n• Paresthesia \r\n• Renal stones \r\n• Acetazolamide given orally or \r\nintravenously → increased risk for \r\nsystemic effects\r\n• Indicated for angle closure glaucoma or \r\nopen angle glaucoma \r\n• Mannitol\r\n• Mechanism of action\r\n•  serum osmolarity → draws fluid out of \r\nthe anterior chamber of the eye \r\n• Adverse effects\r\n• Dehydration → prerenal acute kidney injury \r\n• Indicated for angle closure glaucoma \r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-006.jpg"
+      },
+      {
+        "page": 7,
+        "text": "Prostaglandin analogs (bimatoprost, \r\nlatanoprost)\r\n• Mechanism of action\r\n• PGF2α analog→ increase outflow \r\nof aqueous humor via uveoscleral \r\npathway\r\n• Adverse effects\r\n• Darkening of iris \r\n• Eyelash growth (Latisse)\r\n• Indicated for open angle \r\nglaucoma \r\nLatisse.com\r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-007.jpg"
+      },
+      {
+        "page": 8,
+        "text": "Cholinomimetics\r\n• Direct (pilocarpine, carbachol)\r\n• Mechanism of action\r\n• M3\r\nreceptor activation contracts \r\nciliary muscle → increased outflow \r\nof aqueous humor through \r\ntrabecular meshwork \r\n• Adverse effects\r\n• Cholinergic toxicity \r\n• Miosis → blurry vision in low light\r\n• Angle closure glaucoma or open \r\nangle glaucoma \r\n• Indirect (echothiophate)\r\n• Mechanism of action\r\n• Inhibits acetylcholinesterase →\r\nincreased acetycholine → M3\r\nreceptor activation contracts ciliary \r\nmuscle → increased outflow of \r\naqueous humor through trabecular \r\nmeshwork \r\n• Adverse effects\r\n• Cholinergic toxicity \r\n• Miosis → blurry vision in low light\r\n• Open angle glaucoma \r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-008.jpg"
+      },
+      {
+        "page": 9,
+        "text": "Rho kinase inhibitors (netarsudil, ripasudil)\r\n• Mechanism of action\r\n• ↓ cell stiffness of trabecular \r\nmeshwork → increased drainage \r\nof aqueous humor\r\n• Can ↓ fibrosis of trabecular \r\nmeshwork\r\n• Well tolerated\r\n• Used in open angle glaucoma \r\nrhopressa.myalcon.com\r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-009.jpg"
+      },
+      {
+        "page": 10,
+        "text": "Carbonic anhydrase inhibitors\r\nWhalen. Pharmacology 8th edition. 2023",
+        "image": "images/oph-010.jpg"
+      },
+      {
+        "page": 11,
+        "text": "Question\r\nA 53-year-old woman suffering from open-angle glaucoma was \r\nprescribed pilocarpine to help control her intraocular pressure. The \r\ntherapeutic effect of pilocarpine is due to:\r\nA. Inhibition of carbonic anhydrase\r\nB. Inhibition of acetylcholinesterase\r\nC. Activation of muscarinic M3\r\nreceptors\r\nD. Blockade of β-adrenergic receptors",
+        "image": "images/oph-011.jpg"
+      },
+      {
+        "page": 12,
+        "text": "Question\r\nIf an ophthalmologist wants to dilate the pupils for an eye examination, \r\nwhich of the following class of drugs would be most useful?\r\nA. Muscarinic receptor agonist\r\nB. Muscarinic receptor antagonist\r\nC. Beta-blocker\r\nD. Osmotic diuretic ",
+        "image": "images/oph-012.jpg"
+      },
+      {
+        "page": 13,
+        "text": "Questions?\r\nAryan.Rahbar@unlv.edu",
+        "image": "images/oph-013.jpg"
+      }
+    ]
+  },
+  {
+    "id": "va",
+    "source": "Visual and Auditory  Systems_Lecture Slides 10.14.2026b.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "Visual and Auditory Systems\r\nMED 808: Neuroscience, Neuroanatomy, and Neurology (NNN), Fall 2026\r\nReading: \r\nLinda S. Costanzo: Physiology, 8th Ed., (Refer to Course Syllabus).\r\nLarry D. Alexander, Ph. D. \r\nAssistant Dean for Biomedical Science Education\r\nAssociate Professor of Physiology\r\nEmail: larry.alexander@unlv.edu\r\nOffice: MED 5-566\r\nOffice Hours: Walk-ins and by Appointment\r\n1",
+        "image": "images/va-001.jpg"
+      },
+      {
+        "page": 2,
+        "text": "Learning Objectives\r\nAfter studying this lecture, the student should be able to:\r\n1. Explain the mechanisms of phototransduction in retinal rod and \r\ncone photoreceptors and predict how light- and dark-induced \r\nchanges in photopigments, cyclic GMP, ion-channel activity, and \r\nneurotransmitter release influence bipolar and ganglion cell \r\nsignaling. \r\n2. Describe the structure of the outer, middle, and inner ear, and \r\nrelate their anatomical organization to hearing and balance.\r\n3. Explain the organization and function of the auditory and vestibular \r\npathways from the inner ear to the cerebral cortex. \r\n2",
+        "image": "images/va-002.jpg"
+      },
+      {
+        "page": 3,
+        "text": "Lecture Outline\r\nI. Photoreceptors\r\nII. Photoreception in the Rod Cell\r\nIII. Vision Field Defects\r\nIV. Overview of Hearing\r\nV. External and Middle Ear: Sound Conduction\r\nVI. Physiological Mechanism of Auditory Signal Transduction\r\nVII. Auditory Neural Pathway\r\n3",
+        "image": "images/va-003.jpg"
+      },
+      {
+        "page": 4,
+        "text": "Photoreceptors\r\n4",
+        "image": "images/va-004.jpg"
+      },
+      {
+        "page": 5,
+        "text": "Photoreceptors\r\n• Two types of \r\nphotoreceptors:\r\n– Rods\r\n– Cones\r\n• Modified neurons\r\n– Outer segment: detects light\r\n– Inner segment: cell body\r\n– Synaptic terminal: connects to \r\ninterneurons\r\n• Photoreceptors located in \r\nretina.\r\n5\r\nFIG. 3.15 Structureof photoreceptors. The enlargements show a\r\nmagnified view of the outer segments. Outer segment contains\r\nrhodopsin (a light-sensitive pigment). The greater the amount of\r\nphotopigment, the greater the sensitivity to light. The inner segments\r\ncontain mitochondria and other organelles.\r\nApex\r\nBase\r\nContains large\r\namounts of \r\nrhodopsin).\r\nNIGHT vision\r\nHIGH sensitivity to light\r\nLOW visual acuity\r\nCOLOR vision\r\nLOW sensitivity to light\r\nHIGH visual acuity",
+        "image": "images/va-005.jpg"
+      },
+      {
+        "page": 6,
+        "text": "TABLE 3.4 Properties of Rods and Cones\r\nPhotoreceptor Sensitivity to Light Acuity Dark Adaptation Color Vision\r\nRods Low threshold\r\nSensitive to\r\nlow- intensity\r\nlight\r\nNight vision\r\nLow acuity\r\nNot present\r\non fovea\r\nAdapt late No\r\nCones High threshold\r\nSensitive to\r\nhigh- intensity\r\nlight\r\nDay vision\r\nHigh acuity\r\nPresent on fovea\r\nAdapt early Yes\r\n6",
+        "image": "images/va-006.jpg"
+      },
+      {
+        "page": 7,
+        "text": "Photoreception in the \r\nRod Cell\r\n7",
+        "image": "images/va-007.jpg"
+      },
+      {
+        "page": 8,
+        "text": "Photoreception\r\n• Both rhodopsin and opsin are essential proteins involved in the \r\nphototransduction process, but they serve different roles in vision.\r\n• Rhodopsin structure:\r\n– Visual pigment in rod cells of the retina\r\n– Composed of 11-cis-retinal (a light-sensitive chromophore derived from \r\nVitamin A) bound to opsin (a protein)\r\n– In the dark, rhodopsin is stable and has a purple color due to the \r\nspecific configuration of 11-cis-retinal\r\n8",
+        "image": "images/va-008.jpg"
+      },
+      {
+        "page": 9,
+        "text": "1. In darkness, the cyclic GMP levels of photoreceptors \r\nare high.\r\n2. This level of cGMP opens the cGMP ligand-gated Na+\r\nions channels.\r\n3. Inflow of Na+\r\nions through the channel in the \r\nphotoreceptor takes place called as “dark current”\r\nwhich partially depolarizes the photoreceptor \r\n.\r\n4. As a result, in darkness the membrane potential of a \r\nphotoreceptor is -30 mV which is much closer to -70 \r\nmV.\r\n5. This partial depolarization during darkness triggers the \r\nrelease of neurotransmitters at the synaptic \r\nterminals.\r\n6. The neurotransmitter is the amino acid glutamate or \r\nglutamic acid.\r\n7. This glutamate inhibits the bipolar cells that synapse \r\nwith rods.\r\n9\r\nREACTION OF PHOTORECEPTOR IN DARKNESS",
+        "image": "images/va-009.jpg"
+      },
+      {
+        "page": 10,
+        "text": "1. When light strikes on the retina the cis-retinal undergoes \r\nisomerization to trans-retinal, enzyme transduction get \r\nactivated which activates phosphodiesterase which \r\nbreaks down the cyclic GMP and leads to decrease in \r\ncyclic GMP levels which in turn is responsible for \r\nclosing of cGMP-gated Na+ and Ca2+ channels.\r\n2. So, inflows of Na+ and Ca2+ ions in the photoreceptor \r\nget decreases.\r\n3. The membrane potential becomes more negative -70 \r\nmV (hyperpolarizing receptor potential).\r\n4. Decreases the release of neurotransmitter glutamate.\r\n5. Thus, light excites bipolar cells that synapse with rods \r\nby turning off the release of inhibition of \r\nneurotransmitter.\r\n6. The excited bipolar cells subsequently stimulate the \r\nganglion cells to form action potentials in their axons.\r\n10\r\n-70 mV\r\nREACTION OF PHOTORECEPTOR IN LIGHT\r\nGlutamate\r\n(also Ca2+)",
+        "image": "images/va-010.jpg"
+      },
+      {
+        "page": 11,
+        "text": "• Phototransduction in retinal rod cells in response to light is triggered by \r\ncapture of photon by opsin (rhodopsin absorbs a photon) → changing \r\nopsin conformation.\r\n• Metarhodopsin II (represents activated rhodopsin after phosphorylation by \r\nrhodopsin kinase).\r\n• Activated rhodopsin (= metarhodopsin II) binds to the G protein transducin. \r\n• Transducin dissociates and activates a cGMP phosphodiesterase → \r\nhydrolyses cGMP to 5’-GMP → ↑ breakdown of cGMP → ↓ cGMP levels → \r\nclosing cGMP-gated Na+\r\n/Ca2+ channels (↓ Na+ and Ca2+ influx) → reversing \r\nthe depolarization → enhancing light-induced hyperpolarization \r\n(hyperpolarizing photoreceptor membrane potential to ~ –70 mV).\r\n11\r\nFIG. 3.16. Steps in photoreception. When light impinges on the retina, the\r\nphotoreceptors are hyperpolarized. In turn, the photoreceptors decrease their\r\nrelease of glutamate, leading to either hyperpolarization or depolarization of bipolar\r\nor horizontal cells (i.e., decreased excitation). Circled numbers correlate with steps\r\ndescribed in the text. Cyclic GMP, Cyclic guanosine monophosphate; GMP,\r\nguanosine monophosphate. Note: Metarhodopsin II is the light-excited form of\r\nrhodopsin that triggers G protein function.\r\n~ –70 mV\r\nARRISTIN BINDS HERE \r\nAfter rhodopsin kinase phosphorylates and \r\nactivates rhodopsin. \r\nPrevents further transducin activation.\r\nIsomerization",
+        "image": "images/va-011.jpg"
+      },
+      {
+        "page": 12,
+        "text": "Vision in the Presence of Darkness and Light\r\n• Neurotransmitter glutamate is continuously released\r\n– Because membrane is partially depolarized in the dark\r\n– Glutamate inhibits the optic nerve bipolar cells with which the rod cells \r\nsynapse\r\n• Light hyperpolarizes the rod cell membrane → stops release of \r\nglutamate\r\n– Relieves inhibition of optic nerve bipolar cell\r\n– Initiates signal into brain\r\n• The rod cell return to its normal state quickly when activated rhodopsin \r\nis inactivated, and a protein called arrestin subsequently binds it.\r\n12",
+        "image": "images/va-012.jpg"
+      },
+      {
+        "page": 13,
+        "text": "Clinical Correlation: Vitamin A Deficiency \r\nand Night Blindness\r\n• Definition:\r\n– Night blindness (nyctalopia) occurs with severe vitamin A deficiency\r\n– Due to inadequate formation of retinal and rhodopsin in photoreceptor cells\r\n• Pathophysiology:\r\n• Vitamin A → retinal → rhodopsin (light-sensitive pigment in rods)\r\n– Deficiency → ↓ rhodopsin synthesis → impaired rod function\r\n– In low-light conditions, rods cannot generate sufficient visual signals\r\n• Clinical Manifestation:\r\n– Poor vision in dim light or at night\r\n– Vision may be normal in bright daylight (cones unaffected initially)\r\n13",
+        "image": "images/va-013.jpg"
+      },
+      {
+        "page": 14,
+        "text": "Clinical Correlation: Vitamin A Deficiency \r\nand Night Blindness, Cont.\r\n• Blind spots:\r\n– Spots or patches in the eye\r\n• Time Course:\r\n– Requires months of vitamin A deficiency to deplete liver stores\r\n– Liver normally contains large vitamin A reserves that supply the retina\r\n• Treatment and Reversal:\r\n– Rapid improvement possible with intravenous vitamin A\r\n– Rhodopsin synthesis restored within minutes to an hour after \r\nsupplementation\r\n14",
+        "image": "images/va-014.jpg"
+      },
+      {
+        "page": 15,
+        "text": "Clinical Correlation: Color Blindness\r\n• Color vision depends on cone photoreceptors \r\ncontaining photopsin with different wavelength \r\nsensitivities.\r\n• The common red-green color-vision deficiencies are \r\nusually X-linked abnormalities of cone opsin genes → \r\nimpairment of color discrimination.\r\n• Abnormal or absent cone opsin causes inherited color \r\nblindness = inherited color-vision deficiency.\r\n• Usually congenital, bilateral, and nonprogressive.\r\n• Visual acuity is usually normal.\r\n• NOTE: Rods mediate dim-light vision and DO NOT \r\ndistinguish color.\r\n15",
+        "image": "images/va-015.jpg"
+      },
+      {
+        "page": 16,
+        "text": "Visual Perception\r\n16",
+        "image": "images/va-016.jpg"
+      },
+      {
+        "page": 17,
+        "text": "Visual Perception\r\n• Definition:\r\n– Visual perception is the process by which the brain interprets \r\nand organizes visual information received from the eyes, \r\ntransforming light patterns into meaningful representations —\r\nsuch as objects, faces, motion, depth, and color.\r\n– In short: Vision ≠ perception — vision captures the image; \r\nperception gives it meaning.\r\n17",
+        "image": "images/va-017.jpg"
+      },
+      {
+        "page": 18,
+        "text": "• Both eyes view same image from slightly different angles.\r\n• Visual cortex fuses these slightly different images, resulting in a three￾dimensional image, which leads to depth perception.\r\n• Requires input from both eyes.\r\n18\r\nImage Illustrating Depth Perception.",
+        "image": "images/va-018.jpg"
+      },
+      {
+        "page": 19,
+        "text": "19\r\nImage Illustrating Loss of Depth Perception. In these examples: 1) Loss of an eye or\r\ndestruction of one optic nerve eliminates true depth perception entirely and peripheral vision on\r\ndamaged side is also affected. 2) Neural destruction occurring beyond optic chiasma → part or all\r\nof opposite half of the visual field is lost. 3) Stroke can affect left visual cortex, which leads to\r\nblindness in right half of visual field.",
+        "image": "images/va-019.jpg"
+      },
+      {
+        "page": 20,
+        "text": "Overview of \r\nHearing\r\n20",
+        "image": "images/va-020.jpg"
+      },
+      {
+        "page": 21,
+        "text": "Overview\r\n• Hearing depends on the conversion of mechanical \r\nsound waves → neural electrical signals within the \r\ncochlea, followed by transmission through the auditory \r\npathway to the primary auditory cortex for conscious \r\nperception and interpretation of sound.\r\n21",
+        "image": "images/va-021.jpg"
+      },
+      {
+        "page": 22,
+        "text": "The Ear Has Three Major Areas\r\n• The ear has three major areas:\r\n– External (outer) ear: hearing only\r\n– Middle ear (tympanic cavity): hearing only\r\n– Internal (inner) ear: hearing and equilibrium\r\n• Receptors for hearing and balance respond to separate \r\nstimuli and are activated independently\r\n22",
+        "image": "images/va-022.jpg"
+      },
+      {
+        "page": 23,
+        "text": "External and Middle Ear: \r\nSound Conduction\r\n23",
+        "image": "images/va-023.jpg"
+      },
+      {
+        "page": 24,
+        "text": "Inner Ear: Cochlear Structure\r\n24\r\nFigure 15.27b Anatomy of the cochlea.\r\n(Adopted from Marieb Anatomy and Physiology,\r\n13th Ed.).\r\n• Cavity of cochlea divided into three \r\nchambers:\r\n– Scala vestibule: abuts oval window, contains \r\nperilymph\r\n– Scala media (cochlear duct): contains \r\nendolymph – high K+\r\n– Scala tympani: terminates at round window; \r\ncontains perilymph - normal K+\r\n• The basilar membrane separates the \r\ncochlear duct from the scala tympani.\r\n• Reissner membrane separates the scala \r\nvestibular from the scala media\r\n• The Organ of Corti (on the basilar \r\nmembrane) is the sensory organ of hearing.\r\n↑ K+\r\nK+\r\nReissner membrane ",
+        "image": "images/va-024.jpg"
+      },
+      {
+        "page": 25,
+        "text": "Inner Ear: Cochlear Structure, Cont.\r\n• Spiral organ contains cochlear \r\nhair cells.\r\n• Hair cells are sandwiched \r\nbetween tectorial and basilar \r\nmembranes:\r\n– Transduce basilar-membrane \r\nmovement into neural signals\r\n– Their stereocilia project into \r\nendolymph within the scala media\r\n• The cochlear branch of nerve \r\nVIII runs from spiral organ to the \r\nbrain\r\n25\r\nFigure 15.27c Anatomy of the cochlea.\r\n(Adopted from Marieb Anatomy and Physiology,\r\n13th Ed.)",
+        "image": "images/va-025.jpg"
+      },
+      {
+        "page": 26,
+        "text": "Inner Ear: Cochlear Structure, Cont.\r\n• Supporting cells not named:\r\n– Outer pharyngeal, or Deiters \r\ncells: support outer hair cells. \r\n– Outer pillar cells: help form the \r\ntunnel of Corti and support the \r\norgan of Corti\r\n26\r\nFigure 15.27c Anatomy of the cochlea.\r\n(Adopted from Marieb Anatomy and Physiology,\r\n13th Ed.)",
+        "image": "images/va-026.jpg"
+      },
+      {
+        "page": 27,
+        "text": "Physiological Mechanism of \r\nAuditory Signal Transduction\r\n27",
+        "image": "images/va-027.jpg"
+      },
+      {
+        "page": 28,
+        "text": "Step 1: Mechanical Vibration\r\n• Sound waves → tympanic membrane → ossicles → stapes at oval window → pressure waves in \r\nperilymph (scala vestibuli).\r\n28\r\nFigure 15.30 Pathway of sound waves. (Adopted from Marieb Anatomy and Physiology, 13th Ed.)\r\n1. Sounds waves vibrate the tympanic \r\nmembrane.\r\n2. Auditory ossicles vibrate. Pressure is \r\namplified.\r\n3. Pressure waves crated by the stapes \r\npushing on the oval window move through \r\nthe fluid in the scala vestibuli.\r\n4a. Sounds with frequencies below the hearing \r\nrange travel through the helicotrema and do\r\nnot excite hair cells.\r\n4b. Sounds in the hearing range go through the \r\ncochlear duct, vibrating the basilar \r\nmembrane and defecting hairs on inner hair \r\ncells.",
+        "image": "images/va-028.jpg"
+      },
+      {
+        "page": 29,
+        "text": "Step 2: Basilar Membrane Motion\r\n• Perilymph pressure waves deform \r\nthe basilar membrane.\r\n• The basilar membrane acts as a \r\nfrequency analyzer:\r\n– Base (near oval window): narrow \r\nand stiff → responds best to high \r\nfrequencies (~20,000 Hz)\r\n– Apex: wide and flexible → responds \r\nbest to low frequencies (~20 Hz)\r\n– Tonotopic organization permits us \r\nwith the ability to discriminate \r\nbetween sounds with different \r\nfrequency.\r\n29\r\nFIG. 3.24 Frequency responses of the\r\nbasilar membrane.",
+        "image": "images/va-029.jpg"
+      },
+      {
+        "page": 30,
+        "text": "• Hair cells for higher frequency have \r\na smaller interval.\r\n• Hence, easier to distinguish \r\nbetween various high frequency \r\ntones in comparison to pin-pointing \r\nlow frequency\r\n• IMPORTANT: The basilar membrane \r\nis in contact with perilymph and is \r\ncritical to the ability to discriminate \r\nbetween sounds with different \r\nfrequencies.\r\n30\r\nFIG. 3.24 Frequency responses of the\r\nbasilar membrane.\r\n(High pitch) (Low pitch)\r\nStep 2: Basilar Membrane Motion, Cont.",
+        "image": "images/va-030.jpg"
+      },
+      {
+        "page": 31,
+        "text": "• Low-frequency sounds, such as \r\n20-100 Hz, CANNOT move the \r\nshort, stiff fibers at the base\r\n– These sounds continue to the longer, \r\nfloppier fibers at the apex, where \r\nthey vibrate the basilar membrane\r\n• Medium-frequency sounds, such \r\nas 800-1000 Hz, vibrate the \r\nbasilar membrane near its middle \r\n(center). \r\n• High-frequency sounds, such as \r\n10,000 Hz, vibrate the basilar \r\nmembrane near the short stiff \r\nfibers at its base. \r\n31\r\nFigure 15.31-3 Basilar membrane function. (Adopted\r\nfrom Marieb Anatomy and Physiology, 13th Ed.).",
+        "image": "images/va-031.jpg"
+      },
+      {
+        "page": 32,
+        "text": "Step 3: Hair Cell Activation\r\n• The Organ of Corti contains:\r\n– Inner hair cells: true sensory receptors \r\n(afferent)\r\n– Outer hair cells: amplify motion of \r\nbasilar membrane (efferent modulation)\r\n• The tectorial membrane overlies \r\nthe hair cells.\r\n• Basilar membrane movement \r\ncauses shearing between the \r\nbasilar and tectorial membranes, \r\nbending the stereocilia on hair \r\ncells.\r\n32\r\nFigure 15.27c Anatomy of the cochlea.\r\n(Adopted from Marieb Anatomy and Physiology,\r\n13th Ed.)",
+        "image": "images/va-032.jpg"
+      },
+      {
+        "page": 33,
+        "text": "Step 4: Mechanotransduction\r\n• The tallest stereocilium touches the \r\ntectorial membrane. \r\n• At rest, a few ion channels are open\r\nand the hair cell is slightly depolarized.\r\n33\r\nFigure 15.32 Pivoting of stereocilia\r\n(hairs) opens or closes mechanically\r\ngated ion channels in hair cells.\r\n(Adopted from Marieb Anatomy and\r\nPhysiology, 13th Ed.)",
+        "image": "images/va-033.jpg"
+      },
+      {
+        "page": 34,
+        "text": "Step 4: Mechanotransduction, Cont.\r\n• Stereocilia deflection toward the tallest cilium \r\nopens mechanically gated K⁺ channels at the \r\ntips.\r\n• K⁺ influx (from high - K⁺ endolymph) depolarizes\r\nthe hair cell.\r\n• Depolarization opens voltage-gated Ca²⁺\r\nchannels → glutamate release at the basal \r\nsynapse onto afferent fibers of the cochlear \r\n(spiral ganglion) neurons.\r\n• As a result, more action potentials occur in \r\ncochlear nerve.\r\n34\r\nFigure 15.32 Pivoting of stereocilia\r\n(hairs) opens or closes mechanically\r\ngated ion channels in hair cells.\r\n(Adopted from Marieb Anatomy and\r\nPhysiology, 13th Ed.)",
+        "image": "images/va-034.jpg"
+      },
+      {
+        "page": 35,
+        "text": "Step 4: Mechanotransduction, Cont.\r\n• Stereocilia deflection away closes\r\nchannels → hyperpolarization → \r\ndecreased neurotransmitter release \r\nin hair cells.\r\n• As a result, fewer action potentials \r\noccur in the cochlear nerve.\r\n35\r\nFigure 15.32 Pivoting of stereocilia\r\n(hairs) opens or closes mechanically\r\ngated ion channels in hair cells.\r\n(Adopted from Marieb Anatomy and\r\nPhysiology, 13th Ed.)",
+        "image": "images/va-035.jpg"
+      },
+      {
+        "page": 36,
+        "text": "Sound Waves\r\n• Sound waves travel through the external auditory canal \r\nand cause the tympanic membrane (eardrum) to vibrate.\r\n• Movement of the eardrum causes vibration of the \r\nossicles in the middle ear (i.e., the malleus, incus, and \r\nstapes).\r\n• Vibration of the ossicles are transferred through the oval \r\nwindow and into the inner ear.\r\n36",
+        "image": "images/va-036.jpg"
+      },
+      {
+        "page": 37,
+        "text": "37\r\n(by a shear force as the cilia push against the \r\ntectorial membrane)\r\n(Auditory hair cells)\r\n(Inner ear)\r\nFIG. 3.23 Steps in auditory transduction in hair cells. Circled numbers correspond to steps\r\ndescribed in the text.",
+        "image": "images/va-037.jpg"
+      },
+      {
+        "page": 38,
+        "text": "Auditory Neural \r\nPathway\r\n38",
+        "image": "images/va-038.jpg"
+      },
+      {
+        "page": 39,
+        "text": "Auditory Neural Pathway\r\n1. Cochlear Nerve (CN VIII – Auditory Division)\r\n– Spiral ganglion neurons form the cochlear nerve, \r\ncarrying frequency-coded information to the \r\nbrainstem\r\n2. Cochlear Nuclei (Medulla)\r\n– The first central synapse occurs in the dorsal and \r\nventral cochlear nuclei\r\n3. Superior Olivary Complex (Pons)\r\n– Receives bilateral input from both ears → critical for \r\nsound localization:\r\n• Medial superior olive: interaural time differences (low￾frequency sounds)\r\n• Lateral superior olive: interaural intensity differences \r\n(high-frequency sounds)\r\n39\r\nMedial \r\ngenicular \r\nnucleus\r\nFigure 15.33 The auditory pathway. (Adopted\r\nfrom Marieb Anatomy and Physiology, 13th Ed.)",
+        "image": "images/va-039.jpg"
+      },
+      {
+        "page": 40,
+        "text": "Auditory Neural Pathway, \r\nCont.\r\n4. Lateral Lemniscus (Midbrain)\r\n– Each lateral lemniscus carries information \r\nderived from both ears; however, input from \r\nthe contralateral ear predominates\r\n– Carries auditory input from the cochlear \r\nnuclei and the superior olivary nuclei to the \r\ninferior colliculus\r\n5. Inferior Colliculus (Midbrain)\r\n– Major integration center for auditory reflexes \r\n(e.g., orienting to sound)\r\n– Sends auditory information to the medial \r\ngeniculate nucleus (MGN) of the thalamus\r\n40\r\nMedial \r\ngenicular \r\nnucleus\r\nFigure 15.33 The auditory pathway. (Adopted\r\nfrom Marieb Anatomy and Physiology, 13th Ed.",
+        "image": "images/va-040.jpg"
+      },
+      {
+        "page": 41,
+        "text": "Auditory Neural Pathway, \r\nCont.\r\n6. Medial Geniculate Body (Thalamus)\r\n– Relays auditory information to the auditory cortex; \r\nfunctions as a thalamic “gateway” for auditory \r\nprocessing\r\n7. Primary Auditory Cortex (Temporal Lobe)\r\n– Located in the superior temporal gyrus (Brodmann \r\nareas 41 and 42, Heschl’s gyrus)\r\n– Tonotopic organization is preserved:\r\n• Posterior–medial: high frequencies\r\n• Anterior–lateral: low frequencies\r\n– Interprets sound pitch, intensity, and pattern;\r\nassociation areas integrate with language centers \r\n(Wernicke’s area)\r\n41\r\nMedial \r\ngenicular \r\nnucleus\r\nFigure 15.33 The auditory pathway. (Adopted\r\nfrom Marieb Anatomy and Physiology, 13th Ed.).",
+        "image": "images/va-041.jpg"
+      },
+      {
+        "page": 42,
+        "text": "• Lesions of the cochlear part of CN VIII or \r\ncochlear nuclei inside the brain stem at the \r\npontomedullary junction result in a profound \r\nunilateral lesion produce ipsilateral \r\ndeafness, usually the sensorineural type (A). \r\n– Auditory information from each cochlea enters the \r\nipsilateral cochlear nuclei before projecting \r\nbilaterally through the superior olivary complex \r\nand higher auditory pathways\r\n– Consequently, a lesion at or before the cochlear \r\nnuclei can cause marked ipsilateral hearing loss\r\n– Whereas, unilateral lesions above this level \r\nrarely cause complete unilateral deafness\r\n42\r\nMedial \r\ngenicular \r\nnucleus\r\nClinical Correlate: Lesions \r\nCausing Hearing Loss",
+        "image": "images/va-042.jpg"
+      },
+      {
+        "page": 43,
+        "text": "• All other lesions to auditory structures \r\nin the:\r\n– Brain stem (e.g., inferior colliculus and \r\nlateral lemniscus)\r\n– Thalamus (e.g., geniculate body)\r\n– Auditory cortex\r\n• receives bilateral input and therefore \r\nresult in a bilateral suppression of \r\nhearing and a decreased ability to \r\nlocalize a sound source (B). \r\n43\r\nMedial \r\ngenicular \r\nnucleus\r\nClinical Correlate: Lesions \r\nCausing Hearing Loss, Cont.",
+        "image": "images/va-043.jpg"
+      },
+      {
+        "page": 44,
+        "text": "Clinical Correlate: Lesions \r\nCausing Hearing Loss, Cont. • If a patient presents with a \r\nsignificant hearing loss in one \r\near, the lesion is most likely in the \r\nmiddle ear, inner ear, CN VIII, or \r\ncochlear nuclei, and NOT at higher \r\nlevels of the auditory system.\r\n• Again, lesion of the cochlear of \r\none ear, CN VIII, or cochlear \r\nnuclei will cause unilateral\r\ndeafness\r\n.\r\n44\r\nMedial \r\ngenicular \r\nnucleus",
+        "image": "images/va-044.jpg"
+      },
+      {
+        "page": 45,
+        "text": "TABLE 2. Clinical Correlations\r\n45\r\nLesion Site Resulting Deficit\r\nOuter/middle ear Conductive hearing loss\r\nHair cells or CN VIII Sensorineural hearing loss\r\nUnilateral cochlear nucleus or auditory \r\nnerve\r\nIpsilateral deafness\r\nLesion above cochlear nuclei (e.g., \r\ncortex)\r\nBilateral hearing maintained (due to \r\nbilateral projections), but impaired \r\nsound localization and discrimination\r\nSound wave → Tympanic membrane → Ossicles → Oval window → Cochlea → Hair cell depolarization \r\n→ CN VIII → Cochlear nuclei → Superior olive → Lateral lemniscus → Inferior colliculus → Medial \r\ngeniculate body → Auditory cortex.",
+        "image": "images/va-045.jpg"
+      },
+      {
+        "page": 46,
+        "text": "The End!\r\n46\r\nThe End !",
+        "image": "images/va-046.jpg"
+      },
+      {
+        "page": 47,
+        "text": "Questions?\r\n47\r\nQuestions !",
+        "image": "images/va-047.jpg"
+      },
+      {
+        "page": 48,
+        "text": "Questions?\r\n48\r\nThank You !",
+        "image": "images/va-048.jpg"
+      }
+    ]
+  }
+]
