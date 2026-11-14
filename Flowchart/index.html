@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#252c32">
+  <title>PRISMA Flowchart · Theouris</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23252c32'/%3E%3Cpath d='M12 10h16v7H12zM12 25h16v7H12zM20 17v8' fill='none' stroke='%23ffc000' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="app-header">
+    <a class="app-brand" href="./" aria-label="PRISMA Flowchart home">
+      <span class="brand-symbol" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M7 3h18v8H7zM7 21h18v8H7zM16 11v10M12 17l4 4 4-4"/></svg></span>
+      <span>PRISMA <strong>Flowchart</strong><small></small></span>
+    </a>
+    <div class="header-description"></div>
+    <span id="save-status" class="save-status" role="status"><span></span></span>
+  </header>
+
+  <main class="workspace">
+    <aside class="editor" aria-label="Flowchart parameters">
+      <div class="editor-intro">
+        <div class="review-toggle" role="tablist" aria-label="Review type">
+          <button type="button" role="tab" id="tab-systematic" aria-selected="true" aria-controls="review-panel" data-mode="systematic">Systematic</button>
+          <button type="button" role="tab" id="tab-scoping" aria-selected="false" aria-controls="review-panel" tabindex="-1" data-mode="scoping">Scoping</button>
+          <button type="button" role="tab" id="tab-narrative" aria-selected="false" aria-controls="review-panel" tabindex="-1" data-mode="narrative">Narrative</button>
+        </div>
+        <p id="mode-note" class="mode-note"></p>
+        <div class="project-actions">
+          <button type="button" id="save-project" class="text-button" title="Download all three review drafts as a JSON project" aria-describedby="project-help">↓ Save project</button>
+          <button type="button" id="open-project" class="text-button" aria-describedby="project-help">↑ Open project</button>
+          <button type="button" id="reset-project" class="text-button reset-button">Reset</button>
+          <input type="file" id="project-file" accept=".json,application/json" hidden>
+        </div>
+        <p id="project-help" class="project-help">Save your work as a JSON file, then upload it with Open project to continue editing.</p>
+      </div>
+      <div id="review-panel" role="tabpanel" aria-labelledby="tab-systematic">
+        <div class="editor-help"><span class="auto-example">AUTO</span><span>Calculated counts stay editable. Use <b>Auto</b> to restore a calculation. Blank deductions count as zero.</span></div>
+        <div id="parameters"></div>
+      </div>
+      <section class="export-section" aria-labelledby="export-heading">
+        <div class="section-title"><span class="section-number">↗</span><h2 id="export-heading">Export your flowchart</h2></div>
+        <label class="field-label" for="filename">File name</label>
+        <input id="filename" type="text" value="prisma-flowchart" maxlength="100" autocomplete="off">
+        <div class="export-formats" role="group" aria-label="Export format">
+          <button type="button" data-format="png" aria-pressed="true"><b>PNG</b><span>Image</span></button>
+          <button type="button" data-format="svg" aria-pressed="false"><b>SVG</b><span>Vector</span></button>
+          <button type="button" data-format="pdf" aria-pressed="false"><b>PDF</b><span>Document</span></button>
+        </div>
+        <div class="export-dimensions">
+          <label>Width <span>px</span><input id="export-width" type="number" min="100" max="12000" step="1" value="2400" required></label>
+          <span class="dimension-link" title="Aspect ratio is preserved" aria-label="Aspect ratio locked">×</span>
+          <label>Height <span>px</span><input id="export-height" type="number" min="100" max="12000" step="1" required></label>
+          <label>DPI<input id="export-dpi" type="number" min="36" max="1200" step="1" value="300" list="dpi-options" required></label>
+          <datalist id="dpi-options"><option value="72"><option value="96"><option value="150"><option value="300"><option value="600"></datalist>
+        </div>
+        <p id="export-info" class="field-hint"></p>
+        <button id="export-button" type="button" class="primary-button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 15v5h16v-5"/></svg><span>Download PNG</span></button>
+        <p id="export-error" class="error-text" role="alert"></p>
+        <p class="privacy-note"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 7V4a4 4 0 0 1 8 0v3M2 7h12v8H2z"/></svg> Your work stays in your browser.</p>
+      </section>
+      <details class="references">
+        <summary>About these templates &amp; sources <span>↗</span></summary>
+        <a href="https://www.prisma-statement.org/prisma-2020-flow-diagram" target="_blank" rel="noreferrer">PRISMA 2020 flow diagrams ↗</a>
+        <a href="https://www.prisma-statement.org/scoping" target="_blank" rel="noreferrer">PRISMA-ScR checklist &amp; explanation ↗</a>
+        <a href="https://doi.org/10.1186/s41073-019-0064-8" target="_blank" rel="noreferrer">SANRA · Baethge et al., 2019 ↗</a>
+        <a href="PRISMA_2020_flow_diagram_new_SRs_v2.docx" download>Download the supplied Word reference ↓</a>
+      </details>
+    </aside>
+
+    <section class="preview" aria-label="Live flowchart preview">
+      <div class="preview-toolbar">
+        <div class="preview-label"><span class="live-dot"></span><span id="preview-template"></span></div>
+        <div class="zoom-controls" role="group" aria-label="Preview zoom">
+          <button id="zoom-out" type="button" aria-label="Zoom out" title="Zoom out">−</button>
+          <output id="zoom-label" aria-live="polite">100%</output>
+          <button id="zoom-in" type="button" aria-label="Zoom in" title="Zoom in">+</button>
+          <span class="toolbar-divider"></span>
+          <button id="zoom-fit" type="button" class="fit-button" title="Fit entire flowchart">Fit</button>
+        </div>
+      </div>
+      <div id="preview-viewport" class="preview-viewport" tabindex="0" aria-label="Flowchart canvas. Scroll to pan. Control or Command and scroll to zoom.">
+        <div id="chart-stage" class="chart-stage"><div id="chart-paper" class="chart-paper"></div></div>
+      </div>
+      <div class="preview-footer"><span id="canvas-size"></span><span>Scroll to pan <span class="footer-dot">·</span> Ctrl / ⌘ + scroll to zoom</span><div class="history-controls"><button type="button" id="undo" title="Undo last edit" aria-label="Undo last edit">↶</button><button type="button" id="redo" title="Redo last edit" aria-label="Redo last edit">↷</button></div></div>
+      <details id="validation" class="validation" hidden><summary id="validation-summary"></summary><ul id="validation-list"></ul></details>
+    </section>
+  </main>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <dialog id="reset-dialog"><form method="dialog"><h2>Reset this review?</h2><p>This restores the original wording and clears counts for the current review type. Your other review drafts are kept.</p><div class="dialog-actions"><button value="cancel" class="secondary-button">Keep editing</button><button value="reset" class="primary-button">Reset review</button></div></form></dialog>
+</body>
+</html>
