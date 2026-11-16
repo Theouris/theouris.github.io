@@ -13,6 +13,21 @@ const measure = (text,size) => { measureContext.font = `${size}px Arial`; return
 const current = () => project.reviews[project.activeMode];
 const clone = value => JSON.parse(JSON.stringify(value));
 const escaped = escapeXML;
+const AUTO_HELP = 'Calculated counts stay editable. Use Auto to restore a calculation. Blank deductions count as zero.';
+let tooltipTarget, tooltipTimer;
+
+function hideTooltip() {
+  clearTimeout(tooltipTimer); $('help-tooltip').hidden = true; tooltipTarget = null;
+}
+function showTooltip(target) {
+  const description = $(target.dataset.tooltip); if (!description) return;
+  clearTimeout(tooltipTimer); tooltipTarget = target;
+  const tooltip = $('help-tooltip'); tooltip.textContent = description.textContent; tooltip.hidden = false;
+  const anchor = target.getBoundingClientRect(), box = tooltip.getBoundingClientRect();
+  const left = Math.max(12, Math.min(anchor.right - box.width, window.innerWidth - box.width - 12));
+  const top = anchor.bottom + box.height + 8 <= window.innerHeight - 12 ? anchor.bottom + 8 : anchor.top - box.height - 8;
+  tooltip.style.left = `${left}px`; tooltip.style.top = `${Math.max(12, top)}px`;
+}
 
 try { const saved = localStorage.getItem(STORAGE_KEY); if (saved) project = parseProject(saved); }
 catch { localStorageAvailable = false; }
@@ -44,22 +59,23 @@ function card(id) {
   const rows = box.keys.map((key,index)=>{
     const auto = CALCULATED_KEYS.includes(key), isAuto = auto && !(key in review.values), value = result.values[key] ?? '';
     const label = escaped(countLabel(review.texts[id],index));
-    return `<div class="count-row"><label class="count-label" for="count-${key}" data-count-label="${key}" data-box="${id}" data-index="${index}">${label}</label><input id="count-${key}" class="count-input${isAuto?' is-auto':''}" data-count="${key}" type="number" min="0" max="${MAX_COUNT}" step="1" inputmode="numeric" value="${value}" placeholder="${auto?'—':'0'}" aria-label="${label} count"${auto?' aria-describedby="auto-help-'+key+'"':''}>${auto?`<button type="button" class="auto-toggle" data-auto="${key}" aria-pressed="${isAuto}" title="${isAuto?'Calculated automatically. Type a value to override.':'Restore the upstream calculation'}">${isAuto?'Auto':'Manual'}</button><span class="sr-only" id="auto-help-${key}">Calculated automatically unless you enter an override. Use Auto to restore the calculation.</span>`:''}${box.add&&box.keys.length>1?`<button type="button" class="remove-reason" data-remove="${id}" data-index="${index}" aria-label="Remove ${label}" title="Remove this ${box.add}">×</button>`:''}</div>`;
+    return `<div class="count-row"><label class="count-label" for="count-${key}" data-count-label="${key}" data-box="${id}" data-index="${index}">${label}</label><input id="count-${key}" class="count-input${isAuto?' is-auto':''}" data-count="${key}" type="number" min="0" max="${MAX_COUNT}" step="1" inputmode="numeric" value="${value}" placeholder="${auto?'—':'0'}" aria-label="${label} count"${auto?' aria-describedby="auto-help-'+key+'"':''}>${auto?`<button type="button" class="auto-toggle" data-auto="${key}" aria-pressed="${isAuto}" aria-describedby="auto-help-${key}" data-tooltip="auto-help-${key}">${isAuto?'Auto':'Manual'}</button><span class="sr-only" id="auto-help-${key}">${AUTO_HELP}</span>`:''}${box.add&&box.keys.length>1?`<button type="button" class="remove-reason" data-remove="${id}" data-index="${index}" aria-label="Remove ${label}" title="Remove this ${box.add}">×</button>`:''}</div>`;
   }).join('');
   return `<div class="parameter-card" data-card="${id}"><h3 class="card-title">${escaped(box.title)}</h3>${rows}${box.add?`<button type="button" class="add-reason" data-add="${id}">+ Add ${box.add}</button>`:''}${id==='included'&&review.mode==='systematic'?'<p class="field-hint">Enter unique studies separately: multiple reports may describe one study. The report total is calculated from both routes.</p>':''}${editWording(id)}</div>`;
 }
-function section(id,number,title,content,open=true) {
-  return `<details class="parameter-section" data-section="${id}"${open?' open':''}><summary><span class="section-number">${number}</span><h2>${title}</h2><span class="summary-chevron" aria-hidden="true">⌄</span></summary><div class="section-body">${content}</div></details>`;
+function section(id,number,title,content,open=false) {
+  return `<details class="parameter-section" data-section="${id}"${open?' open':''}><summary><span class="section-number">${number}</span><h2${id==='labels'?'':' class="phase-heading"'}>${title}</h2><span class="summary-chevron" aria-hidden="true">⌄</span></summary><div class="section-body">${content}</div></details>`;
 }
 function textControl(id,label,rows=2) {
   return `<label class="standalone-text">${label}<textarea data-text="${id}" maxlength="12000" rows="${rows}">${escaped(current().texts[id])}</textarea></label>`;
 }
 function renderSidebar() {
+  hideTooltip();
   const previousOpen = new Map([...$('parameters').querySelectorAll('[data-section]')].map(el=>[el.dataset.section,el.open]));
   const review = current(), mode=project.activeMode;
   for (const button of document.querySelectorAll('[data-mode]')) { const active=button.dataset.mode===mode; button.setAttribute('aria-selected',String(active));button.tabIndex=active?0:-1; }
   $('review-panel').setAttribute('aria-labelledby',`tab-${mode}`);
-  $('mode-note').textContent=MODE_INFO[mode].note; $('preview-template').textContent=MODE_INFO[mode].short;
+  $('mode-note').textContent=MODE_INFO[mode].note || ''; $('preview-template').textContent=MODE_INFO[mode].short;
   let identification = mode!=='narrative'?`<label class="toggle-row"><input id="show-other" type="checkbox"${review.showOther?' checked':''}> Include the other-methods identification route</label>`:'';
   identification += `<div class="route-heading">${mode==='narrative'?'Literature search':'Databases & registers'}</div>${card('dbSources')}${card('removed')}`;
   if(review.showOther)identification+=`<div class="route-heading other-route">Other methods</div>${card('otherSources')}`;
@@ -82,7 +98,6 @@ function renderPreview() {
   }
   for(const button of document.querySelectorAll('[data-auto]')) {
     const auto=!(button.dataset.auto in review.values);button.setAttribute('aria-pressed',String(auto));button.textContent=auto?'Auto':'Manual';
-    button.title=auto?'Calculated automatically. Type a value to override.':'Restore the upstream calculation';
   }
   for(const label of document.querySelectorAll('[data-count-label]')) { const text=countLabel(review.texts[label.dataset.box],Number(label.dataset.index));label.textContent=text;$(label.htmlFor).setAttribute('aria-label',`${text} count`); }
   const notices=validate(review,result);$('validation').hidden=!notices.length;
@@ -91,6 +106,17 @@ function renderPreview() {
   $('undo').disabled=!undoStack.length;$('redo').disabled=!redoStack.length;resizePaper();updateDimensions();
 }
 function changed(rebuild=false) { if(rebuild)renderSidebar();renderPreview();persist(); }
+document.addEventListener('pointerover',event=>{ const target=event.target.closest('[data-tooltip]'); if(target)showTooltip(target); });
+document.addEventListener('pointerout',event=>{
+  if(tooltipTarget?.contains(event.target)&&!tooltipTarget.contains(event.relatedTarget))tooltipTimer=setTimeout(hideTooltip,150);
+});
+document.addEventListener('focusin',event=>{ const target=event.target.closest('[data-tooltip]'); if(target)showTooltip(target); });
+document.addEventListener('focusout',event=>{ if(tooltipTarget?.contains(event.target))hideTooltip(); });
+$('help-tooltip').addEventListener('pointerenter',()=>clearTimeout(tooltipTimer));
+$('help-tooltip').addEventListener('pointerleave',hideTooltip);
+document.addEventListener('keydown',event=>{ if(event.key==='Escape')hideTooltip(); });
+document.addEventListener('scroll',hideTooltip,true);
+window.addEventListener('resize',hideTooltip);
 function resizePaper() {
   if(!scene)return;
   const viewport=$('preview-viewport'),padding=window.innerWidth<=760?20:38;
