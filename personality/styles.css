@@ -1,0 +1,469 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #1b2232;
+  background: #f8f8f5;
+  --muted: #505565;
+  --rule: #dedfd9;
+  --serif: Georgia, "Times New Roman", serif;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, p, dl, dd {
+  margin: 0;
+}
+
+.page {
+  width: min(100% - 4rem, 75rem);
+  margin-inline: auto;
+}
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+  padding-block: 1.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.subject, .cluster-label {
+  font-size: 0.875rem;
+  font-weight: 750;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.duration {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.clock {
+  position: relative;
+  width: 0.95rem;
+  height: 0.95rem;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+}
+
+.clock::after {
+  position: absolute;
+  top: 0.18rem;
+  left: 0.38rem;
+  width: 0.22rem;
+  height: 0.28rem;
+  border-bottom: 1px solid currentColor;
+  border-left: 1px solid currentColor;
+  content: "";
+}
+
+.intro {
+  padding-block: clamp(2.25rem, 4vw, 3.5rem) 1.65rem;
+}
+
+.intro h1 {
+  font-family: var(--serif);
+  font-size: clamp(3rem, 7vw, 5.5rem);
+  font-weight: 400;
+  letter-spacing: -0.065em;
+  line-height: 0.99;
+  text-wrap: balance;
+}
+
+.intro p {
+  max-width: 40rem;
+  margin-top: 1.15rem;
+  color: var(--muted);
+  font-size: clamp(1rem, 1.7vw, 1.125rem);
+  line-height: 1.55;
+}
+
+.interaction-hint {
+  margin-bottom: 0.85rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: 1rem;
+}
+
+.cluster {
+  min-width: 0;
+  perspective: 100rem;
+}
+
+.cluster-a {
+  --cover: #eeebfb;
+  --paper: #f9f7ff;
+  --accent: #503481;
+  --line: #d7cdeb;
+  --dot: #ab97d1;
+  --glow: #dcd0f6;
+  --art-ink: #8566b2;
+}
+
+.cluster-b {
+  --cover: #fae9e6;
+  --paper: #fff7f5;
+  --accent: #8b392d;
+  --line: #edcec6;
+  --dot: #d99b8d;
+  --glow: #f6d0c6;
+  --art-ink: #be7563;
+}
+
+.cluster-c {
+  --cover: #e6f1e9;
+  --paper: #f4faf5;
+  --accent: #285c46;
+  --line: #c9dfd0;
+  --dot: #8ab29b;
+  --glow: #cce8d7;
+  --art-ink: #689781;
+}
+
+.card-face {
+  display: flex;
+  flex-direction: column;
+  padding: clamp(1rem, 2vw, 1.55rem);
+  border: 1px solid var(--line);
+  border-radius: 1.5rem;
+  overflow-wrap: anywhere;
+}
+
+.card-front,
+.flip-button,
+.interaction-hint {
+  display: none;
+}
+
+.flip-ready .card {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 500ms cubic-bezier(0.32, 0.72, 0.28, 1);
+}
+
+.flip-ready .card.is-flipped,
+.flip-ready .card-back {
+  transform: rotateY(180deg);
+}
+
+.flip-ready .card-face {
+  min-height: 28rem;
+  backface-visibility: hidden;
+}
+
+.flip-ready .card-face[inert] {
+  position: absolute;
+  inset: 0;
+  overflow: clip;
+  pointer-events: none;
+}
+
+.flip-ready .card-front {
+  position: relative;
+  display: flex;
+  background: var(--cover);
+}
+
+.flip-ready .interaction-hint {
+  display: block;
+}
+
+.cluster-label {
+  color: var(--accent);
+}
+
+.card-art {
+  position: relative;
+  display: grid;
+  flex: 1;
+  min-height: 13rem;
+  place-items: center;
+  margin-block: 1.15rem 1.3rem;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background-image: radial-gradient(ellipse at center, var(--glow), transparent 72%), radial-gradient(var(--dot) 0.75px, transparent 0.95px);
+  background-size: 100% 100%, 0.8rem 0.8rem;
+  background-position: center;
+  color: var(--accent);
+}
+
+.motif,
+.motif::before,
+.motif::after {
+  position: absolute;
+  border: 1px solid var(--art-ink);
+}
+
+.motif::before,
+.motif::after {
+  content: "";
+}
+
+.cluster-a .motif,
+.cluster-a .motif::before,
+.cluster-a .motif::after {
+  width: min(66%, 13rem);
+  height: 6.3rem;
+  border-radius: 50%;
+}
+
+.cluster-a .motif::before,
+.cluster-a .motif::after {
+  inset: -1px;
+  width: auto;
+  height: auto;
+}
+
+.cluster-a .motif::before {
+  transform: rotate(60deg);
+}
+
+.cluster-a .motif::after {
+  transform: rotate(-60deg);
+}
+
+.cluster-b .motif {
+  width: 7.4rem;
+  height: 7.4rem;
+  border-radius: 20%;
+  transform: rotate(45deg);
+}
+
+.cluster-b .motif::before,
+.cluster-b .motif::after {
+  border-radius: inherit;
+}
+
+.cluster-b .motif::before {
+  inset: -0.8rem;
+}
+
+.cluster-b .motif::after {
+  inset: 0.75rem;
+}
+
+.cluster-c .motif,
+.cluster-c .motif::before,
+.cluster-c .motif::after {
+  border-radius: 50% 50% 12% 12% / 72% 72% 12% 12%;
+}
+
+.cluster-c .motif {
+  width: min(66%, 12rem);
+  height: 10.25rem;
+}
+
+.cluster-c .motif::before {
+  inset: 0.65rem;
+}
+
+.cluster-c .motif::after {
+  inset: 1.35rem;
+}
+
+.monogram {
+  position: relative;
+  font-family: var(--serif);
+  font-size: clamp(5.2rem, 9vw, 8rem);
+  line-height: 1;
+  text-shadow: 0 0 1.2rem var(--glow), 0 0 0.45rem var(--glow);
+}
+
+.card-face h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.7rem, 2.8vw, 2.5rem);
+  font-weight: 400;
+  letter-spacing: -0.045em;
+  line-height: 1.08;
+}
+
+.card-back {
+  background: var(--paper);
+}
+
+.card-back h2 {
+  margin-top: 0.45rem;
+  font-size: clamp(1.7rem, 2.5vw, 2.15rem);
+}
+
+.overview {
+  margin-block: 0.6rem 0.85rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.disorders {
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--line);
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.disorders dt {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.disorders dd {
+  margin-top: 0.2rem;
+}
+
+.disorders dd + dt {
+  margin-top: 0.65rem;
+}
+
+.card-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: auto;
+  padding-top: 1rem;
+  color: var(--accent);
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.card-front .card-footer {
+  margin-top: 1.15rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--line);
+}
+
+.flip-ready .flip-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  padding: 0.35rem 0.2rem 0.35rem 0.45rem;
+  border: 0;
+  border-radius: 0.35rem;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+
+.flip-button span {
+  display: grid;
+  width: 1.65rem;
+  height: 1.65rem;
+  place-items: center;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.reveal::after {
+  position: absolute;
+  inset: 0;
+  border-radius: 1.5rem;
+  content: "";
+}
+
+.flip-button:hover span {
+  background: var(--accent);
+  color: var(--paper);
+}
+
+:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+.reveal:focus-visible::after {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
+
+.page-footer {
+  margin-block: 1.5rem 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.references summary {
+  width: fit-content;
+  min-height: 1.5rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.references ul {
+  padding-left: 1.1rem;
+  line-height: 1.65;
+}
+
+.references a {
+  color: inherit;
+  text-underline-offset: 0.15em;
+}
+
+@media (max-width: 61rem) {
+  .page {
+    width: min(100% - 3rem, 37rem);
+  }
+
+  .cards {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .flip-ready .card-face {
+    min-height: 25rem;
+  }
+}
+
+@media (max-width: 30rem) {
+  .page {
+    width: calc(100% - 2rem);
+  }
+
+  .masthead {
+    padding-block: 1rem;
+  }
+
+  .intro h1 {
+    text-wrap: wrap;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flip-ready .card {
+    transition: none;
+  }
+
+  .flip-ready .card.is-flipped,
+  .flip-ready .card-back {
+    transform: none;
+  }
+
+  .flip-ready .card-face[inert] {
+    visibility: hidden;
+  }
+}
